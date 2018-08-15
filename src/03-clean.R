@@ -1,12 +1,12 @@
 
 # setup -------------------------------------------------------------------
 
-# scrape
+# scrape/tidy
 source("./src/02-tidy.R")
 
 # load pkgs
 library(tidyr)
-
+library(forcats)
 
 # clean -------------------------------------------------------------------
 
@@ -25,6 +25,9 @@ transfers <- mutate(transfers, fee_cleaned = case_when(
   fee == "Free Transfer" ~ 0,
   fee == "-" ~ 0
 ))
+
+# make club an ordered factor
+transfers$club <- as_factor(transfers$club)
 
 # create summary fee table
 transfer_summary <- transfers %>% 
