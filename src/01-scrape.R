@@ -33,4 +33,4 @@ transfers <- transfers_html %>%
 cond <- sapply(transfers, function(x) length(x) == 9)
 transfers <- transfers[cond]
 
-rm(cond, transfers_url, league_name, league_id, season_id)
+rm(cond, transfers_url, league_id)

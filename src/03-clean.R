@@ -7,6 +7,9 @@ source("./src/02-tidy.R")
 # load pkgs
 library(tidyr)
 library(forcats)
+library(readr)
+library(stringr)
+
 
 # clean -------------------------------------------------------------------
 
@@ -34,3 +37,6 @@ transfer_summary <- transfers %>%
   group_by(club) %>% 
   summarise(spend_m = sum(fee_cleaned[transfer_movement == "in"], na.rm = TRUE),
             sales_m = sum(fee_cleaned[transfer_movement == "out"], na.rm = TRUE))
+
+
+write_csv(transfers, path = paste0("./data/", league_name, "-transfers-", season_id, ".csv"))
