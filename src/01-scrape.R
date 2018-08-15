@@ -3,8 +3,6 @@
 
 library(rvest)
 library(dplyr)
-library(stringr)
-library(purrr)
 
 # set parameters
 league_name = "premier-league"
@@ -34,3 +32,5 @@ transfers <- transfers_html %>%
 # return elements with expected transfer table form
 cond <- sapply(transfers, function(x) length(x) == 9)
 transfers <- transfers[cond]
+
+rm(cond, transfers_url, league_name, league_id, season_id)
