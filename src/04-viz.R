@@ -24,5 +24,5 @@ epl_transfers_plot <- ggplot(data = transfer_summary,
   theme(plot.margin = unit(c(0.35, 0.2, 0.3, 0.35), "cm"))
 
 ggsave(plot = epl_transfers_plot, 
-       filename = paste0(league_name, "-transfer-spend-", season_id),
+       filename = paste0(league_name, "-transfer-spend-", season_id, ".svg"),
        path = "./figures", device = "svg")
