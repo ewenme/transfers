@@ -8,36 +8,47 @@ source("./scr/01-scrape.R")
 library(purrr)
 library(janitor)
 
+clubs_tidy <- rep(clubs, each=2)
+
 
 # tidy --------------------------------------------------------------------
 
-map(transfers, function(x) {
+transfers <- map_dfr(seq_along(transfers), function(x) {
+  
+  data <- transfers[[x]]
   
   # clean column names
-  x <- clean_names(x)
+  data <- clean_names(data)
   
   # mark transfer type
-  x <- mutate(x, transfer_type = case_when(
-    colnames(x[1]) == "in" ~ "Buy",
-    colnames(x[1]) == "out" ~ "Sale")
+  data <- mutate(data, transfer_type = case_when(
+    colnames(data[1]) == "in" ~ "Buy",
+    colnames(data[1]) == "out" ~ "Sale")
     ) 
   
   # deal with buy/sell col differences
-  if (colnames(x[1]) == "in" ) {
-    x <- x %>% 
-      rename(name='in', club_involved=left_2) %>% 
+  if (colnames(data[1]) == "in" ) {
+    
+    data <- data %>% 
+      rename(name='in', club_involved=left_2) %>%
+      mutate(club = clubs_tidy[[x]]) %>% 
       select(-left)
     
-  } else if (colnames(x[1]) == "out" ) {
-    x <- x %>% 
+  } else if (colnames(data[1]) == "out" ) {
+    
+    data <- data %>% 
       rename(name='out', club_involved=joined_2) %>% 
+      mutate(club = clubs_tidy[[x]]) %>% 
       select(-joined)
+    
   }
   
   # select columns to keep
-  x <- select(x, name, age, position, club_involved,
-              fee, transfer_type)
+  data <- data %>% 
+    select(club, name, age, position, club_involved,
+           fee, transfer_type) %>% 
+    mutate(age=as.numeric(age))
   
-  x
+  data
   
 })
