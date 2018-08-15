@@ -2,7 +2,7 @@
 # setup -------------------------------------------------------------------
 
 # scrape
-source("./scr/01-scrape.R")
+source("./src/01-scrape.R")
 
 # load pkgs
 library(purrr)
@@ -21,9 +21,9 @@ transfers <- map_dfr(seq_along(transfers), function(x) {
   data <- clean_names(data)
   
   # mark transfer type
-  data <- mutate(data, transfer_type = case_when(
-    colnames(data[1]) == "in" ~ "Buy",
-    colnames(data[1]) == "out" ~ "Sale")
+  data <- mutate(data, transfer_movement = case_when(
+    colnames(data[1]) == "in" ~ "in",
+    colnames(data[1]) == "out" ~ "out")
     ) 
   
   # deal with buy/sell col differences
@@ -46,9 +46,11 @@ transfers <- map_dfr(seq_along(transfers), function(x) {
   # select columns to keep
   data <- data %>% 
     select(club, name, age, position, club_involved,
-           fee, transfer_type) %>% 
+           fee, transfer_movement) %>% 
     mutate(age=as.numeric(age))
   
   data
   
 })
+
+rm(clubs, clubs_tidy, transfers_html)
