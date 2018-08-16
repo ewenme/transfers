@@ -29,14 +29,15 @@ transfers <- mutate(transfers, fee_cleaned = case_when(
   fee == "-" ~ 0
 ))
 
-# make club an ordered factor
-transfers$club <- as_factor(transfers$club)
+# make club an ordered factor, remove unwanted patterns
+transfers$club <- as_factor(str_trim(str_remove_all(transfers$club, pattern = "FC|AFC")))
 
 # create summary fee table
 transfer_summary <- transfers %>% 
   group_by(club) %>% 
   summarise(spend_m = sum(fee_cleaned[transfer_movement == "in"], na.rm = TRUE),
-            sales_m = sum(fee_cleaned[transfer_movement == "out"], na.rm = TRUE))
+            sales_m = sum(fee_cleaned[transfer_movement == "out"], na.rm = TRUE),
+            net = sales_m - spend_m)
 
 
 write_csv(transfers, path = paste0("./data/", league_name, "-transfers-", season_id, ".csv"))

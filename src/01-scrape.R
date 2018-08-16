@@ -1,6 +1,9 @@
 
 # setup -------------------------------------------------------------------
 
+# install packages if missing
+source("./src/00-global.R")
+
 library(rvest)
 library(dplyr)
 

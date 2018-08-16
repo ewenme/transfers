@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 471.00 466.00'>
+<defs>
+  <style type='text/css'><![CDATA[
+    line, polyline, path, rect, circle {
+      fill: none;
+      stroke: #000000;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-miterlimit: 10.00;
+    }
+  ]]></style>
+</defs>
+<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
+<rect x='0.00' y='0.00' width='471.00' height='466.00' style='stroke-width: 0.43; stroke: none; fill: #FFFFFF;' />
+<polyline points='138.51,409.93 138.51,81.46 ' style='stroke-width: 0.43; stroke: #CCCCCC; stroke-linecap: square;' />
+<polyline points='184.59,409.93 184.59,81.46 ' style='stroke-width: 0.43; stroke: #CCCCCC; stroke-linecap: square;' />
+<polyline points='230.68,409.93 230.68,81.46 ' style='stroke-width: 0.43; stroke: #CCCCCC; stroke-linecap: square;' />
+<polyline points='276.76,409.93 276.76,81.46 ' style='stroke-width: 0.43; stroke: #CCCCCC; stroke-linecap: square;' />
+<polyline points='322.84,409.93 322.84,81.46 ' style='stroke-width: 0.43; stroke: #CCCCCC; stroke-linecap: square;' />
+<polyline points='368.92,409.93 368.92,81.46 ' style='stroke-width: 0.43; stroke: #CCCCCC; stroke-linecap: square;' />
+<polyline points='415.00,409.93 415.00,81.46 ' style='stroke-width: 0.43; stroke: #CCCCCC; stroke-linecap: square;' />
+<polyline points='461.08,409.93 461.08,81.46 ' style='stroke-width: 0.43; stroke: #CCCCCC; stroke-linecap: square;' />
+<line x1='138.51' y1='409.93' x2='138.51' y2='81.46' style='stroke-width: 1.07; stroke-linecap: butt;' />
+<line x1='319.35' y1='400.17' x2='145.98' y2='400.17' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
+<circle cx='319.35' cy='400.17' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
+<circle cx='145.98' cy='400.17' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
+<line x1='189.53' y1='383.91' x2='138.51' y2='383.91' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
+<circle cx='189.53' cy='383.91' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
+<circle cx='138.51' cy='383.91' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
+<line x1='258.38' y1='367.65' x2='169.37' y2='367.65' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
+<circle cx='258.38' cy='367.65' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
+<circle cx='169.37' cy='367.65' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
+<line x1='241.79' y1='351.39' x2='157.43' y2='351.39' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
+<circle cx='241.79' cy='351.39' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
+<circle cx='157.43' cy='351.39' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
+<line x1='219.80' y1='335.13' x2='157.64' y2='335.13' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
+<circle cx='219.80' cy='335.13' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
+<circle cx='157.64' cy='335.13' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
+<line x1='254.47' y1='318.87' x2='157.92' y2='318.87' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
+<circle cx='254.47' cy='318.87' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
+<circle cx='157.92' cy='318.87' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
+<line x1='180.08' y1='302.61' x2='221.46' y2='302.61' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
+<circle cx='180.08' cy='302.61' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
+<circle cx='221.46' cy='302.61' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
+<line x1='310.80' y1='286.35' x2='160.91' y2='286.35' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
+<circle cx='310.80' cy='286.35' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
+<circle cx='160.91' cy='286.35' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
+<line x1='223.62' y1='270.08' x2='172.02' y2='270.08' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
+<circle cx='223.62' cy='270.08' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
+<circle cx='172.02' cy='270.08' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
+<line x1='156.26' y1='253.82' x2='138.51' y2='253.82' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
+<circle cx='156.26' cy='253.82' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
+<circle cx='138.51' cy='253.82' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
+<line x1='195.91' y1='237.56' x2='216.18' y2='237.56' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
+<circle cx='195.91' cy='237.56' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
+<circle cx='216.18' cy='237.56' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
+<line x1='328.62' y1='221.30' x2='278.36' y2='221.30' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
+<circle cx='328.62' cy='221.30' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
+<circle cx='278.36' cy='221.30' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
+<line x1='304.09' y1='205.04' x2='178.00' y2='205.04' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
+<circle cx='304.09' cy='205.04' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
+<circle cx='178.00' cy='205.04' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
+<line x1='193.26' y1='188.78' x2='138.51' y2='188.78' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
+<circle cx='193.26' cy='188.78' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
+<circle cx='138.51' cy='188.78' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
+<line x1='269.57' y1='172.52' x2='149.13' y2='172.52' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
+<circle cx='269.57' cy='172.52' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
+<circle cx='149.13' cy='172.52' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
+<line x1='365.78' y1='156.26' x2='226.93' y2='156.26' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
+<circle cx='365.78' cy='156.26' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
+<circle cx='226.93' cy='156.26' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
+<line x1='440.77' y1='140.00' x2='161.74' y2='140.00' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
+<circle cx='440.77' cy='140.00' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
+<circle cx='161.74' cy='140.00' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
+<line x1='138.51' y1='123.74' x2='138.51' y2='123.74' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
+<circle cx='138.51' cy='123.74' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
+<circle cx='138.51' cy='123.74' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
+<line x1='275.71' y1='107.48' x2='177.26' y2='107.48' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
+<circle cx='275.71' cy='107.48' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
+<circle cx='177.26' cy='107.48' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
+<line x1='256.61' y1='91.22' x2='168.71' y2='91.22' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
+<circle cx='256.61' cy='91.22' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
+<circle cx='168.71' cy='91.22' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
+<text x='263.49' y='94.44' style='font-size: 8.54px; font-weight: bold; fill: #853438; font-family: Arial;' textLength='27.50px' lengthAdjust='spacingAndGlyphs'>Spend</text>
+<text x='139.31' y='94.44' style='font-size: 8.54px; font-weight: bold; fill: #EACF9E; font-family: Arial;' textLength='23.52px' lengthAdjust='spacingAndGlyphs'>Sales</text>
+<text x='98.80' y='403.71' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='31.74px' lengthAdjust='spacingAndGlyphs'>Fulham</text>
+<text x='80.72' y='387.45' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='49.82px' lengthAdjust='spacingAndGlyphs'>Cardiff City</text>
+<text x='9.92' y='371.19' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='120.62px' lengthAdjust='spacingAndGlyphs'>Wolverhampton Wanderers</text>
+<text x='72.28' y='354.93' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='58.26px' lengthAdjust='spacingAndGlyphs'>Southampton</text>
+<text x='47.68' y='338.67' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='82.86px' lengthAdjust='spacingAndGlyphs'>Huddersfield Town</text>
+<text x='27.28' y='322.41' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='103.26px' lengthAdjust='spacingAndGlyphs'>Brighton &amp; Hove Albion</text>
+<text x='94.08' y='306.15' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='36.47px' lengthAdjust='spacingAndGlyphs'>Watford</text>
+<text x='52.47' y='289.88' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='78.08px' lengthAdjust='spacingAndGlyphs'>West Ham United</text>
+<text x='70.85' y='273.62' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='59.70px' lengthAdjust='spacingAndGlyphs'>Bournemouth</text>
+<text x='70.19' y='257.36' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='60.35px' lengthAdjust='spacingAndGlyphs'>Crystal Palace</text>
+<text x='53.62' y='241.10' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='76.93px' lengthAdjust='spacingAndGlyphs'>Newcastle United</text>
+<text x='71.55' y='224.84' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='59.00px' lengthAdjust='spacingAndGlyphs'>Leicester City</text>
+<text x='96.47' y='208.58' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='34.07px' lengthAdjust='spacingAndGlyphs'>Everton</text>
+<text x='97.25' y='192.32' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='33.29px' lengthAdjust='spacingAndGlyphs'>Burnley</text>
+<text x='98.44' y='176.06' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='32.11px' lengthAdjust='spacingAndGlyphs'>Arsenal</text>
+<text x='96.55' y='159.80' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='33.99px' lengthAdjust='spacingAndGlyphs'>Chelsea</text>
+<text x='90.61' y='143.54' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='39.94px' lengthAdjust='spacingAndGlyphs'>Liverpool</text>
+<text x='45.15' y='127.28' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='85.39px' lengthAdjust='spacingAndGlyphs'>Tottenham Hotspur</text>
+<text x='47.41' y='111.02' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='83.14px' lengthAdjust='spacingAndGlyphs'>Manchester United</text>
+<text x='59.13' y='94.76' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='71.42px' lengthAdjust='spacingAndGlyphs'>Manchester City</text>
+<text x='135.61' y='422.38' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='5.80px' lengthAdjust='spacingAndGlyphs'>0</text>
+<text x='178.79' y='422.38' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='11.60px' lengthAdjust='spacingAndGlyphs'>25</text>
+<text x='224.88' y='422.38' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='11.60px' lengthAdjust='spacingAndGlyphs'>50</text>
+<text x='270.96' y='422.38' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='11.60px' lengthAdjust='spacingAndGlyphs'>75</text>
+<text x='314.14' y='422.38' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='17.40px' lengthAdjust='spacingAndGlyphs'>100</text>
+<text x='360.22' y='422.38' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='17.40px' lengthAdjust='spacingAndGlyphs'>125</text>
+<text x='406.30' y='422.38' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='17.40px' lengthAdjust='spacingAndGlyphs'>150</text>
+<text x='452.38' y='422.38' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='17.40px' lengthAdjust='spacingAndGlyphs'>175</text>
+<text x='406.69' y='436.39' style='font-size: 12.00px; fill: #4D4D4D; font-family: Lato Light;' textLength='48.92px' lengthAdjust='spacingAndGlyphs'>£ millions</text>
+<text x='32.86' y='45.88' style='font-size: 14.00px; font-style: italic; fill: #4D4D4D; font-family: Lato Light;' textLength='428.22px' lengthAdjust='spacingAndGlyphs'>Disclosed transfer fees spent and raised by Premier League clubs during the</text>
+<text x='237.61' y='61.00' style='font-size: 14.00px; font-style: italic; fill: #4D4D4D; font-family: Lato Light;' textLength='223.47px' lengthAdjust='spacingAndGlyphs'>summer 2018 transfer window (so far).</text>
+<text x='109.64' y='27.46' style='font-size: 16.00px; font-weight: bold; fill: #4D4D4D; font-family: Lato;' textLength='351.44px' lengthAdjust='spacingAndGlyphs'>Stories from the Premier League transfer window</text>
+<text x='315.91' y='454.96' style='font-size: 9.60px; font-style: italic; fill: #B3B3B3; font-family: Lato Light;' textLength='141.55px' lengthAdjust='spacingAndGlyphs'>Source: Transfermarkt   |   @ewen_</text>
+</svg>
