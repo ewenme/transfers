@@ -26,7 +26,7 @@ Transfer-level data in .csv format (filenames follow a `<league_name>-<year>` na
 Usage
 -----
 
-<img src="./figures/premier-league-transfer-spend-2018-web.png" width="582" />
+<img src="./figures/premier-league-transfer-spend-2018-web.png" width="471" />
 
 Code
 ----
