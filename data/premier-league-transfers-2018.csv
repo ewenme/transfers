@@ -2,9 +2,9 @@ club,name,age,position,club_involved,fee,transfer_movement,fee_cleaned
 Manchester City,Riyad MahrezR. Mahrez,27,Right Winger,Leicester,£61.02m,in,61.02
 Manchester City,Philippe SandlerP. Sandler,21,Centre-Back,PEC Zwolle,£2.25m,in,2.25
 Manchester City,Daniel ArzaniD. Arzani,19,Left Winger,Melbourne City,£801k,in,0.801
-Manchester City,Jack HarrisonJ. Harrison,22,Right Winger,Leeds,"End of loanMay 31, 2019",in,0
 Manchester City,Mix DiskerudM. Diskerud,27,Central Midfield,IFK Göteborg,"End of loanJul 15, 2018",in,0
 Manchester City,Marlos MorenoM. Moreno,22,Left Winger,Flamengo,"End of loanDec 31, 2018",in,0
+Manchester City,Jack HarrisonJ. Harrison,22,Right Winger,Leeds,"End of loanMay 31, 2019",in,0
 Manchester City,Pablo MaríP. Marí,24,Centre-Back,NAC Breda,"End of loanJun 30, 2018",in,0
 Manchester City,Luka IlicLuka Ilic,18,Attacking Midfield,Red Star,"End of loanJun 30, 2018",in,0
 Manchester City,Olarenwaju KayodeO. Kayode,25,Centre-Forward,Shakhtar D.,"End of loanJun 30, 2018",in,0
@@ -15,22 +15,23 @@ Manchester City,Jason DenayerJ. Denayer,23,Centre-Back,Galatasaray,"End of loanJ
 Manchester City,Angus GunnA. Gunn,22,Goalkeeper,Southampton,£10.17m,out,10.17
 Manchester City,Joe HartJoe Hart,31,Goalkeeper,Burnley,£3.51m,out,3.51
 Manchester City,Olarenwaju KayodeO. Kayode,25,Centre-Forward,Shakhtar D.,£2.70m,out,2.7
-Manchester City,Erik Palmer-BrownE. Palmer-Brown,21,Centre-Back,NAC Breda,Loan,out,0
-Manchester City,Jack HarrisonJ. Harrison,21,Right Winger,Leeds,Loan,out,0
-Manchester City,Patrick RobertsP. Roberts,21,Right Winger,Girona FC,Loan,out,0
 Manchester City,Pablo MaríP. Marí,24,Centre-Back,Dep. La Coruña,Loan,out,0
 Manchester City,Mix DiskerudM. Diskerud,27,Central Midfield,Ulsan,Loan,out,0
 Manchester City,Luka IlicLuka Ilic,19,Attacking Midfield,NAC Breda,Loan,out,0
+Manchester City,Daniel ArzaniD. Arzani,19,Left Winger,Celtic,Loan,out,0
+Manchester City,Erik Palmer-BrownE. Palmer-Brown,21,Centre-Back,NAC Breda,Loan,out,0
+Manchester City,Jack HarrisonJ. Harrison,21,Right Winger,Leeds,Loan,out,0
+Manchester City,Patrick RobertsP. Roberts,21,Right Winger,Girona FC,Loan,out,0
 Manchester City,Yaya TouréY. Touré,35,Central Midfield,Without Club,-,out,0
 Manchester City,Anthony CáceresA. Cáceres,25,Central Midfield,Melbourne City,Loan,out,0
 Manchester United,FredFred,25,Central Midfield,Shakhtar D.,£53.10m,in,53.1
 Manchester United,Diogo DalotD. Dalot,19,Right-Back,FC Porto,£19.80m,in,19.8
 Manchester United,Lee GrantLee Grant,35,Goalkeeper,Stoke City,£1.53m,in,1.53
-Manchester United,Cameron Borthwick-JacksonC. Borthwick-Jackson,22,Left-Back,Scunthorpe Utd.,"End of loanMay 31, 2019",in,0
 Manchester United,James WilsonJ. Wilson,23,Centre-Forward,Aberdeen FC,"End of loanMay 31, 2019",in,0
 Manchester United,Axel TuanzebeA. Tuanzebe,21,Centre-Back,Aston Villa,"End of loanMay 31, 2019",in,0
+Manchester United,Cameron Borthwick-JacksonC. Borthwick-Jackson,22,Left-Back,Scunthorpe Utd.,"End of loanMay 31, 2019",in,0
 Manchester United,Andreas PereiraA. Pereira,22,Attacking Midfield,Valencia CF,"End of loanJun 30, 2018",in,0
-Manchester United,Daley BlindD. Blind,28,Left-Back,AFC Ajax,£14.40m,out,14.4
+Manchester United,Daley BlindD. Blind,28,Centre-Back,AFC Ajax,£14.40m,out,14.4
 Manchester United,Sam JohnstoneS. Johnstone,25,Goalkeeper,West Brom,£6.62m,out,6.62
 Manchester United,Joel PereiraJ. Pereira,22,Goalkeeper,Vitória Setúbal,Loan,out,0
 Manchester United,James WilsonJ. Wilson,22,Centre-Forward,Aberdeen FC,Loan,out,0
@@ -48,26 +49,26 @@ Liverpool,Ádám BogdánÁ. Bogdán,31,Goalkeeper,Hibernian FC,"End of loanMay 3
 Liverpool,Divock OrigiD. Origi,23,Centre-Forward,VfL Wolfsburg,"End of loanJun 30, 2018",in,0
 Liverpool,Lazar MarkovicL. Markovic,24,Right Winger,RSC Anderlecht,"End of loanJun 30, 2018",in,0
 Liverpool,Danny WardD. Ward,25,Goalkeeper,Leicester,£12.60m,out,12.6
+Liverpool,Jon FlanaganJ. Flanagan,25,Right-Back,Rangers,Free Transfer,out,0
 Liverpool,Emre CanEmre Can,24,Defensive Midfield,Juventus,Free Transfer,out,0
 Liverpool,Jordan WilliamsJ. Williams,22,Defensive Midfield,Rochdale AFC,Free Transfer,out,0
-Liverpool,Jon FlanaganJ. Flanagan,25,Right-Back,Rangers,Free Transfer,out,0
-Liverpool,Ben WoodburnB. Woodburn,18,Left Winger,Sheffield Utd.,Loan,out,0
 Liverpool,Ádám BogdánÁ. Bogdán,30,Goalkeeper,Hibernian FC,Loan,out,0
 Liverpool,Danny IngsD. Ings,26,Centre-Forward,Southampton,Loan,out,0
+Liverpool,Ben WoodburnB. Woodburn,18,Left Winger,Sheffield Utd.,Loan,out,0
 Chelsea,KepaKepa,23,Goalkeeper,Athletic,£72.00m,in,72
 Chelsea,JorginhoJorginho,26,Defensive Midfield,SSC Napoli,£51.30m,in,51.3
 Chelsea,Robert GreenR. Green,38,Goalkeeper,Huddersfield,Free Transfer,in,0
 Chelsea,Mateo KovacicM. Kovacic,24,Central Midfield,Real Madrid,Loan,in,0
-Chelsea,Lewis BakerL. Baker,24,Central Midfield,Leeds,"End of loanMay 31, 2019",in,0
 Chelsea,KenedyKenedy,23,Left Midfield,Newcastle,"End of loanMay 31, 2019",in,0
 Chelsea,Todd KaneTodd Kane,25,Right-Back,Hull City,"End of loanMay 31, 2019",in,0
 Chelsea,Jamal BlackmanJ. Blackman,25,Goalkeeper,Leeds,"End of loanMay 31, 2019",in,0
+Chelsea,Lewis BakerL. Baker,24,Central Midfield,Leeds,"End of loanMay 31, 2019",in,0
+Chelsea,Mario PasalicM. Pasalic,23,Central Midfield,Spartak Moscow,"End of loanJun 30, 2018",in,0
+Chelsea,NathanNathan,22,Left Winger,Belenenses,"End of loanJun 30, 2018",in,0
 Chelsea,Marco van GinkelM. van Ginkel,25,Central Midfield,PSV Eindhoven,"End of loanJun 30, 2018",in,0
 Chelsea,Kenneth OmeruoK. Omeruo,24,Centre-Back,Kasimpasa,"End of loanJun 30, 2018",in,0
 Chelsea,Matt MiazgaM. Miazga,22,Centre-Back,Vitesse,"End of loanJun 30, 2018",in,0
 Chelsea,Michy BatshuayiM. Batshuayi,24,Centre-Forward,Bor. Dortmund,"End of loanJun 30, 2018",in,0
-Chelsea,Mario PasalicM. Pasalic,23,Central Midfield,Spartak Moscow,"End of loanJun 30, 2018",in,0
-Chelsea,NathanNathan,22,Left Winger,Belenenses,"End of loanJun 30, 2018",in,0
 Chelsea,Thibaut CourtoisT. Courtois,26,Goalkeeper,Real Madrid,£31.50m,out,31.5
 Chelsea,Kurt ZoumaK. Zouma,23,Centre-Back,Everton,Loan fee:£7.11m,out,7.11
 Chelsea,Tiemoué BakayokoT. Bakayoko,23,Defensive Midfield,AC Milan,Loan fee:£4.50m,out,4.5
@@ -75,12 +76,12 @@ Chelsea,Michy BatshuayiM. Batshuayi,24,Centre-Forward,Valencia CF,Loan fee:£2.7
 Chelsea,Mario PasalicM. Pasalic,23,Central Midfield,Atalanta,Loan fee:£900k,out,0.9
 Chelsea,Kenneth OmeruoK. Omeruo,24,Centre-Back,CD Leganés,Loan fee:£720k,out,0.72
 Chelsea,Ola AinaOla Aina,21,Right-Back,Torino,Loan fee:£540k,out,0.54
-Chelsea,EduardoEduardo,35,Goalkeeper,Vitesse,Loan,out,0
 Chelsea,Matej DelacM. Delac,25,Goalkeeper,AC Horsens,Free Transfer,out,0
-Chelsea,Jamal BlackmanJ. Blackman,24,Goalkeeper,Leeds,Loan,out,0
+Chelsea,EduardoEduardo,35,Goalkeeper,Vitesse,Loan,out,0
 Chelsea,Lewis BakerL. Baker,23,Central Midfield,Leeds,Loan,out,0
 Chelsea,Todd KaneTodd Kane,24,Right-Back,Hull City,Loan,out,0
 Chelsea,Matt MiazgaM. Miazga,23,Centre-Back,FC Nantes,Loan,out,0
+Chelsea,Jamal BlackmanJ. Blackman,24,Goalkeeper,Leeds,Loan,out,0
 Chelsea,NathanNathan,22,Left Winger,Atlético-MG,Loan,out,0
 Chelsea,Wallace OliveiraWallace Oliveira,24,Right-Back,Without Club,-,out,0
 Arsenal,Lucas TorreiraL. Torreira,22,Defensive Midfield,Sampdoria,£27.00m,in,27
@@ -91,28 +92,29 @@ Arsenal,Stephan LichtsteinerS. Lichtsteiner,34,Right-Back,Juventus,Free Transfer
 Arsenal,Matt MaceyM. Macey,24,Goalkeeper,Plymouth,"End of loanMay 31, 2019",in,0
 Arsenal,Krystian BielikK. Bielik,21,Centre-Back,Charlton,"End of loanMay 31, 2019",in,0
 Arsenal,Calum ChambersC. Chambers,24,Centre-Back,Fulham,"End of loanMay 31, 2019",in,0
+Arsenal,Takuma AsanoT. Asano,23,Second Striker,VfB Stuttgart,"End of loanJun 30, 2018",in,0
+Arsenal,Joel CampbellJ. Campbell,26,Right Winger,Real Betis,"End of loanJun 30, 2018",in,0
 Arsenal,Lucas PérezL. Pérez,29,Centre-Forward,Dep. La Coruña,"End of loanJun 30, 2018",in,0
 Arsenal,Emiliano MartínezE. Martínez,25,Goalkeeper,Getafe CF,"End of loanJun 30, 2018",in,0
 Arsenal,Chuba AkpomC. Akpom,22,Centre-Forward,Sint-Truiden,"End of loanJun 30, 2018",in,0
-Arsenal,Takuma AsanoT. Asano,23,Second Striker,VfB Stuttgart,"End of loanJun 30, 2018",in,0
-Arsenal,Joel CampbellJ. Campbell,26,Right Winger,Real Betis,"End of loanJun 30, 2018",in,0
 Arsenal,Lucas PérezL. Pérez,29,Centre-Forward,West Ham,£3.96m,out,3.96
 Arsenal,Takuma AsanoT. Asano,23,Second Striker,Hannover 96,Loan fee:£900k,out,0.9
 Arsenal,Chuba AkpomC. Akpom,22,Centre-Forward,PAOK Saloniki,£900k,out,0.9
 Arsenal,Santi CazorlaS. Cazorla,33,Central Midfield,Villarreal CF,Free Transfer,out,0
 Arsenal,Matt MaceyM. Macey,23,Goalkeeper,Plymouth,Loan,out,0
 Arsenal,Jack WilshereJ. Wilshere,26,Central Midfield,West Ham,Free Transfer,out,0
+Arsenal,Krystian BielikK. Bielik,20,Centre-Back,Charlton,Loan,out,0
+Arsenal,David OspinaD. Ospina,29,Goalkeeper,SSC Napoli,Loan,out,0
 Arsenal,Calum ChambersC. Chambers,23,Centre-Back,Fulham,Loan,out,0
 Arsenal,Joel CampbellJ. Campbell,26,Right Winger,Frosinone,?,out,NA
-Arsenal,Krystian BielikK. Bielik,20,Centre-Back,Charlton,Loan,out,0
 Arsenal,Per MertesackerP. Mertesacker,33,Centre-Back,Retired,-,out,0
 Burnley,Ben GibsonB. Gibson,25,Centre-Back,Middlesbrough,£15.21m,in,15.21
 Burnley,Matej VydraM. Vydra,26,Centre-Forward,Derby,£10.98m,in,10.98
 Burnley,Joe HartJoe Hart,31,Goalkeeper,Man City,£3.51m,in,3.51
-Burnley,Tom AndersonT. Anderson,24,Centre-Back,Doncaster Rov.,Free Transfer,out,0
 Burnley,Scott ArfieldS. Arfield,29,Left Midfield,Rangers,Free Transfer,out,0
 Burnley,Dean MarneyD. Marney,34,Central Midfield,Fleetwood Town,Free Transfer,out,0
 Burnley,Chris LongC. Long,23,Centre-Forward,Fleetwood Town,Free Transfer,out,0
+Burnley,Tom AndersonT. Anderson,24,Centre-Back,Doncaster Rov.,Free Transfer,out,0
 Burnley,Aiden O'NeillA. O'Neill,20,Central Midfield,Central Coast,Loan,out,0
 Everton,RicharlisonRicharlison,21,Left Winger,Watford,£35.28m,in,35.28
 Everton,Yerry MinaY. Mina,23,Centre-Back,FC Barcelona,£27.23m,in,27.23
@@ -121,12 +123,13 @@ Everton,Kurt ZoumaK. Zouma,23,Centre-Back,Chelsea,Loan fee:£7.11m,in,7.11
 Everton,André GomesA. Gomes,25,Central Midfield,FC Barcelona,Loan fee:£2.03m,in,2.03
 Everton,BernardBernard,25,Left Winger,Shakhtar D.,Free Transfer,in,0
 Everton,Luke GarbuttL. Garbutt,26,Left-Back,Oxford United,"End of loanMay 31, 2019",in,0
-Everton,Mateusz HeweltM. Hewelt,21,Goalkeeper,Everton U23,-,in,0
+Everton,Cuco MartinaC. Martina,29,Right-Back,Stoke City,"End of loanMay 31, 2019",in,0
 Everton,Ashley WilliamsA. Williams,34,Centre-Back,Stoke City,"End of loanMay 31, 2019",in,0
-Everton,Henry OnyekuruH. Onyekuru,21,Left Winger,RSC Anderlecht,"End of loanJun 30, 2018",in,0
-Everton,Ademola LookmanA. Lookman,20,Left Winger,RB Leipzig,"End of loanJun 30, 2018",in,0
+Everton,Mateusz HeweltM. Hewelt,21,Goalkeeper,Everton U23,-,in,0
 Everton,Sandro RamírezS. Ramírez,22,Centre-Forward,Sevilla FC,"End of loanJun 30, 2018",in,0
 Everton,Kevin MirallasK. Mirallas,30,Right Winger,Olympiacos,"End of loanJun 30, 2018",in,0
+Everton,Henry OnyekuruH. Onyekuru,21,Left Winger,RSC Anderlecht,"End of loanJun 30, 2018",in,0
+Everton,Ademola LookmanA. Lookman,20,Left Winger,RB Leipzig,"End of loanJun 30, 2018",in,0
 Everton,Davy KlaassenD. Klaassen,25,Attacking Midfield,Werder Bremen,£12.15m,out,12.15
 Everton,Ramiro Funes MoriR. Funes Mori,27,Centre-Back,Villarreal CF,£8.10m,out,8.1
 Everton,Henry OnyekuruH. Onyekuru,21,Left Winger,Galatasaray,Loan fee:£720k,out,0.72
@@ -135,6 +138,7 @@ Everton,Joel RoblesJ. Robles,28,Goalkeeper,Real Betis,Free Transfer,out,0
 Everton,Conor GrantC. Grant,23,Central Midfield,Plymouth,Free Transfer,out,0
 Everton,Wayne RooneyW. Rooney,32,Second Striker,D.C. United,Free Transfer,out,0
 Everton,Ashley WilliamsA. Williams,33,Centre-Back,Stoke City,Loan,out,0
+Everton,Cuco MartinaC. Martina,28,Right-Back,Stoke City,Loan,out,0
 Everton,Luke GarbuttL. Garbutt,25,Left-Back,Oxford United,Loan,out,0
 Everton,Nikola VlasicN. Vlasic,20,Attacking Midfield,CSKA Moscow,Loan,out,0
 Everton,Shani TarashajS. Tarashaj,23,Second Striker,Grasshoppers,Loan,out,0
@@ -142,11 +146,11 @@ Leicester City,James MaddisonJ. Maddison,21,Attacking Midfield,Norwich,£22.50m,
 Leicester City,Ricardo PereiraR. Pereira,24,Right-Back,FC Porto,£19.80m,in,19.8
 Leicester City,Caglar SöyüncüC. Söyüncü,22,Centre-Back,SC Freiburg,£18.99m,in,18.99
 Leicester City,Filip BenkovicF. Benkovic,21,Centre-Back,Dinamo Zagreb,£13.05m,in,13.05
-Leicester City,Rachid GhezzalR. Ghezzal,26,Right Winger,Monaco,£12.60m,in,12.6
 Leicester City,Danny WardD. Ward,25,Goalkeeper,Liverpool,£12.60m,in,12.6
+Leicester City,Rachid GhezzalR. Ghezzal,26,Right Winger,Monaco,£12.60m,in,12.6
 Leicester City,Jonny EvansJ. Evans,30,Centre-Back,West Brom,£3.60m,in,3.6
-Leicester City,Harvey BarnesH. Barnes,21,Left Midfield,West Brom,"End of loanMay 31, 2019",in,0
 Leicester City,George ThomasG. Thomas,22,Right Winger,Scunthorpe Utd.,"End of loanMay 31, 2019",in,0
+Leicester City,Harvey BarnesH. Barnes,21,Left Midfield,West Brom,"End of loanMay 31, 2019",in,0
 Leicester City,Bartosz KapustkaB. Kapustka,21,Attacking Midfield,SC Freiburg,"End of loanJun 30, 2018",in,0
 Leicester City,Ahmed MusaA. Musa,25,Centre-Forward,CSKA Moscow,"End of loanJun 30, 2018",in,0
 Leicester City,Nampalys MendyN. Mendy,26,Defensive Midfield,OGC Nice,"End of loanJun 30, 2018",in,0
@@ -162,12 +166,12 @@ Leicester City,Aleksandar DragovicA. Dragovic,27,Centre-Back,Bay. Leverkusen,"En
 Newcastle United,Yoshinori MutoY. Muto,26,Centre-Forward,1.FSV Mainz 05,£9.63m,in,9.63
 Newcastle United,Mikel MerinoM. Merino,22,Defensive Midfield,Bor. Dortmund,£6.30m,in,6.3
 Newcastle United,Federico FernándezF. Fernández,29,Centre-Back,Swansea,£6.03m,in,6.03
-Newcastle United,Fabian SchärF. Schär,26,Centre-Back,Dep. La Coruña,£3.60m,in,3.6
 Newcastle United,Martin DubravkaM. Dubravka,29,Goalkeeper,Sparta Praha,£3.60m,in,3.6
+Newcastle United,Fabian SchärF. Schär,26,Centre-Back,Dep. La Coruña,£3.60m,in,3.6
 Newcastle United,José Salomón RondónJ. Rondón,28,Centre-Forward,West Brom,Loan fee:£1.98m,in,1.98
 Newcastle United,Sung-yong KiS. Ki,29,Defensive Midfield,Swansea,Free Transfer,in,0
-Newcastle United,Jack ColbackJ. Colback,29,Defensive Midfield,Nottm Forest,"End of loanMay 31, 2019",in,0
 Newcastle United,Dwight GayleD. Gayle,28,Centre-Forward,West Brom,"End of loanMay 31, 2019",in,0
+Newcastle United,Jack ColbackJ. Colback,29,Defensive Midfield,Nottm Forest,"End of loanMay 31, 2019",in,0
 Newcastle United,Matz SelsMatz Sels,26,Goalkeeper,RSC Anderlecht,"End of loanJun 30, 2018",in,0
 Newcastle United,Rolando AaronsR. Aarons,22,Left Winger,Hellas Verona,"End of loanJun 30, 2018",in,0
 Newcastle United,Henri SaivetH. Saivet,27,Attacking Midfield,Sivasspor,"End of loanJun 30, 2018",in,0
@@ -186,11 +190,11 @@ Newcastle United,KenedyKenedy,23,Left Midfield,Chelsea,"End of loanMay 31, 2019"
 Newcastle United,Curtis GoodC. Good,25,Centre-Back,Without Club,-,out,0
 Newcastle United,José Salomón RondónJ. Rondón,29,Centre-Forward,West Brom,"End of loanMay 31, 2019",out,0
 Newcastle United,Jesús GámezJ. Gámez,33,Right-Back,Without Club,-,out,0
-Newcastle United,Mikel MerinoM. Merino,22,Defensive Midfield,Bor. Dortmund,"End of loanJun 30, 2018",out,0
 Newcastle United,Martin DubravkaM. Dubravka,29,Goalkeeper,Sparta Praha,"End of loanJun 30, 2018",out,0
+Newcastle United,Mikel MerinoM. Merino,22,Defensive Midfield,Bor. Dortmund,"End of loanJun 30, 2018",out,0
 Crystal Palace,Cheikhou KouyatéC. Kouyaté,28,Defensive Midfield,West Ham,£9.63m,in,9.63
-Crystal Palace,Vicente GuaitaV. Guaita,31,Goalkeeper,Getafe CF,Free Transfer,in,0
 Crystal Palace,Max MeyerMax Meyer,22,Attacking Midfield,FC Schalke 04,Free Transfer,in,0
+Crystal Palace,Vicente GuaitaV. Guaita,31,Goalkeeper,Getafe CF,Free Transfer,in,0
 Crystal Palace,Jordan AyewJ. Ayew,26,Centre-Forward,Swansea,Loan,in,0
 Crystal Palace,Jordon MutchJ. Mutch,27,Central Midfield,Vancouver,"End of loanDec 31, 2018",in,0
 Crystal Palace,Damien DelaneyD. Delaney,36,Centre-Back,Cork City,Free Transfer,out,0
@@ -207,18 +211,18 @@ Bournemouth,David BrooksD. Brooks,20,Attacking Midfield,Sheffield Utd.,£10.17m,
 Bournemouth,Emerson HyndmanE. Hyndman,22,Central Midfield,Hibernian FC,"End of loanJan 7, 2019",in,0
 Bournemouth,Harry ArterH. Arter,29,Central Midfield,Cardiff,"End of loanMay 31, 2019",in,0
 Bournemouth,Connor MahoneyC. Mahoney,22,Right Winger,Birmingham,"End of loanMay 31, 2019",in,0
-Bournemouth,Benik AfobeB. Afobe,25,Centre-Forward,Wolves,"End of loanJun 30, 2018",in,0
 Bournemouth,Max GradelM. Gradel,30,Left Winger,Toulouse,"End of loanJun 30, 2018",in,0
+Bournemouth,Benik AfobeB. Afobe,25,Centre-Forward,Wolves,"End of loanJun 30, 2018",in,0
 Bournemouth,Benik AfobeB. Afobe,25,Centre-Forward,Wolves,£10.26m,out,10.26
 Bournemouth,Lewis GrabbanL. Grabban,30,Centre-Forward,Nottm Forest,£6.12m,out,6.12
 Bournemouth,Max GradelM. Gradel,30,Left Winger,Toulouse,£1.80m,out,1.8
-Bournemouth,Ryan AllsopR. Allsop,26,Goalkeeper,Wycombe,Free Transfer,out,0
 Bournemouth,Baily CargillB. Cargill,22,Centre-Back,MK Dons,Free Transfer,out,0
+Bournemouth,Ryan AllsopR. Allsop,26,Goalkeeper,Wycombe,Free Transfer,out,0
+Bournemouth,Emerson HyndmanE. Hyndman,22,Central Midfield,Hibernian FC,Loan,out,0
 Bournemouth,Brad SmithB. Smith,24,Left-Back,Sounders FC,Loan,out,0
 Bournemouth,Adam FedericiA. Federici,33,Goalkeeper,Stoke City,?,out,NA
 Bournemouth,Connor MahoneyC. Mahoney,21,Right Winger,Birmingham,Loan,out,0
 Bournemouth,Harry ArterH. Arter,28,Central Midfield,Cardiff,Loan,out,0
-Bournemouth,Emerson HyndmanE. Hyndman,22,Central Midfield,Hibernian FC,Loan,out,0
 Bournemouth,Rhoys WigginsR. Wiggins,30,Left-Back,Retired,-,out,0
 West Ham United,Felipe AndersonFelipe Anderson,25,Right Winger,Lazio,£34.20m,in,34.2
 West Ham United,Issa DiopIssa Diop,21,Centre-Back,Toulouse,£22.50m,in,22.5
@@ -227,18 +231,18 @@ West Ham United,Lukasz FabianskiL. Fabianski,33,Goalkeeper,Swansea,£7.20m,in,7.
 West Ham United,Carlos SánchezC. Sánchez,32,Defensive Midfield,Fiorentina,£4.01m,in,4.01
 West Ham United,Lucas PérezL. Pérez,29,Centre-Forward,Arsenal,£3.96m,in,3.96
 West Ham United,Fabián BalbuenaF. Balbuena,26,Centre-Back,Corinthians,£3.60m,in,3.6
-West Ham United,Ryan FredericksR. Fredericks,25,Right-Back,Fulham,Free Transfer,in,0
 West Ham United,Jack WilshereJ. Wilshere,26,Central Midfield,Arsenal,Free Transfer,in,0
-West Ham United,Sam ByramSam Byram,25,Right-Back,Nottm Forest,"End of loanMay 31, 2019",in,0
+West Ham United,Ryan FredericksR. Fredericks,25,Right-Back,Fulham,Free Transfer,in,0
 West Ham United,Jordan HugillJ. Hugill,26,Centre-Forward,Middlesbrough,"End of loanMay 31, 2019",in,0
+West Ham United,Sam ByramSam Byram,25,Right-Back,Nottm Forest,"End of loanMay 31, 2019",in,0
 West Ham United,Reece OxfordR. Oxford,19,Centre-Back,Bor. M'gladbach,"End of loanJun 30, 2018",in,0
 West Ham United,Cheikhou KouyatéC. Kouyaté,28,Defensive Midfield,Crystal Palace,£9.63m,out,9.63
 West Ham United,Reece BurkeR. Burke,21,Centre-Back,Hull City,£1.53m,out,1.53
 West Ham United,Domingos QuinaD. Quina,18,Central Midfield,Watford,£990k,out,0.99
-West Ham United,Edimilson FernandesE. Fernandes,22,Central Midfield,Fiorentina,Loan,out,0
 West Ham United,Jordan HugillJ. Hugill,26,Centre-Forward,Middlesbrough,Loan,out,0
 West Ham United,Sam ByramSam Byram,24,Right-Back,Nottm Forest,Loan,out,0
 West Ham United,Sead HaksabanovicS. Haksabanovic,19,Left Winger,Málaga CF,Loan,out,0
+West Ham United,Edimilson FernandesE. Fernandes,22,Central Midfield,Fiorentina,Loan,out,0
 West Ham United,James CollinsJ. Collins,34,Centre-Back,Without Club,-,out,0
 West Ham United,Patrice EvraP. Evra,37,Left-Back,Without Club,-,out,0
 West Ham United,João MárioJ. Mário,25,Attacking Midfield,Inter,"End of loanJun 30, 2018",out,0
@@ -253,7 +257,6 @@ Watford,Kwasi SiboK. Sibo,20,Central Midfield,Banants,?,in,NA
 Watford,Tommie HobanT. Hoban,25,Centre-Back,Aberdeen FC,"End of loanMay 31, 2019",in,0
 Watford,Daniel BachmannD. Bachmann,24,Goalkeeper,Kilmarnock FC,"End of loanMay 31, 2019",in,0
 Watford,Jerome SinclairJ. Sinclair,22,Centre-Forward,Sunderland,"End of loanMay 31, 2019",in,0
-Watford,Adalberto PeñarandaA. Peñaranda,21,Centre-Forward,Málaga CF,"End of loanJun 30, 2018",in,0
 Watford,Nordin AmrabatN. Amrabat,31,Left Winger,CD Leganés,"End of loanJun 30, 2018",in,0
 Watford,Isaac SuccessI. Success,22,Left Winger,Málaga CF,"End of loanJun 30, 2018",in,0
 Watford,Dimitri FoulquierD. Foulquier,25,Right-Back,R. Strasbourg,"End of loanJun 30, 2018",in,0
@@ -261,14 +264,15 @@ Watford,Brice Dja DjédjéB. Dja Djédjé,27,Right-Back,Lens,"End of loanJun 30,
 Watford,Obbi OulareObbi Oulare,22,Centre-Forward,Royal Antwerp,"End of loanJun 30, 2018",in,0
 Watford,Mauro ZárateM. Zárate,31,Second Striker,Vélez Sarsfield,"End of loanJun 30, 2018",in,0
 Watford,Pontus DahlbergP. Dahlberg,19,Goalkeeper,IFK Göteborg,"End of loanJun 30, 2018",in,0
+Watford,Adalberto PeñarandaA. Peñaranda,21,Centre-Forward,Málaga CF,"End of loanJun 30, 2018",in,0
 Watford,RicharlisonRicharlison,21,Left Winger,Everton,£35.28m,out,35.28
 Watford,Nordin AmrabatN. Amrabat,31,Left Winger,Al-Nassr,£7.65m,out,7.65
 Watford,Mauro ZárateM. Zárate,31,Second Striker,Boca Juniors,£2.07m,out,2.07
-Watford,Costel PantilimonC. Pantilimon,31,Goalkeeper,Nottm Forest,?,out,NA
-Watford,Jerome SinclairJ. Sinclair,21,Centre-Forward,Sunderland,Loan,out,0
 Watford,Dodi LukebakioD. Lukebakio,20,Right Winger,F. Düsseldorf,Loan,out,0
 Watford,Tommie HobanT. Hoban,24,Centre-Back,Aberdeen FC,Loan,out,0
 Watford,Daniel BachmannD. Bachmann,24,Goalkeeper,Kilmarnock FC,Loan,out,0
+Watford,Costel PantilimonC. Pantilimon,31,Goalkeeper,Nottm Forest,?,out,NA
+Watford,Jerome SinclairJ. Sinclair,21,Centre-Forward,Sunderland,Loan,out,0
 Watford,André CarrilloA. Carrillo,27,Right Winger,Benfica,"End of loanJun 30, 2018",out,0
 Watford,Gerard DeulofeuG. Deulofeu,24,Right Winger,FC Barcelona,"End of loanJun 30, 2018",out,0
 Watford,Molla WaguéM. Wagué,27,Centre-Back,Udinese Calcio,"End of loanJun 30, 2018",out,0
@@ -284,11 +288,10 @@ Brighton & Hove Albion,Percy TauPercy Tau,24,Centre-Forward,Sundowns,£2.88m,in,
 Brighton & Hove Albion,Leon BalogunL. Balogun,30,Centre-Back,1.FSV Mainz 05,Free Transfer,in,0
 Brighton & Hove Albion,Jason SteeleJ. Steele,27,Goalkeeper,Sunderland,Free Transfer,in,0
 Brighton & Hove Albion,Billy ArceB. Arce,20,Left Winger,Independiente,?,in,NA
-Brighton & Hove Albion,Oliver NorwoodO. Norwood,27,Central Midfield,Sheffield Utd.,"End of loanDec 31, 2018",in,0
 Brighton & Hove Albion,Dan BurnDan Burn,26,Centre-Back,Wigan,"End of loanJan 1, 2019",in,0
 Brighton & Hove Albion,Christian WaltonC. Walton,23,Goalkeeper,Wigan,"End of loanMay 31, 2019",in,0
+Brighton & Hove Albion,Oliver NorwoodO. Norwood,27,Central Midfield,Sheffield Utd.,"End of loanDec 31, 2018",in,0
 Brighton & Hove Albion,Soufyan AhannachS. Ahannach,22,Left Midfield,Sparta R.,"End of loanJun 30, 2018",in,0
-Brighton & Hove Albion,Mathias NormannM. Normann,22,Central Midfield,Molde FK,"End of loanJun 30, 2018",in,0
 Brighton & Hove Albion,Sam BaldockS. Baldock,29,Centre-Forward,Reading,£3.51m,out,3.51
 Brighton & Hove Albion,Connor GoldsonC. Goldson,25,Centre-Back,Rangers,£3.06m,out,3.06
 Brighton & Hove Albion,Oliver NorwoodO. Norwood,27,Central Midfield,Sheffield Utd.,£1.98m,out,1.98
@@ -311,39 +314,39 @@ Huddersfield Town,Terence KongoloT. Kongolo,24,Centre-Back,Monaco,£18.00m,in,18
 Huddersfield Town,Adama DiakhabyA. Diakhaby,22,Centre-Forward,Monaco,£9.00m,in,9
 Huddersfield Town,Ramadan SobhiR. Sobhi,21,Left Winger,Stoke City,£5.85m,in,5.85
 Huddersfield Town,Florent HadergjonajF. Hadergjonaj,23,Right-Back,FC Ingolstadt,£4.50m,in,4.5
-Huddersfield Town,Jonas LösslJ. Lössl,29,Goalkeeper,1.FSV Mainz 05,£2.25m,in,2.25
 Huddersfield Town,Juninho BacunaJ. Bacuna,20,Central Midfield,FC Groningen,£2.25m,in,2.25
 Huddersfield Town,Isaac MbenzaI. Mbenza,22,Right Winger,Montpellier,Loan fee:£2.25m,in,2.25
+Huddersfield Town,Jonas LösslJ. Lössl,29,Goalkeeper,1.FSV Mainz 05,£2.25m,in,2.25
 Huddersfield Town,Erik DurmErik Durm,26,Right-Back,Bor. Dortmund,Free Transfer,in,0
 Huddersfield Town,Ben HamerBen Hamer,30,Goalkeeper,Leicester,Free Transfer,in,0
-Huddersfield Town,Jack PayneJ. Payne,24,Attacking Midfield,Bradford City,"End of loanMay 31, 2019",in,0
 Huddersfield Town,Joel ColemanJ. Coleman,23,Goalkeeper,Shrewsbury,"End of loanMay 31, 2019",in,0
+Huddersfield Town,Jack PayneJ. Payne,24,Attacking Midfield,Bradford City,"End of loanMay 31, 2019",in,0
 Huddersfield Town,Tom InceTom Ince,26,Right Winger,Stoke City,£10.08m,out,10.08
 Huddersfield Town,Michael HefeleM. Hefele,27,Centre-Back,Nottm Forest,£297k,out,0.297
 Huddersfield Town,Robert GreenR. Green,38,Goalkeeper,Chelsea,Free Transfer,out,0
+Huddersfield Town,Tareiq Holmes-DennisT. Holmes-Dennis,22,Left-Back,Bristol Rovers,?,out,NA
+Huddersfield Town,Joel ColemanJ. Coleman,22,Goalkeeper,Shrewsbury,Loan,out,0
 Huddersfield Town,Sean ScannellS. Scannell,27,Right Winger,Bradford City,?,out,NA
 Huddersfield Town,Scott MaloneS. Malone,27,Left-Back,Derby,?,out,NA
 Huddersfield Town,Jack PayneJ. Payne,23,Attacking Midfield,Bradford City,Loan,out,0
 Huddersfield Town,Jordy HiwulaJ. Hiwula,23,Centre-Forward,Coventry City,?,out,NA
-Huddersfield Town,Tareiq Holmes-DennisT. Holmes-Dennis,22,Left-Back,Bristol Rovers,?,out,NA
-Huddersfield Town,Joel ColemanJ. Coleman,22,Goalkeeper,Shrewsbury,Loan,out,0
 Huddersfield Town,Dean WhiteheadD. Whitehead,36,Central Midfield,Retired,-,out,0
+Huddersfield Town,Jonas LösslJ. Lössl,29,Goalkeeper,1.FSV Mainz 05,"End of loanJun 30, 2018",out,0
 Huddersfield Town,Terence KongoloT. Kongolo,24,Centre-Back,Monaco,"End of loanJun 30, 2018",out,0
 Huddersfield Town,Florent HadergjonajF. Hadergjonaj,23,Right-Back,FC Ingolstadt,"End of loanJun 30, 2018",out,0
-Huddersfield Town,Jonas LösslJ. Lössl,29,Goalkeeper,1.FSV Mainz 05,"End of loanJun 30, 2018",out,0
 Southampton,Jannik VestergaardJ. Vestergaard,25,Centre-Back,Bor. M'gladbach,£22.50m,in,22.5
 Southampton,Mohamed ElyounoussiM. Elyounoussi,23,Left Winger,FC Basel,£16.20m,in,16.2
 Southampton,Angus GunnA. Gunn,22,Goalkeeper,Man City,£10.17m,in,10.17
 Southampton,Stuart ArmstrongS. Armstrong,26,Central Midfield,Celtic,£7.16m,in,7.16
 Southampton,Danny IngsD. Ings,26,Centre-Forward,Liverpool,Loan,in,0
-Southampton,Florin GardosF. Gardos,29,Centre-Back,CS U Craiova,"End of loanJun 30, 2018",in,0
 Southampton,Jordy ClasieJ. Clasie,27,Defensive Midfield,Club Brugge,"End of loanJun 30, 2018",in,0
+Southampton,Florin GardosF. Gardos,29,Centre-Back,CS U Craiova,"End of loanJun 30, 2018",in,0
 Southampton,Dusan TadicD. Tadic,29,Attacking Midfield,AFC Ajax,£10.26m,out,10.26
 Southampton,Florin GardosF. Gardos,29,Centre-Back,CS U Craiova,Free Transfer,out,0
 Southampton,Jérémy PiedJ. Pied,29,Right-Back,LOSC Lille,Free Transfer,out,0
-Southampton,Sofiane BoufalS. Boufal,24,Attacking Midfield,Celta de Vigo,Loan,out,0
 Southampton,Guido CarrilloG. Carrillo,27,Centre-Forward,CD Leganés,Loan,out,0
 Southampton,Jordy ClasieJ. Clasie,27,Defensive Midfield,Feyenoord,Loan,out,0
+Southampton,Sofiane BoufalS. Boufal,24,Attacking Midfield,Celta de Vigo,Loan,out,0
 Southampton,Stuart TaylorS. Taylor,37,Goalkeeper,Without Club,-,out,0
 Wolverhampton Wanderers,Adama TraoréA. Traoré,22,Right Winger,Middlesbrough,£18.00m,in,18
 Wolverhampton Wanderers,Diogo JotaDiogo Jota,21,Left Winger,Atlético Madrid,£12.60m,in,12.6
@@ -352,7 +355,7 @@ Wolverhampton Wanderers,Benik AfobeB. Afobe,25,Centre-Forward,Bournemouth,£10.2
 Wolverhampton Wanderers,João MoutinhoJ. Moutinho,31,Central Midfield,Monaco,£5.04m,in,5.04
 Wolverhampton Wanderers,Léo BonatiniL. Bonatini,24,Centre-Forward,Hilal,£3.60m,in,3.6
 Wolverhampton Wanderers,Raúl JiménezR. Jiménez,27,Centre-Forward,Benfica,Loan fee:£2.70m,in,2.7
-Wolverhampton Wanderers,Rúben VinagreR. Vinagre,19,Left-Back,Monaco B,£2.03m,in,2.03
+Wolverhampton Wanderers,Rúben VinagreR. Vinagre,19,Left-Back,Monaco,£2.03m,in,2.03
 Wolverhampton Wanderers,Rui PatrícioR. Patrício,30,Goalkeeper,Sporting CP,Free Transfer,in,0
 Wolverhampton Wanderers,Leander DendonckerL. Dendoncker,23,Defensive Midfield,RSC Anderlecht,Loan,in,0
 Wolverhampton Wanderers,Jonny CastroJ. Castro,24,Left-Back,Atlético Madrid,Loan,in,0
@@ -375,26 +378,26 @@ Wolverhampton Wanderers,Ming-Yang YangM. Yang,22,Central Midfield,FC Jumilla,Loa
 Wolverhampton Wanderers,Duckens NazonD. Nazon,24,Centre-Forward,Sint-Truiden,?,out,NA
 Wolverhampton Wanderers,Rafa MirRafa Mir,21,Centre-Forward,UD Las Palmas,Loan,out,0
 Wolverhampton Wanderers,Carl IkemeC. Ikeme,32,Goalkeeper,Retired,-,out,0
-Wolverhampton Wanderers,Willy BolyW. Boly,27,Centre-Back,FC Porto,"End of loanJun 30, 2018",out,0
-Wolverhampton Wanderers,Léo BonatiniL. Bonatini,24,Centre-Forward,Hilal,"End of loanJun 30, 2018",out,0
 Wolverhampton Wanderers,Diogo JotaDiogo Jota,21,Left Winger,Atlético Madrid,"End of loanJun 30, 2018",out,0
 Wolverhampton Wanderers,Benik AfobeB. Afobe,25,Centre-Forward,Bournemouth,"End of loanJun 30, 2018",out,0
-Wolverhampton Wanderers,Rúben VinagreR. Vinagre,19,Left-Back,Monaco B,"End of loanJun 30, 2018",out,0
+Wolverhampton Wanderers,Rúben VinagreR. Vinagre,19,Left-Back,Monaco,"End of loanJun 30, 2018",out,0
 Wolverhampton Wanderers,Alfred N'DiayeA. N'Diaye,28,Defensive Midfield,Villarreal CF,"End of loanJun 30, 2018",out,0
+Wolverhampton Wanderers,Willy BolyW. Boly,27,Centre-Back,FC Porto,"End of loanJun 30, 2018",out,0
+Wolverhampton Wanderers,Léo BonatiniL. Bonatini,24,Centre-Forward,Hilal,"End of loanJun 30, 2018",out,0
 Cardiff City,Josh MurphyJ. Murphy,23,Left Winger,Norwich,£10.26m,in,10.26
 Cardiff City,Bobby ReidB. Reid,25,Attacking Midfield,Bristol City,£10.22m,in,10.22
-Cardiff City,Greg CunninghamG. Cunningham,27,Left-Back,Preston NE,£3.60m,in,3.6
 Cardiff City,Alex SmithiesA. Smithies,28,Goalkeeper,QPR,£3.60m,in,3.6
-Cardiff City,Víctor CamarasaV. Camarasa,24,Central Midfield,Real Betis,Loan,in,0
+Cardiff City,Greg CunninghamG. Cunningham,27,Left-Back,Preston NE,£3.60m,in,3.6
 Cardiff City,Harry ArterH. Arter,28,Central Midfield,Bournemouth,Loan,in,0
+Cardiff City,Víctor CamarasaV. Camarasa,24,Central Midfield,Real Betis,Loan,in,0
 Cardiff City,Omar BogleO. Bogle,26,Centre-Forward,Birmingham,"End of loanMay 31, 2019",in,0
-Cardiff City,Lee CampLee Camp,33,Goalkeeper,Birmingham,Free Transfer,out,0
 Cardiff City,Ben WilsonB. Wilson,25,Goalkeeper,Bradford City,Free Transfer,out,0
 Cardiff City,Matty KennedyM. Kennedy,23,Right Winger,St. Johnstone,Free Transfer,out,0
+Cardiff City,Lee CampLee Camp,33,Goalkeeper,Birmingham,Free Transfer,out,0
 Cardiff City,Omar BogleO. Bogle,26,Centre-Forward,Birmingham,Loan,out,0
+Cardiff City,Frédéric GounongbeF. Gounongbe,30,Centre-Forward,Without Club,-,out,0
 Cardiff City,Harry ArterH. Arter,29,Central Midfield,Bournemouth,"End of loanMay 31, 2019",out,0
 Cardiff City,Greg HalfordG. Halford,33,Centre-Back,Without Club,-,out,0
-Cardiff City,Frédéric GounongbeF. Gounongbe,30,Centre-Forward,Without Club,-,out,0
 Fulham,Jean Michaël SeriJ. Seri,26,Central Midfield,OGC Nice,£27.00m,in,27
 Fulham,André Zambo AnguissaA. Zambo Anguissa,22,Defensive Midfield,Marseille,£22.37m,in,22.37
 Fulham,Aleksandar MitrovicA. Mitrovic,23,Centre-Forward,Newcastle,£18.18m,in,18.18

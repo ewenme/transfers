@@ -8,8 +8,13 @@ source("./src/03-clean.R")
 library(ggplot2)
 library(ggalt)
 library(lato)
+library(svglite)
+
 
 # visualise ---------------------------------------------------------------
+
+svglite(file = paste0("./figures/", league_name, "-transfer-spend-", season_id, "-raw.svg"),
+        width = 8, height = 10)
 
 ggplot(data = transfer_summary, 
        aes(y = fct_rev(club), x = spend_m, xend = sales_m)) +
@@ -41,5 +46,4 @@ ggplot(data = transfer_summary,
   scale_x_continuous(expand = c(0, 0), limits = c(0, 175), breaks = seq(0, 175, 25)) +
   coord_cartesian(clip = "off")
 
-ggsave(filename = paste0(league_name, "-transfer-spend-", season_id, "-raw.svg"),
-       path = "./figures", device = "svg")
+dev.off()

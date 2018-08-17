@@ -1,120 +1,210 @@
-<?xml version='1.0' encoding='UTF-8' ?>
-<svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 471.00 466.00'>
-<defs>
-  <style type='text/css'><![CDATA[
-    line, polyline, path, rect, circle {
-      fill: none;
-      stroke: #000000;
-      stroke-linecap: round;
-      stroke-linejoin: round;
-      stroke-miterlimit: 10.00;
-    }
-  ]]></style>
-</defs>
-<rect width='100%' height='100%' style='stroke: none; fill: #FFFFFF;'/>
-<rect x='0.00' y='0.00' width='471.00' height='466.00' style='stroke-width: 0.43; stroke: none; fill: #FFFFFF;' />
-<polyline points='138.51,409.93 138.51,81.46 ' style='stroke-width: 0.43; stroke: #CCCCCC; stroke-linecap: square;' />
-<polyline points='184.59,409.93 184.59,81.46 ' style='stroke-width: 0.43; stroke: #CCCCCC; stroke-linecap: square;' />
-<polyline points='230.68,409.93 230.68,81.46 ' style='stroke-width: 0.43; stroke: #CCCCCC; stroke-linecap: square;' />
-<polyline points='276.76,409.93 276.76,81.46 ' style='stroke-width: 0.43; stroke: #CCCCCC; stroke-linecap: square;' />
-<polyline points='322.84,409.93 322.84,81.46 ' style='stroke-width: 0.43; stroke: #CCCCCC; stroke-linecap: square;' />
-<polyline points='368.92,409.93 368.92,81.46 ' style='stroke-width: 0.43; stroke: #CCCCCC; stroke-linecap: square;' />
-<polyline points='415.00,409.93 415.00,81.46 ' style='stroke-width: 0.43; stroke: #CCCCCC; stroke-linecap: square;' />
-<polyline points='461.08,409.93 461.08,81.46 ' style='stroke-width: 0.43; stroke: #CCCCCC; stroke-linecap: square;' />
-<line x1='138.51' y1='409.93' x2='138.51' y2='81.46' style='stroke-width: 1.07; stroke-linecap: butt;' />
-<line x1='319.35' y1='400.17' x2='145.98' y2='400.17' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
-<circle cx='319.35' cy='400.17' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
-<circle cx='145.98' cy='400.17' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
-<line x1='189.53' y1='383.91' x2='138.51' y2='383.91' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
-<circle cx='189.53' cy='383.91' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
-<circle cx='138.51' cy='383.91' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
-<line x1='258.38' y1='367.65' x2='169.37' y2='367.65' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
-<circle cx='258.38' cy='367.65' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
-<circle cx='169.37' cy='367.65' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
-<line x1='241.79' y1='351.39' x2='157.43' y2='351.39' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
-<circle cx='241.79' cy='351.39' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
-<circle cx='157.43' cy='351.39' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
-<line x1='219.80' y1='335.13' x2='157.64' y2='335.13' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
-<circle cx='219.80' cy='335.13' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
-<circle cx='157.64' cy='335.13' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
-<line x1='254.47' y1='318.87' x2='157.92' y2='318.87' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
-<circle cx='254.47' cy='318.87' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
-<circle cx='157.92' cy='318.87' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
-<line x1='180.08' y1='302.61' x2='221.46' y2='302.61' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
-<circle cx='180.08' cy='302.61' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
-<circle cx='221.46' cy='302.61' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
-<line x1='310.80' y1='286.35' x2='160.91' y2='286.35' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
-<circle cx='310.80' cy='286.35' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
-<circle cx='160.91' cy='286.35' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
-<line x1='223.62' y1='270.08' x2='172.02' y2='270.08' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
-<circle cx='223.62' cy='270.08' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
-<circle cx='172.02' cy='270.08' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
-<line x1='156.26' y1='253.82' x2='138.51' y2='253.82' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
-<circle cx='156.26' cy='253.82' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
-<circle cx='138.51' cy='253.82' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
-<line x1='195.91' y1='237.56' x2='216.18' y2='237.56' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
-<circle cx='195.91' cy='237.56' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
-<circle cx='216.18' cy='237.56' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
-<line x1='328.62' y1='221.30' x2='278.36' y2='221.30' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
-<circle cx='328.62' cy='221.30' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
-<circle cx='278.36' cy='221.30' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
-<line x1='304.09' y1='205.04' x2='178.00' y2='205.04' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
-<circle cx='304.09' cy='205.04' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
-<circle cx='178.00' cy='205.04' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
-<line x1='193.26' y1='188.78' x2='138.51' y2='188.78' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
-<circle cx='193.26' cy='188.78' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
-<circle cx='138.51' cy='188.78' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
-<line x1='269.57' y1='172.52' x2='149.13' y2='172.52' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
-<circle cx='269.57' cy='172.52' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
-<circle cx='149.13' cy='172.52' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
-<line x1='365.78' y1='156.26' x2='226.93' y2='156.26' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
-<circle cx='365.78' cy='156.26' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
-<circle cx='226.93' cy='156.26' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
-<line x1='440.77' y1='140.00' x2='161.74' y2='140.00' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
-<circle cx='440.77' cy='140.00' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
-<circle cx='161.74' cy='140.00' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
-<line x1='138.51' y1='123.74' x2='138.51' y2='123.74' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
-<circle cx='138.51' cy='123.74' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
-<circle cx='138.51' cy='123.74' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
-<line x1='275.71' y1='107.48' x2='177.26' y2='107.48' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
-<circle cx='275.71' cy='107.48' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
-<circle cx='177.26' cy='107.48' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
-<line x1='256.61' y1='91.22' x2='168.71' y2='91.22' style='stroke-width: 4.27; stroke: #E3E2E1; stroke-linecap: butt;' />
-<circle cx='256.61' cy='91.22' r='3.56pt' style='stroke-width: 0.71; stroke: #853438; fill: #853438;' />
-<circle cx='168.71' cy='91.22' r='3.56pt' style='stroke-width: 0.71; stroke: #EACF9E; fill: #EACF9E;' />
-<text x='263.49' y='94.44' style='font-size: 8.54px; font-weight: bold; fill: #853438; font-family: Arial;' textLength='27.50px' lengthAdjust='spacingAndGlyphs'>Spend</text>
-<text x='139.31' y='94.44' style='font-size: 8.54px; font-weight: bold; fill: #EACF9E; font-family: Arial;' textLength='23.52px' lengthAdjust='spacingAndGlyphs'>Sales</text>
-<text x='98.80' y='403.71' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='31.74px' lengthAdjust='spacingAndGlyphs'>Fulham</text>
-<text x='80.72' y='387.45' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='49.82px' lengthAdjust='spacingAndGlyphs'>Cardiff City</text>
-<text x='9.92' y='371.19' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='120.62px' lengthAdjust='spacingAndGlyphs'>Wolverhampton Wanderers</text>
-<text x='72.28' y='354.93' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='58.26px' lengthAdjust='spacingAndGlyphs'>Southampton</text>
-<text x='47.68' y='338.67' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='82.86px' lengthAdjust='spacingAndGlyphs'>Huddersfield Town</text>
-<text x='27.28' y='322.41' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='103.26px' lengthAdjust='spacingAndGlyphs'>Brighton &amp; Hove Albion</text>
-<text x='94.08' y='306.15' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='36.47px' lengthAdjust='spacingAndGlyphs'>Watford</text>
-<text x='52.47' y='289.88' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='78.08px' lengthAdjust='spacingAndGlyphs'>West Ham United</text>
-<text x='70.85' y='273.62' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='59.70px' lengthAdjust='spacingAndGlyphs'>Bournemouth</text>
-<text x='70.19' y='257.36' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='60.35px' lengthAdjust='spacingAndGlyphs'>Crystal Palace</text>
-<text x='53.62' y='241.10' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='76.93px' lengthAdjust='spacingAndGlyphs'>Newcastle United</text>
-<text x='71.55' y='224.84' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='59.00px' lengthAdjust='spacingAndGlyphs'>Leicester City</text>
-<text x='96.47' y='208.58' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='34.07px' lengthAdjust='spacingAndGlyphs'>Everton</text>
-<text x='97.25' y='192.32' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='33.29px' lengthAdjust='spacingAndGlyphs'>Burnley</text>
-<text x='98.44' y='176.06' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='32.11px' lengthAdjust='spacingAndGlyphs'>Arsenal</text>
-<text x='96.55' y='159.80' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='33.99px' lengthAdjust='spacingAndGlyphs'>Chelsea</text>
-<text x='90.61' y='143.54' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='39.94px' lengthAdjust='spacingAndGlyphs'>Liverpool</text>
-<text x='45.15' y='127.28' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='85.39px' lengthAdjust='spacingAndGlyphs'>Tottenham Hotspur</text>
-<text x='47.41' y='111.02' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='83.14px' lengthAdjust='spacingAndGlyphs'>Manchester United</text>
-<text x='59.13' y='94.76' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='71.42px' lengthAdjust='spacingAndGlyphs'>Manchester City</text>
-<text x='135.61' y='422.38' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='5.80px' lengthAdjust='spacingAndGlyphs'>0</text>
-<text x='178.79' y='422.38' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='11.60px' lengthAdjust='spacingAndGlyphs'>25</text>
-<text x='224.88' y='422.38' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='11.60px' lengthAdjust='spacingAndGlyphs'>50</text>
-<text x='270.96' y='422.38' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='11.60px' lengthAdjust='spacingAndGlyphs'>75</text>
-<text x='314.14' y='422.38' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='17.40px' lengthAdjust='spacingAndGlyphs'>100</text>
-<text x='360.22' y='422.38' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='17.40px' lengthAdjust='spacingAndGlyphs'>125</text>
-<text x='406.30' y='422.38' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='17.40px' lengthAdjust='spacingAndGlyphs'>150</text>
-<text x='452.38' y='422.38' style='font-size: 9.60px; fill: #7F7F7F; font-family: Lato Light;' textLength='17.40px' lengthAdjust='spacingAndGlyphs'>175</text>
-<text x='406.69' y='436.39' style='font-size: 12.00px; fill: #4D4D4D; font-family: Lato Light;' textLength='48.92px' lengthAdjust='spacingAndGlyphs'>£ millions</text>
-<text x='32.86' y='45.88' style='font-size: 14.00px; font-style: italic; fill: #4D4D4D; font-family: Lato Light;' textLength='428.22px' lengthAdjust='spacingAndGlyphs'>Disclosed transfer fees spent and raised by Premier League clubs during the</text>
-<text x='237.61' y='61.00' style='font-size: 14.00px; font-style: italic; fill: #4D4D4D; font-family: Lato Light;' textLength='223.47px' lengthAdjust='spacingAndGlyphs'>summer 2018 transfer window (so far).</text>
-<text x='109.64' y='27.46' style='font-size: 16.00px; font-weight: bold; fill: #4D4D4D; font-family: Lato;' textLength='351.44px' lengthAdjust='spacingAndGlyphs'>Stories from the Premier League transfer window</text>
-<text x='315.91' y='454.96' style='font-size: 9.60px; font-style: italic; fill: #B3B3B3; font-family: Lato Light;' textLength='141.55px' lengthAdjust='spacingAndGlyphs'>Source: Transfermarkt   |   @ewen_</text>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 471 466" style="enable-background:new 0 0 471 466;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:none;stroke:#CCCCCC;stroke-width:0.43;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:1.07;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#E3E2E1;stroke-width:4.27;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:#853438;stroke:#853438;stroke-width:0.71;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{fill:#EACF9E;stroke:#EACF9E;stroke-width:0.71;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st6{fill:none;}
+	.st7{enable-background:new    ;}
+	.st8{fill:#853438;}
+	.st9{font-family:'Arial-BoldMT';}
+	.st10{font-size:8.54px;}
+	.st11{fill:#EACF9E;}
+	.st12{fill:#7F7F7F;}
+	.st13{font-family:'Lato-Light';}
+	.st14{font-size:9.6px;}
+	.st15{letter-spacing:2;}
+	.st16{letter-spacing:4;}
+	.st17{letter-spacing:3;}
+	.st18{letter-spacing:1;}
+	.st19{fill:#4D4D4D;}
+	.st20{font-size:12px;}
+	.st21{font-family:'Lato-Italic';}
+	.st22{font-size:14px;}
+	.st23{font-family:'Lato-Bold';}
+	.st24{font-size:16px;}
+	.st25{fill:#B3B3B3;}
+	.st26{font-family:'Lato-LightItalic';}
+	.st27{font-size:11px;}
+	.st28{fill:none;stroke:#000000;stroke-width:0.5;stroke-miterlimit:10;}
+</style>
+<rect class="st0" width="471" height="466"/>
+<rect class="st0" width="471" height="466"/>
+<line class="st1" x1="138.5" y1="409.9" x2="138.5" y2="81.5"/>
+<line class="st1" x1="184.6" y1="409.9" x2="184.6" y2="81.5"/>
+<line class="st1" x1="230.7" y1="409.9" x2="230.7" y2="81.5"/>
+<line class="st1" x1="276.8" y1="409.9" x2="276.8" y2="81.5"/>
+<line class="st1" x1="322.8" y1="409.9" x2="322.8" y2="81.5"/>
+<line class="st1" x1="368.9" y1="409.9" x2="368.9" y2="81.5"/>
+<line class="st1" x1="415" y1="409.9" x2="415" y2="81.5"/>
+<line class="st1" x1="461.1" y1="409.9" x2="461.1" y2="81.5"/>
+<line class="st2" x1="138.5" y1="409.9" x2="138.5" y2="81.5"/>
+<line class="st3" x1="319.4" y1="400.2" x2="146" y2="400.2"/>
+<circle class="st4" cx="319.4" cy="400.2" r="3.6"/>
+<circle class="st5" cx="146" cy="400.2" r="3.6"/>
+<line class="st3" x1="189.5" y1="383.9" x2="138.5" y2="383.9"/>
+<circle class="st4" cx="189.5" cy="383.9" r="3.6"/>
+<circle class="st5" cx="138.5" cy="383.9" r="3.6"/>
+<line class="st3" x1="258.4" y1="367.6" x2="169.4" y2="367.6"/>
+<circle class="st4" cx="258.4" cy="367.6" r="3.6"/>
+<circle class="st5" cx="169.4" cy="367.6" r="3.6"/>
+<line class="st3" x1="241.8" y1="351.4" x2="157.4" y2="351.4"/>
+<circle class="st4" cx="241.8" cy="351.4" r="3.6"/>
+<circle class="st5" cx="157.4" cy="351.4" r="3.6"/>
+<line class="st3" x1="219.8" y1="335.1" x2="157.6" y2="335.1"/>
+<circle class="st4" cx="219.8" cy="335.1" r="3.6"/>
+<circle class="st5" cx="157.6" cy="335.1" r="3.6"/>
+<line class="st3" x1="254.5" y1="318.9" x2="157.9" y2="318.9"/>
+<circle class="st4" cx="254.5" cy="318.9" r="3.6"/>
+<circle class="st5" cx="157.9" cy="318.9" r="3.6"/>
+<line class="st3" x1="180.1" y1="302.6" x2="221.5" y2="302.6"/>
+<circle class="st4" cx="180.1" cy="302.6" r="3.6"/>
+<circle class="st5" cx="221.5" cy="302.6" r="3.6"/>
+<line class="st3" x1="310.8" y1="286.4" x2="160.9" y2="286.4"/>
+<circle class="st4" cx="310.8" cy="286.4" r="3.6"/>
+<circle class="st5" cx="160.9" cy="286.4" r="3.6"/>
+<line class="st3" x1="223.6" y1="270.1" x2="172" y2="270.1"/>
+<circle class="st4" cx="223.6" cy="270.1" r="3.6"/>
+<circle class="st5" cx="172" cy="270.1" r="3.6"/>
+<line class="st3" x1="156.3" y1="253.8" x2="138.5" y2="253.8"/>
+<circle class="st4" cx="156.3" cy="253.8" r="3.6"/>
+<circle class="st5" cx="138.5" cy="253.8" r="3.6"/>
+<line class="st3" x1="195.9" y1="237.6" x2="216.2" y2="237.6"/>
+<circle class="st4" cx="195.9" cy="237.6" r="3.6"/>
+<circle class="st5" cx="216.2" cy="237.6" r="3.6"/>
+<line class="st3" x1="328.6" y1="221.3" x2="278.4" y2="221.3"/>
+<circle class="st4" cx="328.6" cy="221.3" r="3.6"/>
+<circle class="st5" cx="278.4" cy="221.3" r="3.6"/>
+<line class="st3" x1="304.1" y1="205" x2="178" y2="205"/>
+<circle class="st4" cx="304.1" cy="205" r="3.6"/>
+<circle class="st5" cx="178" cy="205" r="3.6"/>
+<line class="st3" x1="193.3" y1="188.8" x2="138.5" y2="188.8"/>
+<circle class="st4" cx="193.3" cy="188.8" r="3.6"/>
+<circle class="st5" cx="138.5" cy="188.8" r="3.6"/>
+<line class="st3" x1="269.6" y1="172.5" x2="149.1" y2="172.5"/>
+<circle class="st4" cx="269.6" cy="172.5" r="3.6"/>
+<circle class="st5" cx="149.1" cy="172.5" r="3.6"/>
+<line class="st3" x1="365.8" y1="156.3" x2="226.9" y2="156.3"/>
+<circle class="st4" cx="365.8" cy="156.3" r="3.6"/>
+<circle class="st5" cx="226.9" cy="156.3" r="3.6"/>
+<line class="st3" x1="440.8" y1="140" x2="161.7" y2="140"/>
+<circle class="st4" cx="440.8" cy="140" r="3.6"/>
+<circle class="st5" cx="161.7" cy="140" r="3.6"/>
+<line class="st3" x1="138.5" y1="123.7" x2="138.5" y2="123.7"/>
+<circle class="st4" cx="138.5" cy="123.7" r="3.6"/>
+<circle class="st5" cx="138.5" cy="123.7" r="3.6"/>
+<line class="st3" x1="275.7" y1="107.5" x2="177.3" y2="107.5"/>
+<circle class="st4" cx="275.7" cy="107.5" r="3.6"/>
+<circle class="st5" cx="177.3" cy="107.5" r="3.6"/>
+<line class="st3" x1="256.6" y1="91.2" x2="168.7" y2="91.2"/>
+<circle class="st4" cx="256.6" cy="91.2" r="3.6"/>
+<circle class="st5" cx="168.7" cy="91.2" r="3.6"/>
+<rect x="242.2" y="75.1" class="st6" width="27.5" height="10.5"/>
+<text transform="matrix(1 0 0 1 242.1569 82.4404)" class="st7"><tspan x="0" y="0" class="st8 st9 st10">Spen</tspan><tspan x="22.3" y="0" class="st8 st9 st10">d</tspan></text>
+<rect x="156.6" y="75.8" class="st6" width="23.5" height="10.5"/>
+<text transform="matrix(1 0 0 1 156.6434 83.1071)" class="st7"><tspan x="0" y="0" class="st11 st9 st10">Sale</tspan><tspan x="18.8" y="0" class="st11 st9 st10">s</tspan></text>
+<rect x="98.8" y="395.5" class="st6" width="31.7" height="10.7"/>
+<text transform="matrix(1 0 0 1 98.7998 403.71)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">Fulha</tspan><tspan x="24" y="0" class="st12 st13 st14">m</tspan></text>
+<rect x="80.7" y="379.3" class="st6" width="49.8" height="10.7"/>
+<text transform="matrix(1 0 0 1 80.7202 387.4497)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">Cardiff</tspan><tspan x="28.1" y="0" class="st12 st13 st14 st15"> </tspan><tspan x="33.1" y="0" class="st12 st13 st14">City</tspan></text>
+<rect x="9.9" y="363" class="st6" width="120.6" height="10.7"/>
+<text transform="matrix(1 0 0 1 9.9199 371.1895)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">Wolverhampton</tspan><tspan x="67.3" y="0" class="st12 st13 st14 st16"> </tspan><tspan x="74.8" y="0" class="st12 st13 st14">Wanderers</tspan></text>
+<rect x="72.3" y="346.7" class="st6" width="58.3" height="10.7"/>
+<text transform="matrix(1 0 0 1 72.2798 354.9297)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">Southampto</tspan><tspan x="53" y="0" class="st12 st13 st14">n</tspan></text>
+<rect x="47.7" y="330.5" class="st6" width="82.9" height="10.7"/>
+<text transform="matrix(1 0 0 1 47.6802 338.6694)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">Huddersfield</tspan><tspan x="53.2" y="0" class="st12 st13 st14 st17"> </tspan><tspan x="59.3" y="0" class="st12 st13 st14">Town</tspan></text>
+<rect x="27.3" y="314.2" class="st6" width="103.3" height="10.7"/>
+<text transform="matrix(1 0 0 1 27.2798 322.4097)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">Brighton</tspan><tspan x="35.7" y="0" class="st12 st13 st14 st18"> </tspan><tspan x="39.7" y="0" class="st12 st13 st14">&amp;</tspan><tspan x="46.4" y="0" class="st12 st13 st14 st18"> </tspan><tspan x="50.4" y="0" class="st12 st13 st14">Hove</tspan><tspan x="72.8" y="0" class="st12 st13 st14 st18"> </tspan><tspan x="76.8" y="0" class="st12 st13 st14">Albion</tspan></text>
+<rect x="94.1" y="298" class="st6" width="36.5" height="10.7"/>
+<text transform="matrix(1 0 0 1 94.0801 306.1494)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">Watfor</tspan><tspan x="31.2" y="0" class="st12 st13 st14">d</tspan></text>
+<rect x="52.5" y="281.7" class="st6" width="78.1" height="10.7"/>
+<text transform="matrix(1 0 0 1 52.4702 289.8794)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">West</tspan><tspan x="22.1" y="0" class="st12 st13 st14 st18"> </tspan><tspan x="26.3" y="0" class="st12 st13 st14">Ham</tspan><tspan x="45.9" y="0" class="st12 st13 st14 st18"> </tspan><tspan x="50.1" y="0" class="st12 st13 st14">United</tspan></text>
+<rect x="70.8" y="265.4" class="st6" width="59.7" height="10.7"/>
+<text transform="matrix(1 0 0 1 70.8501 273.6196)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">Bournemout</tspan><tspan x="54.4" y="0" class="st12 st13 st14">h</tspan></text>
+<rect x="70.2" y="249.2" class="st6" width="60.3" height="10.7"/>
+<text transform="matrix(1 0 0 1 70.1899 257.3594)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">Crystal</tspan><tspan x="28.8" y="0" class="st12 st13 st14 st15"> </tspan><tspan x="33.9" y="0" class="st12 st13 st14">Palace</tspan></text>
+<rect x="53.6" y="232.9" class="st6" width="76.9" height="10.7"/>
+<text transform="matrix(1 0 0 1 53.6201 241.0996)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">Newcastle</tspan><tspan x="43.3" y="0" class="st12 st13 st14 st17"> </tspan><tspan x="49" y="0" class="st12 st13 st14">United</tspan></text>
+<rect x="71.6" y="216.6" class="st6" width="59" height="10.7"/>
+<text transform="matrix(1 0 0 1 71.5498 224.8394)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">Leicester</tspan><tspan x="37.3" y="0" class="st12 st13 st14 st15"> </tspan><tspan x="42.3" y="0" class="st12 st13 st14">City</tspan></text>
+<rect x="96.5" y="200.4" class="st6" width="34.1" height="10.7"/>
+<text transform="matrix(1 0 0 1 96.4702 208.5796)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">Everto</tspan><tspan x="28.8" y="0" class="st12 st13 st14">n</tspan></text>
+<rect x="97.2" y="184.1" class="st6" width="33.3" height="10.7"/>
+<text transform="matrix(1 0 0 1 97.25 192.3193)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">Burnle</tspan><tspan x="28.5" y="0" class="st12 st13 st14">y</tspan></text>
+<rect x="98.4" y="167.9" class="st6" width="32.1" height="10.7"/>
+<text transform="matrix(1 0 0 1 98.4399 176.0596)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">Arsena</tspan><tspan x="30" y="0" class="st12 st13 st14">l</tspan></text>
+<rect x="96.6" y="151.6" class="st6" width="34" height="10.7"/>
+<text transform="matrix(1 0 0 1 96.5498 159.7993)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">Chelse</tspan><tspan x="29.3" y="0" class="st12 st13 st14">a</tspan></text>
+<rect x="90.6" y="135.3" class="st6" width="39.9" height="10.7"/>
+<text transform="matrix(1 0 0 1 90.6099 143.5396)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">Liverpoo</tspan><tspan x="37.8" y="0" class="st12 st13 st14">l</tspan></text>
+<rect x="45.2" y="119.1" class="st6" width="85.4" height="10.7"/>
+<text transform="matrix(1 0 0 1 45.1499 127.2793)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">Tottenham</tspan><tspan x="45.2" y="0" class="st12 st13 st14 st17"> </tspan><tspan x="51.5" y="0" class="st12 st13 st14">Hotspur</tspan></text>
+<rect x="47.4" y="102.8" class="st6" width="83.1" height="10.7"/>
+<text transform="matrix(1 0 0 1 47.4102 111.0195)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">Manchester</tspan><tspan x="49.2" y="0" class="st12 st13 st14 st17"> </tspan><tspan x="55.2" y="0" class="st12 st13 st14">United</tspan></text>
+<rect x="59.1" y="86.6" class="st6" width="71.4" height="10.7"/>
+<text transform="matrix(1 0 0 1 59.1299 94.7593)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">Manchester</tspan><tspan x="49.2" y="0" class="st12 st13 st14 st15"> </tspan><tspan x="54.7" y="0" class="st12 st13 st14">City</tspan></text>
+<rect x="135.6" y="414.2" class="st6" width="5.8" height="10.7"/>
+<text transform="matrix(1 0 0 1 135.6099 422.3799)" class="st12 st13 st14">0</text>
+<rect x="178.8" y="414.2" class="st6" width="11.6" height="10.7"/>
+<text transform="matrix(1 0 0 1 178.79 422.3799)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">2</tspan><tspan x="6" y="0" class="st12 st13 st14">5</tspan></text>
+<rect x="224.9" y="414.2" class="st6" width="11.6" height="10.7"/>
+<text transform="matrix(1 0 0 1 224.8799 422.3799)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">5</tspan><tspan x="6" y="0" class="st12 st13 st14">0</tspan></text>
+<rect x="271" y="414.2" class="st6" width="11.6" height="10.7"/>
+<text transform="matrix(1 0 0 1 270.96 422.3799)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">7</tspan><tspan x="6" y="0" class="st12 st13 st14">5</tspan></text>
+<rect x="314.1" y="414.2" class="st6" width="17.4" height="10.7"/>
+<text transform="matrix(1 0 0 1 314.1396 422.3799)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">10</tspan><tspan x="11.8" y="0" class="st12 st13 st14">0</tspan></text>
+<rect x="360.2" y="414.2" class="st6" width="17.4" height="10.7"/>
+<text transform="matrix(1 0 0 1 360.2197 422.3799)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">12</tspan><tspan x="11.8" y="0" class="st12 st13 st14">5</tspan></text>
+<rect x="406.3" y="414.2" class="st6" width="17.4" height="10.7"/>
+<text transform="matrix(1 0 0 1 406.2998 422.3799)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">15</tspan><tspan x="11.8" y="0" class="st12 st13 st14">0</tspan></text>
+<rect x="452.4" y="414.2" class="st6" width="17.4" height="10.7"/>
+<text transform="matrix(1 0 0 1 452.3799 422.3799)" class="st7"><tspan x="0" y="0" class="st12 st13 st14">17</tspan><tspan x="11.8" y="0" class="st12 st13 st14">5</tspan></text>
+<rect x="406.7" y="426.1" class="st6" width="48.9" height="13.4"/>
+<text transform="matrix(1 0 0 1 406.6904 436.3896)" class="st19 st13 st20">£ millions</text>
+<text transform="matrix(1 0 0 1 32.86 45.88)" class="st19 st21 st22">Disclosed transfer fees spent and raised by Premier League clubs during the</text>
+<text transform="matrix(1 0 0 1 237.61 61)" class="st19 st21 st22">summer 2018 transfer window (so far)</text>
+<rect x="109.6" y="13.7" class="st6" width="351.4" height="18.3"/>
+<text transform="matrix(1 0 0 1 109.6401 27.46)" class="st19 st23 st24">Stories from the Premier League transfer window</text>
+<rect x="315.9" y="446.7" class="st6" width="141.6" height="10.8"/>
+<text transform="matrix(1 0 0 1 315.9102 454.96)" class="st7"><tspan x="0" y="0" class="st25 st21 st14">Source:</tspan><tspan x="29.6" y="0" class="st25 st21 st14 st16"> </tspan><tspan x="36.1" y="0" class="st25 st21 st14">Transfermarkt</tspan><tspan x="93.1" y="0" class="st25 st21 st14 st16"> </tspan><tspan x="99.7" y="0" class="st25 st21 st14">|</tspan><tspan x="102.1" y="0" class="st25 st21 st14 st16"> </tspan><tspan x="108.7" y="0" class="st25 st21 st14">@ewen_</tspan></text>
+<text transform="matrix(1 0 0 1 324.6664 106.0002)"><tspan x="0" y="0" class="st26 st27">Liverpool’s spending rose</tspan><tspan x="0" y="13.2" class="st26 st27">to almost £164 million</tspan></text>
+<g>
+	<g>
+		<path class="st28" d="M430.7,110.7c19.8,11.9,28.9,20.1,27.3,24.7c-0.6,1.7-2.8,2.9-6.5,3.6"/>
+		<g>
+			<polygon points="448,139.3 452.7,136.7 451.8,138.9 453.2,140.7 			"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 252.6667 244.6667)"><tspan x="0" y="0" class="st26 st27">Newcastle and Watford are </tspan><tspan x="0" y="13.2" class="st26 st27">the only clubs on course </tspan><tspan x="0" y="26.4" class="st26 st27">to make a net profit</tspan></text>
+<g>
+	<g>
+		<path class="st28" d="M270.7,232.7c-16.1-13.1-33.9-16.6-44-9.3c-1.5,1.1-3.4,2.8-5.1,5.5"/>
+		<g>
+			<polygon points="220,232 220.5,226.7 221.8,228.6 224.1,228.6 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<path class="st28" d="M330,276.7c2.5,7,2.1,11.9,0.7,15.3c-7,17.4-46.2,21.8-98.5,12.6"/>
+		<g>
+			<polygon points="228.7,304 233.9,302.8 232.4,304.6 233.2,306.8 			"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1 0 0 1 309.3333 346.667)"><tspan x="0" y="0" class="st26 st27">Fulham’s net loss is second only </tspan><tspan x="0" y="13.2" class="st26 st27">to Liverpool’s (and is followed </tspan><tspan x="0" y="26.4" class="st26 st27">closely by West Ham’s)</tspan></text>
+<g>
+	<g>
+		<path class="st28" d="M307.3,354.7c-3.3,0.7-19.4,4.3-28.7,19.3c-3.6,5.8-5,11.5-5.7,15.8"/>
+		<g>
+			<polygon points="272.7,393.3 271.2,388.2 273.1,389.6 275.2,388.6 			"/>
+		</g>
+	</g>
+</g>
 </svg>
