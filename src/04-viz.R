@@ -32,8 +32,8 @@ ggplot(data = transfer_summary,
             aes(x=sales_m, y=club, label="Sales"),
             size=3, hjust=1.25, fontface="bold", colour="#EACF9E") +
   # titling
-  labs(title = "Stories from the Premier League transfer window",
-       subtitle="Disclosed transfer fees spent and raised by Premier League clubs during the\nsummer 2018 transfer window (so far).",
+  labs(title = "Stories from the summer 2018 Premier League transfer window",
+       subtitle="Transfer fees spent and raised by Premier League clubs from the\nsummer 2018 transfer window (so far). Clubs ordered by final league position in the 2017/18 season.",
        x="£ millions", y=NULL, 
        caption="Source: Transfermarkt   |   @ewen_") + 
   # theme
