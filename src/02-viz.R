@@ -105,16 +105,18 @@ ggplot(aes(x = spend_prop, y = sales_prop, colour = year), data = top_six_transf
   # small multiples
   facet_wrap( ~ club, scales = "fixed") +
   # labels
-  labs(title = "Charting the course of top-six transfer activity",
-       subtitle = "Seasons 2010/11 - 18/19 (N.B. 2018/19 season includes summer window activity)",
-       x = "% of season's league transfer spend £", y = "% of season's league transfer sales £") +
+  labs(title = "As a share of 'Top 6' transfer spend, Liverpool's most recent window is second only to Manchester City across '10/11",
+       subtitle = "Profiling shares of the traditional 'Top 6' clubs' transfer activity, charting the course of the '10/11 - '18/19 seasons (N.B. '18/19 season includes summer window activity only)",
+       x = "% share of season's top 6 transfer spend (£)", y = "% share of season's top 6 transfer sales (£)",
+       caption="Source: Transfermarkt   |   @ewen_") +
   # scales
-  scale_y_continuous(limits = c(0, 0.6), breaks = seq(0, 0.6, 0.1),
-                     expand = expand_scale(mult = c(0, 0)), labels = pct_format) +
-  scale_x_continuous(limits = c(0, 0.4), breaks = seq(0, 0.4, 0.1),
-                     expand = expand_scale(mult = c(0, 0)), labels = pct_format) +
+  scale_y_continuous(limits = c(0, 0.6), breaks = seq(0, 0.6, 0.1), labels = pct_format) +
+  scale_x_continuous(limits = c(0, 0.4), breaks = seq(0, 0.4, 0.1), labels = pct_format) +
   # theme
   theme_lato(grid = FALSE) +
   guides(colour = FALSE) +
   # palette
   scale_colour_scico(palette = "turku", direction = -1)
+
+ggsave(filename = "./figures/top-six-transfers.svg", device = svg(width = 9, height = 7))
+dev.off()
