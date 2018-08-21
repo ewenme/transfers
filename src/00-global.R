@@ -14,7 +14,7 @@ if (!require("lato")) devtools::install_github("briandconnelly/lato")
 # functions ---------------------------------------------------------------
 
 # scrape a league seasons transfers
-scrape_season_transfers <- function(league_name, league_id, season_id, export=FALSE) {
+scrape_season_transfers <- function(league_name, league_id, season_id) {
   
   # scrape ------------------------------------------------------------------
   
@@ -110,11 +110,6 @@ scrape_season_transfers <- function(league_name, league_id, season_id, export=FA
   
   # add transfer season
   transfers$year <- season_id
-  
-  # export to csv
-  if(export == TRUE) {
-    write_csv(transfers, path = paste0("./data/", league_name, "-transfers-", season_id, ".csv"))
-  }
   
   return(transfers)
   

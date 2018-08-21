@@ -10,11 +10,14 @@ library(ggalt)
 library(lato)
 library(svglite)
 
+# get data
+transfers <- read_csv(file = file.path("./data/", "premier-league-transfers.csv"))
 
-# visualise EPL 2018 transfers ---------------------------------------------------------------
 
-# load data
-epl_transfers_2018 <- read_csv(file = file.path("./data/", "premier-league-transfers-2018.csv"))
+# visualise EPL 2018/19 transfers ---------------------------------------------------------------
+
+# seasons data
+epl_transfers_2018 <- filter(transfers, year == 2018)
 
 # make club an ordered factor, remove whitespace
 epl_transfers_2018$club <- as_factor(epl_transfers_2018$club)

@@ -4,16 +4,18 @@ Premier League transfers
 Overview
 --------
 
-Data on English Premier League (EPL) clubs' transfers.
+Data on English Premier League (EPL) clubs' transfers, but source code can be easily adapted for other leagues' transfers recorded on [Transfermarkt](https://www.transfermarkt.co.uk/).
 
-Windows:
+EPL seasons' transfer data:
 
--   Summer 2018
+- 2000/2001 to 2018/2019 (latter is the summer window only)
 
 Data
 ----
 
-Transfer-level data in .csv format (filenames follow a `<league_name>-<year>` naming convention).
+Transfer-level data in .csv format, found in `/data`. 
+
+Codebook:
 
 -   `club` (club)
 -   `name` (player name
@@ -25,15 +27,15 @@ Transfer-level data in .csv format (filenames follow a `<league_name>-<year>` na
 -   `league` (league)
 -   `year` (year)
 
+Code
+----
+
+All source code found in `/src`.
+
 Usage
 -----
 
 <img src="./figures/premier-league-transfer-spend-2018-web.png" width="471" />
-
-Code
-----
-
-All source code contained in `src` folder.
 
 Sources
 -------
