@@ -10,6 +10,8 @@ if(length(new.packages)) install.packages(new.packages)
 # install github packages if missing
 if (!require("lato")) devtools::install_github("briandconnelly/lato") 
 
+rm(list.of.packages, new.packages)
+
 
 # functions ---------------------------------------------------------------
 

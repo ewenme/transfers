@@ -13,7 +13,6 @@ library(stringr)
 library(purrr)
 library(janitor)
 
-
 # scrape ---------------------------------------------------
 
 epl_transfers <- map_dfr(2000:2018, scrape_season_transfers, 
