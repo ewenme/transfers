@@ -22,6 +22,8 @@ Transfer-level data in .csv format (filenames follow a `<league_name>-<year>` na
 -   `club_involved` (other club involved in transfer)
 -   `transfer_movement` (transfer in/out)
 -   `fee_cleaned` (transformed `fee` variable)
+-   `league` (league)
+-   `year` (year)
 
 Usage
 -----

@@ -1,8 +1,8 @@
 
 # setup -------------------------------------------------------------------
 
-# scrape/tidy/clean
-source("./src/03-clean.R")
+# install packages if missing and load local functions
+source("./src/00-global.R")
 
 # load pkgs
 library(ggplot2)
@@ -11,12 +11,21 @@ library(lato)
 library(svglite)
 
 
-# visualise ---------------------------------------------------------------
+# visualise EPL 2018 transfers ---------------------------------------------------------------
+
+# load data
+epl_transfers_2018 <- read_csv(file = file.path("./data/", "premier-league-transfers-2018.csv"))
+
+# make club an ordered factor, remove whitespace
+epl_transfers_2018$club <- as_factor(epl_transfers_2018$club)
+
+# summarise data
+epl_2018_summary <- season_transfer_summary(epl_transfers_2018)
 
 svglite(file = paste0("./figures/", league_name, "-transfer-spend-", season_id, "-raw.svg"),
         width = 8, height = 10)
 
-ggplot(data = transfer_summary, 
+ggplot(data = epl_2018_summary, 
        aes(y = fct_rev(club), x = spend_m, xend = sales_m)) +
   # add zero line
   geom_vline(xintercept = 0, size = 0.5) +
@@ -25,10 +34,10 @@ ggplot(data = transfer_summary,
   geom_dumbbell(size=2, size_x = 3, size_xend = 3,
                 color="#e3e2e1", colour_x = "#853438", colour_xend = "#EACF9E") +
   # legend annotations
-  geom_text(data = filter(transfer_summary, club == "Manchester City"), 
+  geom_text(data = filter(epl_2018_summary, club == "Manchester City"), 
             aes(x=spend_m, y=club, label="Spend"),
             size=3, hjust=-.25, fontface="bold", colour = "#853438") + 
-  geom_text(data=filter(transfer_summary, club == "Manchester City"), 
+  geom_text(data=filter(epl_2018_summary, club == "Manchester City"), 
             aes(x=sales_m, y=club, label="Sales"),
             size=3, hjust=1.25, fontface="bold", colour="#EACF9E") +
   # titling
