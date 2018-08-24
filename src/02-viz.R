@@ -12,6 +12,7 @@ library(ggalt)
 library(gghighlight)
 library(ggrepel)
 library(lato)
+library(hrbrthemes)
 library(svglite)
 library(scico)
 library(scales)
@@ -83,40 +84,71 @@ top_six_transfer_summary <- season_transfer_summary(top_six_transfers) %>%
          sales_prop = sales_m / sum(sales_m)) %>% ungroup()
 
 # remove unnecessary suffixes
-top_six_transfer_summary$club <- str_remove_all(top_six_transfer_summary$club, pattern = "FC|Hotspur")
+top_six_transfer_summary$club <- str_trim(str_remove_all(top_six_transfer_summary$club, pattern = "FC|Hotspur"))
 
 # create season id
 top_six_transfer_summary$season <- str_remove_all(paste0(top_six_transfer_summary$year, "/",
                                           top_six_transfer_summary$year+1), "20")
-  
-# fix percent format
-pct_format <- percent_format(1)
 
-# chart connected scatter
-ggplot(aes(x = spend_prop, y = sales_prop, colour = year), data = top_six_transfer_summary) +
+# create labels
+top_six_transfer_summary <- mutate(top_six_transfer_summary, 
+                                   season_label = case_when(
+                                     club == "Chelsea" ~ season,
+                                     year %in% c(2010, 2018) ~ season,
+                                     TRUE ~ ""))
+
+# connected scatter: one club
+top_six_transfer_summary %>% 
+  filter(club == "Chelsea") %>% 
+  ggplot(aes(x = sales_m, y = spend_m, colour=year)) +
   # point / path layers
-  geom_point(size = 2.5, alpha = 0.7) +
-  geom_path(size = 0.75) +
-  # reference lines
-  geom_hline(yintercept = 1/6, linetype = "dotted", colour = "grey30") +
-  geom_vline(xintercept = 1/6, linetype = "dotted", colour = "grey30") +
+  geom_path(size = 0.75, linejoin = "mitre") +
+  geom_point(fill = "white", size = 3, shape = 21, stroke = 1.5) +
   # add year labels
-  geom_text_repel(aes(label = season), family = "Lato Semibold") +
-  # small multiples
-  facet_wrap( ~ club, scales = "fixed") +
+  geom_text_repel(aes(label = season_label), family = "IBMPlexSans-SemiBold", size = 5, segment.colour = NA) +
+  # reference lines
+  geom_abline(intercept = 0, slope = 1, linetype = "dashed", colour = "grey70") +
+  geom_abline(intercept = 0, slope = 0.5, linetype = "dashed", colour = "grey70") +
+  geom_abline(intercept = 0, slope = 2, linetype = "dashed", colour = "grey70") +
   # labels
-  labs(title = "As a share of 'Top 6' transfer spend, Liverpool's most recent window is second only to Manchester City across '10/11",
-       subtitle = "Profiling shares of the traditional 'Top 6' clubs' transfer activity, charting the course of the '10/11 - '18/19 seasons (N.B. '18/19 season includes summer window activity only)",
-       x = "% share of season's top 6 transfer spend (£)", y = "% share of season's top 6 transfer sales (£)",
+  labs(title = "Chelsea's transfer spend in the latest window (2018/19) was over double the value raised from sales - a deficit last exceeded in 2012/13\n",
+       subtitle = "Charting the course of Chelsea's player transfer activity through the '10/11 - '18/19 seasons (N.B. '18/19 season includes summer window activity only). Circles represent a season's transfer business, demonstrating transfer sales (horizontal axis) vs transfer spend (vertical axis). Dashed reference lines help indicate whether a team was buying or selling more, that season.\n\n\n",
+       x = "transfer sales (£millions)", y = "transfer spend (£millions)",
        caption="Source: Transfermarkt   |   @ewen_") +
   # scales
-  scale_y_continuous(limits = c(0, 0.6), breaks = seq(0, 0.6, 0.1), labels = pct_format) +
-  scale_x_continuous(limits = c(0, 0.4), breaks = seq(0, 0.4, 0.1), labels = pct_format) +
+  scale_y_continuous(limits = c(0, 250), expand = c(0, 0)) +
+  scale_x_continuous(limits = c(0, 200), expand = c(0, 0)) +
   # theme
-  theme_lato(grid = FALSE) +
+  theme_ipsum_ps(grid = "xy", base_size = 14, axis_title_size = 14, caption_size = 14, axis_text_size = 14) +
   guides(colour = FALSE) +
   # palette
   scale_colour_scico(palette = "turku", direction = -1)
 
-ggsave(filename = "./figures/top-six-transfers.svg", device = svg(width = 9, height = 7))
+ggsave(filename = "./figures/chelsea-transfers-raw.svg", width = 10, height = 12, dpi = 320)
+dev.off()
+
+# cconnected scatter: top six
+ggplot(aes(x = sales_m, y = spend_m, colour = year), data = top_six_transfer_summary) +
+  # point / path layers
+  geom_path(size = 0.75, linejoin = "mitre") +
+  geom_point(fill = "white", size = 2, shape = 21, stroke = 1) +
+  # add year labels
+  geom_text_repel(aes(label = season_label), family = "IBMPlexSans-SemiBold", size = 4, segment.colour = NA) +
+  # small multiples
+  facet_wrap( ~ club, scales = "fixed") +
+  # labels
+  labs(title = "As a share of Top Six transfer spend, Liverpool's most recent window is second only to Manchester City across '10/11\n",
+       subtitle = "Profiling shares of the traditional 'Top 6' clubs' transfer activity, charting the course of the '10/11 - '18/19 seasons (N.B. '18/19 season includes summer window activity only). Circles represent a season's transfer business, demonstrating transfer sales (horizontal axis) vs transfer spend (vertical axis).\n\n",
+       x = "transfer sales (£millions)", y = "transfer spend (£millions)",
+       caption="Source: Transfermarkt   |   @ewen_") +
+  # scales
+  scale_y_continuous(limits = c(0, 300)) +
+  scale_x_continuous(limits = c(0, 200)) +
+  # theme
+  theme_ipsum_ps(grid = "xy", base_size = 14, axis_title_size = 14, caption_size = 14, axis_text_size = 14) +
+  guides(colour = FALSE) +
+  # palette
+  scale_colour_scico(palette = "turku", direction = -1)
+
+ggsave(filename = "./figures/top-six-transfers-raw.svg", width = 10, height = 12, dpi = 320)
 dev.off()
