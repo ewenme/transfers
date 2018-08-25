@@ -62,4 +62,4 @@ write_csv(portugal_liga_transfers, path = file.path(".", "data", "portugal-prime
 
 
 rm(epl_transfers, laliga_transfers, bundes_transfers, seriea_transfers, ligue1_transfers, 
-   championship_transfers, russia_liga_transfers)
+   championship_transfers, russia_liga_transfers, portugal_liga_transfers)

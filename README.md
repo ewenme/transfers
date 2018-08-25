@@ -1,14 +1,22 @@
-Premier League transfers
+European football league transfers
 ================
 
 Overview
 --------
 
-Data on English Premier League (EPL) clubs' transfers, but source code can be easily adapted for other leagues' transfers recorded on [Transfermarkt](https://www.transfermarkt.co.uk/).
+Data on football clubs' player transfers, across all major European leagues recorded on [Transfermarkt](https://www.transfermarkt.co.uk/).
 
-EPL seasons' transfer data:
+Currently, transfer data runs through the 2000/01 to 2018/19 seasons (latter is the summer window only), and includes the following leagues:
 
-- 2000/2001 to 2018/2019 (latter is the summer window only)
+- English Premier League
+- English Championship
+- French Ligue 1
+- German 1.Bundesliga
+- Italian Serie A
+- Portugese Primeira Liga
+- Russian Primera Liga
+- Spanish La Liga
+
 
 Data
 ----
