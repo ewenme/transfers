@@ -117,6 +117,33 @@ scrape_season_transfers <- function(league_name, league_id, season_id) {
   
 }
 
+# function to get league table
+season_clubs <- function(league_name, league_id, season_id) {
+  
+  # scrape ------------------------------------------------------------------
+  
+  # set transfers url
+  league_url <- paste0('https://www.transfermarkt.co.uk/', league_name,
+                          '/startseite/wettbewerb/', league_id, '/plus/?saison_id=', season_id)
+  
+  # read page
+  league_html <- read_html(league_url)
+  
+  # get leagues club names
+  clubs <- league_html %>% 
+    html_table(".responsive-table", header=TRUE, fill=TRUE)
+  
+  # get table into correct format
+  clubs <- as.data.frame(clubs[4]) %>% 
+    mutate(Club.1 = str_trim(Club.1)) %>% 
+    filter(Club.1 != "") %>% 
+    select(club=Club.1) %>% 
+    mutate(id = row_number())
+  
+  return(clubs)
+  
+  }
+
 # function to create transfer season summary
 season_transfer_summary <- function(x) {
   
