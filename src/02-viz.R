@@ -137,7 +137,7 @@ ggplot(aes(x = sales_m, y = spend_m, colour = year), data = top_six_transfer_sum
   # small multiples
   facet_wrap( ~ club, scales = "fixed") +
   # labels
-  labs(title = "As a share of Top Six transfer spend, Liverpool's most recent window is second only to Manchester City across '10/11\n",
+  labs(title = "As a share of Top Six transfer spend, Liverpool's most recent window is second only to Manchester City in '10/11\n",
        subtitle = "Profiling shares of the traditional 'Top 6' clubs' transfer activity, charting the course of the '10/11 - '18/19 seasons (N.B. '18/19 season includes summer window activity only). Circles represent a season's transfer business, demonstrating transfer sales (horizontal axis) vs transfer spend (vertical axis).\n\n",
        x = "transfer sales (£millions)", y = "transfer spend (£millions)",
        caption="Source: Transfermarkt   |   @ewen_") +
