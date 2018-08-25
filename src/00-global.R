@@ -137,7 +137,7 @@ season_clubs <- function(league_name, league_id, season_id) {
   clubs <- as.data.frame(clubs[4]) %>% 
     mutate(Club.1 = str_trim(Club.1)) %>% 
     filter(Club.1 != "") %>% 
-    select(club=Club.1) %>% 
+    select(club=Club.1, alias=name) %>% 
     mutate(id = row_number())
   
   return(clubs)

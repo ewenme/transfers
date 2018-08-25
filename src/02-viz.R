@@ -7,23 +7,20 @@ source("./src/00-global.R")
 # load pkgs
 library(readr)
 library(dplyr)
+library(stringr)
 library(ggplot2)
 library(ggalt)
 library(gghighlight)
 library(ggrepel)
 library(lato)
 library(hrbrthemes)
-library(svglite)
 library(scico)
 library(scales)
-library(stringr)
+library(gganimate)
 
 # get data
 epl_transfers <- read_csv(file = file.path("./data/", "premier-league-transfers.csv"))
 laliga_transfers <- read_csv(file = file.path("./data/", "primera-division-transfers.csv"))
-
-# remove unnecessary suffixes
-epl_transfers$club <- str_trim(str_remove_all(epl_transfers$club, pattern = "FC|Hotspur"))
 
 
 # visualise EPL 2018/19 transfers ---------------------------------------------------------------
@@ -37,9 +34,7 @@ epl_transfers_2018$club <- as_factor(epl_transfers_2018$club)
 # summarise data
 epl_2018_summary <- season_transfer_summary(epl_transfers_2018)
 
-svglite(file = paste0("./figures/", league_name, "-transfer-spend-", season_id, "-raw.svg"),
-        width = 8, height = 10)
-
+# visualise
 ggplot(data = epl_2018_summary, 
        aes(y = fct_rev(club), x = spend_m, xend = sales_m)) +
   # add zero line
@@ -70,8 +65,6 @@ ggplot(data = epl_2018_summary,
   scale_x_continuous(expand = c(0, 0), limits = c(0, 175), breaks = seq(0, 175, 25)) +
   coord_cartesian(clip = "off")
 
-dev.off()
-
 
 # la liga 2018/19 transfers -----------------------------------------------
 
@@ -87,6 +80,7 @@ laliga_transfers_2018$club <- factor(laliga_transfers_2018$club, levels = laliga
 # summarise data
 laliga_transfers_2018_summary <- season_transfer_summary(laliga_transfers_2018)
 
+# visualise
 ggplot(data = laliga_transfers_2018_summary, 
        aes(y = fct_rev(club), x = spend_m, xend = sales_m)) +
   # add zero line
@@ -124,15 +118,15 @@ top_six_transfers <- filter(epl_transfers, year >= 2010,
                             club %in% c("Arsenal FC", "Chelsea FC", "Manchester United",
                                         "Manchester City", "Tottenham Hotspur", "Liverpool FC"))
 
+# remove unnecessary suffixes
+top_six_transfers$club <- str_trim(str_remove_all(top_six_transfers$club, pattern = "FC|Hotspur"))
+
 # season by club summary
 top_six_transfer_summary <- season_transfer_summary(top_six_transfers) %>% 
   # add proportional metrics
   group_by(year) %>% 
   mutate(spend_prop = spend_m / sum(spend_m),
          sales_prop = sales_m / sum(sales_m)) %>% ungroup()
-
-# remove unnecessary suffixes
-top_six_transfer_summary$club <- str_trim(str_remove_all(top_six_transfer_summary$club, pattern = "FC|Hotspur"))
 
 # create season id
 top_six_transfer_summary$season <- str_remove_all(paste0(top_six_transfer_summary$year, "/",
@@ -198,5 +192,18 @@ ggplot(aes(x = sales_m, y = spend_m, colour = year), data = top_six_transfer_sum
   # palette
   scale_colour_scico(palette = "turku", direction = -1)
 
-ggsave(filename = "./figures/top-six-transfers-raw.svg", width = 10, height = 12, dpi = 320)
-dev.off()
+# ggsave(filename = "./figures/top-six-transfers-raw.svg", width = 10, height = 12, dpi = 320)
+# dev.off()
+
+# animate idea
+top_six_transfer_summary %>% 
+  filter(club == "Chelsea") %>% 
+  ggplot(aes(x = sales_m, y = spend_m, colour=year)) +
+  # point / path layers
+  geom_path(size = 0.75, linejoin = "mitre") +
+  geom_point(fill = "white", size = 3, shape = 21, stroke = 1.5) +
+  transition_states(
+    year,
+    transition_length = 2,
+    state_length = 1
+  )
