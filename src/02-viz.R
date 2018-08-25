@@ -8,6 +8,7 @@ source("./src/00-global.R")
 library(readr)
 library(dplyr)
 library(stringr)
+library(purrr)
 library(ggplot2)
 library(ggalt)
 library(gghighlight)
@@ -21,6 +22,11 @@ library(gganimate)
 # get data
 epl_transfers <- read_csv(file = file.path("./data/", "english-premier-league-transfers.csv"))
 laliga_transfers <- read_csv(file = file.path("./data/", "spanish-primera-division-transfers.csv"))
+
+# get richlist data
+richlist_club_leagues <- c("english-premier-league-transfers.csv", "spanish-primera-division-transfers.csv",
+                          "german-bundesliga-transfers.csv", "italian-serie-a-transfers.csv")
+richlist_transfers <- map_dfr(file.path("./data", richlist_club_leagues), read_csv)
 
 
 # visualise EPL 2018/19 transfers ---------------------------------------------------------------
@@ -203,3 +209,26 @@ ggplot(aes(x = sales_m, y = spend_m, colour = year), data = top_six_transfer_sum
 #   geom_path(size = 0.75, linejoin = "mitre") +
 #   # geom_point(fill = "white", size = 3, shape = 21, stroke = 1.5) +
 #   transition_filter(1, 1)
+
+
+# rich list history -------------------------------------------------------
+
+richlist_clubs_transfers <- filter(richlist_transfers, 
+                                   club %in% c("Arsenal FC", "Chelsea FC", "Manchester United",
+                                               "Manchester City", "Tottenham Hotspur", "Liverpool FC",
+                                               "FC Barcelona", "Real Madrid", "Bayern Munich", 
+                                               "Juventus FC"))
+
+# season by club summary
+richlist_clubs_transfer_summary <- season_transfer_summary(richlist_clubs_transfers) %>% 
+  # add proportional metrics
+  group_by(year) %>% 
+  mutate(spend_prop = spend_m / sum(spend_m),
+         sales_prop = sales_m / sum(sales_m)) %>% ungroup()
+
+ggplot(data = richlist_clubs_transfer_summary, aes(x=year, y=net, group = club)) +
+  geom_line() +
+  facet_wrap( ~ club, nrow = 2) +
+  gghighlight(use_direct_label = FALSE) +
+  scale_y_reverse() +
+  theme_lato()
