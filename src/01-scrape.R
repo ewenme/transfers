@@ -12,7 +12,7 @@ library(readr)
 library(stringr)
 library(purrr)
 library(janitor)
-
+library(glue)
 
 # scrape ---------------------------------------------------
 

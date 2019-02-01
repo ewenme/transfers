@@ -9,6 +9,8 @@ library(readr)
 library(dplyr)
 library(stringr)
 library(purrr)
+library(forcats)
+library(rvest)
 library(ggplot2)
 library(ggalt)
 library(gghighlight)
@@ -172,8 +174,8 @@ top_six_transfer_summary %>%
   # palette
   scale_colour_scico(palette = "turku", direction = -1)
 
-ggsave(filename = "./figures/chelsea-transfers-raw.svg", width = 10, height = 12, dpi = 320)
-dev.off()
+# ggsave(filename = "./figures/chelsea-transfers-raw.svg", width = 10, height = 12, dpi = 320)
+# dev.off()
 
 # cconnected scatter: top six
 ggplot(aes(x = sales_m, y = spend_m, colour = year), data = top_six_transfer_summary) +
@@ -201,14 +203,14 @@ ggplot(aes(x = sales_m, y = spend_m, colour = year), data = top_six_transfer_sum
 # ggsave(filename = "./figures/top-six-transfers-raw.svg", width = 10, height = 12, dpi = 320)
 # dev.off()
 
-# # animate idea - await transition_reveal
-# top_six_transfer_summary %>% 
-#   filter(club == "Chelsea") %>% 
-#   ggplot(aes(x = sales_m, y = spend_m)) +
-#   # point / path layers
-#   geom_path(size = 0.75, linejoin = "mitre") +
-#   # geom_point(fill = "white", size = 3, shape = 21, stroke = 1.5) +
-#   transition_filter(1, 1)
+# animate idea - await transition_reveal
+top_six_transfer_summary %>%
+  filter(club == "Chelsea") %>%
+  ggplot(aes(x = sales_m, y = spend_m, group = year)) +
+  # point / path layers
+  geom_path(size = 0.75, linejoin = "mitre") +
+  # geom_point(fill = "white", size = 3, shape = 21, stroke = 1.5) +
+  transition_reveal(year)
 
 
 # rich list history -------------------------------------------------------

@@ -3,7 +3,7 @@
 
 # install CRAN packages if missing
 list.of.packages <- c("rvest", "dplyr", "purrr", "janitor", "tidyr", "forcats",
-                      "readr", "stringr", "ggplot2", "ggalt", "devtools")
+                      "readr", "stringr", "ggplot2", "ggalt", "devtools", "glue")
 new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"Package"])]
 if(length(new.packages)) install.packages(new.packages)
 
@@ -21,8 +21,7 @@ scrape_season_transfers <- function(league_name, league_id, season_id) {
   # scrape ------------------------------------------------------------------
   
   # set transfers url
-  transfers_url <- paste0('https://www.transfermarkt.co.uk/', league_name,
-                          '/transfers/wettbewerb/', league_id, '/saison_id/', season_id)
+  transfers_url <- glue('https://www.transfermarkt.co.uk/{league_name}/transfers/wettbewerb/{league_id}/saison_id/{season_id}')
   
   # read page
   transfers_html <- read_html(transfers_url)
@@ -112,6 +111,8 @@ scrape_season_transfers <- function(league_name, league_id, season_id) {
   
   # add transfer season
   transfers$year <- season_id
+  
+  Sys.sleep(2)
   
   return(transfers)
   
