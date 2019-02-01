@@ -4,24 +4,19 @@ European football league transfers
 Overview
 --------
 
-Data on football clubs' player transfers, across all major European leagues recorded on [Transfermarkt](https://www.transfermarkt.co.uk/).
-
-Currently, transfer data runs through the 2000/01 to 2018/19 seasons (latter is the summer window only), and includes the following leagues:
-
-- English Premier League
-- English Championship
-- French Ligue 1
-- German 1.Bundesliga
-- Italian Serie A
-- Portugese Primeira Liga
-- Russian Primera Liga
-- Spanish La Liga
+Data on football clubs' player transfers across major European leagues, through the 1992/93 to 2018/19 seasons, recorded on [Transfermarkt](https://www.transfermarkt.co.uk/).
 
 
 Data
 ----
 
-Transfer-level data in .csv format, found in `/data`. 
+Transfer-level data in .csv format (found in `/data`), includes the following leagues:
+
+- English Premier League
+- French Ligue 1
+- German 1.Bundesliga
+- Italian Serie A
+- Spanish La Liga 
 
 Codebook:
 
@@ -34,6 +29,7 @@ Codebook:
 -   `fee_cleaned` (transformed `fee` variable)
 -   `league` (league)
 -   `year` (year)
+
 
 Code
 ----
