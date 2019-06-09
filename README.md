@@ -1,35 +1,39 @@
-European football league transfers
+footy-transfer-data
 ================
 
 Overview
 --------
 
-Data on football clubs' player transfers across major European leagues, through the 1992/93 to 2018/19 seasons, recorded on [Transfermarkt](https://www.transfermarkt.co.uk/).
-
+Data on European football clubs' player transfers, through 1992/93 to 2018/19 seasons (as found on [Transfermarkt](https://www.transfermarkt.co.uk/)).
 
 Data
 ----
 
-Transfer-level data in .csv format (found in `/data`), includes the following leagues:
+Transfers can be found in the `data` directory, in .csv format. Includes these leagues:
 
 - English Premier League
+- English Championship
 - French Ligue 1
 - German 1.Bundesliga
 - Italian Serie A
 - Spanish La Liga 
+- Portugese Liga NOS
+- Dutch Eredivisie
+- Russian Premier Liga
 
-Codebook:
+Common variables:
 
--   `club` (club)
--   `name` (player name
--   `age` (age at time of scrape)
+-   `club_name` (club)
+-   `player_name` (player name
+-   `age` (player age at time of scrape)
 -   `position` (player position)
--   `club_involved` (other club involved in transfer)
+-   `club_involved_name` (other club involved in transfer)
+-   `fee` (raw transfer fee information)
 -   `transfer_movement` (transfer in/out)
--   `fee_cleaned` (transformed `fee` variable)
--   `league` (league)
+-   `fee_cleaned` (transformed `fee`)
+-   `league_name` (league)
 -   `year` (year)
-
+-   `season` (season, interpolated from `year`)
 
 Code
 ----
