@@ -1,0 +1,597 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Amkar Perm,Mikhail Kostyukov,24,Right Winger,Volga NN,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Amkar Perm,Aleksandr Budakov,31,Goalkeeper,Isloch,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Amkar Perm,Aleksey Gasilin,20,Centre-Forward,Zenit 2 S-Pb,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Amkar Perm,Stanislav Prokofjev,29,Centre-Forward,SKA Khabarovsk,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Amkar Perm,Anton Shynder,29,Centre-Forward,Shakhtar D.,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Amkar Perm,Darko Bodul,27,Centre-Forward,Dundee United,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Amkar Perm,Sékou Condé,23,Centre-Back,Olimpik Donetsk,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Amkar Perm,Denis Vambolt,21,Goalkeeper,Baltika,£36k,in,0.036,Premier Liga,2016,2016/2017
+Amkar Perm,Aleksandar Miljkovic,26,Centre-Back,RNK Split,?,in,NA,Premier Liga,2016,2016/2017
+Amkar Perm,Robert Arzumanyan,31,Centre-Back,Shakhter K.,"End of loanDec 31, 2016",in,0,Premier Liga,2016,2016/2017
+Amkar Perm,Vasili Aleynikov,22,Defensive Midfield,Amkar Perm II,-,in,0,Premier Liga,2016,2016/2017
+Amkar Perm,Oleh Mishchenko,27,Right Winger,Ilyichivets,"End of loanDec 31, 2016",in,0,Premier Liga,2016,2016/2017
+Amkar Perm,Soslan Takazov,23,Centre-Back,Tyumen,"End of loanDec 31, 2016",in,0,Premier Liga,2016,2016/2017
+Amkar Perm,David Khurtsidze,22,Attacking Midfield,Amkar-Junior,-,in,0,Premier Liga,2016,2016/2017
+Amkar Perm,Aleksandr Selikhov,22,Goalkeeper,Spartak Moscow,£3.15m,out,3.15,Premier Liga,2016,2016/2017
+Amkar Perm,Georgiy Dzhikiya,23,Centre-Back,Spartak Moscow,£2.12m,out,2.12,Premier Liga,2016,2016/2017
+Amkar Perm,Dmitri Belorukov,33,Centre-Back,Dinamo Moscow,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Amkar Perm,Aleksandr Prudnikov,27,Centre-Forward,Orenburg,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Amkar Perm,Roman Gerus,35,Goalkeeper,Arsenal Tula,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Amkar Perm,David Dzakhov,27,Central Midfield,Shinnik,Loan,out,0,Premier Liga,2016,2016/2017
+Amkar Perm,Soslan Takazov,23,Centre-Back,Volgar,Loan,out,0,Premier Liga,2016,2016/2017
+Amkar Perm,Chuma Anene,23,Centre-Forward,Kairat Almaty,?,out,NA,Premier Liga,2016,2016/2017
+Amkar Perm,Oleh Mishchenko,26,Right Winger,Ilyichivets,Loan,out,0,Premier Liga,2016,2016/2017
+Amkar Perm,Robert Arzumanyan,31,Centre-Back,Without Club,-,out,0,Premier Liga,2016,2016/2017
+Amkar Perm,Bright Dike,29,Centre-Forward,Without Club,-,out,0,Premier Liga,2016,2016/2017
+Amkar Perm,Bohdan Butko,25,Right-Back,Shakhtar D.,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Pavel Dolgov,20,Centre-Forward,Zenit 2 S-Pb,£243k,in,0.243,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Guram Tetrashvili,28,Right-Back,Tosno,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,David Yurchenko,30,Goalkeeper,Ufa,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Shamil Asildarov,33,Centre-Forward,Tobol Kostanay,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Mohammed Rabiu,26,Defensive Midfield,Kuban Krasnodar,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Pavel Yakovlev,25,Left Winger,Spartak Moscow,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Cédric Yambéré,25,Centre-Back,G. Bordeaux,Loan,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Arsen Khubulov,26,Right Winger,Kuban Krasnodar,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Xandão,28,Centre-Back,Kuban Krasnodar,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Sergey Parshivlyuk,27,Right-Back,Spartak Moscow,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Aslan Dudiev,26,Right-Back,Tom Tomsk,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Thomas Phibel,30,Centre-Back,Red Star,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Aleksandr Prudnikov,27,Centre-Forward,Orenburg,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Ivo Ilicevic,29,Left Winger,Hamburger SV,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Sergey Bryzgalov,24,Centre-Back,Terek Grozny,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Andrey Lyakh,26,Defensive Midfield,Tom Tomsk,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Saeid Ezatolahi,20,Defensive Midfield,Rostov,Loan,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Felicio Brown Forbes,25,Right Midfield,Arsenal Tula,Loan,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Pylyp Budkivskyi,24,Centre-Forward,Shakhtar D.,Loan,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Aleksandr Zhirov,26,Centre-Back,Krasnodar,Loan,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Adlan Katsaev,28,Attacking Midfield,Terek Grozny,Loan,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Svyatoslav Georgievski,20,Attacking Midfield,Kuban Krasnodar,?,in,NA,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Aleksandr Filtsov,26,Goalkeeper,Rubin Kazan,Loan,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Maksim Batov,24,Central Midfield,Rubin Kazan,?,in,NA,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Aleksandr Belenov,29,Goalkeeper,Kuban Krasnodar,?,in,NA,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Ayaz Guliev,20,Central Midfield,Spartak 2,Loan,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Sergey Karetnik,21,Central Midfield,Kuban Krasnodar,?,in,NA,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Dmitri Kudryashov,33,Central Midfield,Career break,-,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Maksym Bilyi,26,Centre-Back,Without Club,-,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Kamil Agalarov,28,Right Midfield,Career break,-,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Gabriel Obertan,27,Right Winger,Without Club,-,in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Mekhti Dzhenetov,24,Goalkeeper,Baltika,"End of loanDec 31, 2016",in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Murad Qurbanov,24,Right-Back,Khimik,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Andrey Eshchenko,32,Right-Back,Dinamo Moscow,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Aleksandr Krivoruchko,31,Goalkeeper,Tom Tomsk,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Bernard Berisha,25,Left Winger,Terek Grozny,£2.25m,out,2.25,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Jonathan Mensah,26,Centre-Back,Columbus Crew,£450k,out,0.45,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Ivan Maevskiy,28,Defensive Midfield,FC Astana,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Islamnur Abdulavov,22,Centre-Forward,Ufa,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Gabriel Obertan,27,Right Winger,Wigan,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Mekhti Dzhenetov,24,Goalkeeper,Sumgayit,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Ali Gadzhibekov,27,Centre-Back,KS Samara,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Aleksandr Krivoruchko,31,Goalkeeper,SKA Khabarovsk,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Ivo Ilicevic,30,Left Winger,Kairat Almaty,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Evgeni Pomazan,27,Goalkeeper,Kuban Krasnodar,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Anvar Gazimagomedov,28,Right Midfield,Armavir,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Aleksandr Zhirov,25,Centre-Back,Tom Tomsk,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Andrey Eshchenko,32,Right-Back,Spartak Moscow,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Lorenzo Ebecilio,25,Attacking Midfield,APOEL Nicosia,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Darko Lazic,22,Centre-Back,Alanyaspor,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Ilia Maksimov,29,Central Midfield,Arsenal Tula,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Mekhti Dzhenetov,24,Goalkeeper,Baltika,Loan,out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Moutari Amadou,23,Left Winger,Ferencváros,?,out,NA,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Yannick Boli,29,Centre-Forward,DL Yifang,?,out,NA,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Georgi Tigiev,21,Left-Back,Spartak Moscow,Loan,out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Aleksandr Belenov,30,Goalkeeper,Ufa,?,out,NA,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Xandão,29,Centre-Back,Without Club,-,out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Cédric Yambéré,26,Centre-Back,G. Bordeaux,"End of loanDec 31, 2016",out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Mohammed Rabiu,27,Defensive Midfield,Career break,-,out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Murad Qurbanov,24,Right-Back,Without Club,-,out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,Karlen Mkrtchyan,28,Defensive Midfield,Without Club,-,out,0,Premier Liga,2016,2016/2017
+Anzhi Makhachkala,David Yurchenko,30,Goalkeeper,Ufa,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Kirill Kombarov,29,Right-Back,Tom Tomsk,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Aleksandr Stolyarenko,25,Centre-Back,Sokol Saratov,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Gia Grigalava,27,Centre-Back,Ethnikos,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Ivan Ivanov,28,Centre-Back,Panathinaikos,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Aleksandr Sheshukov,33,Defensive Midfield,Loko Moscow,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Oleg Vlasov,31,Attacking Midfield,Mordovia,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Roman Gerus,35,Goalkeeper,Amkar Perm,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Alexandru Bourceanu,31,Defensive Midfield,Steaua Bukarest,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Lukas Tesak,31,Left-Back,Kairat Almaty,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Mihail Aleksandrov,27,Left-Back,Legia Warszawa,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Nikita Burmistrov,26,Left Winger,Krasnodar,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Igor Gorbatenko,27,Attacking Midfield,KS Samara,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Aleksandr Gorbatyuk,31,Centre-Back,Sokol Saratov,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Federico Rasic,24,Centre-Forward,Gimnasia,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Stoppila Sunzu,27,Centre-Back,LOSC Lille,Loan,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Ilia Maksimov,29,Central Midfield,Anzhi,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Ruslan Mukhametshin,34,Centre-Forward,Mordovia,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Khyzyr Appaev,26,Centre-Forward,Orenburg,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Aleksandr Filtsov,26,Goalkeeper,Rubin Kazan,Loan,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Moussa Doumbia,22,Left Winger,Rostov,Loan,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Jherson Vergara,22,Centre-Back,AC Milan,Loan,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Mikhail Levashov,24,Goalkeeper,Arsenal 2 Tula,-,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Vladimir Gabulov,33,Goalkeeper,Without Club,-,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Emmanuel Frimpong,24,Defensive Midfield,Without Club,-,in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Pavel Deobald,26,Right Midfield,Torpedo Armavir,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Aleksandr Gorbatyuk,31,Centre-Back,Tambov,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Igor Kot,36,Goalkeeper,Mordovia,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Andrey Gorbanets,31,Right Midfield,Taraz,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Aleksandr Sheshukov,33,Defensive Midfield,Baltika,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Igor Kaleshin,33,Centre-Back,Sochi,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Pavel Deobald,26,Right Midfield,Mordovia,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Khyzyr Appaev,26,Centre-Forward,Riga,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Ruslan Mukhametshin,35,Centre-Forward,Taraz,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Emmanuel Frimpong,25,Defensive Midfield,AFC Eskilstuna,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Aleksey Bazanov,30,Second Striker,Tekstilshchik,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Felicio Brown Forbes,25,Right Midfield,Anzhi,Loan,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Dmitri Aydov,34,Centre-Back,Gomel,Loan,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Maksim Mashnev,23,Defensive Midfield,Luch Vladivostok,Loan,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Artem Dudolev,24,Second Striker,Sokol Saratov,?,out,NA,Premier Liga,2016,2016/2017
+Arsenal Tula,Goran Vujovic,29,Centre-Forward,B. Podgorica,?,out,NA,Premier Liga,2016,2016/2017
+Arsenal Tula,Aleksandr Stolyarenko,25,Centre-Back,Tambov,Loan,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Roman Gerus,36,Goalkeeper,Retired,-,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Vitali Fedotov,24,Central Midfield,Without Club,-,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Sergey Maslov,26,Right Winger,Retired,-,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Sergey Kotov,34,Goalkeeper,Retired,-,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Aleksey Skornyakov,23,Goalkeeper,Arsenal 2 Tula,-,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Dmitri A. Smirnov,36,Central Midfield,Retired,-,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Sergey Ignatjev,30,Left Winger,Arsenal 2 Tula,-,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Aleksandr Filtsov,26,Goalkeeper,Rubin Kazan,"End of loanDec 31, 2016",out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Lukas Tesak,31,Left-Back,Without Club,-,out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Igor Gorbatenko,27,Attacking Midfield,KS Samara,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+Arsenal Tula,Aleksandr Filtsov,26,Goalkeeper,Rubin Kazan,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+CSKA Moscow,Aaron Olanare,22,Centre-Forward,GZ R&F,Free Transfer,in,0,Premier Liga,2016,2016/2017
+CSKA Moscow,Aleksey Ionov,27,Right Winger,Dinamo Moscow,Loan,in,0,Premier Liga,2016,2016/2017
+CSKA Moscow,Lacina Traoré,26,Centre-Forward,Monaco,Loan,in,0,Premier Liga,2016,2016/2017
+CSKA Moscow,Fedor Chalov,18,Centre-Forward,CSKA Moscow II,-,in,0,Premier Liga,2016,2016/2017
+CSKA Moscow,Viktor Vasin,28,Centre-Back,Ufa,"End of loanDec 31, 2016",in,0,Premier Liga,2016,2016/2017
+CSKA Moscow,Carlos Strandberg,20,Centre-Forward,AIK,"End of loanJul 18, 2016",in,0,Premier Liga,2016,2016/2017
+CSKA Moscow,Vitinho,23,Left Winger,Internacional,"End of loanDec 31, 2016",in,0,Premier Liga,2016,2016/2017
+CSKA Moscow,Vyacheslav Karavaev,21,Right-Back,FK Jablonec,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+CSKA Moscow,Georgi Milanov,24,Attacking Midfield,Grasshoppers,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+CSKA Moscow,Dmitri Efremov,21,Left Midfield,Slovan Liberec,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+CSKA Moscow,Konstantin Bazelyuk,23,Centre-Forward,SKA-Energia,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+CSKA Moscow,Ahmed Musa,23,Centre-Forward,Leicester,£17.55m,out,17.55,Premier Liga,2016,2016/2017
+CSKA Moscow,Carlos Strandberg,20,Centre-Forward,Club Brugge,£1.35m,out,1.35,Premier Liga,2016,2016/2017
+CSKA Moscow,Vyacheslav Karavaev,21,Right-Back,Sparta Praha,£900k,out,0.9,Premier Liga,2016,2016/2017
+CSKA Moscow,Dmitri Efremov,21,Left Midfield,Orenburg,Loan,out,0,Premier Liga,2016,2016/2017
+CSKA Moscow,Konstantin Bazelyuk,23,Centre-Forward,Estoril,Loan,out,0,Premier Liga,2016,2016/2017
+CSKA Moscow,Sergey Tkachev,27,Attacking Midfield,KS Samara,Loan,out,0,Premier Liga,2016,2016/2017
+CSKA Moscow,Kirill Panchenko,26,Second Striker,Dinamo Moscow,Loan,out,0,Premier Liga,2016,2016/2017
+CSKA Moscow,Viktor Vasin,27,Centre-Back,Ufa,Loan,out,0,Premier Liga,2016,2016/2017
+CSKA Moscow,Lacina Traoré,26,Centre-Forward,Monaco,"End of loanJan 30, 2017",out,0,Premier Liga,2016,2016/2017
+CSKA Moscow,Aleksandrs Cauna,28,Defensive Midfield,Career break,-,out,0,Premier Liga,2016,2016/2017
+CSKA Moscow,Roman Shirokov,34,Central Midfield,Retired,-,out,0,Premier Liga,2016,2016/2017
+CSKA Moscow,Aaron Olanare,22,Centre-Forward,GZ R&F,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+FK Krasnodar,Naldo,28,Centre-Back,Sporting CP,£4.05m,in,4.05,Premier Liga,2016,2016/2017
+FK Krasnodar,Stanislav Kritsyuk,25,Goalkeeper,Braga,£3.60m,in,3.6,Premier Liga,2016,2016/2017
+FK Krasnodar,Viktor Claesson,25,Left Winger,Elfsborg,£1.80m,in,1.8,Premier Liga,2016,2016/2017
+FK Krasnodar,Cristian Ramírez,22,Left-Back,Ferencváros,£1.35m,in,1.35,Premier Liga,2016,2016/2017
+FK Krasnodar,Aleksandr Zhirov,25,Centre-Back,Tom Tomsk,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Krasnodar,Tornike Okriashvili,24,Attacking Midfield,KRC Genk,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Krasnodar,Charles Kaboré,28,Defensive Midfield,Kuban Krasnodar,?,in,NA,Premier Liga,2016,2016/2017
+FK Krasnodar,Roman Shishkin,30,Right-Back,Loko Moscow,Loan,in,0,Premier Liga,2016,2016/2017
+FK Krasnodar,Ilya Abaev,35,Goalkeeper,Loko Moscow,Loan,in,0,Premier Liga,2016,2016/2017
+FK Krasnodar,Nikolay Komlichenko,21,Centre-Forward,Krasnodar 2,-,in,0,Premier Liga,2016,2016/2017
+FK Krasnodar,Ilya Zhigulev,20,Central Midfield,Krasnodar 2,-,in,0,Premier Liga,2016,2016/2017
+FK Krasnodar,Eboue Kouassi,18,Defensive Midfield,Krasnodar II,-,in,0,Premier Liga,2016,2016/2017
+FK Krasnodar,Marat Izmailov,33,Central Midfield,Career break,-,in,0,Premier Liga,2016,2016/2017
+FK Krasnodar,Ruslan Bolov,22,Centre-Forward,Volgar,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+FK Krasnodar,Artur Jedrzejczyk,28,Centre-Back,Legia Warszawa,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+FK Krasnodar,Nikita Burmistrov,26,Left Winger,Ural,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+FK Krasnodar,Aleksandr Martynovich,28,Centre-Back,Ural,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+FK Krasnodar,Odil Akhmedov,29,Defensive Midfield,SIPG,£6.30m,out,6.3,Premier Liga,2016,2016/2017
+FK Krasnodar,Ragnar Sigurdsson,30,Centre-Back,Fulham,£4.23m,out,4.23,Premier Liga,2016,2016/2017
+FK Krasnodar,Eboue Kouassi,19,Defensive Midfield,Celtic,£3.15m,out,3.15,Premier Liga,2016,2016/2017
+FK Krasnodar,Artur Jedrzejczyk,29,Centre-Back,Legia Warszawa,£810k,out,0.81,Premier Liga,2016,2016/2017
+FK Krasnodar,Ari,31,Centre-Forward,Loko Moscow,Loan fee:£720k,out,0.72,Premier Liga,2016,2016/2017
+FK Krasnodar,Nikolay Markov,31,Right-Back,Kuban Krasnodar,Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Krasnodar,Nikita Burmistrov,26,Left Winger,Arsenal Tula,Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Krasnodar,Aleksandr Zhirov,26,Centre-Back,Anzhi,Loan,out,0,Premier Liga,2016,2016/2017
+FK Krasnodar,Stefan Strandberg,26,Centre-Back,Hannover 96,Loan,out,0,Premier Liga,2016,2016/2017
+FK Krasnodar,Ruslan Bolov,22,Centre-Forward,Fakel Voronezh,Loan,out,0,Premier Liga,2016,2016/2017
+FK Krasnodar,Andrey Dikan,38,Goalkeeper,Retired,-,out,0,Premier Liga,2016,2016/2017
+FK Krasnodar,Marat Izmailov,34,Central Midfield,Career break,-,out,0,Premier Liga,2016,2016/2017
+FK Krasnodar,Stanislav Kritsyuk,25,Goalkeeper,Braga,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+FK Krasnodar,Charles Kaboré,28,Defensive Midfield,Kuban Krasnodar,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Jerry Mbakogu,23,Centre-Forward,Carpi,Loan fee:£900k,in,0.9,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Vyacheslav Zinkov,23,Defensive Midfield,Zenit 2 S-Pb,£450k,in,0.45,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Artem Hromov,27,Left Winger,Dynamo Kyiv,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Ali Gadzhibekov,27,Centre-Back,Anzhi,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Sandro Tsveiba,23,Defensive Midfield,Aktobe,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Srdjan Mijailovic,23,Defensive Midfield,Kayserispor,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Timofey Margasov,24,Right-Back,Rostov,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Pavel Kudryashov,20,Right Winger,Tom Tomsk,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Aleksandr Hleb,35,Attacking Midfield,BATE Borisov,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Evgeni Bashkirov,24,Central Midfield,Tom Tomsk,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Maksim Pavlov,27,Goalkeeper,KamAZ,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Georgi Zotov,27,Right-Back,Kuban Krasnodar,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Sergey Tkachev,27,Attacking Midfield,CSKA Moscow,Loan,in,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Cristian Pasquato,27,Attacking Midfield,Juventus,Loan,in,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Yohan Mollo,27,Left Winger,Saint-Étienne,?,in,NA,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Sheldon Bateau,25,Centre-Back,KV Mechelen,?,in,NA,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Aleksandr Zuev,20,Left Winger,Spartak Moscow,Loan,in,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Emin Makhmudov,24,Central Midfield,Mordovia,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Aleksandr Eliseev,24,Right Midfield,Volgar,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Sergey Obivalin,21,Centre-Back,Lada Togliatti,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Maksim Palienko,21,Attacking Midfield,Zenit 2 S-Pb,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Igor Gorbatenko,27,Attacking Midfield,Arsenal Tula,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Yohan Mollo,27,Left Winger,Zenit S-Pb,£450k,out,0.45,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Ibragim Tsallagov,26,Right-Back,Zenit S-Pb,£360k,out,0.36,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Timofey Margasov,24,Right-Back,Loko Moscow,£225k,out,0.225,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Junior Ahissan,19,Right Winger,Dynamo Kyiv II,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Maksim Palienko,21,Attacking Midfield,Tosno,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Vitali Kalenkovich,23,Right Midfield,Baltika,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Jeroen Simaeys,31,Centre-Back,OH Leuven,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Emin Makhmudov,24,Central Midfield,Boavista,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Georgi Gabulov,27,Central Midfield,Orenburg,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Aleksey Kontsedalov,26,Centre-Back,Baltika,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Aleksey Pomerko,26,Central Midfield,Orenburg,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Aleksandr Eliseev,24,Right Midfield,Baltika,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Igor Gorbatenko,27,Attacking Midfield,Arsenal Tula,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Adis Jahovic,29,Centre-Forward,Göztepe,?,out,NA,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Maksim Pavlov,27,Goalkeeper,Lada Togliatti,Loan,out,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Sergey Obivalin,21,Centre-Back,Without Club,-,out,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Jerry Mbakogu,24,Centre-Forward,Carpi,"End of loanDec 31, 2016",out,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Pavel Yakovlev,25,Left Winger,Spartak Moscow,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Taras Burlak,26,Centre-Back,Rubin Kazan,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Sheldon Bateau,25,Centre-Back,KV Mechelen,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Yohan Mollo,26,Left Winger,Saint-Étienne,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+Krylya Sovetov Samara,Miroslav Lobantsev,21,Goalkeeper,Loko Moscow,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Igor Portnyagin,27,Centre-Forward,Rubin Kazan,£2.70m,in,2.7,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Delvin N'Dinga,28,Defensive Midfield,Monaco,£2.25m,in,2.25,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Ari,31,Centre-Forward,Krasnodar,Loan fee:£720k,in,0.72,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Timofey Margasov,24,Right-Back,KS Samara,£225k,in,0.225,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Boris Rotenberg,30,Right-Back,Dinamo Moscow,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Igor Denisov,32,Defensive Midfield,Dinamo Moscow,Loan,in,0,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Solomon Kvirkvelia,25,Centre-Back,Rubin Kazan,Loan,in,0,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Anton Kochenkov,29,Goalkeeper,Tom Tomsk,"End of loanDec 31, 2016",in,0,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Jefferson Farfán,32,Right Winger,Without Club,-,in,0,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Dmitri Loskov,43,Attacking Midfield,Career break,-,in,0,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Dmitri Barinov,19,Defensive Midfield,Loko Moscow II,-,in,0,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Moubarak Boussoufa,31,Attacking Midfield,KAA Gent,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Miroslav Lobantsev,21,Goalkeeper,KS Samara,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Aleksandr Samedov,32,Right Winger,Spartak Moscow,£3.15m,out,3.15,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Aleksandr Sheshukov,33,Defensive Midfield,Arsenal Tula,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Arseni Logashov,25,Right-Back,Tosno,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Moubarak Boussoufa,31,Attacking Midfield,Al-Jazira,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Maksim Grigorjev,26,Right Winger,Rostov,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Jan Durica,34,Centre-Back,Trabzonspor,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Ilya Abaev,35,Goalkeeper,Krasnodar,Loan,out,0,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Ezekiel Henty,23,Centre-Forward,Baniyas SC,Loan,out,0,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Roman Shishkin,30,Right-Back,Krasnodar,Loan,out,0,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Anton Kochenkov,29,Goalkeeper,Tom Tomsk,Loan,out,0,Premier Liga,2016,2016/2017
+Lokomotiv Moscow,Delvin N'Dinga,28,Defensive Midfield,Monaco,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+FK Orenburg,Michal Duris,28,Centre-Forward,Viktoria Plzen,£540k,in,0.54,Premier Liga,2016,2016/2017
+FK Orenburg,Denis Popovic,27,Central Midfield,Wisla Kraków,£180k,in,0.18,Premier Liga,2016,2016/2017
+FK Orenburg,Elguja Lobjanidze,24,Centre-Forward,Dinamo Batumi,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Orenburg,Anzor Sanaia,27,Centre-Forward,Tom Tomsk,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Orenburg,Aleksandr Gutor,27,Goalkeeper,Dinamo Minsk,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Orenburg,Mikhail Sivakov,28,Centre-Back,Zorya Luhansk,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Orenburg,Aleksandr Katsalapov,30,Right-Back,Ufa,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Orenburg,Blagoy Georgiev,34,Central Midfield,Rubin Kazan,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Orenburg,Aleksey Pomerko,26,Central Midfield,KS Samara,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Orenburg,Ivica Zunic,27,Centre-Back,Volyn Lutsk,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Orenburg,Yacouba Bamba,24,Attacking Midfield,Zaria Balti,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Orenburg,Pavel Nekhajchik,27,Left Winger,Tom Tomsk,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Orenburg,Aleksandr Prudnikov,27,Centre-Forward,Amkar Perm,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Orenburg,Georgi Gabulov,27,Central Midfield,KS Samara,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Orenburg,Stanislav Dragun,28,Central Midfield,Dinamo Moscow,?,in,NA,Premier Liga,2016,2016/2017
+FK Orenburg,Mikhail Kerzhakov,29,Goalkeeper,Zenit S-Pb,Loan,in,0,Premier Liga,2016,2016/2017
+FK Orenburg,Dmitri Efremov,21,Left Midfield,CSKA Moscow,Loan,in,0,Premier Liga,2016,2016/2017
+FK Orenburg,Maksim Bordachev,30,Left-Back,Tom Tomsk,Loan,in,0,Premier Liga,2016,2016/2017
+FK Orenburg,Maksim Batov,24,Central Midfield,Rubin Kazan,Loan,in,0,Premier Liga,2016,2016/2017
+FK Orenburg,Maksim Grigorjev,26,Right Winger,Rostov,Loan,in,0,Premier Liga,2016,2016/2017
+FK Orenburg,Nikita Satalkin,28,Centre-Forward,Fakel Voronezh,Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Orenburg,Kamalutdin Akhmedov,30,Centre-Back,Tyumen,Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Orenburg,Aleksandr Prudnikov,27,Centre-Forward,Anzhi,Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Orenburg,Anton Kobyalko,30,Centre-Forward,SKA Khabarovsk,Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Orenburg,Aleksey Druzin,29,Central Midfield,SKA Khabarovsk,Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Orenburg,Khyzyr Appaev,26,Centre-Forward,Arsenal Tula,Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Orenburg,Arturs Zjuzins,25,Central Midfield,Tambov,Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Orenburg,Artem Deljkin,26,Centre-Forward,Tambov,Loan,out,0,Premier Liga,2016,2016/2017
+FK Orenburg,Ivan Markelov,28,Left Winger,Dinamo Moscow,?,out,NA,Premier Liga,2016,2016/2017
+FK Orenburg,Farkhod Vasiev,26,Left-Back,Istiqlol,Loan,out,0,Premier Liga,2016,2016/2017
+FK Orenburg,Yacouba Bamba,25,Attacking Midfield,Without Club,-,out,0,Premier Liga,2016,2016/2017
+FK Orenburg,Dmitri Chvanov,22,Goalkeeper,Without Club,-,out,0,Premier Liga,2016,2016/2017
+FK Orenburg,Maksim Batov,24,Central Midfield,Rubin Kazan,"End of loanDec 31, 2016",out,0,Premier Liga,2016,2016/2017
+FK Orenburg,Almaz Askarov,24,Centre-Back,Retired,-,out,0,Premier Liga,2016,2016/2017
+FK Orenburg,Aleksandr Katsalapov,30,Right-Back,Without Club,-,out,0,Premier Liga,2016,2016/2017
+FK Orenburg,Samat Sarsenov,19,Right Winger,Orenburg II,-,out,0,Premier Liga,2016,2016/2017
+FK Orenburg,Inal Getigezhev,29,Left-Back,Rubin Kazan,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+FK Rostov,Sardar Azmoun,21,Centre-Forward,Rubin Kazan,£2.07m,in,2.07,Premier Liga,2016,2016/2017
+FK Rostov,Pavel Mogilevets,23,Central Midfield,Zenit S-Pb,£630k,in,0.63,Premier Liga,2016,2016/2017
+FK Rostov,Miha Mevlja,26,Centre-Back,Dinamo Bukarest,£630k,in,0.63,Premier Liga,2016,2016/2017
+FK Rostov,Marko Devic,33,Centre-Forward,Rubin Kazan,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Rostov,Papa Gueye,32,Centre-Back,Dnipro,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Rostov,Andrei Prepelita,30,Central Midfield,Ludogorets,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Rostov,Marko Simic,29,Centre-Back,Hapoel Tel Aviv,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Rostov,Ivan Komissarov,28,Goalkeeper,Volga-Olimpiets,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Rostov,Vladimir Granat,29,Centre-Back,Spartak Moscow,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Rostov,Maksim Grigorjev,26,Right Winger,Loko Moscow,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Rostov,Dmitri Skopintsev,19,Left-Back,FC Liefering,?,in,NA,Premier Liga,2016,2016/2017
+FK Rostov,Stas Pokatilov,24,Goalkeeper,Kairat Almaty,"End of loanDec 31, 2016",in,0,Premier Liga,2016,2016/2017
+FK Rostov,Ruslan Abazov,23,Centre-Back,Tyumen,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+FK Rostov,Bastos,25,Centre-Back,Lazio,£4.50m,out,4.5,Premier Liga,2016,2016/2017
+FK Rostov,Timofey Margasov,24,Right-Back,KS Samara,Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Rostov,Guélor Kanga,25,Central Midfield,Red Star,Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Rostov,Papa Gueye,32,Centre-Back,Aktobe,Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Rostov,Stas Pokatilov,24,Goalkeeper,Kairat Almaty,?,out,NA,Premier Liga,2016,2016/2017
+FK Rostov,Moussa Doumbia,22,Left Winger,Arsenal Tula,Loan,out,0,Premier Liga,2016,2016/2017
+FK Rostov,Ruslan Abazov,23,Centre-Back,Tosno,?,out,NA,Premier Liga,2016,2016/2017
+FK Rostov,Stas Pokatilov,23,Goalkeeper,Kairat Almaty,Loan,out,0,Premier Liga,2016,2016/2017
+FK Rostov,Dmitri Skopintsev,19,Left-Back,Baltika,Loan,out,0,Premier Liga,2016,2016/2017
+FK Rostov,Maksim Grigorjev,26,Right Winger,Orenburg,Loan,out,0,Premier Liga,2016,2016/2017
+FK Rostov,Nika Kacharava,22,Centre-Forward,Ethnikos,Loan,out,0,Premier Liga,2016,2016/2017
+FK Rostov,Ivan Novoseltsev,25,Centre-Back,Zenit S-Pb,?,out,NA,Premier Liga,2016,2016/2017
+FK Rostov,Saeid Ezatolahi,20,Defensive Midfield,Anzhi,Loan,out,0,Premier Liga,2016,2016/2017
+FK Rostov,Byeong-su Yu,28,Centre-Forward,Without Club,-,out,0,Premier Liga,2016,2016/2017
+FK Rostov,Aleksandr Troshechkin,20,Defensive Midfield,Fakel Voronezh,Loan,out,0,Premier Liga,2016,2016/2017
+FK Rostov,Sardar Azmoun,21,Centre-Forward,Rubin Kazan,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+FK Rostov,Boris Rotenberg,30,Right-Back,Dinamo Moscow,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+FK Rostov,Pavel Mogilevets,23,Central Midfield,Zenit S-Pb,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Maxime Lestienne,24,Left Winger,Al Arabi,£9.00m,in,9,Premier Liga,2016,2016/2017
+Rubin Kazan,Rubén Rochina,25,Attacking Midfield,Granada CF,£9.00m,in,9,Premier Liga,2016,2016/2017
+Rubin Kazan,Jonathas,27,Centre-Forward,Real Sociedad,£6.30m,in,6.3,Premier Liga,2016,2016/2017
+Rubin Kazan,Samu García,25,Right Winger,Villarreal,£4.50m,in,4.5,Premier Liga,2016,2016/2017
+Rubin Kazan,Moritz Bauer,24,Right-Back,Grasshoppers,£3.60m,in,3.6,Premier Liga,2016,2016/2017
+Rubin Kazan,Carlos Zambrano,26,Centre-Back,E. Frankfurt,£3.15m,in,3.15,Premier Liga,2016,2016/2017
+Rubin Kazan,Rifat Zhemaletdinov,19,Right Winger,Loko Moscow II,£135k,in,0.135,Premier Liga,2016,2016/2017
+Rubin Kazan,Sergio Sánchez,30,Centre-Back,Panathinaikos,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Alex Song,28,Defensive Midfield,FC Barcelona,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Georgi Makhatadze,18,Defensive Midfield,Loko Moscow II,?,in,NA,Premier Liga,2016,2016/2017
+Rubin Kazan,Vladimir Sobolev,25,Right Midfield,Neftekhimik,"End of loanDec 31, 2016",in,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Ilzat Akhmetov,18,Central Midfield,Rubin Kazan II,-,in,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Maksim Batov,24,Central Midfield,Orenburg,"End of loanDec 31, 2016",in,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Andrii Pyliavskyi,28,Centre-Back,Vorskla,"End of loanDec 31, 2016",in,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Aleksandr Filtsov,26,Goalkeeper,Arsenal Tula,"End of loanDec 31, 2016",in,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Vladislav Kulik,31,Central Midfield,Kuban Krasnodar,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Yann M'Vila,26,Defensive Midfield,Sunderland,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Kamil Mullin,22,Centre-Forward,Sokol Saratov,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Albert Sharipov,23,Central Midfield,Tom Tomsk,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Aleksandr Filtsov,26,Goalkeeper,Arsenal Tula,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Sergey Davydov,30,Centre-Forward,KamAZ,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Mamuka Kobakhidze,23,Centre-Back,Mordovia,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Marko Livaja,22,Centre-Forward,FC Empoli,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Inal Getigezhev,29,Left-Back,Gazovik Orenburg,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Taras Burlak,26,Centre-Back,KS Samara,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Chris Mavinga,25,Left-Back,Troyes,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Mubarak Wakaso,25,Central Midfield,UD Las Palmas,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Mauricio Lemos,20,Centre-Back,UD Las Palmas,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Sardar Azmoun,21,Centre-Forward,Rostov,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Igor Portnyagin,27,Centre-Forward,Loko Moscow,£2.70m,out,2.7,Premier Liga,2016,2016/2017
+Rubin Kazan,Sardar Azmoun,21,Centre-Forward,Rostov,£2.07m,out,2.07,Premier Liga,2016,2016/2017
+Rubin Kazan,Mauricio Lemos,20,Centre-Back,UD Las Palmas,£1.80m,out,1.8,Premier Liga,2016,2016/2017
+Rubin Kazan,Marko Livaja,22,Centre-Forward,UD Las Palmas,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Blagoy Georgiev,34,Central Midfield,Orenburg,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Sergey Kislyak,28,Defensive Midfield,Gaziantepspor,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Mubarak Wakaso,25,Central Midfield,Panathinaikos,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Marko Devic,33,Centre-Forward,Rostov,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Shota Bibilov,26,Right Winger,Volga-Olimpiets,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Samu García,26,Right Winger,CD Leganés,Loan,out,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Guillermo Cotugno,21,Right-Back,CA Talleres,Loan,out,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Magomed Ozdoev,24,Central Midfield,Terek Grozny,Loan,out,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Vladimir Sobolev,25,Right Midfield,Neftekhimik,Loan,out,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Maksim Batov,24,Central Midfield,Anzhi,?,out,NA,Premier Liga,2016,2016/2017
+Rubin Kazan,Andrii Pyliavskyi,27,Centre-Back,Vorskla,Loan,out,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Chris Mavinga,25,Left-Back,Toronto FC,?,out,NA,Premier Liga,2016,2016/2017
+Rubin Kazan,Maksim Batov,24,Central Midfield,Orenburg,Loan,out,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Aleksandr Filtsov,26,Goalkeeper,Anzhi,Loan,out,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Mamuka Kobakhidze,23,Centre-Back,Neftekhimik,Loan,out,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Emil Bergström,23,Centre-Back,Grasshoppers,Loan,out,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Kamil Mullin,22,Centre-Forward,Neftekhimik,Loan,out,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Andrii Pyliavskyi,28,Centre-Back,Zorya Luhansk,Loan,out,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Albert Sharipov,23,Central Midfield,Neftekhimik,Loan,out,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Solomon Kvirkvelia,25,Centre-Back,Loko Moscow,Loan,out,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Aleksandr Filtsov,26,Goalkeeper,Arsenal Tula,Loan,out,0,Premier Liga,2016,2016/2017
+Rubin Kazan,Sergey Davydov,30,Centre-Forward,Without Club,-,out,0,Premier Liga,2016,2016/2017
+Spartak Moscow,Fernando,24,Defensive Midfield,Sampdoria,£11.25m,in,11.25,Premier Liga,2016,2016/2017
+Spartak Moscow,Aleksandr Selikhov,22,Goalkeeper,Amkar Perm,£3.15m,in,3.15,Premier Liga,2016,2016/2017
+Spartak Moscow,Aleksandr Samedov,32,Right Winger,Loko Moscow,£3.15m,in,3.15,Premier Liga,2016,2016/2017
+Spartak Moscow,Roman Zobnin,22,Central Midfield,Dinamo Moscow,£2.70m,in,2.7,Premier Liga,2016,2016/2017
+Spartak Moscow,Georgiy Dzhikiya,23,Centre-Back,Amkar Perm,£2.12m,in,2.12,Premier Liga,2016,2016/2017
+Spartak Moscow,Maurício,27,Centre-Back,Lazio,Loan fee:£450k,in,0.45,Premier Liga,2016,2016/2017
+Spartak Moscow,Luiz Adriano,29,Centre-Forward,AC Milan,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Spartak Moscow,Andrey Eshchenko,32,Right-Back,Anzhi,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Spartak Moscow,Georgi Tigiev,21,Left-Back,Anzhi,Loan,in,0,Premier Liga,2016,2016/2017
+Spartak Moscow,Yura Movsisyan,29,Centre-Forward,Salt Lake,"End of loanDec 31, 2016",in,0,Premier Liga,2016,2016/2017
+Spartak Moscow,Pavel Yakovlev,25,Left Winger,KS Samara,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Spartak Moscow,Denis Davydov,21,Centre-Forward,Mladá Boleslav,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Spartak Moscow,Serdar Tasci,29,Centre-Back,Bayern Munich,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Spartak Moscow,Tino Costa,31,Central Midfield,Fiorentina,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Spartak Moscow,Yura Movsisyan,29,Centre-Forward,Salt Lake,£2.70m,out,2.7,Premier Liga,2016,2016/2017
+Spartak Moscow,Kirill Kombarov,29,Right-Back,Tom Tomsk,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Spartak Moscow,Sergey Parshivlyuk,27,Right-Back,Anzhi,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Spartak Moscow,Rômulo,26,Defensive Midfield,Flamengo,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Spartak Moscow,Aleksandr Zotov,25,Central Midfield,Dinamo Moscow,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Spartak Moscow,Vladimir Granat,29,Centre-Back,Rostov,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Spartak Moscow,Sergey Bryzgalov,23,Centre-Back,Terek Grozny,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Spartak Moscow,Tino Costa,31,Central Midfield,San Lorenzo,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Spartak Moscow,Pavel Yakovlev,25,Left Winger,Anzhi,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Spartak Moscow,Aleksandr Zuev,20,Left Winger,KS Samara,Loan,out,0,Premier Liga,2016,2016/2017
+Terek Grozny,Bernard Berisha,25,Left Winger,Anzhi,£2.25m,in,2.25,Premier Liga,2016,2016/2017
+Terek Grozny,Bekim Balaj,25,Centre-Forward,HNK Rijeka,£1.80m,in,1.8,Premier Liga,2016,2016/2017
+Terek Grozny,Gabriel Torje,26,Right Winger,Udinese Calcio,£900k,in,0.9,Premier Liga,2016,2016/2017
+Terek Grozny,Wílker Ángel,23,Centre-Back,Táchira,£450k,in,0.45,Premier Liga,2016,2016/2017
+Terek Grozny,Odise Roshi,25,Right Winger,HNK Rijeka,£450k,in,0.45,Premier Liga,2016,2016/2017
+Terek Grozny,Sergey Bryzgalov,23,Centre-Back,Spartak Moscow,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Terek Grozny,Norbert Gyömbér,24,Centre-Back,AS Roma,Loan,in,0,Premier Liga,2016,2016/2017
+Terek Grozny,Magomed Ozdoev,24,Central Midfield,Rubin Kazan,Loan,in,0,Premier Liga,2016,2016/2017
+Terek Grozny,Adlan Katsaev,28,Attacking Midfield,SKA Khabarovsk,"End of loanDec 31, 2016",in,0,Premier Liga,2016,2016/2017
+Terek Grozny,Tedore Grigalashvili,23,Centre-Back,Saburtalo,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Terek Grozny,Sergey Bryzgalov,24,Centre-Back,Anzhi,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Terek Grozny,Maciej Rybus,26,Left-Back,Olympique Lyon,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Terek Grozny,Luke Wilkshire,34,Right-Back,Dinamo Moscow,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Terek Grozny,Pedro Ken,29,Defensive Midfield,Ceará SC,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Terek Grozny,Kanu,28,Central Midfield,Buriram Utd.,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Terek Grozny,Juhani Ojala,27,Centre-Back,SJK Seinäjoki,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Terek Grozny,Adilson,30,Defensive Midfield,Atlético-MG,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Terek Grozny,Ismail Aissati,27,Attacking Midfield,Alanyaspor,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Terek Grozny,Adlan Katsaev,28,Attacking Midfield,Anzhi,Loan,out,0,Premier Liga,2016,2016/2017
+Terek Grozny,Marcin Komorowski,32,Centre-Back,Without Club,-,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Eric Bicfalvi,28,Attacking Midfield,Dinamo Bukarest,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Lukas Droppa,27,Defensive Midfield,Pandurii T.-Jiu,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,David Jablonsky,24,Centre-Back,FK Teplice,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Aleksandr Zhirov,25,Centre-Back,Anzhi,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Sergey Samodin,31,Centre-Forward,Mordovia,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Artem Popov,23,Right Winger,Zenit 2 S-Pb,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Ognjen Vranjes,26,Centre-Back,Sporting Gijón,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Kyrylo Kovalchuk,30,Central Midfield,Karsiyaka,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Aslan Dudiev,26,Right-Back,Mordovia,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Ante Puljic,28,Centre-Back,KAA Gent,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Aleksandr Kasyan,27,Centre-Forward,Fakel Voronezh,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Maksim Tishkin,26,Right-Back,Mordovia,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Kirill Kombarov,29,Right-Back,Spartak Moscow,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Petr Ten,23,Left-Back,CSKA Moscow II,?,in,NA,Premier Liga,2016,2016/2017
+Tom Tomsk,Anton Kochenkov,29,Goalkeeper,Loko Moscow,Loan,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Vitali Djakov,27,Centre-Back,Dinamo Moscow,Loan,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Dmitri Sasin,20,Right Midfield,Tom Tomsk II,-,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Mark Karymov,18,Centre-Back,Tom Tomsk II,-,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Dmitri Osipov,20,Centre-Back,Tom Tomsk II,-,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Aleksandr Sobolev,19,Centre-Forward,Tom Tomsk II,-,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Daniil Bolshunov,19,Defensive Midfield,Tom Tomsk II,-,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Ruslan Salakhutdinov,20,Left Midfield,Tom Tomsk II,-,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Aleksandr Melikhov,18,Goalkeeper,Tom Tomsk II,-,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Nikita Gvineyskiy,18,Defensive Midfield,Tom Tomsk II,-,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Aleksandr Bukachev,20,Right-Back,Tom Tomsk II,-,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Pavel Kudryashov,19,Right Winger,Tom 2 Tomsk,-,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Aleksandr Naumenko,19,Left Midfield,Tom Tomsk II,-,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Anton Miterev,20,Centre-Back,Tom Tomsk II,-,in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Artem Yarmolitskiy,22,Centre-Back,MIKA Aschtarak,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Pavel Kudryashov,20,Right Winger,KS Samara,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Kyrylo Kovalchuk,30,Central Midfield,Ordabasy,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Lukas Droppa,27,Defensive Midfield,Bandirmaspor,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Aleksandr Cherevko,28,Right-Back,SKA Khabarovsk,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Sergey Samodin,31,Centre-Forward,Enisey,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Petr Ten,24,Left-Back,Enisey,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Oleh Chuvaiev,28,Goalkeeper,Zorya Luhansk,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Andrey Lyakh,26,Defensive Midfield,Anzhi,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,David Jablonsky,25,Centre-Back,Levski Sofia,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Anzor Sanaia,27,Centre-Forward,Orenburg,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Ognjen Vranjes,27,Centre-Back,AEK Athens,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Pavel Nekhajchik,27,Left Winger,Orenburg,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Aslan Dudiev,26,Right-Back,Anzhi,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Eric Bicfalvi,28,Attacking Midfield,Ural,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Kirill Pogrebnyak,24,Centre-Forward,Zenit 2 S-Pb,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Martin Jiranek,37,Centre-Back,1.FK Pribram,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Maksim Tishkin,27,Right-Back,Baltika,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Ivan Temnikov,27,Right Midfield,Dinamo Moscow,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Aleksandr Zhirov,25,Centre-Back,Krasnodar,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Evgeni Bashkirov,24,Central Midfield,KS Samara,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Kirill Kombarov,29,Right-Back,Arsenal Tula,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Daniil Chalov,22,Right-Back,Mordovia,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Aleksandr Kasyan,28,Centre-Forward,Fakel Voronezh,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Sergey Bendz,33,Centre-Back,Kuban Krasnodar,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Maksim Bordachev,30,Left-Back,Orenburg,Loan,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Georgi Dzhioev,30,Centre-Back,Retired,-,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Anton Kochenkov,29,Goalkeeper,Loko Moscow,"End of loanDec 31, 2016",out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Nikita Bazhenov,31,Centre-Forward,Without Club,-,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Petr Nemov,32,Right Midfield,Retired,-,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Vitali Djakov,27,Centre-Back,Dinamo Moscow,"End of loanDec 31, 2016",out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Andrey Dyrdin,21,Defensive Midfield,Retired,-,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Artem Yarmolitskiy,22,Centre-Back,Without Club,-,out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Petr Ten,23,Left-Back,CSKA Moscow II,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Vitali Shakhov,25,Centre-Back,Fakel Voronezh,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Georgi Nurov,24,Right Winger,Ural,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Albert Sharipov,23,Central Midfield,Rubin Kazan,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+Tom Tomsk,Aleksandr Krivoruchko,31,Goalkeeper,Anzhi,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+FK Ufa,Kehinde Fatai,26,Centre-Forward,Sparta Praha,£1.17m,in,1.17,Premier Liga,2016,2016/2017
+FK Ufa,Ivan Paurevic,25,Defensive Midfield,Huddersfield,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Ufa,Bojan Jokic,30,Left-Back,Villarreal,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Ufa,Andrey Batyutin,21,Left Winger,Krasnodar 2,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Ufa,Mikhail Borodjko,22,Goalkeeper,Enisey,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Ufa,Catalin Carp,23,Defensive Midfield,FC Viitorul,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Ufa,Islamnur Abdulavov,22,Centre-Forward,Anzhi,Free Transfer,in,0,Premier Liga,2016,2016/2017
+FK Ufa,Ivan Oblyakov,17,Central Midfield,SDYuShOR Zenit,£8k,in,0.008,Premier Liga,2016,2016/2017
+FK Ufa,Dmitri Zhivoglyadov,22,Right-Back,Dinamo Moscow,?,in,NA,Premier Liga,2016,2016/2017
+FK Ufa,Aleksandr Putsko,23,Centre-Back,Spartak 2,?,in,NA,Premier Liga,2016,2016/2017
+FK Ufa,Ondrej Vanek,25,Central Midfield,Viktoria Plzen,?,in,NA,Premier Liga,2016,2016/2017
+FK Ufa,Aleksandr Belenov,30,Goalkeeper,Anzhi,?,in,NA,Premier Liga,2016,2016/2017
+FK Ufa,Viktor Vasin,27,Centre-Back,CSKA Moscow,Loan,in,0,Premier Liga,2016,2016/2017
+FK Ufa,Aleksandr Vasiljev,24,Right Winger,Neftekhimik,"End of loanDec 31, 2016",in,0,Premier Liga,2016,2016/2017
+FK Ufa,Bohdan Sarnavskyi,21,Goalkeeper,Without Club,-,in,0,Premier Liga,2016,2016/2017
+FK Ufa,Anton Kilin,25,Right Winger,KamAZ,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+FK Ufa,Maksim Semakin,32,Central Midfield,Luch Vladivostok,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+FK Ufa,Aleksandr Vasiljev,24,Right Winger,Torpedo Armavir,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+FK Ufa,David Yurchenko,30,Goalkeeper,Anzhi,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+FK Ufa,Nikita Bezlikhotnov,25,Right Winger,SKA-Energia,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+FK Ufa,Andrey Lunev,25,Goalkeeper,Zenit S-Pb,£3.15m,out,3.15,Premier Liga,2016,2016/2017
+FK Ufa,Oleksandr Zinchenko,19,Left-Back,Man City,£1.80m,out,1.8,Premier Liga,2016,2016/2017
+FK Ufa,Semen Fomin,28,Central Midfield,Ararat Moskau,Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Ufa,Evgeni Osipov,29,Centre-Back,Mordovia,Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Ufa,David Yurchenko,30,Goalkeeper,Anzhi,Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Ufa,Haris Handzic,26,Centre-Forward,HNK Rijeka,Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Ufa,Marcinho,30,Attacking Midfield,Gaziantepspor,Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Ufa,Diego,28,Left Winger,São Bento (SP),Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Ufa,Bohdan Sarnavskyi,21,Goalkeeper,Vorskla,Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Ufa,Aleksandr Katsalapov,30,Right-Back,Orenburg,Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Ufa,Anton Kilin,25,Right Winger,Luch Vladivostok,Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Ufa,Nikita Bezlikhotnov,25,Right Winger,Sibir,Free Transfer,out,0,Premier Liga,2016,2016/2017
+FK Ufa,Aleksandr Vasiljev,24,Right Winger,Neftekhimik,Loan,out,0,Premier Liga,2016,2016/2017
+FK Ufa,Sergey Narubin,34,Goalkeeper,Dinamo Moscow,?,out,NA,Premier Liga,2016,2016/2017
+FK Ufa,Maksim Semakin,32,Central Midfield,Enisey,Loan,out,0,Premier Liga,2016,2016/2017
+FK Ufa,Andrey Batyutin,21,Left Winger,Zenit 2 S-Pb,Loan,out,0,Premier Liga,2016,2016/2017
+FK Ufa,Ivan Paurevic,25,Defensive Midfield,Huddersfield,?,out,NA,Premier Liga,2016,2016/2017
+FK Ufa,Aleksandr Vasiljev,24,Right Winger,Without Club,-,out,0,Premier Liga,2016,2016/2017
+FK Ufa,Viktor Vasin,28,Centre-Back,CSKA Moscow,"End of loanDec 31, 2016",out,0,Premier Liga,2016,2016/2017
+FK Ufa,Marvin Pourié,25,Centre-Forward,FC Copenhagen,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Radovan Pankov,20,Centre-Back,Vojvodina,£270k,in,0.27,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Aleksandr Lomakin,21,Central Midfield,Enisey,£144k,in,0.144,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Vladimir Iljin,24,Centre-Forward,Kuban Krasnodar,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Aleksandr Pavlenko,31,Central Midfield,Shinnik,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Eric Bicfalvi,28,Attacking Midfield,Tom Tomsk,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Roman Pavlyuchenko,34,Centre-Forward,Kuban Krasnodar,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Jean-Jacques Bougouhi,24,Centre-Forward,Armavir,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Gregor Balazic,28,Centre-Back,Partizan,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Giorgi Chanturia,23,Right Winger,MSV Duisburg,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Georgi Zhukov,21,Central Midfield,Standard Res.,?,in,NA,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Nikolay Dimitrov,29,Right Winger,Slavia Sofia,?,in,NA,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Mohamed Konaté,18,Centre-Forward,FC Saxan,?,in,NA,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Nikita Glushkov,22,Left Winger,Sibir,?,in,NA,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Jimmy Tabidze,20,Centre-Back,KAA Gent II,Loan,in,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Denis Fomin,20,Centre-Back,Tambov,"End of loanAug 17, 2016",in,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Sergey Podoksenov,18,Central Midfield,Ural II,-,in,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Ivan Knyazev,24,Centre-Back,Riga,"End of loanDec 31, 2016",in,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Rezo Gavtadze,20,Left Midfield,Ural II,-,in,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Denis Fomin,20,Centre-Back,Tekstilshchik,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Georgi Nurov,24,Right Winger,Tom Tomsk,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Pablo Fontanello,32,Centre-Back,Ordabasy,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Aleksandr Sapeta,27,Central Midfield,Dinamo Moscow,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Mohamed Konaté,19,Centre-Forward,Babite,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Denis Dorozhkin,29,Centre-Forward,Tambov,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Edgar Manucharyan,29,Centre-Forward,Ratchaburi FC,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Ivan Knyazev,24,Centre-Back,KK Shevchenko,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Spartak Gogniev,35,Centre-Forward,Kuban Krasnodar,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Dmytro Bilonoh,21,Right Winger,Zirka,Loan,out,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Georgi Zhukov,22,Central Midfield,Kairat Almaty,?,out,NA,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Denis Fomin,20,Centre-Back,Tambov,Loan,out,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Denis Fomin,20,Centre-Back,Tekstilshchik,Loan,out,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Georgi Nurov,24,Right Winger,Patro Eisden,?,out,NA,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Yuri Zhevnov,35,Goalkeeper,Retired,-,out,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Kostiantyn Yaroshenko,29,Attacking Midfield,Without Club,-,out,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Aleksandr Ryazantsev,29,Central Midfield,Zenit S-Pb,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Nikita Burmistrov,26,Left Winger,Krasnodar,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+Ural Yekaterinburg,Aleksandr Martynovich,28,Centre-Back,Krasnodar,"End of loanJun 30, 2016",out,0,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Hernani,22,Defensive Midfield,Atlético-PR,£7.20m,in,7.2,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Giuliano,26,Attacking Midfield,Grêmio,£6.30m,in,6.3,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Robert Mak,25,Right Winger,PAOK Salonika,£3.15m,in,3.15,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Andrey Lunev,25,Goalkeeper,Ufa,£3.15m,in,3.15,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Yohan Mollo,27,Left Winger,KS Samara,£450k,in,0.45,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Ibragim Tsallagov,26,Right-Back,KS Samara,£360k,in,0.36,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Branislav Ivanovic,32,Centre-Back,Chelsea,Free Transfer,in,0,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Ivan Novoseltsev,25,Centre-Back,Rostov,?,in,NA,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Evgeni Chernov,24,Left-Back,Zenit 2 S-Pb,-,in,0,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Aleksandr Kerzhakov,33,Centre-Forward,FC Zürich,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Cristian Ansaldi,29,Left-Back,Genoa,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Luka Djordjevic,21,Centre-Forward,Ponferradina,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Ivan Solovjev,23,Left Winger,FC Lahti,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Pavel Mogilevets,23,Central Midfield,Rostov,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Aleksandr Ryazantsev,29,Central Midfield,Ural,"End of loanJun 30, 2016",in,0,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Hulk,29,Right Winger,SIPG,£50.22m,out,50.22,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Ezequiel Garay,29,Centre-Back,Valencia,£21.60m,out,21.6,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Axel Witsel,27,Defensive Midfield,TJ Quanjian,£18.00m,out,18,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Cristian Ansaldi,29,Left-Back,Genoa,£3.60m,out,3.6,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Pavel Mogilevets,23,Central Midfield,Rostov,£630k,out,0.63,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Vukasin Jovanovic,20,Centre-Back,G. Bordeaux,Loan,out,0,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Ivan Solovjev,23,Left Winger,Fakel Voronezh,Free Transfer,out,0,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Mikhail Kerzhakov,29,Goalkeeper,Orenburg,Loan,out,0,Premier Liga,2016,2016/2017
+Zenit St. Petersburg,Vyacheslav Malafeev,37,Goalkeeper,Retired,-,out,0,Premier Liga,2016,2016/2017

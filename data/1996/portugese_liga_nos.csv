@@ -1,0 +1,310 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+FC Porto,Jardel,22,Centre-Forward,Grêmio,£3.60m,in,3.6,Liga Nos,1996,1996/1997
+FC Porto,Barroso,25,Central Midfield,Braga,£450k,in,0.45,Liga Nos,1996,1996/1997
+FC Porto,Arnold Wetl,26,Central Midfield,Sturm Graz,Free Transfer,in,0,Liga Nos,1996,1996/1997
+FC Porto,Henrique Hilário,20,Goalkeeper,Coimbra,Free Transfer,in,0,Liga Nos,1996,1996/1997
+FC Porto,Sérgio Conceição,21,Right Winger,Felgueiras,?,in,NA,Liga Nos,1996,1996/1997
+FC Porto,Lula,30,Centre-Back,Belenenses SAD,?,in,NA,Liga Nos,1996,1996/1997
+FC Porto,João Costa,22,Defensive Midfield,Felgueiras,?,in,NA,Liga Nos,1996,1996/1997
+FC Porto,Artur,26,Forward,Boavista,?,in,NA,Liga Nos,1996,1996/1997
+FC Porto,Fernando Mendes,29,Left-Back,Belenenses SAD,?,in,NA,Liga Nos,1996,1996/1997
+FC Porto,Darko Butorovic,25,Right-Back,Hajduk Split,?,in,NA,Liga Nos,1996,1996/1997
+FC Porto,Andrzej Wozniak,30,Goalkeeper,Widzew Lodz,?,in,NA,Liga Nos,1996,1996/1997
+FC Porto,Zlatko Zahovic,25,Attacking Midfield,Vit. Guimarães,?,in,NA,Liga Nos,1996,1996/1997
+FC Porto,Rui Óscar,20,Right-Back,Leça,?,in,NA,Liga Nos,1996,1996/1997
+FC Porto,Vítor Baía,26,Goalkeeper,FC Barcelona,£5.85m,out,5.85,Liga Nos,1996,1996/1997
+FC Porto,Secretário,26,Right-Back,Real Madrid,£1.35m,out,1.35,Liga Nos,1996,1996/1997
+FC Porto,Jorge Couto,26,Right Midfield,Boavista,?,out,NA,Liga Nos,1996,1996/1997
+FC Porto,José Semedo,31,Central Midfield,Salgueiros,?,out,NA,Liga Nos,1996,1996/1997
+FC Porto,Péter Lipcsei,24,Central Midfield,Espinho,Loan,out,0,Liga Nos,1996,1996/1997
+FC Porto,Russell Latapy,27,Attacking Midfield,Boavista,?,out,NA,Liga Nos,1996,1996/1997
+FC Porto,Vítor Nóvoa,33,Goalkeeper,Vit. Guimarães,?,out,NA,Liga Nos,1996,1996/1997
+FC Porto,Quinzinho,22,Forward,Leiria,Loan,out,0,Liga Nos,1996,1996/1997
+FC Porto,Bino,24,Defensive Midfield,Marítimo,?,out,NA,Liga Nos,1996,1996/1997
+FC Porto,Bandeirinha,33,Right-Back,Felgueiras,?,out,NA,Liga Nos,1996,1996/1997
+FC Porto,Zé Carlos,31,Centre-Back,Marítimo,?,out,NA,Liga Nos,1996,1996/1997
+Sporting CP,Abdelilah Saber,22,Right-Back,Wydad AC,Free Transfer,in,0,Liga Nos,1996,1996/1997
+Sporting CP,Nélson,20,Goalkeeper,Torreense,?,in,NA,Liga Nos,1996,1996/1997
+Sporting CP,Luís Andrade,22,Defensive Midfield,Estrela Amadora,?,in,NA,Liga Nos,1996,1996/1997
+Sporting CP,Jean-Jacques Missé-Missé,27,Centre-Forward,RSC Charleroi,?,in,NA,Liga Nos,1996,1996/1997
+Sporting CP,Mustapha Hadji,24,Attacking Midfield,AS Nancy,?,in,NA,Liga Nos,1996,1996/1997
+Sporting CP,Gil Baiano,29,Right-Back,Paraná,?,in,NA,Liga Nos,1996,1996/1997
+Sporting CP,Filip De Wilde,31,Goalkeeper,RSC Anderlecht,?,in,NA,Liga Nos,1996,1996/1997
+Sporting CP,Luís Boa Morte,18,Left Midfield,Sporting U19,-,in,0,Liga Nos,1996,1996/1997
+Sporting CP,Marco Caneira,17,Centre-Back,Sporting U19,-,in,0,Liga Nos,1996,1996/1997
+Sporting CP,Pedrosa,24,Central Midfield,Gil Vicente,"End of loanJun 30, 1996",in,0,Liga Nos,1996,1996/1997
+Sporting CP,Beto,20,Centre-Back,Campomaiorense,"End of loanJun 30, 1996",in,0,Liga Nos,1996,1996/1997
+Sporting CP,Porfírio,22,Left Midfield,Leiria,"End of loanJun 30, 1996",in,0,Liga Nos,1996,1996/1997
+Sporting CP,Dani,19,Attacking Midfield,West Ham,"End of loanJun 30, 1996",in,0,Liga Nos,1996,1996/1997
+Sporting CP,Noureddine Naybet,26,Centre-Back,Dep. La Coruña,£1.44m,out,1.44,Liga Nos,1996,1996/1997
+Sporting CP,Marco Caneira,17,Centre-Back,Lourinhanense,Loan,out,0,Liga Nos,1996,1996/1997
+Sporting CP,Luís Andrade,23,Defensive Midfield,Belenenses SAD,?,out,NA,Liga Nos,1996,1996/1997
+Sporting CP,Ahmed Ouattara,27,Centre-Forward,FC Sion,?,out,NA,Liga Nos,1996,1996/1997
+Sporting CP,Nélson,24,Right-Back,Aston Villa,?,out,NA,Liga Nos,1996,1996/1997
+Sporting CP,Assis,25,Attacking Midfield,FC Sion,?,out,NA,Liga Nos,1996,1996/1997
+Sporting CP,Dani,19,Attacking Midfield,Ajax,?,out,NA,Liga Nos,1996,1996/1997
+Sporting CP,Nuno Valente,21,Left-Back,Marítimo,Loan,out,0,Liga Nos,1996,1996/1997
+Sporting CP,Nuno Assis,18,Attacking Midfield,Lourinhã U19,?,out,NA,Liga Nos,1996,1996/1997
+Sporting CP,Luis Vasco,29,Goalkeeper,Chaves,?,out,NA,Liga Nos,1996,1996/1997
+Sporting CP,Porfírio,23,Left Midfield,West Ham,Loan,out,0,Liga Nos,1996,1996/1997
+Sporting CP,Filipe Ramos,26,Central Midfield,Marítimo,?,out,NA,Liga Nos,1996,1996/1997
+Sporting CP,Mauro Soares,27,Defensive Midfield,Unknown,?,out,NA,Liga Nos,1996,1996/1997
+SL Benfica,Ronaldo,22,Centre-Back,Atlético-MG,Free Transfer,in,0,Liga Nos,1996,1996/1997
+SL Benfica,Abdelkrim El Hadrioui,24,Left-Back,FAR Rabat,?,in,NA,Liga Nos,1996,1996/1997
+SL Benfica,Jamir,24,Defensive Midfield,Botafogo,?,in,NA,Liga Nos,1996,1996/1997
+SL Benfica,Washington Rodríguez,26,Midfielder,Dallas Burn,?,in,NA,Liga Nos,1996,1996/1997
+SL Benfica,Tiago,22,Defensive Midfield,Marítimo,?,in,NA,Liga Nos,1996,1996/1997
+SL Benfica,Martin Pringle,25,Centre-Forward,Helsingborg,?,in,NA,Liga Nos,1996,1996/1997
+SL Benfica,Lúcio Wagner,20,Left-Back,Corinthians,?,in,NA,Liga Nos,1996,1996/1997
+SL Benfica,Jorge Soares,24,Centre-Back,Farense,?,in,NA,Liga Nos,1996,1996/1997
+SL Benfica,Gustavo,27,Left-Back,Marítimo,?,in,NA,Liga Nos,1996,1996/1997
+SL Benfica,Valdir,24,Centre-Forward,Atlético-MG,?,in,NA,Liga Nos,1996,1996/1997
+SL Benfica,Tahar El Khalej,28,Centre-Back,Leiria,?,in,NA,Liga Nos,1996,1996/1997
+SL Benfica,Jorge Bermúdez,25,Centre-Back,CD América,?,in,NA,Liga Nos,1996,1996/1997
+SL Benfica,Tomislav Ivkovic,35,Goalkeeper,Belenenses SAD,?,in,NA,Liga Nos,1996,1996/1997
+SL Benfica,Donizete,27,Centre-Forward,Verdy Kawasaki,?,in,NA,Liga Nos,1996,1996/1997
+SL Benfica,Luis Gustavo,27,Midfielder,Marítimo,?,in,NA,Liga Nos,1996,1996/1997
+SL Benfica,Glenn Helder,28,Left Winger,Arsenal,Loan,in,0,Liga Nos,1996,1996/1997
+SL Benfica,Akwá,19,Centre-Forward,Alverca,"End of loanDec 31, 1996",in,0,Liga Nos,1996,1996/1997
+SL Benfica,Hugo Leal,16,Central Midfield,Benfica U19,-,in,0,Liga Nos,1996,1996/1997
+SL Benfica,Basarab Panduru,25,Attacking Midfield,Neuchâtel Xamax,"End of loanJun 30, 1996",in,0,Liga Nos,1996,1996/1997
+SL Benfica,Pedro Roma,25,Goalkeeper,Coimbra,"End of loanJun 1, 1996",in,0,Liga Nos,1996,1996/1997
+SL Benfica,Hélder Cristóvão,25,Centre-Back,Dep. La Coruña,£3.69m,out,3.69,Liga Nos,1996,1996/1997
+SL Benfica,Pedro Roma,25,Goalkeeper,Coimbra,Free Transfer,out,0,Liga Nos,1996,1996/1997
+SL Benfica,Maniche,18,Central Midfield,Alverca,Loan,out,0,Liga Nos,1996,1996/1997
+SL Benfica,José Veiga,19,Goalkeeper,Alverca,Free Transfer,out,0,Liga Nos,1996,1996/1997
+SL Benfica,Kenedy,22,Left-Back,Paris SG,Free Transfer,out,0,Liga Nos,1996,1996/1997
+SL Benfica,King,26,Centre-Back,LB Châteauroux,Free Transfer,out,0,Liga Nos,1996,1996/1997
+SL Benfica,Paulo Pereira,30,Right-Back,Genoa,?,out,NA,Liga Nos,1996,1996/1997
+SL Benfica,Nélson Veríssimo,19,Centre-Back,Alverca,?,out,NA,Liga Nos,1996,1996/1997
+SL Benfica,Luiz Gustavo,24,Forward,Internacional,?,out,NA,Liga Nos,1996,1996/1997
+SL Benfica,Washington Rodríguez,26,Midfielder,Liverpool FC,?,out,NA,Liga Nos,1996,1996/1997
+SL Benfica,Marcelo,26,Centre-Forward,Alavés,?,out,NA,Liga Nos,1996,1996/1997
+SL Benfica,Aílton,27,Centre-Forward,Portuguesa,?,out,NA,Liga Nos,1996,1996/1997
+SL Benfica,Valdo,32,Attacking Midfield,Nagoya Grampus,?,out,NA,Liga Nos,1996,1996/1997
+SL Benfica,Edgar,18,Right Winger,Alverca,Loan,out,0,Liga Nos,1996,1996/1997
+SL Benfica,Dimas,27,Left-Back,Juventus,?,out,NA,Liga Nos,1996,1996/1997
+SL Benfica,Nuno Sampaio,21,Goalkeeper,Alverca,?,out,NA,Liga Nos,1996,1996/1997
+SL Benfica,Paulo Bento,27,Defensive Midfield,Real Oviedo,?,out,NA,Liga Nos,1996,1996/1997
+SL Benfica,Ricardo Gomes,31,Centre-Back,Retired,-,out,0,Liga Nos,1996,1996/1997
+SL Benfica,Tomas Skuhravy,30,Centre-Forward,Retired,-,out,0,Liga Nos,1996,1996/1997
+SC Braga,Gamboa,23,Centre-Forward,Rio Ave FC,?,in,NA,Liga Nos,1996,1996/1997
+SC Braga,Idalécio,22,Centre-Back,Farense,?,in,NA,Liga Nos,1996,1996/1997
+SC Braga,Mozer,24,Central Midfield,Leixões,?,in,NA,Liga Nos,1996,1996/1997
+SC Braga,João Oliveira Pinto,24,Right Winger,Gil Vicente,?,in,NA,Liga Nos,1996,1996/1997
+SC Braga,Vanja Grubac,25,Centre-Forward,OFK Beograd,?,in,NA,Liga Nos,1996,1996/1997
+SC Braga,Castanheira,18,Central Midfield,Braga U19,-,in,0,Liga Nos,1996,1996/1997
+SC Braga,Barroso,25,Central Midfield,FC Porto,£450k,out,0.45,Liga Nos,1996,1996/1997
+SC Braga,Jorge Ferreira,30,Right-Back,Campomaiorense,?,out,NA,Liga Nos,1996,1996/1997
+SC Braga,Vado,27,Midfielder,Beja,?,out,NA,Liga Nos,1996,1996/1997
+SC Braga,Bo Andersson,27,Forward,Djurgarden,?,out,NA,Liga Nos,1996,1996/1997
+SC Braga,Eduardo Oliveira,20,Left-Back,Vianense,?,out,NA,Liga Nos,1996,1996/1997
+SC Braga,Stéphane Demol,30,Centre-Back,Panionios,?,out,NA,Liga Nos,1996,1996/1997
+SC Braga,Floris Schaap,31,Centre-Back,Olhanense,?,out,NA,Liga Nos,1996,1996/1997
+Vitória Guimarães SC,Branko Milovanovic,23,Midfielder,Dep. La Coruña,Free Transfer,in,0,Liga Nos,1996,1996/1997
+Vitória Guimarães SC,Fredrik Söderström,23,Central Midfield,Brage,?,in,NA,Liga Nos,1996,1996/1997
+Vitória Guimarães SC,Patrick Vervoort,31,Left Midfield,RKC Waalwijk,?,in,NA,Liga Nos,1996,1996/1997
+Vitória Guimarães SC,Marco Ciardi,27,Midfielder,AIK,?,in,NA,Liga Nos,1996,1996/1997
+Vitória Guimarães SC,Kasongo,25,Left-Back,AS Vita Club,?,in,NA,Liga Nos,1996,1996/1997
+Vitória Guimarães SC,Vítor Nóvoa,33,Goalkeeper,FC Porto,?,in,NA,Liga Nos,1996,1996/1997
+Vitória Guimarães SC,David Paas,25,Forward,Eendracht Aalst,?,in,NA,Liga Nos,1996,1996/1997
+Vitória Guimarães SC,Basílio Almeida,24,Forward,Salgueiros,?,in,NA,Liga Nos,1996,1996/1997
+Vitória Guimarães SC,Fernando Meira,18,Centre-Back,Guimarães U19,-,in,0,Liga Nos,1996,1996/1997
+Vitória Guimarães SC,Nuno Mendes,18,Centre-Back,Guimarães U19,-,in,0,Liga Nos,1996,1996/1997
+Vitória Guimarães SC,Nuno Espírito Santo,22,Goalkeeper,Dep. La Coruña,£2.25m,out,2.25,Liga Nos,1996,1996/1997
+Vitória Guimarães SC,Edinho,29,Centre-Forward,Bradford,£315k,out,0.315,Liga Nos,1996,1996/1997
+Vitória Guimarães SC,Armando,21,Forward,Bradford,?,out,NA,Liga Nos,1996,1996/1997
+Vitória Guimarães SC,Zlatko Zahovic,25,Attacking Midfield,FC Porto,?,out,NA,Liga Nos,1996,1996/1997
+Vitória Guimarães SC,Kasongo,26,Left-Back,Covilhã,Loan,out,0,Liga Nos,1996,1996/1997
+Vitória Guimarães SC,Nuno Claro,19,Goalkeeper,Fafe,?,out,NA,Liga Nos,1996,1996/1997
+Vitória Guimarães SC,José Soeiro,30,Defender,Espinho,?,out,NA,Liga Nos,1996,1996/1997
+Vitória Guimarães SC,N'Dinga Mbote,29,Central Midfield,AS Vita Club,?,out,NA,Liga Nos,1996,1996/1997
+Vitória Guimarães SC,Edinho,28,Forward,Bradford,?,out,NA,Liga Nos,1996,1996/1997
+Vitória Guimarães SC,Flávio Meireles,19,Defensive Midfield,Moreirense,-,out,0,Liga Nos,1996,1996/1997
+Vitória Guimarães SC,Dane Kuprešanin,29,Midfielder,Retired,-,out,0,Liga Nos,1996,1996/1997
+SC Salgueiros,José Semedo,31,Central Midfield,FC Porto,?,in,NA,Liga Nos,1996,1996/1997
+SC Salgueiros,Marcos Severo,31,Forward,Unknown,?,in,NA,Liga Nos,1996,1996/1997
+SC Salgueiros,Miguel Simao,23,Forward,Nacional,?,in,NA,Liga Nos,1996,1996/1997
+SC Salgueiros,Marcos Severo,31,Forward,Varzim,?,out,NA,Liga Nos,1996,1996/1997
+SC Salgueiros,Paulinho,21,Left Winger,Unknown,?,out,NA,Liga Nos,1996,1996/1997
+SC Salgueiros,Basílio Almeida,24,Forward,Vit. Guimarães,?,out,NA,Liga Nos,1996,1996/1997
+SC Salgueiros,Stevan Milovac,34,Midfielder,Retired,-,out,0,Liga Nos,1996,1996/1997
+Boavista Porto FC,Jimmy Floyd Hasselbaink,24,Centre-Forward,Campomaiorense,Free Transfer,in,0,Liga Nos,1996,1996/1997
+Boavista Porto FC,Isaias,28,Centre-Back,Leça,?,in,NA,Liga Nos,1996,1996/1997
+Boavista Porto FC,Leonson Lewis,30,Forward,Felgueiras,?,in,NA,Liga Nos,1996,1996/1997
+Boavista Porto FC,Russell Latapy,27,Attacking Midfield,FC Porto,?,in,NA,Liga Nos,1996,1996/1997
+Boavista Porto FC,Jorge Couto,26,Right Midfield,FC Porto,?,in,NA,Liga Nos,1996,1996/1997
+Boavista Porto FC,Pedro Emanuel,21,Centre-Back,Penafiel,?,in,NA,Liga Nos,1996,1996/1997
+Boavista Porto FC,Tulipa,23,Attacking Midfield,Belenenses SAD,?,in,NA,Liga Nos,1996,1996/1997
+Boavista Porto FC,Sasa Simic,27,Attacking Midfield,União Madeira,?,in,NA,Liga Nos,1996,1996/1997
+Boavista Porto FC,Rui Lima,18,Attacking Midfield,Boavista U19,-,in,0,Liga Nos,1996,1996/1997
+Boavista Porto FC,Martelinho,21,Right Winger,Alavés,"End of loanJun 30, 1996",in,0,Liga Nos,1996,1996/1997
+Boavista Porto FC,Ricardo Nascimento,22,Attacking Midfield,Desportivo Aves,"End of loanJun 30, 1996",in,0,Liga Nos,1996,1996/1997
+Boavista Porto FC,Zoran Ban,23,Centre-Forward,Pescara,?,out,NA,Liga Nos,1996,1996/1997
+Boavista Porto FC,Artur,26,Forward,FC Porto,?,out,NA,Liga Nos,1996,1996/1997
+Boavista Porto FC,Delfim,19,Central Midfield,Desportivo Aves,?,out,NA,Liga Nos,1996,1996/1997
+Boavista Porto FC,Rui Borges,22,Right Winger,Académico Viseu,?,out,NA,Liga Nos,1996,1996/1997
+Boavista Porto FC,Caetano,29,Left-Back,Belenenses SAD,?,out,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Neves,25,Right-Back,Belenenses SAD,?,in,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Zé Carlos,31,Centre-Back,FC Porto,?,in,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Julinho,22,Central Midfield,Botafogo,?,in,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Bino,24,Defensive Midfield,FC Porto,?,in,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Nuno Valente,21,Left-Back,Sporting CP,Loan,in,0,Liga Nos,1996,1996/1997
+CS Marítimo,Filipe Ramos,26,Central Midfield,Sporting CP,?,in,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Márcio António,20,Midfielder,Campo Grande,?,in,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Yves Van Der Straeten,25,Goalkeeper,Royal Antwerp,?,in,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Jorge Andrade,33,Second Striker,Machico,?,in,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Edgardo Simovic,21,Centre-Forward,Liverpool FC,Loan,in,0,Liga Nos,1996,1996/1997
+CS Marítimo,Daniel Teixeira,28,Centre-Forward,Nacional,?,in,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Patrick Asselman,27,Forward,FC Denderleeuw,?,in,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Rinaldo,30,Forward,Without Club,-,in,0,Liga Nos,1996,1996/1997
+CS Marítimo,Ferenc Hámori,23,Forward,ETO FC Győr,?,out,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Robson,22,Centre-Back,Atlético-PR,?,out,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Zoran Lemajic,35,Goalkeeper,Dunfermline A.,?,out,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Eusébio,22,Left-Back,Machico,Loan,out,0,Liga Nos,1996,1996/1997
+CS Marítimo,Cuca,24,Goalkeeper,Machico,?,out,NA,Liga Nos,1996,1996/1997
+CS Marítimo,João Luís,29,Centre-Back,Machico,?,out,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Ladeira,20,Midfielder,Machico,?,out,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Humberto Silva Nascimento,28,Centre-Back,Sport Recife,?,out,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Alexandre Margarido,26,Right-Back,Gil Vicente,?,out,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Gustavo,27,Left-Back,Benfica,?,out,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Luis Gustavo,27,Midfielder,Benfica,?,out,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Tiago,22,Defensive Midfield,Benfica,?,out,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Filgueira,29,Centre-Back,Belenenses SAD,?,out,NA,Liga Nos,1996,1996/1997
+CS Marítimo,Edgardo Simovic,21,Centre-Forward,Liverpool FC,"End of loanDec 31, 1996",out,0,Liga Nos,1996,1996/1997
+CF Estrela Amadora,Jasminko Velic,30,Attacking Midfield,AGS Kastoria,Free Transfer,in,0,Liga Nos,1996,1996/1997
+CF Estrela Amadora,José Leal,31,Left-Back,Felgueiras,?,in,NA,Liga Nos,1996,1996/1997
+CF Estrela Amadora,Gaúcho,23,Centre-Forward,Sport Recife,?,in,NA,Liga Nos,1996,1996/1997
+CF Estrela Amadora,Pedro Simões,21,Midfielder,O Elvas,?,in,NA,Liga Nos,1996,1996/1997
+CF Estrela Amadora,Hugo Costa,22,Centre-Back,Alverca,Free Transfer,out,0,Liga Nos,1996,1996/1997
+CF Estrela Amadora,Tico-Tico,22,Centre-Forward,Jomo Cosmos,?,out,NA,Liga Nos,1996,1996/1997
+CF Estrela Amadora,Ilia Voynov,32,Left Midfield,CSKA Sofia,?,out,NA,Liga Nos,1996,1996/1997
+CF Estrela Amadora,Luís Andrade,22,Defensive Midfield,Sporting CP,?,out,NA,Liga Nos,1996,1996/1997
+CF Estrela Amadora,Eliseu,27,Centre-Back,Felgueiras,?,out,NA,Liga Nos,1996,1996/1997
+CF Estrela Amadora,Paulo Sérgio,20,Right Midfield,Estoril,?,out,NA,Liga Nos,1996,1996/1997
+CF Estrela Amadora,Bambo,21,Forward,Farense,?,out,NA,Liga Nos,1996,1996/1997
+CF Estrela Amadora,Gonçalves,28,Left Midfield,Campomaiorense,?,out,NA,Liga Nos,1996,1996/1997
+CF Estrela Amadora,Poejo,22,Defensive Midfield,Leiria,"End of loanJun 30, 1996",out,0,Liga Nos,1996,1996/1997
+GD Chaves,Patrick Videira,19,Defensive Midfield,Paris SG B,Free Transfer,in,0,Liga Nos,1996,1996/1997
+GD Chaves,Mario Vojkovic,25,Forward,SV Feldkirchen,Free Transfer,in,0,Liga Nos,1996,1996/1997
+GD Chaves,Hilário Leal,22,Right-Back,Freamunde,?,in,NA,Liga Nos,1996,1996/1997
+GD Chaves,Toninho Cruz,27,Defensive Midfield,Coimbra,?,in,NA,Liga Nos,1996,1996/1997
+GD Chaves,Tito,24,Left-Back,Famalicão,?,in,NA,Liga Nos,1996,1996/1997
+GD Chaves,Nikola Milinkovic,28,Attacking Midfield,UD Almería,?,in,NA,Liga Nos,1996,1996/1997
+GD Chaves,Luis Vasco,29,Goalkeeper,Sporting CP,?,in,NA,Liga Nos,1996,1996/1997
+GD Chaves,Dragoslav Poleksic,25,Goalkeeper,Hajduk Kula,?,in,NA,Liga Nos,1996,1996/1997
+GD Chaves,Ovidiu Lucian Cuc,23,Forward,Marbella FC,?,in,NA,Liga Nos,1996,1996/1997
+GD Chaves,Roberto Matute,23,Centre-Forward,CD Logroñés,?,in,NA,Liga Nos,1996,1996/1997
+GD Chaves,Riça,18,Goalkeeper,Chaves U19,-,in,0,Liga Nos,1996,1996/1997
+GD Chaves,Rui Loja,24,Left Winger,Paços Ferreira,?,out,NA,Liga Nos,1996,1996/1997
+GD Chaves,Serrinha,31,Midfielder,Retired,-,out,0,Liga Nos,1996,1996/1997
+GD Chaves,Dino,35,Forward,Retired,-,out,0,Liga Nos,1996,1996/1997
+SC Farense,Marco Aurélio,26,Goalkeeper,Rio Ave FC,?,in,NA,Liga Nos,1996,1996/1997
+SC Farense,Fernando,28,Centre-Forward,SD Huesca,?,in,NA,Liga Nos,1996,1996/1997
+SC Farense,Bambo,21,Forward,Estrela Amadora,?,in,NA,Liga Nos,1996,1996/1997
+SC Farense,Raul Oliveira,23,Defender,Belenenses SAD,?,in,NA,Liga Nos,1996,1996/1997
+SC Farense,Manuel Monteiro,28,Left Winger,Tirsense,?,in,NA,Liga Nos,1996,1996/1997
+SC Farense,Nuno Amaro,20,Left-Back,Louletano,"End of loanJun 30, 1996",in,0,Liga Nos,1996,1996/1997
+SC Farense,Barrigana,24,Midfielder,Tirsense,Free Transfer,out,0,Liga Nos,1996,1996/1997
+SC Farense,Peter Rufai,33,Goalkeeper,Hércules CF,?,out,NA,Liga Nos,1996,1996/1997
+SC Farense,Idalécio,22,Centre-Back,Braga,?,out,NA,Liga Nos,1996,1996/1997
+SC Farense,Raul Oliveira,24,Defender,Bradford,?,out,NA,Liga Nos,1996,1996/1997
+SC Farense,Manuel Monteiro,29,Left Winger,Penafiel,?,out,NA,Liga Nos,1996,1996/1997
+SC Farense,Monteiro,29,Midfielder,Penafiel,?,out,NA,Liga Nos,1996,1996/1997
+SC Farense,Bambo,22,Forward,Felgueiras,?,out,NA,Liga Nos,1996,1996/1997
+SC Farense,Jorge Soares,24,Centre-Back,Benfica,?,out,NA,Liga Nos,1996,1996/1997
+Vitória Setúbal FC,Junaid Hartley,18,Midfielder,Wits University,?,in,NA,Liga Nos,1996,1996/1997
+Vitória Setúbal FC,Gaspar,21,Centre-Back,Tirsense,?,in,NA,Liga Nos,1996,1996/1997
+Vitória Setúbal FC,Chiquinho Conde,30,Centre-Forward,Belenenses SAD,?,in,NA,Liga Nos,1996,1996/1997
+Vitória Setúbal FC,Sylvain Sansone,28,Goalkeeper,Felgueiras,?,in,NA,Liga Nos,1996,1996/1997
+Vitória Setúbal FC,Kwame Ayew,22,Centre-Forward,Leiria,?,in,NA,Liga Nos,1996,1996/1997
+Vitória Setúbal FC,Nando Có,22,Forward,Arrifanense,?,in,NA,Liga Nos,1996,1996/1997
+Vitória Setúbal FC,Frechaut,18,Right-Back,Setúbal U19,-,in,0,Liga Nos,1996,1996/1997
+Vitória Setúbal FC,Nuno Curto,17,Forward,Setúbal U19,-,in,0,Liga Nos,1996,1996/1997
+Vitória Setúbal FC,Mário Loja,18,Left-Back,Setúbal U19,-,in,0,Liga Nos,1996,1996/1997
+Vitória Setúbal FC,Rui Manuel,29,Midfielder,Portimonense,?,out,NA,Liga Nos,1996,1996/1997
+Vitória Setúbal FC,Sandro Mendes,19,Defensive Midfield,Hércules CF,?,out,NA,Liga Nos,1996,1996/1997
+Vitória Setúbal FC,Portela,20,Defender,Portimonense,?,out,NA,Liga Nos,1996,1996/1997
+Vitória Setúbal FC,Hernâni,32,Defensive Midfield,Beja,?,out,NA,Liga Nos,1996,1996/1997
+Vitória Setúbal FC,João de Deus,19,Right-Back,Beja,?,out,NA,Liga Nos,1996,1996/1997
+Vitória Setúbal FC,Marco Tábuas,19,Goalkeeper,Beja,Loan,out,0,Liga Nos,1996,1996/1997
+Vitória Setúbal FC,Silvino Morais,30,Goalkeeper,Belenenses SAD,?,out,NA,Liga Nos,1996,1996/1997
+Vitória Setúbal FC,Edmundo,32,Centre-Back,Beja,?,out,NA,Liga Nos,1996,1996/1997
+Vitória Setúbal FC,Chiquinho Conde,31,Centre-Forward,Revolution,?,out,NA,Liga Nos,1996,1996/1997
+Vitória Setúbal FC,Eric Tinkler,25,Defensive Midfield,Cagliari Calcio,?,out,NA,Liga Nos,1996,1996/1997
+Belenenses SAD,Pedro Valido,26,Defender,Tirsense,?,in,NA,Liga Nos,1996,1996/1997
+Belenenses SAD,Filgueira,29,Centre-Back,Marítimo,?,in,NA,Liga Nos,1996,1996/1997
+Belenenses SAD,Silvino Morais,30,Goalkeeper,Vitória Setúbal,?,in,NA,Liga Nos,1996,1996/1997
+Belenenses SAD,Caetano,29,Left-Back,Boavista,?,in,NA,Liga Nos,1996,1996/1997
+Belenenses SAD,Abdoul Salam Sow,26,Midfielder,Chunnam Dragons,?,in,NA,Liga Nos,1996,1996/1997
+Belenenses SAD,Amaral,26,Right Winger,Felgueiras,?,in,NA,Liga Nos,1996,1996/1997
+Belenenses SAD,Luís Andrade,23,Defensive Midfield,Sporting CP,?,in,NA,Liga Nos,1996,1996/1997
+Belenenses SAD,Paulo Fonseca,23,Centre-Back,Leça,?,in,NA,Liga Nos,1996,1996/1997
+Belenenses SAD,Marco Silva,18,Right-Back,Belenenses U19,-,in,0,Liga Nos,1996,1996/1997
+Belenenses SAD,Everton Giovanella,25,Central Midfield,UD Salamanca,?,out,NA,Liga Nos,1996,1996/1997
+Belenenses SAD,Raul Oliveira,23,Defender,Farense,?,out,NA,Liga Nos,1996,1996/1997
+Belenenses SAD,César Brito,31,Centre-Forward,UD Salamanca,?,out,NA,Liga Nos,1996,1996/1997
+Belenenses SAD,Paulo Gomes,26,Midfielder,FC Sochaux,?,out,NA,Liga Nos,1996,1996/1997
+Belenenses SAD,Tomislav Ivkovic,35,Goalkeeper,Benfica,?,out,NA,Liga Nos,1996,1996/1997
+Belenenses SAD,Quim,22,Centre-Forward,Paços Ferreira,?,out,NA,Liga Nos,1996,1996/1997
+Belenenses SAD,Tulipa,23,Attacking Midfield,Boavista,?,out,NA,Liga Nos,1996,1996/1997
+Belenenses SAD,Lula,30,Centre-Back,FC Porto,?,out,NA,Liga Nos,1996,1996/1997
+Belenenses SAD,António Pacheco,29,Left Winger,Reggiana,?,out,NA,Liga Nos,1996,1996/1997
+Belenenses SAD,Fernando Mendes,29,Left-Back,FC Porto,?,out,NA,Liga Nos,1996,1996/1997
+Belenenses SAD,Neves,25,Right-Back,Marítimo,?,out,NA,Liga Nos,1996,1996/1997
+Belenenses SAD,José Taira,27,Midfielder,UD Salamanca,?,out,NA,Liga Nos,1996,1996/1997
+Belenenses SAD,Chiquinho Conde,30,Centre-Forward,Vitória Setúbal,?,out,NA,Liga Nos,1996,1996/1997
+Leça FC,Milic Jovanovic,30,Goalkeeper,Nacional,?,in,NA,Liga Nos,1996,1996/1997
+Leça FC,Pedro Franco,22,Centre-Back,Nacional,?,in,NA,Liga Nos,1996,1996/1997
+Leça FC,Valeriano de Oliveira,21,Forward,Unknown,?,in,NA,Liga Nos,1996,1996/1997
+Leça FC,Paulinho,23,Second Striker,América-MG,?,out,NA,Liga Nos,1996,1996/1997
+Leça FC,Luciano,29,Goalkeeper,Castelo Branco,?,out,NA,Liga Nos,1996,1996/1997
+Leça FC,Best,27,Goalkeeper,Tirsense,?,out,NA,Liga Nos,1996,1996/1997
+Leça FC,Paulo Fonseca,23,Centre-Back,Belenenses SAD,?,out,NA,Liga Nos,1996,1996/1997
+Leça FC,Isaias,28,Centre-Back,Boavista,?,out,NA,Liga Nos,1996,1996/1997
+Leça FC,Rui Óscar,20,Right-Back,FC Porto,?,out,NA,Liga Nos,1996,1996/1997
+Leça FC,Jaime Magalhães,33,Right Midfield,Retired,-,out,0,Liga Nos,1996,1996/1997
+Rio Ave FC,Marco Aurélio,26,Goalkeeper,Santa Cruz,?,in,NA,Liga Nos,1996,1996/1997
+Rio Ave FC,Aziz El Ouali,25,Attacking Midfield,Le Mans UC 72,?,in,NA,Liga Nos,1996,1996/1997
+Rio Ave FC,Sob Evariste Dibo,27,Attacking Midfield,Vejle BK,?,in,NA,Liga Nos,1996,1996/1997
+Rio Ave FC,Tiago Borges,17,Goalkeeper,Rio Ave FC U19,-,in,0,Liga Nos,1996,1996/1997
+Rio Ave FC,Luís Coentrão,19,Attacking Midfield,Rio Ave FC U19,-,in,0,Liga Nos,1996,1996/1997
+Rio Ave FC,Marco Aurélio,26,Goalkeeper,Farense,?,out,NA,Liga Nos,1996,1996/1997
+Rio Ave FC,Rifa,29,Left Winger,Famalicão,?,out,NA,Liga Nos,1996,1996/1997
+Rio Ave FC,António Resende,26,Midfielder,Beja,?,out,NA,Liga Nos,1996,1996/1997
+Rio Ave FC,Gamboa,23,Centre-Forward,Braga,?,out,NA,Liga Nos,1996,1996/1997
+Rio Ave FC,Mirsad Omerhodzic,29,Attacking Midfield,Beira-Mar,?,out,NA,Liga Nos,1996,1996/1997
+Rio Ave FC,Carlos Brito,32,Defender,Retired,-,out,0,Liga Nos,1996,1996/1997
+SC Espinho,Rochinha,21,Midfielder,União Lamas,Free Transfer,in,0,Liga Nos,1996,1996/1997
+SC Espinho,Péter Lipcsei,24,Central Midfield,FC Porto,Loan,in,0,Liga Nos,1996,1996/1997
+SC Espinho,Artur Jorge Vicente,23,Forward,Beja,?,in,NA,Liga Nos,1996,1996/1997
+SC Espinho,Amílcar Delgado,30,Midfielder,Portimonense,?,in,NA,Liga Nos,1996,1996/1997
+SC Espinho,Caetano,29,Attacking Midfield,Tirsense,?,in,NA,Liga Nos,1996,1996/1997
+SC Espinho,José Soeiro,30,Defender,Vit. Guimarães,?,in,NA,Liga Nos,1996,1996/1997
+SC Espinho,László Répási,30,Forward,Vác,?,out,NA,Liga Nos,1996,1996/1997
+SC Espinho,Goran Milosavljevic,29,Defender,VfB Oldenburg,?,out,NA,Liga Nos,1996,1996/1997
+SC Espinho,Moisés,18,Central Midfield,Lourinhanense,?,out,NA,Liga Nos,1996,1996/1997
+União de Leiria,Luís Vouzela,22,Central Midfield,Académico Viseu,?,in,NA,Liga Nos,1996,1996/1997
+União de Leiria,Stojan Belajic,27,Defender,Austria Vienna,?,in,NA,Liga Nos,1996,1996/1997
+União de Leiria,Robson,22,Centre-Forward,Goiás EC,?,in,NA,Liga Nos,1996,1996/1997
+União de Leiria,Adamo Ramos Martins,25,Goalkeeper,Esposende,?,in,NA,Liga Nos,1996,1996/1997
+União de Leiria,Sérgio Nunes,21,Centre-Back,Desportivo Aves,?,in,NA,Liga Nos,1996,1996/1997
+União de Leiria,Quinzinho,22,Forward,FC Porto,Loan,in,0,Liga Nos,1996,1996/1997
+União de Leiria,Miguel  Xavier,18,Central Midfield,Leiria U19,-,in,0,Liga Nos,1996,1996/1997
+União de Leiria,Vasco Évora,17,Goalkeeper,Leiria U19,-,in,0,Liga Nos,1996,1996/1997
+União de Leiria,Poejo,22,Defensive Midfield,Estrela Amadora,"End of loanJun 30, 1996",in,0,Liga Nos,1996,1996/1997
+União de Leiria,Kwame Ayew,22,Centre-Forward,Vitória Setúbal,?,out,NA,Liga Nos,1996,1996/1997
+União de Leiria,Sérgio,27,Centre-Back,Lus. Lourosa,?,out,NA,Liga Nos,1996,1996/1997
+União de Leiria,Tahar El Khalej,28,Centre-Back,Benfica,?,out,NA,Liga Nos,1996,1996/1997
+União de Leiria,Manuel Cabral,NA,Left-Back,Beira-Mar,?,out,NA,Liga Nos,1996,1996/1997
+União de Leiria,Michael Kimmel,30,Midfielder,Vila Real,?,out,NA,Liga Nos,1996,1996/1997
+União de Leiria,Porfírio,22,Left Midfield,Sporting CP,"End of loanJun 30, 1996",out,0,Liga Nos,1996,1996/1997
+Gil Vicente FC,Alexandre Margarido,26,Right-Back,Marítimo,?,in,NA,Liga Nos,1996,1996/1997
+Gil Vicente FC,Paulo Vida,25,Centre-Forward,LB Châteauroux,?,in,NA,Liga Nos,1996,1996/1997
+Gil Vicente FC,Formoso,22,Left Winger,Infesta,?,in,NA,Liga Nos,1996,1996/1997
+Gil Vicente FC,Pedro Caravana,17,Left Winger,Gil Vicente FC U19,-,in,0,Liga Nos,1996,1996/1997
+Gil Vicente FC,Ricardo Ramires,20,Right Midfield,Alverca,Free Transfer,out,0,Liga Nos,1996,1996/1997
+Gil Vicente FC,Luciano,27,Centre-Forward,Americano,?,out,NA,Liga Nos,1996,1996/1997
+Gil Vicente FC,João Oliveira Pinto,24,Right Winger,Braga,?,out,NA,Liga Nos,1996,1996/1997
+Gil Vicente FC,Mandla Zwane,23,Forward,Selangor FA,?,out,NA,Liga Nos,1996,1996/1997
+Gil Vicente FC,Pedrosa,24,Central Midfield,Sporting CP,"End of loanJun 30, 1996",out,0,Liga Nos,1996,1996/1997

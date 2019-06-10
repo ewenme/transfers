@@ -1,0 +1,388 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Sporting CP,César Prates,24,Right-Back,Corinthians,£1.13m,in,1.13,Liga Nos,1999,1999/2000
+Sporting CP,Mbo Mpenza,23,Centre-Forward,Standard Liège,Free Transfer,in,0,Liga Nos,1999,1999/2000
+Sporting CP,André Cruz,31,Centre-Back,Torino,Free Transfer,in,0,Liga Nos,1999,1999/2000
+Sporting CP,Toñito,22,Right Midfield,Vitória Setúbal,Free Transfer,in,0,Liga Nos,1999,1999/2000
+Sporting CP,Peter Schmeichel,35,Goalkeeper,Man Utd,Free Transfer,in,0,Liga Nos,1999,1999/2000
+Sporting CP,Marco Almeida,22,Centre-Back,Campomaiorense,?,in,NA,Liga Nos,1999,1999/2000
+Sporting CP,Robert Spehar,29,Centre-Forward,Chievo Verona,?,in,NA,Liga Nos,1999,1999/2000
+Sporting CP,Marcos,24,Centre-Back,PSV Eindhoven,?,in,NA,Liga Nos,1999,1999/2000
+Sporting CP,Hugo,22,Centre-Back,Sampdoria,?,in,NA,Liga Nos,1999,1999/2000
+Sporting CP,Kwame Ayew,25,Centre-Forward,Boavista,?,in,NA,Liga Nos,1999,1999/2000
+Sporting CP,Mauricio Hanuch,22,Central Midfield,Independiente,?,in,NA,Liga Nos,1999,1999/2000
+Sporting CP,Rui Jorge,26,Left-Back,FC Porto,?,in,NA,Liga Nos,1999,1999/2000
+Sporting CP,Juan Viveros,18,Left Winger,Lourinhanense,?,in,NA,Liga Nos,1999,1999/2000
+Sporting CP,Toni Robaina,24,Left Midfield,UD Las Palmas,?,in,NA,Liga Nos,1999,1999/2000
+Sporting CP,Ivone De Franceschi,25,Left Winger,AC Venezia 1907,?,in,NA,Liga Nos,1999,1999/2000
+Sporting CP,Julián Andrés Kmet,21,Left Winger,Lanús,?,in,NA,Liga Nos,1999,1999/2000
+Sporting CP,Marco Caneira,20,Centre-Back,Beira-Mar,"End of loanJun 30, 1999",in,0,Liga Nos,1999,1999/2000
+Sporting CP,Patacas,21,Right-Back,Santa Clara,"End of loanJun 30, 1999",in,0,Liga Nos,1999,1999/2000
+Sporting CP,Simão,19,Left Winger,FC Barcelona,£2.70m,out,2.7,Liga Nos,1999,1999/2000
+Sporting CP,Marco Caneira,20,Centre-Back,Alverca,Loan,out,0,Liga Nos,1999,1999/2000
+Sporting CP,Pedrosa,27,Central Midfield,Salgueiros,?,out,NA,Liga Nos,1999,1999/2000
+Sporting CP,Tiago Ferreira,24,Goalkeeper,Estrela Amadora,Loan,out,0,Liga Nos,1999,1999/2000
+Sporting CP,Bruno Marioni,24,Left Winger,Independiente,?,out,NA,Liga Nos,1999,1999/2000
+Sporting CP,Petar Krpan,25,Centre-Forward,Leiria,?,out,NA,Liga Nos,1999,1999/2000
+Sporting CP,Nuno Valente,24,Left-Back,Leiria,?,out,NA,Liga Nos,1999,1999/2000
+Sporting CP,Nuno Santos,20,Goalkeeper,Lourinhanense,Loan,out,0,Liga Nos,1999,1999/2000
+Sporting CP,Marco Almeida,22,Centre-Back,Southampton,?,out,NA,Liga Nos,1999,1999/2000
+Sporting CP,Patacas,21,Right-Back,Santa Clara,Loan,out,0,Liga Nos,1999,1999/2000
+Sporting CP,Santamaria,17,Centre-Back,Lourinhanense,Loan,out,0,Liga Nos,1999,1999/2000
+Sporting CP,Souleymane Cisse,21,Midfielder,W. Bremen II,?,out,NA,Liga Nos,1999,1999/2000
+Sporting CP,Juan Viveros,19,Left Winger,Alverca,?,out,NA,Liga Nos,1999,1999/2000
+Sporting CP,Gabriel Heinze,21,Centre-Back,Real Valladolid,"End of loanJun 30, 1999",out,0,Liga Nos,1999,1999/2000
+FC Porto,Argel Fucks,25,Centre-Back,Santos FC,£2.70m,in,2.7,Liga Nos,1999,1999/2000
+FC Porto,Domingos Paciência,30,Centre-Forward,CD Tenerife,£1.71m,in,1.71,Liga Nos,1999,1999/2000
+FC Porto,Rubens Júnior,25,Left-Back,Palmeiras,£1.53m,in,1.53,Liga Nos,1999,1999/2000
+FC Porto,Duda,25,Centre-Forward,Rio Ave FC,"End of loanJun 30, 1999",in,0,Liga Nos,1999,1999/2000
+FC Porto,Candido Costa,18,Right Midfield,Salgueiros,?,in,NA,Liga Nos,1999,1999/2000
+FC Porto,Romeu,24,Centre-Forward,Marítimo,?,in,NA,Liga Nos,1999,1999/2000
+FC Porto,Alessandro Cambalhota,26,Right Winger,Santos FC,?,in,NA,Liga Nos,1999,1999/2000
+FC Porto,Cajú,23,Forward,Alverca,Loan,in,0,Liga Nos,1999,1999/2000
+FC Porto,Ricardo Silva,23,Centre-Back,Leiria,?,in,NA,Liga Nos,1999,1999/2000
+FC Porto,Rodolfo,22,Defensive Midfield,Estrela Amadora,?,in,NA,Liga Nos,1999,1999/2000
+FC Porto,Clayton,24,Left Winger,Santa Clara,?,in,NA,Liga Nos,1999,1999/2000
+FC Porto,Joca,18,Defensive Midfield,FC Porto U19,-,in,0,Liga Nos,1999,1999/2000
+FC Porto,Delfim,18,Left Winger,FC Porto U19,-,in,0,Liga Nos,1999,1999/2000
+FC Porto,Correia,20,Centre-Back,Maia,"End of loanJun 30, 1999",in,0,Liga Nos,1999,1999/2000
+FC Porto,António Folha,28,Left Winger,Standard Liège,"End of loanJun 30, 1999",in,0,Liga Nos,1999,1999/2000
+FC Porto,Darko Butorovic,27,Right-Back,Vitesse,"End of loanJun 30, 1998",in,0,Liga Nos,1999,1999/2000
+FC Porto,Henrique Hilário,23,Goalkeeper,Estrela Amadora,"End of loanJun 30, 1999",in,0,Liga Nos,1999,1999/2000
+FC Porto,Joca,19,Right-Back,Leça,"End of loanJun 30, 1999",in,0,Liga Nos,1999,1999/2000
+FC Porto,Zlatko Zahovic,28,Attacking Midfield,Olympiacos,£12.15m,out,12.15,Liga Nos,1999,1999/2000
+FC Porto,Ricardo Carvalho,21,Centre-Back,Vitória Setúbal,Loan,out,0,Liga Nos,1999,1999/2000
+FC Porto,Miklós Fehér,19,Centre-Forward,Salgueiros,Loan,out,0,Liga Nos,1999,1999/2000
+FC Porto,Duda,25,Centre-Forward,Alverca,?,out,NA,Liga Nos,1999,1999/2000
+FC Porto,Rui Jorge,26,Left-Back,Sporting CP,?,out,NA,Liga Nos,1999,1999/2000
+FC Porto,Grzegorz Mielcarski,28,Centre-Forward,UD Salamanca,?,out,NA,Liga Nos,1999,1999/2000
+FC Porto,Fernando Mendes,32,Left-Back,Belenenses SAD,?,out,NA,Liga Nos,1999,1999/2000
+FC Porto,Darko Butorovic,28,Right-Back,Farense,?,out,NA,Liga Nos,1999,1999/2000
+FC Porto,Quinzinho,25,Forward,Rayo Vallecano,?,out,NA,Liga Nos,1999,1999/2000
+FC Porto,Rodolfo,23,Defensive Midfield,Beira-Mar,?,out,NA,Liga Nos,1999,1999/2000
+FC Porto,Costinha,25,Goalkeeper,CD Tenerife,?,out,NA,Liga Nos,1999,1999/2000
+FC Porto,Basarab Panduru,28,Attacking Midfield,Salgueiros,?,out,NA,Liga Nos,1999,1999/2000
+FC Porto,Youssef Chippo,26,Central Midfield,Coventry,?,out,NA,Liga Nos,1999,1999/2000
+SL Benfica,Ricardo Rojas,28,Right-Back,Estudiantes,£1.08m,in,1.08,Liga Nos,1999,1999/2000
+SL Benfica,Abdelsatar Sabry,25,Second Striker,PAOK Salonika,£720k,in,0.72,Liga Nos,1999,1999/2000
+SL Benfica,João Tomás,24,Centre-Forward,Coimbra,£450k,in,0.45,Liga Nos,1999,1999/2000
+SL Benfica,Robert Enke,21,Goalkeeper,Bor. M'gladbach,Free Transfer,in,0,Liga Nos,1999,1999/2000
+SL Benfica,Triantafyllos Macheridis,26,Defensive Midfield,PAOK Salonika,Free Transfer,in,0,Liga Nos,1999,1999/2000
+SL Benfica,Nuno Santos,26,Goalkeeper,Leeds,?,in,NA,Liga Nos,1999,1999/2000
+SL Benfica,Dani,22,Attacking Midfield,Ajax,?,in,NA,Liga Nos,1999,1999/2000
+SL Benfica,Samuel Okunowo,20,Right-Back,FC Barcelona,Loan,in,0,Liga Nos,1999,1999/2000
+SL Benfica,Toy,22,Centre-Forward,Sintrense,?,in,NA,Liga Nos,1999,1999/2000
+SL Benfica,Erwin Sánchez,29,Attacking Midfield,Boavista,?,in,NA,Liga Nos,1999,1999/2000
+SL Benfica,Tote,20,Attacking Midfield,Real Madrid,Loan,in,0,Liga Nos,1999,1999/2000
+SL Benfica,Sérgio Nunes,24,Centre-Back,Leiria,?,in,NA,Liga Nos,1999,1999/2000
+SL Benfica,Cristian Uribe,23,Central Midfield,Colo Colo,?,in,NA,Liga Nos,1999,1999/2000
+SL Benfica,Carlos Bossio,25,Goalkeeper,Estudiantes,?,in,NA,Liga Nos,1999,1999/2000
+SL Benfica,Rui Baião,18,Attacking Midfield,Benfica U19,-,in,0,Liga Nos,1999,1999/2000
+SL Benfica,Carlos Mota,18,Attacking Midfield,Benfica U19,-,in,0,Liga Nos,1999,1999/2000
+SL Benfica,Jorge Ribeiro,18,Left-Back,Benfica U19,-,in,0,Liga Nos,1999,1999/2000
+SL Benfica,Porfírio,25,Left Midfield,Nottm Forest,"End of loanJun 30, 1999",in,0,Liga Nos,1999,1999/2000
+SL Benfica,José Soares,23,Centre-Back,Alverca,"End of loanJun 30, 1999",in,0,Liga Nos,1999,1999/2000
+SL Benfica,Maniche,21,Central Midfield,Alverca,"End of loanJun 30, 1999",in,0,Liga Nos,1999,1999/2000
+SL Benfica,Nandinho,26,Right Winger,Alverca,"End of loanJun 30, 1999",in,0,Liga Nos,1999,1999/2000
+SL Benfica,Marco Freitas,26,Defensive Midfield,Alverca,"End of loanJun 30, 1999",in,0,Liga Nos,1999,1999/2000
+SL Benfica,Mark Pembridge,28,Left Midfield,Everton,£900k,out,0.9,Liga Nos,1999,1999/2000
+SL Benfica,Steve Harkness,28,Left-Back,Blackburn,£540k,out,0.54,Liga Nos,1999,1999/2000
+SL Benfica,Tahar El Khalej,31,Centre-Back,Southampton,£450k,out,0.45,Liga Nos,1999,1999/2000
+SL Benfica,Hugo Leal,19,Central Midfield,Atlético Madrid,Free Transfer,out,0,Liga Nos,1999,1999/2000
+SL Benfica,Carlos Bossio,25,Goalkeeper,Vitória Setúbal,Loan,out,0,Liga Nos,1999,1999/2000
+SL Benfica,Dean Saunders,35,Centre-Forward,Bradford,Free Transfer,out,0,Liga Nos,1999,1999/2000
+SL Benfica,Erwin Sánchez,30,Attacking Midfield,Boavista,?,out,NA,Liga Nos,1999,1999/2000
+SL Benfica,Gary Charles,29,Right-Back,West Ham,?,out,NA,Liga Nos,1999,1999/2000
+SL Benfica,Pepa,19,Centre-Forward,Lierse SK,Loan,out,0,Liga Nos,1999,1999/2000
+SL Benfica,Paulo Lopes,21,Goalkeeper,Gil Vicente,?,out,NA,Liga Nos,1999,1999/2000
+SL Benfica,José Soares,23,Centre-Back,Campomaiorense,?,out,NA,Liga Nos,1999,1999/2000
+SL Benfica,Sergey Ovchinnikov,28,Goalkeeper,Alverca,?,out,NA,Liga Nos,1999,1999/2000
+SL Benfica,Jorge Cadete,31,Centre-Forward,Bradford,?,out,NA,Liga Nos,1999,1999/2000
+SL Benfica,Sousa,21,Right-Back,Alverca,?,out,NA,Liga Nos,1999,1999/2000
+SL Benfica,Nandinho,26,Right Winger,Vit. Guimarães,?,out,NA,Liga Nos,1999,1999/2000
+SL Benfica,Marco Freitas,26,Defensive Midfield,Benfica B,-,out,0,Liga Nos,1999,1999/2000
+SL Benfica,Michel Preud'homme,40,Goalkeeper,Retired,-,out,0,Liga Nos,1999,1999/2000
+Boavista Porto FC,Demétrios,28,Centre-Forward,Campomaiorense,Free Transfer,in,0,Liga Nos,1999,1999/2000
+Boavista Porto FC,Erwin Sánchez,30,Attacking Midfield,Benfica,?,in,NA,Liga Nos,1999,1999/2000
+Boavista Porto FC,Ricardo Silva,22,Right Winger,Gil Vicente,?,in,NA,Liga Nos,1999,1999/2000
+Boavista Porto FC,Erivan,24,Left-Back,Surubim,?,in,NA,Liga Nos,1999,1999/2000
+Boavista Porto FC,Whelliton,26,Forward,Corinthians,?,in,NA,Liga Nos,1999,1999/2000
+Boavista Porto FC,César de Loma,23,Left Midfield,Atl. Madrid B,?,in,NA,Liga Nos,1999,1999/2000
+Boavista Porto FC,Nílton,20,Central Midfield,Esposende,?,in,NA,Liga Nos,1999,1999/2000
+Boavista Porto FC,Sérgio Carvalho,22,Centre-Back,Castêlo Maia,?,in,NA,Liga Nos,1999,1999/2000
+Boavista Porto FC,Formoso,25,Left Winger,Braga,?,in,NA,Liga Nos,1999,1999/2000
+Boavista Porto FC,Gilmar,32,Forward,Vit. Guimarães,?,in,NA,Liga Nos,1999,1999/2000
+Boavista Porto FC,Emanuel,23,Central Midfield,Rio Ave FC,?,in,NA,Liga Nos,1999,1999/2000
+Boavista Porto FC,Carlos Alberto,24,Defender,Campinense-PB,?,in,NA,Liga Nos,1999,1999/2000
+Boavista Porto FC,Pedro Costa,17,Right-Back,Boavista U19,-,in,0,Liga Nos,1999,1999/2000
+Boavista Porto FC,Pedro Albergaria,18,Goalkeeper,Boavista U19,-,in,0,Liga Nos,1999,1999/2000
+Boavista Porto FC,Almami Moreira,21,Attacking Midfield,Gil Vicente,"End of loanJun 30, 1999",in,0,Liga Nos,1999,1999/2000
+Boavista Porto FC,Rui Lima,21,Attacking Midfield,Desportivo Aves,"End of loanJun 30, 1999",in,0,Liga Nos,1999,1999/2000
+Boavista Porto FC,Nené,19,Defensive Midfield,Vilafranquense,Free Transfer,out,0,Liga Nos,1999,1999/2000
+Boavista Porto FC,Erwin Sánchez,29,Attacking Midfield,Benfica,?,out,NA,Liga Nos,1999,1999/2000
+Boavista Porto FC,Paulo Sousa,18,Defensive Midfield,Desportivo Aves,?,out,NA,Liga Nos,1999,1999/2000
+Boavista Porto FC,Sérgio Leite,19,Goalkeeper,Maia,?,out,NA,Liga Nos,1999,1999/2000
+Boavista Porto FC,Rui Lima,21,Attacking Midfield,Chaves,Loan,out,0,Liga Nos,1999,1999/2000
+Boavista Porto FC,Ricardo Silva,22,Right Winger,Freamunde,?,out,NA,Liga Nos,1999,1999/2000
+Boavista Porto FC,César de Loma,24,Left Midfield,CP Mérida,Loan,out,0,Liga Nos,1999,1999/2000
+Boavista Porto FC,Alexandre,25,Right-Back,Chaves,?,out,NA,Liga Nos,1999,1999/2000
+Boavista Porto FC,João Paulo,19,Centre-Forward,Desportivo Aves,Loan,out,0,Liga Nos,1999,1999/2000
+Boavista Porto FC,Formoso,25,Left Winger,Santa Clara,?,out,NA,Liga Nos,1999,1999/2000
+Boavista Porto FC,Injai Braíma,23,Defensive Midfield,Desportivo Aves,?,out,NA,Liga Nos,1999,1999/2000
+Boavista Porto FC,Cavaco,27,Forward,Farense,?,out,NA,Liga Nos,1999,1999/2000
+Boavista Porto FC,Kwame Ayew,25,Centre-Forward,Sporting CP,?,out,NA,Liga Nos,1999,1999/2000
+Boavista Porto FC,Erivan,24,Left-Back,Freamunde,?,out,NA,Liga Nos,1999,1999/2000
+Boavista Porto FC,Sergiy Atelkin,27,Centre-Forward,Lecce,"End of loanJun 30, 1999",out,0,Liga Nos,1999,1999/2000
+Gil Vicente FC,Fangueiro,22,Right Winger,Maia,Free Transfer,in,0,Liga Nos,1999,1999/2000
+Gil Vicente FC,Carlos André,28,Central Midfield,Penafiel,?,in,NA,Liga Nos,1999,1999/2000
+Gil Vicente FC,Petit,22,Defensive Midfield,Esposende,?,in,NA,Liga Nos,1999,1999/2000
+Gil Vicente FC,Paulo Lopes,21,Goalkeeper,Benfica,?,in,NA,Liga Nos,1999,1999/2000
+Gil Vicente FC,Peter Rufai,35,Goalkeeper,Dep. La Coruña,?,in,NA,Liga Nos,1999,1999/2000
+Gil Vicente FC,Carlitos,22,Right Winger,Estrela Amadora,?,in,NA,Liga Nos,1999,1999/2000
+Gil Vicente FC,Ricardo Nascimento,25,Attacking Midfield,Desportivo Aves,?,in,NA,Liga Nos,1999,1999/2000
+Gil Vicente FC,Auri,25,Centre-Back,Vit. Guimarães,?,in,NA,Liga Nos,1999,1999/2000
+Gil Vicente FC,Zé Nando,23,Left-Back,Leça,?,in,NA,Liga Nos,1999,1999/2000
+Gil Vicente FC,Carlos,26,Centre-Back,Leça,?,in,NA,Liga Nos,1999,1999/2000
+Gil Vicente FC,Marquinhos,24,Midfielder,Nacional,?,in,NA,Liga Nos,1999,1999/2000
+Gil Vicente FC,Ovidiu Lucian Cuc,26,Forward,Santa Clara,?,in,NA,Liga Nos,1999,1999/2000
+Gil Vicente FC,Wilson,30,Centre-Back,Belenenses SAD,Free Transfer,out,0,Liga Nos,1999,1999/2000
+Gil Vicente FC,Rui Ferreira,26,Defensive Midfield,Salgueiros,?,out,NA,Liga Nos,1999,1999/2000
+Gil Vicente FC,Dinis,32,Centre-Back,Maia,?,out,NA,Liga Nos,1999,1999/2000
+Gil Vicente FC,Eduardo Oliveira,24,Left-Back,Esposende,?,out,NA,Liga Nos,1999,1999/2000
+Gil Vicente FC,Ricardo Silva,22,Right Winger,Boavista,?,out,NA,Liga Nos,1999,1999/2000
+Gil Vicente FC,Almami Moreira,21,Attacking Midfield,Boavista,"End of loanJun 30, 1999",out,0,Liga Nos,1999,1999/2000
+CS Marítimo,Musa Shannon,24,Centre-Forward,Tampa Bay,Free Transfer,in,0,Liga Nos,1999,1999/2000
+CS Marítimo,Paulo Pereira,22,Defensive Midfield,Trofense,Free Transfer,in,0,Liga Nos,1999,1999/2000
+CS Marítimo,Ilian Iliev,30,Attacking Midfield,Levski Sofia,Free Transfer,in,0,Liga Nos,1999,1999/2000
+CS Marítimo,Ion Sburlea,28,Centre-Back,FC National,?,in,NA,Liga Nos,1999,1999/2000
+CS Marítimo,Jörg Smeets,29,Midfielder,CD Cruz Azul,?,in,NA,Liga Nos,1999,1999/2000
+CS Marítimo,Joel Santos,24,Attacking Midfield,Camara Lobos,?,in,NA,Liga Nos,1999,1999/2000
+CS Marítimo,Mariano Toedtli,23,Centre-Forward,Huracán,?,in,NA,Liga Nos,1999,1999/2000
+CS Marítimo,João Oliveira Pinto,27,Right Winger,Farense,?,in,NA,Liga Nos,1999,1999/2000
+CS Marítimo,João Flores,19,Central Midfield,Atlético CP,?,in,NA,Liga Nos,1999,1999/2000
+CS Marítimo,Marius Sumudica,28,Forward,Rapid Bucharest,?,in,NA,Liga Nos,1999,1999/2000
+CS Marítimo,Hugo Morais,21,Central Midfield,Vendas Novas,?,in,NA,Liga Nos,1999,1999/2000
+CS Marítimo,Nuno Afonso,24,Centre-Back,Paços Ferreira,?,in,NA,Liga Nos,1999,1999/2000
+CS Marítimo,Alexander Bunbury,32,Forward,Wizards,?,out,NA,Liga Nos,1999,1999/2000
+CS Marítimo,Ico,26,Midfielder,Camacha,?,out,NA,Liga Nos,1999,1999/2000
+CS Marítimo,Romeu,24,Centre-Forward,FC Porto,?,out,NA,Liga Nos,1999,1999/2000
+CS Marítimo,Pedro Paulo,25,Central Midfield,Camacha,?,out,NA,Liga Nos,1999,1999/2000
+CS Marítimo,Patrick Asselman,31,Forward,FC Denderleeuw,?,out,NA,Liga Nos,1999,1999/2000
+CS Marítimo,Tulipa,26,Attacking Midfield,Farense,?,out,NA,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Sergio Júnior,20,Centre-Forward,Cruzeiro B,Free Transfer,in,0,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Carlos Lima,21,Right Midfield,Fafe,Free Transfer,in,0,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Pedro Mendes,20,Defensive Midfield,Felgueiras,?,in,NA,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Lixa,22,Left Winger,Felgueiras,?,in,NA,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Nandinho,26,Right Winger,Benfica,?,in,NA,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Nuno Claro,22,Goalkeeper,Paços Ferreira,?,in,NA,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Carlos Pérez,27,Attacking Midfield,Chaves,?,in,NA,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Rêgo,20,Attacking Midfield,Fafe,?,in,NA,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Preto Casagrande,24,Midfielder,EC Vitória,?,in,NA,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Kipulo,17,Centre-Back,Guimarães U19,-,in,0,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Bruno Tiago,18,Central Midfield,Guimarães U19,-,in,0,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Fernando Meira,21,Centre-Back,Felgueiras,"End of loanJun 30, 1999",in,0,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Alexander Östlund,20,Right-Back,Norrköping,Free Transfer,out,0,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Duda,19,Left Midfield,Cádiz CF,Free Transfer,out,0,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Evando,22,Centre-Forward,EC Vitória,Loan,out,0,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Basílio Almeida,27,Forward,Salgueiros,?,out,NA,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Vítor Paneira,33,Right Midfield,Coimbra,?,out,NA,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Gilmar,32,Forward,Boavista,?,out,NA,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Auri,25,Centre-Back,Gil Vicente,?,out,NA,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,José Carlos,32,Right-Back,Belenenses SAD,?,out,NA,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Kasongo,28,Left-Back,Chaves,?,out,NA,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Arley,27,Defender,Campomaiorense,?,out,NA,Liga Nos,1999,1999/2000
+Vitória Guimarães SC,Neno,37,Goalkeeper,Retired,-,out,0,Liga Nos,1999,1999/2000
+CF Estrela Amadora,Tiago Ferreira,24,Goalkeeper,Sporting CP,Loan,in,0,Liga Nos,1999,1999/2000
+CF Estrela Amadora,Verona,25,Attacking Midfield,Vila Nova FC,?,in,NA,Liga Nos,1999,1999/2000
+CF Estrela Amadora,Hugo Évora,17,Centre-Back,E. Amadora U19,-,in,0,Liga Nos,1999,1999/2000
+CF Estrela Amadora,Miguel,19,Right-Back,E. Amadora U19,-,in,0,Liga Nos,1999,1999/2000
+CF Estrela Amadora,Gaúcho,26,Centre-Forward,CD Ourense,"End of loanJun 30, 1999",in,0,Liga Nos,1999,1999/2000
+CF Estrela Amadora,Rodolfo,22,Defensive Midfield,FC Porto,?,out,NA,Liga Nos,1999,1999/2000
+CF Estrela Amadora,Carlitos,22,Right Winger,Gil Vicente,?,out,NA,Liga Nos,1999,1999/2000
+CF Estrela Amadora,Paulo Ferreira,25,Forward,Farense,Loan,out,0,Liga Nos,1999,1999/2000
+CF Estrela Amadora,António Fonseca,34,Left-Back,Retired,-,out,0,Liga Nos,1999,1999/2000
+CF Estrela Amadora,Henrique Hilário,23,Goalkeeper,FC Porto,"End of loanJun 30, 1999",out,0,Liga Nos,1999,1999/2000
+SC Braga,Ricardo Rocha,20,Centre-Back,Famalicão,Free Transfer,in,0,Liga Nos,1999,1999/2000
+SC Braga,Puma,20,Defensive Midfield,Dragões,Free Transfer,in,0,Liga Nos,1999,1999/2000
+SC Braga,Luís Filipe,20,Right-Back,Atl. Madrid B,?,in,NA,Liga Nos,1999,1999/2000
+SC Braga,Zé Gomes,23,Right-Back,Montalegre,?,in,NA,Liga Nos,1999,1999/2000
+SC Braga,José Luis Deus,22,Centre-Forward,Hércules CF,?,in,NA,Liga Nos,1999,1999/2000
+SC Braga,Nuno Cavaleiro,23,Right Winger,Famalicão,?,in,NA,Liga Nos,1999,1999/2000
+SC Braga,Barroso,28,Central Midfield,Coimbra,?,in,NA,Liga Nos,1999,1999/2000
+SC Braga,Kata,21,Defensive Midfield,Torres Novas,?,in,NA,Liga Nos,1999,1999/2000
+SC Braga,Jean Paulista,21,Centre-Forward,Farense,?,in,NA,Liga Nos,1999,1999/2000
+SC Braga,Sob Evariste Dibo,30,Attacking Midfield,Rio Ave FC,?,in,NA,Liga Nos,1999,1999/2000
+SC Braga,Tiago,18,Central Midfield,Braga U19,-,in,0,Liga Nos,1999,1999/2000
+SC Braga,Jean Paulista,22,Centre-Forward,Desportivo Aves,Free Transfer,out,0,Liga Nos,1999,1999/2000
+SC Braga,Luis Carlos,30,Midfielder,Santa Clara,?,out,NA,Liga Nos,1999,1999/2000
+SC Braga,Zé Gomes,23,Right-Back,Bragança,?,out,NA,Liga Nos,1999,1999/2000
+SC Braga,Vitor Pereira,20,Defensive Midfield,Chaves,?,out,NA,Liga Nos,1999,1999/2000
+SC Braga,Formoso,25,Left Winger,Boavista,?,out,NA,Liga Nos,1999,1999/2000
+SC Braga,Gamboa,26,Centre-Forward,Santa Clara,?,out,NA,Liga Nos,1999,1999/2000
+SC Braga,Dmitri Prokopenko,27,Centre-Forward,Santa Clara,?,out,NA,Liga Nos,1999,1999/2000
+SC Braga,Sérgio,32,Defender,Santa Clara,?,out,NA,Liga Nos,1999,1999/2000
+SC Braga,Mladen Karoglan,35,Forward,Retired,-,out,0,Liga Nos,1999,1999/2000
+União de Leiria,Derlei,23,Centre-Forward,Madureira Esporte Clube (RJ),£135k,in,0.135,Liga Nos,1999,1999/2000
+União de Leiria,Pedro Mingote,18,Goalkeeper,FC Porto U19,Free Transfer,in,0,Liga Nos,1999,1999/2000
+União de Leiria,Marçal,24,Defender,Madureira Esporte Clube (RJ),Free Transfer,in,0,Liga Nos,1999,1999/2000
+União de Leiria,Petar Krpan,25,Centre-Forward,Sporting CP,?,in,NA,Liga Nos,1999,1999/2000
+União de Leiria,Renato,26,Centre-Back,Vitória Setúbal,?,in,NA,Liga Nos,1999,1999/2000
+União de Leiria,Nuno Valente,24,Left-Back,Sporting CP,?,in,NA,Liga Nos,1999,1999/2000
+União de Leiria,Ramos,18,Centre-Back,FC Porto U19,?,in,NA,Liga Nos,1999,1999/2000
+União de Leiria,Paulo Alves,29,Centre-Forward,SC Bastia,?,in,NA,Liga Nos,1999,1999/2000
+União de Leiria,Paulo Vida,27,Centre-Forward,Penafiel,?,in,NA,Liga Nos,1999,1999/2000
+União de Leiria,João Paulo,18,Centre-Back,Leiria U19,-,in,0,Liga Nos,1999,1999/2000
+União de Leiria,Chiquinho Delgado,18,Centre-Forward,Leiria U19,-,in,0,Liga Nos,1999,1999/2000
+União de Leiria,Morgado,27,Centre-Back,Coimbra,Free Transfer,out,0,Liga Nos,1999,1999/2000
+União de Leiria,Nii Lamptey,24,Attacking Midfield,Greuther Fürth,Free Transfer,out,0,Liga Nos,1999,1999/2000
+União de Leiria,Ido,23,Midfielder,Maia,?,out,NA,Liga Nos,1999,1999/2000
+União de Leiria,Habib Sissoko,28,Centre-Forward,Royal Cappellen FC,?,out,NA,Liga Nos,1999,1999/2000
+União de Leiria,Maxwell Konadu,27,Forward,Beira-Mar,?,out,NA,Liga Nos,1999,1999/2000
+União de Leiria,Ricardo Silva,23,Centre-Back,FC Porto,?,out,NA,Liga Nos,1999,1999/2000
+União de Leiria,Sérgio Nunes,24,Centre-Back,Benfica,?,out,NA,Liga Nos,1999,1999/2000
+União de Leiria,José Tavares,34,Central Midfield,Paços Ferreira,?,out,NA,Liga Nos,1999,1999/2000
+União de Leiria,Chiquinho Delgado,18,Centre-Forward,Naval,?,out,NA,Liga Nos,1999,1999/2000
+União de Leiria,Paulo Vida,28,Centre-Forward,Paços Ferreira,?,out,NA,Liga Nos,1999,1999/2000
+União de Leiria,Artur Jorge Vicente,26,Forward,Rio Ave FC,?,out,NA,Liga Nos,1999,1999/2000
+União de Leiria,Bakero,21,Left Winger,Sevilla FC,?,out,NA,Liga Nos,1999,1999/2000
+União de Leiria,José Fernando Tavares,34,Midfielder,Infesta,?,out,NA,Liga Nos,1999,1999/2000
+FC Alverca,Zé António,22,Centre-Back,Leça,Free Transfer,in,0,Liga Nos,1999,1999/2000
+FC Alverca,Paulo Costa,19,Attacking Midfield,Lourinhanense,Free Transfer,in,0,Liga Nos,1999,1999/2000
+FC Alverca,Marco Caneira,20,Centre-Back,Sporting CP,Loan,in,0,Liga Nos,1999,1999/2000
+FC Alverca,Duda,25,Centre-Forward,FC Porto,?,in,NA,Liga Nos,1999,1999/2000
+FC Alverca,Nélson Veríssimo,22,Centre-Back,Coimbra,?,in,NA,Liga Nos,1999,1999/2000
+FC Alverca,Nuno Assis,21,Attacking Midfield,Lourinhanense,?,in,NA,Liga Nos,1999,1999/2000
+FC Alverca,Gaspar,24,Centre-Back,Leça,?,in,NA,Liga Nos,1999,1999/2000
+FC Alverca,Vasili Kulkov,33,Centre-Back,KS Samara,?,in,NA,Liga Nos,1999,1999/2000
+FC Alverca,Juan Viveros,19,Left Winger,Sporting CP,?,in,NA,Liga Nos,1999,1999/2000
+FC Alverca,Sousa,21,Right-Back,Benfica,?,in,NA,Liga Nos,1999,1999/2000
+FC Alverca,Gilber,23,Defender,Corinthians,?,in,NA,Liga Nos,1999,1999/2000
+FC Alverca,Miner,28,Midfielder,FC Cartagena,?,in,NA,Liga Nos,1999,1999/2000
+FC Alverca,Sergey Ovchinnikov,28,Goalkeeper,Benfica,?,in,NA,Liga Nos,1999,1999/2000
+FC Alverca,Bernardo,21,Defensive Midfield,Lourinhanense,?,in,NA,Liga Nos,1999,1999/2000
+FC Alverca,Alhandra,20,Left-Back,Without Club,-,in,0,Liga Nos,1999,1999/2000
+FC Alverca,Hugo Santos,21,Left Winger,Seixal,"End of loanJun 30, 1999",in,0,Liga Nos,1999,1999/2000
+FC Alverca,Cajú,23,Forward,FC Porto,Loan,out,0,Liga Nos,1999,1999/2000
+FC Alverca,Ilshat Faizulin,26,Centre-Forward,Farense,?,out,NA,Liga Nos,1999,1999/2000
+FC Alverca,Valente,34,Goalkeeper,Coimbra,?,out,NA,Liga Nos,1999,1999/2000
+FC Alverca,António Valente,29,Left-Back,Nacional,?,out,NA,Liga Nos,1999,1999/2000
+FC Alverca,Pedro Valido,29,Defender,Operário,?,out,NA,Liga Nos,1999,1999/2000
+FC Alverca,Hugo Santos,21,Left Winger,Olivais,Loan,out,0,Liga Nos,1999,1999/2000
+FC Alverca,Ricardo Esteves,19,Right Midfield,Vitória Setúbal,?,out,NA,Liga Nos,1999,1999/2000
+FC Alverca,Lima,32,Left Winger,Retired,-,out,0,Liga Nos,1999,1999/2000
+FC Alverca,Andrey Ivanov,32,Centre-Back,Retired,-,out,0,Liga Nos,1999,1999/2000
+FC Alverca,João Pires,28,Forward,Retired,-,out,0,Liga Nos,1999,1999/2000
+FC Alverca,Nandinho,26,Right Winger,Benfica,"End of loanJun 30, 1999",out,0,Liga Nos,1999,1999/2000
+FC Alverca,Marco Freitas,26,Defensive Midfield,Benfica,"End of loanJun 30, 1999",out,0,Liga Nos,1999,1999/2000
+FC Alverca,José Soares,23,Centre-Back,Benfica,"End of loanJun 30, 1999",out,0,Liga Nos,1999,1999/2000
+FC Alverca,Maniche,21,Central Midfield,Benfica,"End of loanJun 30, 1999",out,0,Liga Nos,1999,1999/2000
+Belenenses SAD,Wilson,30,Centre-Back,Gil Vicente,Free Transfer,in,0,Liga Nos,1999,1999/2000
+Belenenses SAD,Filipe Gouveia,26,Left Midfield,Farense,?,in,NA,Liga Nos,1999,1999/2000
+Belenenses SAD,Rui Duarte,20,Central Midfield,GDRC Os Sandinenses,?,in,NA,Liga Nos,1999,1999/2000
+Belenenses SAD,Haruna Doda,24,Forward,Enugu Rangers,?,in,NA,Liga Nos,1999,1999/2000
+Belenenses SAD,Cafú,21,Centre-Forward,Amora FC,?,in,NA,Liga Nos,1999,1999/2000
+Belenenses SAD,José Carlos,32,Right-Back,Vit. Guimarães,?,in,NA,Liga Nos,1999,1999/2000
+Belenenses SAD,Rui Pataca,26,Centre-Forward,Felgueiras,?,in,NA,Liga Nos,1999,1999/2000
+Belenenses SAD,Fernando Mendes,32,Left-Back,FC Porto,?,in,NA,Liga Nos,1999,1999/2000
+Belenenses SAD,Fajardo,20,Attacking Midfield,Pescadores,?,in,NA,Liga Nos,1999,1999/2000
+Belenenses SAD,Pedro Alves,20,Goalkeeper,Pescadores,"End of loanJun 30, 1999",in,0,Liga Nos,1999,1999/2000
+Belenenses SAD,Rui Pataca,26,Centre-Forward,Montpellier,?,out,NA,Liga Nos,1999,1999/2000
+Belenenses SAD,Quim,25,Centre-Forward,Dundee United,?,out,NA,Liga Nos,1999,1999/2000
+Belenenses SAD,Roberto Matute,26,Centre-Forward,Dundee FC,?,out,NA,Liga Nos,1999,1999/2000
+Belenenses SAD,Fajardo,21,Attacking Midfield,Atlético CP,?,out,NA,Liga Nos,1999,1999/2000
+Belenenses SAD,Paulo Dias,21,Defensive Midfield,Coimbra,?,out,NA,Liga Nos,1999,1999/2000
+Belenenses SAD,Filipe Gouveia,26,Left Midfield,Montpellier,?,out,NA,Liga Nos,1999,1999/2000
+Belenenses SAD,Jojó,28,Central Midfield,Espinho,?,out,NA,Liga Nos,1999,1999/2000
+Belenenses SAD,Ricardo Aires,20,Centre-Back,Imortal,?,out,NA,Liga Nos,1999,1999/2000
+Belenenses SAD,Perdigão,22,Defensive Midfield,Atlético-PR,"End of loanJun 30, 1999",out,0,Liga Nos,1999,1999/2000
+SC Campomaiorense,José Soares,23,Centre-Back,Benfica,?,in,NA,Liga Nos,1999,1999/2000
+SC Campomaiorense,Hugo Cunha,22,Attacking Midfield,Barreirense,?,in,NA,Liga Nos,1999,1999/2000
+SC Campomaiorense,César Cáceres,22,Left Winger,Luqueño,?,in,NA,Liga Nos,1999,1999/2000
+SC Campomaiorense,Poejo,25,Defensive Midfield,Desportivo Aves,?,in,NA,Liga Nos,1999,1999/2000
+SC Campomaiorense,Arley,27,Defender,Vit. Guimarães,?,in,NA,Liga Nos,1999,1999/2000
+SC Campomaiorense,Torrão,22,Defensive Midfield,União Lamas,?,in,NA,Liga Nos,1999,1999/2000
+SC Campomaiorense,Marco Silva,21,Right-Back,Trofense,?,in,NA,Liga Nos,1999,1999/2000
+SC Campomaiorense,Vítor Manuel,28,Attacking Midfield,Farense,Free Transfer,out,0,Liga Nos,1999,1999/2000
+SC Campomaiorense,Demétrios,28,Centre-Forward,Boavista,Free Transfer,out,0,Liga Nos,1999,1999/2000
+SC Campomaiorense,István Vincze,32,Left Winger,Santa Clara,?,out,NA,Liga Nos,1999,1999/2000
+SC Campomaiorense,Quim Machado,32,Right-Back,Maia,?,out,NA,Liga Nos,1999,1999/2000
+SC Campomaiorense,Carlos Fernandes,21,Left-Back,Farense,?,out,NA,Liga Nos,1999,1999/2000
+SC Campomaiorense,Isaias,35,Second Striker,Cabofriense,?,out,NA,Liga Nos,1999,1999/2000
+SC Campomaiorense,Marco Almeida,22,Centre-Back,Sporting CP,?,out,NA,Liga Nos,1999,1999/2000
+SC Campomaiorense,Basílio Marques,33,Left-Back,Famalicão,?,out,NA,Liga Nos,1999,1999/2000
+SC Campomaiorense,Jorge Ferreira,33,Right-Back,União Madeira,?,out,NA,Liga Nos,1999,1999/2000
+SC Campomaiorense,Mauro Soares,30,Defensive Midfield,Retired,-,out,0,Liga Nos,1999,1999/2000
+SC Farense,Lucian Marinescu,27,Attacking Midfield,UD Salamanca,Loan,in,0,Liga Nos,1999,1999/2000
+SC Farense,Vítor Manuel,28,Attacking Midfield,Campomaiorense,Free Transfer,in,0,Liga Nos,1999,1999/2000
+SC Farense,Cavaco,27,Forward,Boavista,?,in,NA,Liga Nos,1999,1999/2000
+SC Farense,Ilshat Faizulin,26,Centre-Forward,Alverca,?,in,NA,Liga Nos,1999,1999/2000
+SC Farense,Paulo Ferreira,25,Forward,Estrela Amadora,Loan,in,0,Liga Nos,1999,1999/2000
+SC Farense,Carlos Fernandes,21,Left-Back,Campomaiorense,?,in,NA,Liga Nos,1999,1999/2000
+SC Farense,Zé Tó,24,Attacking Midfield,Lusitano,?,in,NA,Liga Nos,1999,1999/2000
+SC Farense,Darko Butorovic,28,Right-Back,FC Porto,?,in,NA,Liga Nos,1999,1999/2000
+SC Farense,Ricardo Lunari,29,Midfielder,UD Salamanca,?,in,NA,Liga Nos,1999,1999/2000
+SC Farense,Tulipa,26,Attacking Midfield,Marítimo,?,in,NA,Liga Nos,1999,1999/2000
+SC Farense,Filipe Gouveia,26,Left Midfield,Belenenses SAD,?,out,NA,Liga Nos,1999,1999/2000
+SC Farense,Emir Granov,23,Forward,D. Zenica,?,out,NA,Liga Nos,1999,1999/2000
+SC Farense,Ilshat Faizulin,26,Centre-Forward,Altay SK,?,out,NA,Liga Nos,1999,1999/2000
+SC Farense,Dani Rodrigues,19,Left Winger,Southampton,?,out,NA,Liga Nos,1999,1999/2000
+SC Farense,Jean Paulista,21,Centre-Forward,Braga,?,out,NA,Liga Nos,1999,1999/2000
+SC Farense,João Oliveira Pinto,27,Right Winger,Marítimo,?,out,NA,Liga Nos,1999,1999/2000
+SC Salgueiros,Marcelo Verón,21,Forward,Platense,Free Transfer,in,0,Liga Nos,1999,1999/2000
+SC Salgueiros,Carlos Andrade,23,Centre-Back,Sporting Pombal,Free Transfer,in,0,Liga Nos,1999,1999/2000
+SC Salgueiros,André Macanga,21,Defensive Midfield,Vila Nova FC,Free Transfer,in,0,Liga Nos,1999,1999/2000
+SC Salgueiros,Neves,28,Right-Back,Chaves,Free Transfer,in,0,Liga Nos,1999,1999/2000
+SC Salgueiros,Miklós Fehér,19,Centre-Forward,FC Porto,Loan,in,0,Liga Nos,1999,1999/2000
+SC Salgueiros,Basarab Panduru,28,Attacking Midfield,FC Porto,?,in,NA,Liga Nos,1999,1999/2000
+SC Salgueiros,Pedrosa,27,Central Midfield,Sporting CP,?,in,NA,Liga Nos,1999,1999/2000
+SC Salgueiros,Candido Costa,18,Right Midfield,Benfica U19,?,in,NA,Liga Nos,1999,1999/2000
+SC Salgueiros,Marco Cláudio,20,Right Winger,Montemor,?,in,NA,Liga Nos,1999,1999/2000
+SC Salgueiros,Ricardo Fernandes,21,Centre-Back,Fafe,?,in,NA,Liga Nos,1999,1999/2000
+SC Salgueiros,Rui Ferreira,26,Defensive Midfield,Gil Vicente,?,in,NA,Liga Nos,1999,1999/2000
+SC Salgueiros,Basílio Almeida,27,Forward,Vit. Guimarães,?,in,NA,Liga Nos,1999,1999/2000
+SC Salgueiros,Candido Costa,18,Right Midfield,FC Porto,?,out,NA,Liga Nos,1999,1999/2000
+SC Salgueiros,Miguel Teixeira,25,Centre-Back,Felgueiras,?,out,NA,Liga Nos,1999,1999/2000
+SC Salgueiros,Carlos Pinto,26,Attacking Midfield,Naval,?,out,NA,Liga Nos,1999,1999/2000
+SC Salgueiros,José Semedo,34,Central Midfield,Retired,-,out,0,Liga Nos,1999,1999/2000
+Rio Ave FC,Hugo Henrique,24,Centre-Forward,CS Sergipe-SE,Free Transfer,in,0,Liga Nos,1999,1999/2000
+Rio Ave FC,Rochinha,24,Centre-Back,Canelas 2010,?,in,NA,Liga Nos,1999,1999/2000
+Rio Ave FC,Artur Jorge Vicente,26,Forward,Leiria,?,in,NA,Liga Nos,1999,1999/2000
+Rio Ave FC,Miguelito,18,Left-Back,Rio Ave FC U19,-,in,0,Liga Nos,1999,1999/2000
+Rio Ave FC,Duda,25,Centre-Forward,FC Porto,"End of loanJun 30, 1999",out,0,Liga Nos,1999,1999/2000
+Rio Ave FC,Sob Evariste Dibo,30,Attacking Midfield,Braga,?,out,NA,Liga Nos,1999,1999/2000
+Rio Ave FC,Nelo,31,Central Midfield,Moreirense,?,out,NA,Liga Nos,1999,1999/2000
+Rio Ave FC,Emanuel,23,Central Midfield,Boavista,?,out,NA,Liga Nos,1999,1999/2000
+Vitória Setúbal FC,Meyong,19,Centre-Forward,Ravenna,Free Transfer,in,0,Liga Nos,1999,1999/2000
+Vitória Setúbal FC,Ricardo Carvalho,21,Centre-Back,FC Porto,Loan,in,0,Liga Nos,1999,1999/2000
+Vitória Setúbal FC,Carlos Bossio,25,Goalkeeper,Benfica,Loan,in,0,Liga Nos,1999,1999/2000
+Vitória Setúbal FC,Ricardo Esteves,19,Right Midfield,Alverca,?,in,NA,Liga Nos,1999,1999/2000
+Vitória Setúbal FC,Ricardo Pateiro,19,Left Midfield,Setúbal U19,-,in,0,Liga Nos,1999,1999/2000
+Vitória Setúbal FC,Toñito,22,Right Midfield,Sporting CP,Free Transfer,out,0,Liga Nos,1999,1999/2000
+Vitória Setúbal FC,Toni Lopes,19,Right-Back,Lusitano,Free Transfer,out,0,Liga Nos,1999,1999/2000
+Vitória Setúbal FC,Renato,26,Centre-Back,Leiria,?,out,NA,Liga Nos,1999,1999/2000
+Vitória Setúbal FC,Aurtis Whitley,22,Defensive Midfield,SJ Jabloteh,?,out,NA,Liga Nos,1999,1999/2000
+Vitória Setúbal FC,Amaral,29,Right Winger,Santa Clara,?,out,NA,Liga Nos,1999,1999/2000
+Vitória Setúbal FC,Ricardo Pateiro,19,Left Midfield,Lusitano,?,out,NA,Liga Nos,1999,1999/2000
+Vitória Setúbal FC,Pedro De Figueiredo,31,Centre-Back,Santa Clara,?,out,NA,Liga Nos,1999,1999/2000
+Vitória Setúbal FC,Nando Có,25,Forward,CD Toledo,?,out,NA,Liga Nos,1999,1999/2000
+Vitória Setúbal FC,Vlada Stosic,34,Midfielder,Retired,-,out,0,Liga Nos,1999,1999/2000
+Vitória Setúbal FC,Velli Kasumov,30,Centre-Forward,Retired,-,out,0,Liga Nos,1999,1999/2000
+CD Santa Clara,Faysal El Idrissi,22,Attacking Midfield,Exc. Mouscron,Free Transfer,in,0,Liga Nos,1999,1999/2000
+CD Santa Clara,Gamboa,26,Centre-Forward,Braga,?,in,NA,Liga Nos,1999,1999/2000
+CD Santa Clara,Sérgio,32,Defender,Braga,?,in,NA,Liga Nos,1999,1999/2000
+CD Santa Clara,Amaral,29,Right Winger,Vitória Setúbal,?,in,NA,Liga Nos,1999,1999/2000
+CD Santa Clara,Sandro,27,Defender,Juventude,?,in,NA,Liga Nos,1999,1999/2000
+CD Santa Clara,Ricardo Sousa,20,Attacking Midfield,FC Porto B,?,in,NA,Liga Nos,1999,1999/2000
+CD Santa Clara,Clayton,23,Left Winger,Atlético-MG,?,in,NA,Liga Nos,1999,1999/2000
+CD Santa Clara,István Vincze,32,Left Winger,Campomaiorense,?,in,NA,Liga Nos,1999,1999/2000
+CD Santa Clara,Pedro De Figueiredo,31,Centre-Back,Vitória Setúbal,?,in,NA,Liga Nos,1999,1999/2000
+CD Santa Clara,Formoso,25,Left Winger,Boavista,?,in,NA,Liga Nos,1999,1999/2000
+CD Santa Clara,Patacas,21,Right-Back,Sporting CP,Loan,in,0,Liga Nos,1999,1999/2000
+CD Santa Clara,Dmitri Prokopenko,27,Centre-Forward,Braga,?,in,NA,Liga Nos,1999,1999/2000
+CD Santa Clara,Luis Carlos,30,Midfielder,Braga,?,in,NA,Liga Nos,1999,1999/2000
+CD Santa Clara,Romicha,24,Right Winger,Machico,?,out,NA,Liga Nos,1999,1999/2000
+CD Santa Clara,Joaquim Rodrigues,29,Left-Back,Operário,?,out,NA,Liga Nos,1999,1999/2000
+CD Santa Clara,Luis Carlos,31,Midfielder,Varzim,?,out,NA,Liga Nos,1999,1999/2000
+CD Santa Clara,Ovidiu Lucian Cuc,26,Forward,Gil Vicente,?,out,NA,Liga Nos,1999,1999/2000
+CD Santa Clara,Clayton,24,Left Winger,FC Porto,?,out,NA,Liga Nos,1999,1999/2000
+CD Santa Clara,Miranda,33,Attacking Midfield,Retired,-,out,0,Liga Nos,1999,1999/2000
+CD Santa Clara,Patacas,21,Right-Back,Sporting CP,"End of loanJun 30, 1999",out,0,Liga Nos,1999,1999/2000

@@ -1,0 +1,427 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Milan AC,Jean-Pierre Papin,28,Centre-Forward,Marseille,£10.80m,in,10.8,Serie A,1992,1992/1993
+Milan AC,Gianluigi Lentini,23,Right Winger,Torino,£8.60m,in,8.6,Serie A,1992,1992/1993
+Milan AC,Dejan Savicevic,25,Attacking Midfield,Red Star,£4.14m,in,4.14,Serie A,1992,1992/1993
+Milan AC,Rufo Emiliano Verga,23,Centre-Back,AC Venezia 1907,?,in,NA,Serie A,1992,1992/1993
+Milan AC,Davide Dionigi,18,Centre-Forward,Modena,?,in,NA,Serie A,1992,1992/1993
+Milan AC,Stefano Eranio,25,Right Midfield,Genoa,?,in,NA,Serie A,1992,1992/1993
+Milan AC,Fernando De Napoli,28,Central Midfield,SSC Napoli,?,in,NA,Serie A,1992,1992/1993
+Milan AC,Guido Bistazzoni,32,Goalkeeper,Taranto,?,in,NA,Serie A,1992,1992/1993
+Milan AC,Martino Traversa,18,Right-Back,Bologna,?,in,NA,Serie A,1992,1992/1993
+Milan AC,Giuseppe Cardone,18,Right-Back,Milan U19,-,in,0,Serie A,1992,1992/1993
+Milan AC,Costantino Borneo,19,Centre-Forward,Milan U19,-,in,0,Serie A,1992,1992/1993
+Milan AC,Giuseppe Zappella,19,Right-Back,Milan U19,-,in,0,Serie A,1992,1992/1993
+Milan AC,Carlo Cudicini,18,Goalkeeper,Milan U19,-,in,0,Serie A,1992,1992/1993
+Milan AC,Massimiliano Cappellini,21,Centre-Forward,Atalanta,"End of loanSep 30, 1992",in,0,Serie A,1992,1992/1993
+Milan AC,Zvonimir Boban,23,Attacking Midfield,Bari,"End of loanJun 30, 1992",in,0,Serie A,1992,1992/1993
+Milan AC,Massimiliano Cappellini,21,Centre-Forward,Piacenza,"End of loanJun 30, 1992",in,0,Serie A,1992,1992/1993
+Milan AC,Stefano Nava,23,Centre-Back,AC Parma,"End of loanJun 30, 1992",in,0,Serie A,1992,1992/1993
+Milan AC,Diego Fuser,23,Right Midfield,Lazio,£1.80m,out,1.8,Serie A,1992,1992/1993
+Milan AC,Roberto Bandirali,20,Centre-Back,Como,?,out,NA,Serie A,1992,1992/1993
+Milan AC,Giovanni Cornacchini,26,Centre-Forward,Perugia,?,out,NA,Serie A,1992,1992/1993
+Milan AC,Costantino Borneo,20,Centre-Forward,Olbia,?,out,NA,Serie A,1992,1992/1993
+Milan AC,Massimiliano Cappellini,21,Centre-Forward,Atalanta,Loan,out,0,Serie A,1992,1992/1993
+Milan AC,Angelo Carbone,24,Right Midfield,SSC Napoli,Loan,out,0,Serie A,1992,1992/1993
+Milan AC,Massimiliano Cappellini,21,Centre-Forward,Como,Loan,out,0,Serie A,1992,1992/1993
+Milan AC,Carlo Ancelotti,33,Central Midfield,Retired,-,out,0,Serie A,1992,1992/1993
+AS Roma,Siniša Mihajlović,23,Centre-Back,Red Star,£4.05m,in,4.05,Serie A,1992,1992/1993
+AS Roma,Claudio Caniggia,25,Right Winger,Atalanta,?,in,NA,Serie A,1992,1992/1993
+AS Roma,Dario Rossi,19,Defender,Ternana,?,in,NA,Serie A,1992,1992/1993
+AS Roma,Francesco Totti,16,Centre-Forward,Roma U19,-,in,0,Serie A,1992,1992/1993
+AS Roma,Rudi Völler,32,Centre-Forward,Marseille,?,out,NA,Serie A,1992,1992/1993
+AS Roma,Fabrizio Di Mauro,27,Defensive Midfield,Fiorentina,?,out,NA,Serie A,1992,1992/1993
+AS Roma,Alessio Scarchilli,19,Attacking Midfield,Lecce,?,out,NA,Serie A,1992,1992/1993
+AS Roma,Fabrizio Carli,17,Forward,SSC Napoli,?,out,NA,Serie A,1992,1992/1993
+AS Roma,Ferro Tontini,22,Goalkeeper,Catania,?,out,NA,Serie A,1992,1992/1993
+AS Roma,Alessio Scarchilli,19,Attacking Midfield,Lecce,?,out,NA,Serie A,1992,1992/1993
+AS Roma,Emiliano Bernardini,18,Defender,Udinese,?,out,NA,Serie A,1992,1992/1993
+AS Roma,Stefano Pellegrini,24,Right-Back,Udinese,?,out,NA,Serie A,1992,1992/1993
+AS Roma,Gabriele Grossi,20,Left-Back,Lecce,?,out,NA,Serie A,1992,1992/1993
+AS Roma,Andrea Orocini,20,Midfielder,USC Baracca Lugo 1909,?,out,NA,Serie A,1992,1992/1993
+AS Roma,Sebastiano Nela,31,Left-Back,SSC Napoli,?,out,NA,Serie A,1992,1992/1993
+AS Roma,Marco De Marchi,25,Centre-Back,Juventus,"End of loanJun 30, 1992",out,0,Serie A,1992,1992/1993
+Brescia Calcio,Gheorghe Hagi,27,Attacking Midfield,Real Madrid,£1.80m,in,1.8,Serie A,1992,1992/1993
+Brescia Calcio,Ovidiu Sabau,24,Central Midfield,Feyenoord,£1.43m,in,1.43,Serie A,1992,1992/1993
+Brescia Calcio,Dorin Mateut,27,Attacking Midfield,Real Zaragoza,?,in,NA,Serie A,1992,1992/1993
+Brescia Calcio,Fabio Gallo,21,Defensive Midfield,Spezia,?,in,NA,Serie A,1992,1992/1993
+Brescia Calcio,Massimo Paganin,21,Centre-Back,Reggiana,?,in,NA,Serie A,1992,1992/1993
+Brescia Calcio,Nicola Marangon,21,Right-Back,CPR Ospitaletto,?,in,NA,Serie A,1992,1992/1993
+Brescia Calcio,Paolo Negro,20,Centre-Back,Bologna,?,in,NA,Serie A,1992,1992/1993
+Brescia Calcio,Marco Landucci,28,Goalkeeper,Lucchese,?,in,NA,Serie A,1992,1992/1993
+Brescia Calcio,Luca Brunetti,27,Defender,Taranto,?,in,NA,Serie A,1992,1992/1993
+Brescia Calcio,Paolo Ziliani,21,Sweeper,SSC Napoli,?,in,NA,Serie A,1992,1992/1993
+Brescia Calcio,Massimo Giannelli,22,Attacking Midfield,CPR Ospitaletto,?,in,NA,Serie A,1992,1992/1993
+Brescia Calcio,Gabriele Pelati,18,Defender,Unknown,?,in,NA,Serie A,1992,1992/1993
+Brescia Calcio,Maurizio Ganz,23,Centre-Forward,Atalanta,£108k,out,0.108,Serie A,1992,1992/1993
+Brescia Calcio,Luca Luzardi,22,Centre-Back,Lazio,?,out,NA,Serie A,1992,1992/1993
+Brescia Calcio,Daniele Cerretti,18,Goalkeeper,CPR Ospitaletto,?,out,NA,Serie A,1992,1992/1993
+Brescia Calcio,Corrado Cortesi,25,Forward,Palazzolo,?,out,NA,Serie A,1992,1992/1993
+Brescia Calcio,Gianni Flamigni,23,Defender,Lecce,?,out,NA,Serie A,1992,1992/1993
+Brescia Calcio,Francesco Passiatore,21,Forward,Casarano,?,out,NA,Serie A,1992,1992/1993
+Brescia Calcio,Emanuele Filippini,18,Central Midfield,CPR Ospitaletto,?,out,NA,Serie A,1992,1992/1993
+Brescia Calcio,Paolo Ziliani,21,Sweeper,SSC Napoli,?,out,NA,Serie A,1992,1992/1993
+Brescia Calcio,Paolo Bonfadini,20,Defender,Spezia,?,out,NA,Serie A,1992,1992/1993
+Brescia Calcio,Fabio Gallo,22,Defensive Midfield,Alessandria,Loan,out,0,Serie A,1992,1992/1993
+Brescia Calcio,Antonio Filippini,18,Right Midfield,CPR Ospitaletto,Loan,out,0,Serie A,1992,1992/1993
+Brescia Calcio,Filippo Citterio,36,Left-Back,Seregno,?,out,NA,Serie A,1992,1992/1993
+Brescia Calcio,Marco Merlo,24,Midfielder,Taranto,?,out,NA,Serie A,1992,1992/1993
+Brescia Calcio,Stefano Preti,21,Midfielder,Palazzolo,?,out,NA,Serie A,1992,1992/1993
+Brescia Calcio,Riccardo Masia,19,Defender,CPR Ospitaletto,?,out,NA,Serie A,1992,1992/1993
+Brescia Calcio,Daniele Carnasciali,25,Right-Back,Fiorentina,?,out,NA,Serie A,1992,1992/1993
+Brescia Calcio,Antonio Vettore,32,Goalkeeper,Retired,-,out,0,Serie A,1992,1992/1993
+Brescia Calcio,Filippo Masolini,22,Midfielder,Cesena,"End of loanJun 1, 1992",out,0,Serie A,1992,1992/1993
+FC Internazionale,Igor Shalimov,23,Attacking Midfield,Foggia,£10.80m,in,10.8,Serie A,1992,1992/1993
+FC Internazionale,Darko Pancev,26,Centre-Forward,Red Star,£10.80m,in,10.8,Serie A,1992,1992/1993
+FC Internazionale,Rubén Sosa,26,Centre-Forward,Lazio,£5.40m,in,5.4,Serie A,1992,1992/1993
+FC Internazionale,Matthias Sammer,24,Defensive Midfield,VfB Stuttgart,£5.40m,in,5.4,Serie A,1992,1992/1993
+FC Internazionale,Salvatore Schillaci,27,Centre-Forward,Juventus,£990k,in,0.99,Serie A,1992,1992/1993
+FC Internazionale,Luigi De Agostini,31,Left-Back,Juventus,?,in,NA,Serie A,1992,1992/1993
+FC Internazionale,Giuseppe Marino,23,Midfielder,Taranto,?,in,NA,Serie A,1992,1992/1993
+FC Internazionale,Mirko Taccola,22,Centre-Back,AC Pisa,?,in,NA,Serie A,1992,1992/1993
+FC Internazionale,Antonio Manicone,25,Defensive Midfield,Udinese,?,in,NA,Serie A,1992,1992/1993
+FC Internazionale,Stefano Rossini,21,Left-Back,Udinese,?,in,NA,Serie A,1992,1992/1993
+FC Internazionale,Stefano Vecchi,20,Midfielder,Spezia,?,in,NA,Serie A,1992,1992/1993
+FC Internazionale,Renzo Tasso,19,Defensive Midfield,Inter U19,-,in,0,Serie A,1992,1992/1993
+FC Internazionale,Simone Veronese,17,Right-Back,Inter U19,-,in,0,Serie A,1992,1992/1993
+FC Internazionale,Paolo Orlandoni,19,Goalkeeper,Mantova,"End of loanJun 30, 1992",in,0,Serie A,1992,1992/1993
+FC Internazionale,Marco Barollo,19,Midfielder,Lecce,"End of loanJun 30, 1992",in,0,Serie A,1992,1992/1993
+FC Internazionale,Luca Mondini,22,Goalkeeper,Spezia,"End of loanJun 30, 1992",in,0,Serie A,1992,1992/1993
+FC Internazionale,Jürgen Klinsmann,27,Centre-Forward,Monaco,£6.30m,out,6.3,Serie A,1992,1992/1993
+FC Internazionale,Matthias Sammer,25,Defensive Midfield,Bor. Dortmund,£3.83m,out,3.83,Serie A,1992,1992/1993
+FC Internazionale,Lothar Matthäus,31,Defensive Midfield,Bayern Munich,£1.80m,out,1.8,Serie A,1992,1992/1993
+FC Internazionale,Marco Delvecchio,19,Centre-Forward,Udinese,Loan fee:£135k,out,0.135,Serie A,1992,1992/1993
+FC Internazionale,Massimo Ciocci,24,Centre-Forward,SPAL,?,out,NA,Serie A,1992,1992/1993
+FC Internazionale,Raffaele Nuzzo,19,Goalkeeper,Pergolettese,?,out,NA,Serie A,1992,1992/1993
+FC Internazionale,Marco Grossi,19,Midfielder,Ascoli,?,out,NA,Serie A,1992,1992/1993
+FC Internazionale,Marco Barollo,20,Midfielder,Ternana,Loan,out,0,Serie A,1992,1992/1993
+FC Internazionale,Giuseppe Baresi,34,Defensive Midfield,Modena,?,out,NA,Serie A,1992,1992/1993
+FC Internazionale,Stefano Desideri,26,Right Midfield,Udinese,?,out,NA,Serie A,1992,1992/1993
+FC Internazionale,Davide Belotti,20,Centre-Back,Unknown,?,out,NA,Serie A,1992,1992/1993
+FC Internazionale,Luca Mondini,22,Goalkeeper,Como,?,out,NA,Serie A,1992,1992/1993
+FC Internazionale,Giuseppe Marino,23,Midfielder,Taranto,?,out,NA,Serie A,1992,1992/1993
+FC Internazionale,Paolo Orlandoni,19,Goalkeeper,SC Leffe,Loan,out,0,Serie A,1992,1992/1993
+FC Internazionale,Massimiliano Caniato,24,Goalkeeper,AC Venezia 1907,?,out,NA,Serie A,1992,1992/1993
+FC Internazionale,Fausto Pizzi,24,Attacking Midfield,AC Parma,?,out,NA,Serie A,1992,1992/1993
+FC Internazionale,Davide Cecotti,19,Goalkeeper,Unknown,?,out,NA,Serie A,1992,1992/1993
+FC Internazionale,Marcello Montanari,27,Sweeper,Bari,?,out,NA,Serie A,1992,1992/1993
+FC Internazionale,Andreas Brehme,31,Left-Back,Real Zaragoza,?,out,NA,Serie A,1992,1992/1993
+AC Parma,Sergio Berti,23,Left Midfield,River Plate,?,in,NA,Serie A,1992,1992/1993
+AC Parma,Fausto Pizzi,24,Attacking Midfield,Inter,?,in,NA,Serie A,1992,1992/1993
+AC Parma,Giovanni Sorce,22,Forward,Lucchese,?,in,NA,Serie A,1992,1992/1993
+AC Parma,Gianluca Hervatin,18,Forward,Tempio,?,in,NA,Serie A,1992,1992/1993
+AC Parma,Faustino Asprilla,22,Centre-Forward,Atl. Nacional,?,in,NA,Serie A,1992,1992/1993
+AC Parma,Marco Ferrari,25,Goalkeeper,Avellino,?,in,NA,Serie A,1992,1992/1993
+AC Parma,Antonio Sconziano,20,Right-Back,Seregno,?,in,NA,Serie A,1992,1992/1993
+AC Parma,Gabriele Pin,30,Central Midfield,Lazio,?,in,NA,Serie A,1992,1992/1993
+AC Parma,Salvatore Matrecano,21,Centre-Back,Foggia,?,in,NA,Serie A,1992,1992/1993
+AC Parma,Gianluca Franchini,19,Defensive Midfield,Avellino,?,in,NA,Serie A,1992,1992/1993
+AC Parma,Aldo Monza,22,Midfielder,Modena,"End of loanJun 30, 1992",in,0,Serie A,1992,1992/1993
+AC Parma,Giovanni Bia,23,Centre-Back,Cosenza,?,out,NA,Serie A,1992,1992/1993
+AC Parma,Antonio Sconziano,20,Right-Back,Avellino,?,out,NA,Serie A,1992,1992/1993
+AC Parma,Mario Lemme,19,Midfielder,Vicenza,?,out,NA,Serie A,1992,1992/1993
+AC Parma,Tarcisio Catanese,24,Midfielder,Bologna,?,out,NA,Serie A,1992,1992/1993
+AC Parma,Giovanni Sorce,23,Forward,Messina,?,out,NA,Serie A,1992,1992/1993
+AC Parma,Massimo Agostini,28,Centre-Forward,Ancona,?,out,NA,Serie A,1992,1992/1993
+AC Parma,Aldo Monza,22,Midfielder,Cosenza,?,out,NA,Serie A,1992,1992/1993
+AC Parma,Stefano Nava,23,Centre-Back,Milan,"End of loanJun 30, 1992",out,0,Serie A,1992,1992/1993
+Genoa 1893,Michele Padovano,25,Centre-Forward,SSC Napoli,?,in,NA,Serie A,1992,1992/1993
+Genoa 1893,Stefano Tacconi,35,Goalkeeper,Juventus,?,in,NA,Serie A,1992,1992/1993
+Genoa 1893,John van 't Schip,28,Centre-Forward,Ajax,?,in,NA,Serie A,1992,1992/1993
+Genoa 1893,Andrea Fortunato,20,Left-Back,AC Pisa,?,in,NA,Serie A,1992,1992/1993
+Genoa 1893,Fabio Rossi,21,Defender,Massese,?,in,NA,Serie A,1992,1992/1993
+Genoa 1893,Christian Panucci,19,Right-Back,Genoa U19,-,in,0,Serie A,1992,1992/1993
+Genoa 1893,Davide Nicola,19,Right-Back,Genoa U19,-,in,0,Serie A,1992,1992/1993
+Genoa 1893,Luca Cavallo,19,Right Midfield,Genoa U19,-,in,0,Serie A,1992,1992/1993
+Genoa 1893,Elio Signorelli,22,Right Winger,Casertana,"End of loanJun 30, 1992",in,0,Serie A,1992,1992/1993
+Genoa 1893,Fernando Silva,1,Midfielder,Casertana,"End of loanJun 30, 1992",in,0,Serie A,1992,1992/1993
+Genoa 1893,Igor Dobrovolski,24,Attacking Midfield,Servette FC,"End of loanJun 30, 1992",in,0,Serie A,1992,1992/1993
+Genoa 1893,Gianluca Berti,25,Goalkeeper,AC Pisa,Loan,out,0,Serie A,1992,1992/1993
+Genoa 1893,Massimiliano Corrado,20,Right-Back,Reggiana,?,out,NA,Serie A,1992,1992/1993
+Genoa 1893,Carlos Aguilera,27,Centre-Forward,Torino,?,out,NA,Serie A,1992,1992/1993
+Genoa 1893,Stefano Eranio,25,Right Midfield,Milan,?,out,NA,Serie A,1992,1992/1993
+Genoa 1893,Fabio Visca,22,Midfielder,Casale,?,out,NA,Serie A,1992,1992/1993
+Genoa 1893,Igor Dobrovolski,25,Attacking Midfield,Marseille,?,out,NA,Serie A,1992,1992/1993
+Genoa 1893,Marco Pacione,28,Left Winger,Reggiana,?,out,NA,Serie A,1992,1992/1993
+Genoa 1893,Simone Braglia,29,Goalkeeper,Perugia,?,out,NA,Serie A,1992,1992/1993
+Genoa 1893,Manuel Ghizzardi,19,Goalkeeper,Carrarese,?,out,NA,Serie A,1992,1992/1993
+Genoa 1893,Paolo Ponzo,20,Defensive Midfield,Montevarchi Calcio Aquila 1902,?,out,NA,Serie A,1992,1992/1993
+Genoa 1893,Andrea Bianchi,23,Midfielder,Lucchese,?,out,NA,Serie A,1992,1992/1993
+SS Lazio,Paul Gascoigne,25,Attacking Midfield,Spurs,£6.66m,in,6.66,Serie A,1992,1992/1993
+SS Lazio,Giuseppe Favalli,20,Left-Back,Cremonese,£2.32m,in,2.32,Serie A,1992,1992/1993
+SS Lazio,Diego Fuser,23,Right Midfield,Milan,£1.80m,in,1.8,Serie A,1992,1992/1993
+SS Lazio,Aron Winter,25,Defensive Midfield,Ajax,£1.17m,in,1.17,Serie A,1992,1992/1993
+SS Lazio,Giuseppe Signori,24,Centre-Forward,Foggia,Free Transfer,in,0,Serie A,1992,1992/1993
+SS Lazio,Luca Luzardi,22,Centre-Back,Brescia,?,in,NA,Serie A,1992,1992/1993
+SS Lazio,Djair,21,Central Midfield,FC St. Gallen,?,in,NA,Serie A,1992,1992/1993
+SS Lazio,Mauro Bonomi,19,Centre-Back,Cremonese,?,in,NA,Serie A,1992,1992/1993
+SS Lazio,Dario Marcolin,20,Defensive Midfield,Cremonese,?,in,NA,Serie A,1992,1992/1993
+SS Lazio,Paolo Di Sarno,24,Goalkeeper,Ternana,?,in,NA,Serie A,1992,1992/1993
+SS Lazio,Giacomo Galli,20,Forward,Palermo,?,in,NA,Serie A,1992,1992/1993
+SS Lazio,Roberto Cravero,28,Sweeper,Torino,,in,NA,Serie A,1992,1992/1993
+SS Lazio,Rubén Sosa,26,Centre-Forward,Inter,£5.40m,out,5.4,Serie A,1992,1992/1993
+SS Lazio,Claudio Vertova,32,Defender,Lecco,?,out,NA,Serie A,1992,1992/1993
+SS Lazio,Paolo Di Sarno,24,Goalkeeper,Udinese,?,out,NA,Serie A,1992,1992/1993
+SS Lazio,Gabriele Pin,30,Central Midfield,AC Parma,?,out,NA,Serie A,1992,1992/1993
+SS Lazio,Stefano Melchiori,26,Midfielder,Lecce,?,out,NA,Serie A,1992,1992/1993
+SS Lazio,Giacomo Galli,21,Forward,Formia Calcio,?,out,NA,Serie A,1992,1992/1993
+SS Lazio,Berardino Capocchiano,26,Centre-Forward,Bari,?,out,NA,Serie A,1992,1992/1993
+SS Lazio,Raffaele Sergio,25,Left-Back,Torino,?,out,NA,Serie A,1992,1992/1993
+SS Lazio,Roberto Soldà,33,Midfielder,Calcio Monza,?,out,NA,Serie A,1992,1992/1993
+Udinese Calcio,Marco Delvecchio,19,Centre-Forward,Inter,Loan fee:£135k,in,0.135,Serie A,1992,1992/1993
+Udinese Calcio,Marek Koźmiński,21,Left-Back,Hutnik Krakow,Free Transfer,in,0,Serie A,1992,1992/1993
+Udinese Calcio,Stefano Pellegrini,24,Right-Back,AS Roma,?,in,NA,Serie A,1992,1992/1993
+Udinese Calcio,Emiliano Bernardini,18,Defender,AS Roma,?,in,NA,Serie A,1992,1992/1993
+Udinese Calcio,Piotr Czachowski,25,Centre-Back,Zaglebie Lubin,?,in,NA,Serie A,1992,1992/1993
+Udinese Calcio,Massimo Mariotto,26,Midfielder,Reggina,Loan,in,0,Serie A,1992,1992/1993
+Udinese Calcio,Michele Gelsi,25,Central Midfield,Perugia,Loan,in,0,Serie A,1992,1992/1993
+Udinese Calcio,Alessandro Orlando,22,Left-Back,Sampdoria,?,in,NA,Serie A,1992,1992/1993
+Udinese Calcio,Stefano Desideri,26,Right Midfield,Inter,?,in,NA,Serie A,1992,1992/1993
+Udinese Calcio,Paolo Di Sarno,24,Goalkeeper,Lazio,?,in,NA,Serie A,1992,1992/1993
+Udinese Calcio,Marco Branca,27,Centre-Forward,Fiorentina,?,in,NA,Serie A,1992,1992/1993
+Udinese Calcio,Jonathan Bachini,17,Right Midfield,Alessandria Youth,?,in,NA,Serie A,1992,1992/1993
+Udinese Calcio,Piotr Czachowski,26,Centre-Back,Legia Warszawa,?,out,NA,Serie A,1992,1992/1993
+Udinese Calcio,Manuel Marcuz,20,Right-Back,Catania,?,out,NA,Serie A,1992,1992/1993
+Udinese Calcio,Rodolfo Vanoli,29,Midfielder,SPAL,?,out,NA,Serie A,1992,1992/1993
+Udinese Calcio,Marco Nappi,26,Second Striker,SPAL,?,out,NA,Serie A,1992,1992/1993
+Udinese Calcio,Antonio Manicone,25,Defensive Midfield,Inter,?,out,NA,Serie A,1992,1992/1993
+Udinese Calcio,Massimo Susic,25,Centre-Back,AC Pisa,?,out,NA,Serie A,1992,1992/1993
+Udinese Calcio,Stefano Rossini,21,Left-Back,Inter,?,out,NA,Serie A,1992,1992/1993
+Udinese Calcio,Willi Pittana,20,Midfielder,Catania,Loan,out,0,Serie A,1992,1992/1993
+Udinese Calcio,Simone Cadamuro,19,Forward,Retired,-,out,0,Serie A,1992,1992/1993
+Udinese Calcio,Emidio Oddi,36,Defender,Retired,-,out,0,Serie A,1992,1992/1993
+Udinese Calcio,Massimiliano Buzzinelli,19,Midfielder,Retired,-,out,0,Serie A,1992,1992/1993
+Torino Calcio,Carlos Aguilera,27,Centre-Forward,Genoa,?,in,NA,Serie A,1992,1992/1993
+Torino Calcio,Daniele Fortunato,29,Defensive Midfield,Bari,?,in,NA,Serie A,1992,1992/1993
+Torino Calcio,Antonio Aloisi,23,Defender,Ascoli,?,in,NA,Serie A,1992,1992/1993
+Torino Calcio,Domenico Doardo,17,Goalkeeper,Vicenza,?,in,NA,Serie A,1992,1992/1993
+Torino Calcio,Marcelo Saralegui,21,Attacking Midfield,Nacional,?,in,NA,Serie A,1992,1992/1993
+Torino Calcio,Maurizio Ferrarese,25,Left-Back,Vicenza,?,in,NA,Serie A,1992,1992/1993
+Torino Calcio,Andrea Silenzi,26,Centre-Forward,SSC Napoli,?,in,NA,Serie A,1992,1992/1993
+Torino Calcio,Mohammed Gargo,17,Centre-Back,Real Tamale,?,in,NA,Serie A,1992,1992/1993
+Torino Calcio,Raffaele Sergio,25,Left-Back,Lazio,?,in,NA,Serie A,1992,1992/1993
+Torino Calcio,Alvise Zago,22,Midfielder,AC Pisa,"End of loanJun 30, 1992",in,0,Serie A,1992,1992/1993
+Torino Calcio,Benny Carbone,20,Second Striker,Casertana,"End of loanJun 30, 1992",in,0,Serie A,1992,1992/1993
+Torino Calcio,Gianluigi Lentini,23,Right Winger,Milan,£8.60m,out,8.6,Serie A,1992,1992/1993
+Torino Calcio,Christian Vieri,18,Centre-Forward,AC Pisa,Loan,out,0,Serie A,1992,1992/1993
+Torino Calcio,Carmelo Puglisi,20,Midfielder,Messina,?,out,NA,Serie A,1992,1992/1993
+Torino Calcio,Antonino Di Maggio,18,Right Winger,Unknown,?,out,NA,Serie A,1992,1992/1993
+Torino Calcio,Massimiliano Manni,20,Left-Back,Avezzano,?,out,NA,Serie A,1992,1992/1993
+Torino Calcio,Benny Carbone,20,Second Striker,Ascoli,Loan,out,0,Serie A,1992,1992/1993
+Torino Calcio,Maurizio Ferrarese,25,Left-Back,Vicenza,?,out,NA,Serie A,1992,1992/1993
+Torino Calcio,Marco Bertelli,20,Forward,Massese,?,out,NA,Serie A,1992,1992/1993
+Torino Calcio,Roberto Policano,28,Left-Back,SSC Napoli,?,out,NA,Serie A,1992,1992/1993
+Torino Calcio,Massimiliano Ferina,20,Defender,Pavia,?,out,NA,Serie A,1992,1992/1993
+Torino Calcio,Marco Sinigaglia,24,Midfielder,Calcio Monza,?,out,NA,Serie A,1992,1992/1993
+Torino Calcio,Rafael Martin Vazquez,26,Attacking Midfield,Marseille,?,out,NA,Serie A,1992,1992/1993
+Torino Calcio,Luca Pastine,21,Goalkeeper,Casertana,?,out,NA,Serie A,1992,1992/1993
+Torino Calcio,Giorgio Bresciani,23,Centre-Forward,Cagliari Calcio,?,out,NA,Serie A,1992,1992/1993
+Torino Calcio,Ivanoe Lanzara,19,Left-Back,SC Leffe,?,out,NA,Serie A,1992,1992/1993
+Torino Calcio,Daniele Minasso,19,Midfielder,Retired,-,out,0,Serie A,1992,1992/1993
+Torino Calcio,Roberto Cravero,28,Sweeper,Lazio,,out,NA,Serie A,1992,1992/1993
+AC Fiorentina,Brian Laudrup,23,Right Winger,Bayern Munich,£4.50m,in,4.5,Serie A,1992,1992/1993
+AC Fiorentina,Stefan Effenberg,23,Central Midfield,Bayern Munich,£3.38m,in,3.38,Serie A,1992,1992/1993
+AC Fiorentina,Andrea Vascotto,20,Midfielder,Barletta,?,in,NA,Serie A,1992,1992/1993
+AC Fiorentina,Francesco Baiano,24,Right Winger,Foggia,?,in,NA,Serie A,1992,1992/1993
+AC Fiorentina,Fabrizio Di Mauro,27,Defensive Midfield,AS Roma,?,in,NA,Serie A,1992,1992/1993
+AC Fiorentina,Lorenzo D'Anna,20,Centre-Back,Como,?,in,NA,Serie A,1992,1992/1993
+AC Fiorentina,Gianluca Luppi,25,Right-Back,Juventus,?,in,NA,Serie A,1992,1992/1993
+AC Fiorentina,Diego Latorre,22,Second Striker,Boca Juniors,?,in,NA,Serie A,1992,1992/1993
+AC Fiorentina,Daniele Carnasciali,25,Right-Back,Brescia,?,in,NA,Serie A,1992,1992/1993
+AC Fiorentina,Francesco Flachi,17,Centre-Forward,Fiorentina  Yth.,-,in,0,Serie A,1992,1992/1993
+AC Fiorentina,Mazinho,26,Defensive Midfield,Palmeiras,?,out,NA,Serie A,1992,1992/1993
+AC Fiorentina,Stefano Borgonovo,28,Forward,Pescara,?,out,NA,Serie A,1992,1992/1993
+AC Fiorentina,Emiliano Biliotti,17,Attacking Midfield,Siena,?,out,NA,Serie A,1992,1992/1993
+AC Fiorentina,Massimiliamo Fiondella,23,Defender,SPAL,?,out,NA,Serie A,1992,1992/1993
+AC Fiorentina,Ramon Aiana,19,Forward,Unknown,?,out,NA,Serie A,1992,1992/1993
+AC Fiorentina,Celeste Pin,31,Defender,Verona,?,out,NA,Serie A,1992,1992/1993
+AC Fiorentina,Stefano Salvatori,24,Midfielder,SPAL,?,out,NA,Serie A,1992,1992/1993
+AC Fiorentina,Rufo Emiliano Verga,22,Centre-Back,AC Venezia 1907,?,out,NA,Serie A,1992,1992/1993
+AC Fiorentina,Pietro Maiellaro,28,Midfielder,AC Venezia 1907,?,out,NA,Serie A,1992,1992/1993
+AC Fiorentina,Davide Barni,19,Defender,Unknown,?,out,NA,Serie A,1992,1992/1993
+AC Fiorentina,Dunga,28,Defensive Midfield,Pescara,?,out,NA,Serie A,1992,1992/1993
+AC Fiorentina,Marco Branca,27,Centre-Forward,Udinese,?,out,NA,Serie A,1992,1992/1993
+AC Fiorentina,Stefano Carobbi,28,Right-Back,Lecce,?,out,NA,Serie A,1992,1992/1993
+AC Fiorentina,Giacomo Banchelli,19,Centre-Forward,Alessandria,Loan,out,0,Serie A,1992,1992/1993
+AC Fiorentina,Vincenzo Matrone,20,Defender,Barletta,?,out,NA,Serie A,1992,1992/1993
+AC Fiorentina,Diego Latorre,23,Second Striker,CD Tenerife,?,out,NA,Serie A,1992,1992/1993
+Juventus FC,Gianluca Vialli,27,Centre-Forward,Sampdoria,£14.85m,in,14.85,Serie A,1992,1992/1993
+Juventus FC,David Platt,26,Attacking Midfield,Bari,£8.78m,in,8.78,Serie A,1992,1992/1993
+Juventus FC,Andreas Möller,24,Attacking Midfield,E. Frankfurt,Free Transfer,in,0,Serie A,1992,1992/1993
+Juventus FC,Daniel Terrera,18,Defender,Sammargheritese,?,in,NA,Serie A,1992,1992/1993
+Juventus FC,Fabrizio Ravanelli,23,Centre-Forward,Reggiana,?,in,NA,Serie A,1992,1992/1993
+Juventus FC,Moreno Torricelli,22,Right-Back,Caratese,?,in,NA,Serie A,1992,1992/1993
+Juventus FC,Luigi Sartor,17,Right-Back,Juventus U19,-,in,0,Serie A,1992,1992/1993
+Juventus FC,Massimiliano Giacobbo,17,Central Midfield,Juventus U19,-,in,0,Serie A,1992,1992/1993
+Juventus FC,Lorenzo Squizzi,18,Goalkeeper,Juventus U19,-,in,0,Serie A,1992,1992/1993
+Juventus FC,Michelangelo Rampulla,30,Goalkeeper,Cremonese,,in,NA,Serie A,1992,1992/1993
+Juventus FC,Marco De Marchi,25,Centre-Back,AS Roma,"End of loanJun 30, 1992",in,0,Serie A,1992,1992/1993
+Juventus FC,Stefan Reuter,25,Right Midfield,Bor. Dortmund,£1.89m,out,1.89,Serie A,1992,1992/1993
+Juventus FC,Salvatore Schillaci,27,Centre-Forward,Inter,£990k,out,0.99,Serie A,1992,1992/1993
+Juventus FC,Angelo Alessio,27,Right Winger,Bari,?,out,NA,Serie A,1992,1992/1993
+Juventus FC,Gianluca Luppi,25,Right-Back,Fiorentina,?,out,NA,Serie A,1992,1992/1993
+Juventus FC,Nicola Zanini,18,Attacking Midfield,Sampdoria,?,out,NA,Serie A,1992,1992/1993
+Juventus FC,Stefano Tacconi,35,Goalkeeper,Genoa,?,out,NA,Serie A,1992,1992/1993
+Juventus FC,Eugenio Corini,21,Defensive Midfield,Sampdoria,?,out,NA,Serie A,1992,1992/1993
+Juventus FC,Luigi De Agostini,31,Left-Back,Inter,?,out,NA,Serie A,1992,1992/1993
+Foggia Calcio,Luigi Di Biagio,21,Defensive Midfield,Calcio Monza,Free Transfer,in,0,Serie A,1992,1992/1993
+Foggia Calcio,Gianluca Grassadonia,20,Centre-Back,Salernitana,Free Transfer,in,0,Serie A,1992,1992/1993
+Foggia Calcio,Andrea Seno,26,Central Midfield,Como,?,in,NA,Serie A,1992,1992/1993
+Foggia Calcio,Mauro Bacchin,22,Goalkeeper,Barletta,?,in,NA,Serie A,1992,1992/1993
+Foggia Calcio,Giovanni Pisano,23,Centre-Forward,Leonzio,?,in,NA,Serie A,1992,1992/1993
+Foggia Calcio,Giuseppe Di Bari,22,Defender,Bisceglie,?,in,NA,Serie A,1992,1992/1993
+Foggia Calcio,Pierpaolo Bresciani,21,Right Winger,Palermo,?,in,NA,Serie A,1992,1992/1993
+Foggia Calcio,Pasquale De Vincenzo,24,Left Midfield,Reggina,?,in,NA,Serie A,1992,1992/1993
+Foggia Calcio,Giordano Caini,23,Left-Back,Catania,?,in,NA,Serie A,1992,1992/1993
+Foggia Calcio,Giuseppe Fornaciari,24,Centre-Back,Barletta,?,in,NA,Serie A,1992,1992/1993
+Foggia Calcio,Bryan Roy,22,Right Winger,Ajax,?,in,NA,Serie A,1992,1992/1993
+Foggia Calcio,Donatello Gasparini,20,Defender,Pro Sesto,?,in,NA,Serie A,1992,1992/1993
+Foggia Calcio,Hernán Medford,24,Centre-Forward,Rayo Vallecano,?,in,NA,Serie A,1992,1992/1993
+Foggia Calcio,Oberdan Biagioni,22,Attacking Midfield,Cosenza,?,in,NA,Serie A,1992,1992/1993
+Foggia Calcio,David Bianchini,20,Defender,AS Lodigiani,?,in,NA,Serie A,1992,1992/1993
+Foggia Calcio,Paolo Mandelli,24,Left Winger,Calcio Monza,?,in,NA,Serie A,1992,1992/1993
+Foggia Calcio,Nicoló Sciacca,23,Midfielder,Trapani,?,in,NA,Serie A,1992,1992/1993
+Foggia Calcio,Igor Shalimov,23,Attacking Midfield,Inter,£10.80m,out,10.8,Serie A,1992,1992/1993
+Foggia Calcio,Giuseppe Signori,24,Centre-Forward,Lazio,Free Transfer,out,0,Serie A,1992,1992/1993
+Foggia Calcio,Pasquale Padalino,20,Centre-Back,Bologna,?,out,NA,Serie A,1992,1992/1993
+Foggia Calcio,Salvatore Matrecano,21,Centre-Back,AC Parma,?,out,NA,Serie A,1992,1992/1993
+Foggia Calcio,Tommaso Napoli,24,Defender,Cosenza,?,out,NA,Serie A,1992,1992/1993
+Foggia Calcio,Alessandro Porro,25,Midfielder,Bologna,?,out,NA,Serie A,1992,1992/1993
+Foggia Calcio,Giuseppe Lo Polito,19,Midfielder,Salernitana,?,out,NA,Serie A,1992,1992/1993
+Foggia Calcio,Francesco Baiano,24,Right Winger,Fiorentina,?,out,NA,Serie A,1992,1992/1993
+Foggia Calcio,Giovanni Pisano,24,Centre-Forward,Salernitana,?,out,NA,Serie A,1992,1992/1993
+Foggia Calcio,Roberto Rambaudi,26,Right Winger,Atalanta,?,out,NA,Serie A,1992,1992/1993
+Foggia Calcio,Angelo Consagra,28,Defender,Bari,?,out,NA,Serie A,1992,1992/1993
+Foggia Calcio,Gianluca Musumeci,22,Midfielder,Andria,?,out,NA,Serie A,1992,1992/1993
+Foggia Calcio,Roberto Genco,19,Right Winger,Unknown,?,out,NA,Serie A,1992,1992/1993
+Foggia Calcio,Maurizio Codispoti,28,Defender,Atalanta,?,out,NA,Serie A,1992,1992/1993
+Foggia Calcio,Onofrio Barone,27,Midfielder,Bari,?,out,NA,Serie A,1992,1992/1993
+Foggia Calcio,Mauro Rosin,27,Goalkeeper,Ternana,?,out,NA,Serie A,1992,1992/1993
+Foggia Calcio,Mauro Picasso,26,Midfielder,Reggiana,?,out,NA,Serie A,1992,1992/1993
+Foggia Calcio,Fabio Troccoli,18,Forward,Retired,-,out,0,Serie A,1992,1992/1993
+Foggia Calcio,Mauro Biolghini,19,Goalkeeper,Retired,-,out,0,Serie A,1992,1992/1993
+Atalanta BC,Maurizio Ganz,23,Centre-Forward,Brescia,£108k,in,0.108,Serie A,1992,1992/1993
+Atalanta BC,Massimiliano Cappellini,21,Centre-Forward,Milan,Loan,in,0,Serie A,1992,1992/1993
+Atalanta BC,Alemão,30,Defensive Midfield,SSC Napoli,?,in,NA,Serie A,1992,1992/1993
+Atalanta BC,Stefano De Agostini,27,Defensive Midfield,SSC Napoli,?,in,NA,Serie A,1992,1992/1993
+Atalanta BC,Oscar Magoni,24,Defensive Midfield,SC Leffe,?,in,NA,Serie A,1992,1992/1993
+Atalanta BC,Paolo Montero,20,Centre-Back,Peñarol,?,in,NA,Serie A,1992,1992/1993
+Atalanta BC,Iván Valenciano,20,Centre-Forward,Junior FC,?,in,NA,Serie A,1992,1992/1993
+Atalanta BC,Roberto Rambaudi,26,Right Winger,Foggia,?,in,NA,Serie A,1992,1992/1993
+Atalanta BC,Maurizio Codispoti,28,Defender,Foggia,?,in,NA,Serie A,1992,1992/1993
+Atalanta BC,Leonardo Rodríguez,25,Attacking Midfield,Toulouse,?,in,NA,Serie A,1992,1992/1993
+Atalanta BC,Davide Pinato,28,Goalkeeper,Piacenza,?,in,NA,Serie A,1992,1992/1993
+Atalanta BC,Marco Ambrosio,19,Goalkeeper,Lumezzane U19,?,in,NA,Serie A,1992,1992/1993
+Atalanta BC,Claudio Mascheretti,22,Defender,Palazzolo,?,in,NA,Serie A,1992,1992/1993
+Atalanta BC,Simone Pavan,18,Centre-Back,Atalanta U19,-,in,0,Serie A,1992,1992/1993
+Atalanta BC,Alessio Tacchinardi,17,Defensive Midfield,Atalanta U19,-,in,0,Serie A,1992,1992/1993
+Atalanta BC,Lamberto Piovanelli,28,Centre-Forward,Verona,?,out,NA,Serie A,1992,1992/1993
+Atalanta BC,Stefano Sottili,22,Centre-Back,Bologna,?,out,NA,Serie A,1992,1992/1993
+Atalanta BC,Eligio Nicolini,31,Right Winger,Cremonese,?,out,NA,Serie A,1992,1992/1993
+Atalanta BC,Pierluigi Orlandini,19,Right Midfield,Lecce,?,out,NA,Serie A,1992,1992/1993
+Atalanta BC,Carlos Bianchezi,27,Centre-Forward,Monterrey,?,out,NA,Serie A,1992,1992/1993
+Atalanta BC,Carlo Cornacchia,27,Right-Back,SSC Napoli,?,out,NA,Serie A,1992,1992/1993
+Atalanta BC,Claudio Caniggia,25,Right Winger,AS Roma,?,out,NA,Serie A,1992,1992/1993
+Atalanta BC,Riccardo Bracaloni,22,Central Midfield,Chievo Verona,?,out,NA,Serie A,1992,1992/1993
+Atalanta BC,Massimiliano Cappellini,21,Centre-Forward,Milan,"End of loanSep 30, 1992",out,0,Serie A,1992,1992/1993
+Atalanta BC,Glenn Strömberg,32,Central Midfield,Retired,-,out,0,Serie A,1992,1992/1993
+Atalanta BC,Astutillo Malgioglio,34,Goalkeeper,Retired,-,out,0,Serie A,1992,1992/1993
+Atalanta BC,Pier Angelo Brianza,18,Goalkeeper,Retired,-,out,0,Serie A,1992,1992/1993
+UC Sampdoria,Des Walker,26,Centre-Back,Nottm Forest,£1.53m,in,1.53,Serie A,1992,1992/1993
+UC Sampdoria,Enrico Chiesa,21,Centre-Forward,Chieti,Free Transfer,in,0,Serie A,1992,1992/1993
+UC Sampdoria,Eugenio Corini,21,Defensive Midfield,Juventus,?,in,NA,Serie A,1992,1992/1993
+UC Sampdoria,Vladimir Jugovic,22,Left Midfield,Red Star,?,in,NA,Serie A,1992,1992/1993
+UC Sampdoria,Nicola Zanini,18,Attacking Midfield,Juventus,?,in,NA,Serie A,1992,1992/1993
+UC Sampdoria,Mauro Bertarelli,21,Forward,Ancona,?,in,NA,Serie A,1992,1992/1993
+UC Sampdoria,Stefano Sacchetti,19,Centre-Back,Modena,?,in,NA,Serie A,1992,1992/1993
+UC Sampdoria,Michele Serena,22,Right-Back,Verona,?,in,NA,Serie A,1992,1992/1993
+UC Sampdoria,Claudio Bellucci,17,Centre-Forward,Sampdoria U19,-,in,0,Serie A,1992,1992/1993
+UC Sampdoria,Roberto Bucchioni,19,Defender,Sampdoria U19,-,in,0,Serie A,1992,1992/1993
+UC Sampdoria,Giovanni Dall'Igna,19,Right-Back,USC Baracca Lugo 1909,"End of loanJun 30, 1992",in,0,Serie A,1992,1992/1993
+UC Sampdoria,Gianluca Vialli,27,Centre-Forward,Juventus,£14.85m,out,14.85,Serie A,1992,1992/1993
+UC Sampdoria,Dario Bonetti,30,Centre-Back,SPAL,?,out,NA,Serie A,1992,1992/1993
+UC Sampdoria,Fausto Pari,29,Defensive Midfield,SSC Napoli,?,out,NA,Serie A,1992,1992/1993
+UC Sampdoria,Silas,26,Central Midfield,Internacional,?,out,NA,Serie A,1992,1992/1993
+UC Sampdoria,Giovanni Dall'Igna,19,Right-Back,SPAL,Loan,out,0,Serie A,1992,1992/1993
+UC Sampdoria,Alessandro Orlando,22,Left-Back,Udinese,?,out,NA,Serie A,1992,1992/1993
+UC Sampdoria,Giorgio Zanutta,18,Defender,SPAL,?,out,NA,Serie A,1992,1992/1993
+Ancona Calcio,Sergio Zárate,23,Centre-Forward,1.FC Nuremberg,Loan fee:£315k,in,0.315,Serie A,1992,1992/1993
+Ancona Calcio,Nicola Caccia,22,Centre-Forward,Modena,Free Transfer,in,0,Serie A,1992,1992/1993
+Ancona Calcio,Felice Centofanti,23,Left-Back,Palermo,?,in,NA,Serie A,1992,1992/1993
+Ancona Calcio,Luca Bertarelli,18,Forward,Riccione,?,in,NA,Serie A,1992,1992/1993
+Ancona Calcio,Massimo Agostini,28,Centre-Forward,AC Parma,?,in,NA,Serie A,1992,1992/1993
+Ancona Calcio,Paolo Cangini,24,Midfielder,Rimini,?,in,NA,Serie A,1992,1992/1993
+Ancona Calcio,Milos Glonek,24,Centre-Back,Slo. Bratislava,?,in,NA,Serie A,1992,1992/1993
+Ancona Calcio,Lajos Détári,29,Attacking Midfield,Bologna,?,in,NA,Serie A,1992,1992/1993
+Ancona Calcio,Oscar Ruggeri,30,Centre-Back,Vélez Sarsfield,?,in,NA,Serie A,1992,1992/1993
+Ancona Calcio,Mauro Bertarelli,21,Forward,Sampdoria,?,out,NA,Serie A,1992,1992/1993
+Ancona Calcio,Sandro Tovalieri,27,Centre-Forward,Bari,?,out,NA,Serie A,1992,1992/1993
+Ancona Calcio,Paolo Siroti,22,Defender,Alessandria,?,out,NA,Serie A,1992,1992/1993
+Ancona Calcio,Giovanni Deogratias,32,Centre-Back,Messina,?,out,NA,Serie A,1992,1992/1993
+Ancona Calcio,Gianluca De Angelis,24,Midfielder,Barletta,?,out,NA,Serie A,1992,1992/1993
+Ancona Calcio,Eupremio Carruezzo,22,Centre-Forward,Calcio Monza,?,out,NA,Serie A,1992,1992/1993
+Ancona Calcio,Aureliano Modesti,18,Midfielder,AJ Fano,?,out,NA,Serie A,1992,1992/1993
+Ancona Calcio,Paolo Cangini,25,Midfielder,Andria,Loan,out,0,Serie A,1992,1992/1993
+Ancona Calcio,Valerio Sisti,17,Goalkeeper,Retired,-,out,0,Serie A,1992,1992/1993
+Cagliari Calcio,Luis Oliveira,23,Centre-Forward,RSC Anderlecht,£2.70m,in,2.7,Serie A,1992,1992/1993
+Cagliari Calcio,Giuseppe Pancaro,20,Right-Back,Avezzano,?,in,NA,Serie A,1992,1992/1993
+Cagliari Calcio,Francesco Moriero,23,Right Winger,Lecce,?,in,NA,Serie A,1992,1992/1993
+Cagliari Calcio,Marco Sanna,22,Midfielder,Tempio,?,in,NA,Serie A,1992,1992/1993
+Cagliari Calcio,Marcelo Tejera,18,Defensive Midfield,Defensor,?,in,NA,Serie A,1992,1992/1993
+Cagliari Calcio,Giorgio Bresciani,23,Centre-Forward,Torino,?,in,NA,Serie A,1992,1992/1993
+Cagliari Calcio,Francesco Bellucci,19,Centre-Back,Bari,?,in,NA,Serie A,1992,1992/1993
+Cagliari Calcio,Vittorio Pusceddu,28,Left-Back,SSC Napoli,?,in,NA,Serie A,1992,1992/1993
+Cagliari Calcio,Guido Nanni,24,Goalkeeper,Ischia,?,in,NA,Serie A,1992,1992/1993
+Cagliari Calcio,Mauro Nardini,28,Right Winger,Andria,?,out,NA,Serie A,1992,1992/1993
+Cagliari Calcio,Alfonso Greco,23,Central Midfield,Catania,?,out,NA,Serie A,1992,1992/1993
+Cagliari Calcio,Pierluigi Corellas,20,Forward,Centese,?,out,NA,Serie A,1992,1992/1993
+Cagliari Calcio,Giorgio Bresciani,23,Centre-Forward,SSC Napoli,?,out,NA,Serie A,1992,1992/1993
+Cagliari Calcio,Daniel Fonseca,22,Centre-Forward,SSC Napoli,?,out,NA,Serie A,1992,1992/1993
+Cagliari Calcio,Stefano Mobili,23,Attacking Midfield,Modena,?,out,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,Ottavio Palladini,20,Central Midfield,Sambenedettese,Free Transfer,in,0,Serie A,1992,1992/1993
+Delfino Pescara 1936,Dunga,28,Defensive Midfield,Fiorentina,?,in,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,Stefano Borgonovo,28,Forward,Fiorentina,?,in,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,Giuseppe Compagno,24,Right Winger,Cosenza,?,in,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,Roberto Gnoli,21,Goalkeeper,Unknown,?,in,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,Roger Mendy,32,Sweeper,Monaco,?,in,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,Blaz Sliskovic,33,Central Midfield,Stade Rennais,?,in,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,Vincenzo Aureli,19,Forward,Fucense,?,in,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,John Sivebaek,30,Right-Back,Monaco,?,in,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,Mauro Zironelli,22,Midfielder,Vicenza,?,in,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,Vittorio Pinciarelli,20,Midfielder,Real Giulianova,?,in,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,Andrea Camplone,25,Defender,Perugia,?,out,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,Orazio Sorbello,32,Right Winger,Acireale,?,out,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,Massimo Nunziato,18,Midfielder,Sulmona Calcio,?,out,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,Rocco Pagano,28,Right Midfield,Perugia,?,out,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,Paolo Monelli,29,Centre-Forward,Vicenza,?,out,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,Nicolino Rosati,29,Midfielder,Sambenedettese,?,out,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,Ivan Martinelli,19,Goalkeeper,Unknown,?,out,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,Stefano Impallomeni,24,Midfielder,Casertana,?,out,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,Michele Gelsi,23,Central Midfield,Perugia,?,out,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,Alberto Torresin,32,Goalkeeper,Andria,?,out,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,Fabrizio Fioretti,26,Midfielder,Piacenza,?,out,NA,Serie A,1992,1992/1993
+Delfino Pescara 1936,Augusto Mantini,19,Midfielder,Retired,-,out,0,Serie A,1992,1992/1993
+Delfino Pescara 1936,Sabatino Cilli,18,Defender,Retired,-,out,0,Serie A,1992,1992/1993
+Delfino Pescara 1936,Fausto Chiacchiaretta,19,Defender,Retired,-,out,0,Serie A,1992,1992/1993
+SSC Napoli,Jonas Thern,25,Central Midfield,Benfica,?,in,NA,Serie A,1992,1992/1993
+SSC Napoli,Angelo Carbone,24,Right Midfield,Milan,Loan,in,0,Serie A,1992,1992/1993
+SSC Napoli,Carlo Cornacchia,27,Right-Back,Atalanta,?,in,NA,Serie A,1992,1992/1993
+SSC Napoli,Giorgio Bresciani,23,Centre-Forward,Cagliari Calcio,?,in,NA,Serie A,1992,1992/1993
+SSC Napoli,Daniel Fonseca,22,Centre-Forward,Cagliari Calcio,?,in,NA,Serie A,1992,1992/1993
+SSC Napoli,Luca Altomare,20,Central Midfield,Reggiana,?,in,NA,Serie A,1992,1992/1993
+SSC Napoli,Paolo Ziliani,21,Sweeper,Brescia,?,in,NA,Serie A,1992,1992/1993
+SSC Napoli,Sebastiano Nela,31,Left-Back,AS Roma,?,in,NA,Serie A,1992,1992/1993
+SSC Napoli,Fausto Pari,29,Defensive Midfield,Sampdoria,?,in,NA,Serie A,1992,1992/1993
+SSC Napoli,Roberto Policano,28,Left-Back,Torino,?,in,NA,Serie A,1992,1992/1993
+SSC Napoli,Fabrizio Carli,17,Forward,AS Roma,?,in,NA,Serie A,1992,1992/1993
+SSC Napoli,Fabio Cannavaro,18,Centre-Back,Napoli U19,-,in,0,Serie A,1992,1992/1993
+SSC Napoli,Fernando De Napoli,28,Central Midfield,Milan,?,out,NA,Serie A,1992,1992/1993
+SSC Napoli,Andrea Silenzi,26,Centre-Forward,Torino,?,out,NA,Serie A,1992,1992/1993
+SSC Napoli,Vittorio Pusceddu,28,Left-Back,Cagliari Calcio,?,out,NA,Serie A,1992,1992/1993
+SSC Napoli,Laurent Blanc,26,Sweeper,Nîmes Olympique,?,out,NA,Serie A,1992,1992/1993
+SSC Napoli,Michele Padovano,25,Centre-Forward,Genoa,?,out,NA,Serie A,1992,1992/1993
+SSC Napoli,Gianfranco Germoni,19,Defender,Unknown,?,out,NA,Serie A,1992,1992/1993
+SSC Napoli,Alemão,30,Defensive Midfield,Atalanta,?,out,NA,Serie A,1992,1992/1993
+SSC Napoli,Claudio Bonomi,19,Midfielder,Castel di Sangr,?,out,NA,Serie A,1992,1992/1993
+SSC Napoli,Stefano De Agostini,27,Defensive Midfield,Atalanta,?,out,NA,Serie A,1992,1992/1993
+SSC Napoli,Paolo Ziliani,21,Sweeper,Brescia,?,out,NA,Serie A,1992,1992/1993
+SSC Napoli,Massimo Filardi,25,Left-Back,Retired,-,out,0,Serie A,1992,1992/1993

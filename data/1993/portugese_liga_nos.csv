@@ -1,0 +1,220 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+SL Benfica,Paulo Futre,27,Left Winger,Atlético Madrid,£900k,in,0.9,Liga Nos,1993,1993/1994
+SL Benfica,Pedro Roma,23,Goalkeeper,Gil Vicente,?,in,NA,Liga Nos,1993,1993/1994
+SL Benfica,Paulo Santos,20,Goalkeeper,Olivais,?,in,NA,Liga Nos,1993,1993/1994
+SL Benfica,Eduard Abazi,29,Left-Back,Grazer AK,?,in,NA,Liga Nos,1993,1993/1994
+SL Benfica,Jovica Simanic,NA,Centre-Back,Stuttgart II,?,in,NA,Liga Nos,1993,1993/1994
+SL Benfica,Abel Xavier,20,Right-Back,Estrela Amadora,?,in,NA,Liga Nos,1993,1993/1994
+SL Benfica,Aílton,24,Centre-Forward,Atlético-MG,?,in,NA,Liga Nos,1993,1993/1994
+SL Benfica,Pedro Henriques,18,Left-Back,Benfica U19,-,in,0,Liga Nos,1993,1993/1994
+SL Benfica,José Dominguez,19,Left Winger,Sintrense,"End of loanJun 30, 1993",in,0,Liga Nos,1993,1993/1994
+SL Benfica,Paulo Futre,27,Left Winger,Marseille,£4.05m,out,4.05,Liga Nos,1993,1993/1994
+SL Benfica,Pedro Roma,22,Goalkeeper,Gil Vicente,Loan,out,0,Liga Nos,1993,1993/1994
+SL Benfica,António Pacheco,26,Left Winger,Sporting CP,?,out,NA,Liga Nos,1993,1993/1994
+SL Benfica,Eduard Abazi,29,Left-Back,HNK Sibenik,Loan,out,0,Liga Nos,1993,1993/1994
+SL Benfica,Aleksandr Mostovoy,25,Central Midfield,SM Caen,Loan,out,0,Liga Nos,1993,1993/1994
+SL Benfica,Fernando Mendes,26,Left-Back,Estrela Amadora,?,out,NA,Liga Nos,1993,1993/1994
+SL Benfica,José Carlos,26,Right-Back,Estrela Amadora,?,out,NA,Liga Nos,1993,1993/1994
+SL Benfica,Luis Mariano,24,Central Midfield,Ovarense,?,out,NA,Liga Nos,1993,1993/1994
+SL Benfica,Paulo Sousa,22,Central Midfield,Sporting CP,?,out,NA,Liga Nos,1993,1993/1994
+SL Benfica,José Dominguez,19,Left Winger,Fafe,Loan,out,0,Liga Nos,1993,1993/1994
+SL Benfica,Paulo Madeira,22,Centre-Back,Marítimo,Loan,out,0,Liga Nos,1993,1993/1994
+FC Porto,Ljubinko Drulovic,25,Left Winger,Gil Vicente,Free Transfer,in,0,Liga Nos,1993,1993/1994
+FC Porto,Secretário,23,Right-Back,Braga,?,in,NA,Liga Nos,1993,1993/1994
+FC Porto,Vinha,26,Centre-Forward,Salgueiros,?,in,NA,Liga Nos,1993,1993/1994
+FC Porto,António Folha,22,Left Winger,Braga,?,in,NA,Liga Nos,1993,1993/1994
+FC Porto,Paulo Pereira,27,Right-Back,Vit. Guimarães,?,in,NA,Liga Nos,1993,1993/1994
+FC Porto,Cândido Rego,22,Goalkeeper,Lousanense,?,in,NA,Liga Nos,1993,1993/1994
+FC Porto,Vítor Nóvoa,30,Goalkeeper,Chaves,?,in,NA,Liga Nos,1993,1993/1994
+FC Porto,Rui Óscar,17,Right-Back,FC Porto U19,-,in,0,Liga Nos,1993,1993/1994
+FC Porto,Petar Mihtarski,27,Forward,Famalicão,"End of loanSep 1, 1993",in,0,Liga Nos,1993,1993/1994
+FC Porto,Mariano,17,Left-Back,FC Porto U19,-,in,0,Liga Nos,1993,1993/1994
+FC Porto,Antonio Carlos,29,Central Midfield,América,?,out,NA,Liga Nos,1993,1993/1994
+FC Porto,Morgado,23,Left-Back,Famalicão,?,out,NA,Liga Nos,1993,1993/1994
+FC Porto,Tozé,28,Forward,Gil Vicente,?,out,NA,Liga Nos,1993,1993/1994
+FC Porto,Bino,20,Defensive Midfield,Salgueiros,?,out,NA,Liga Nos,1993,1993/1994
+FC Porto,Valente,28,Goalkeeper,Boavista,?,out,NA,Liga Nos,1993,1993/1994
+FC Porto,Paulinho McLaren,23,Forward,Internacion.-RS,?,out,NA,Liga Nos,1993,1993/1994
+FC Porto,Petar Mihtarski,27,Forward,OFK Pirin,?,out,NA,Liga Nos,1993,1993/1994
+FC Porto,Jorge Silva,21,Goalkeeper,Rio Ave FC,Loan,out,0,Liga Nos,1993,1993/1994
+FC Porto,Lubomir Vlk,28,Left-Back,TJ Vitkovice,?,out,NA,Liga Nos,1993,1993/1994
+FC Porto,Toni,21,Centre-Forward,Braga,?,out,NA,Liga Nos,1993,1993/1994
+FC Porto,Neves,22,Right-Back,Braga,?,out,NA,Liga Nos,1993,1993/1994
+Sporting CP,Budimir Vujacic,29,Centre-Back,Partizan,?,in,NA,Liga Nos,1993,1993/1994
+Sporting CP,Costinha,19,Goalkeeper,Boavista,?,in,NA,Liga Nos,1993,1993/1994
+Sporting CP,Pedro Franco,19,Centre-Back,Odivelas,?,in,NA,Liga Nos,1993,1993/1994
+Sporting CP,Paulo Sousa,22,Central Midfield,Benfica,?,in,NA,Liga Nos,1993,1993/1994
+Sporting CP,António Pacheco,26,Left Winger,Benfica,?,in,NA,Liga Nos,1993,1993/1994
+Sporting CP,Zoran Lemajic,32,Goalkeeper,Boavista,?,in,NA,Liga Nos,1993,1993/1994
+Sporting CP,João Paulo,16,Centre-Forward,Sporting U19,-,in,0,Liga Nos,1993,1993/1994
+Sporting CP,Renato,17,Midfielder,Sporting U19,-,in,0,Liga Nos,1993,1993/1994
+Sporting CP,Bilro,22,Right-Back,Leiria,?,out,NA,Liga Nos,1993,1993/1994
+Sporting CP,Sérgio,27,Goalkeeper,Coimbra,?,out,NA,Liga Nos,1993,1993/1994
+Sporting CP,Luís Manuel,22,Defensive Midfield,Salgueiros,?,out,NA,Liga Nos,1993,1993/1994
+Sporting CP,Pedro Barny,26,Centre-Back,Boavista,?,out,NA,Liga Nos,1993,1993/1994
+Sporting CP,Sergiy Shcherbakov,22,Attacking Midfield,Retired,-,out,0,Liga Nos,1993,1993/1994
+Boavista Porto FC,Alex Dias,21,Centre-Forward,Goiás EC,Free Transfer,in,0,Liga Nos,1993,1993/1994
+Boavista Porto FC,Valente,28,Goalkeeper,FC Porto,?,in,NA,Liga Nos,1993,1993/1994
+Boavista Porto FC,Castro,24,Goalkeeper,Paredes,?,in,NA,Liga Nos,1993,1993/1994
+Boavista Porto FC,Pedro Barny,26,Centre-Back,Sporting CP,?,in,NA,Liga Nos,1993,1993/1994
+Boavista Porto FC,Tó Luis,25,Goalkeeper,Coimbra,?,in,NA,Liga Nos,1993,1993/1994
+Boavista Porto FC,Luciano,24,Centre-Forward,Remo,?,in,NA,Liga Nos,1993,1993/1994
+Boavista Porto FC,Costinha,19,Goalkeeper,Sporting CP,?,out,NA,Liga Nos,1993,1993/1994
+Boavista Porto FC,Tozé,24,Centre-Forward,Salgueiros,?,out,NA,Liga Nos,1993,1993/1994
+Boavista Porto FC,Marlon Brandão,30,Forward,Real Valladolid,?,out,NA,Liga Nos,1993,1993/1994
+Boavista Porto FC,Zoran Lemajic,32,Goalkeeper,Sporting CP,?,out,NA,Liga Nos,1993,1993/1994
+Boavista Porto FC,Samuel,26,Centre-Back,Vit. Guimarães,?,out,NA,Liga Nos,1993,1993/1994
+CS Marítimo,Paulo Duarte,24,Centre-Back,Salgueiros,?,in,NA,Liga Nos,1993,1993/1994
+CS Marítimo,Paulo Madeira,22,Centre-Back,Benfica,Loan,in,0,Liga Nos,1993,1993/1994
+CS Marítimo,Alexander Bunbury,26,Forward,West Ham,?,in,NA,Liga Nos,1993,1993/1994
+CS Marítimo,Wilson Gottardo,30,Centre-Back,Flamengo,?,in,NA,Liga Nos,1993,1993/1994
+CS Marítimo,Eusébio,19,Left-Back,Marítimo U19,-,in,0,Liga Nos,1993,1993/1994
+CS Marítimo,Paulo Alves,24,Centre-Forward,Braga,Loan,out,0,Liga Nos,1993,1993/1994
+CS Marítimo,Bruno Fernandes,19,Central Midfield,Camacha,Loan,out,0,Liga Nos,1993,1993/1994
+CS Marítimo,Christian,18,Centre-Forward,Estrela Amadora,?,out,NA,Liga Nos,1993,1993/1994
+Vitória Setúbal FC,Filgueira,26,Centre-Back,Chaves,?,in,NA,Liga Nos,1993,1993/1994
+Vitória Setúbal FC,Sérgio Araújo,29,Forward,Ponte Preta,?,in,NA,Liga Nos,1993,1993/1994
+Vitória Setúbal FC,Rui Gregório,24,Centre-Back,Belenenses SAD,?,in,NA,Liga Nos,1993,1993/1994
+Vitória Setúbal FC,Rui Esteves,26,Midfielder,Torreense,?,in,NA,Liga Nos,1993,1993/1994
+Vitória Setúbal FC,Tomislav Ivkovic,33,Goalkeeper,Estoril,?,in,NA,Liga Nos,1993,1993/1994
+Vitória Setúbal FC,Chiquinho,30,Attacking Midfield,Braga,?,in,NA,Liga Nos,1993,1993/1994
+Vitória Setúbal FC,Clint Marcelle,24,Midfielder,Rio Ave FC,?,out,NA,Liga Nos,1993,1993/1994
+Vitória Setúbal FC,Nuno Santos,20,Goalkeeper,Operário,Loan,out,0,Liga Nos,1993,1993/1994
+Vitória Setúbal FC,Milorad Bajovic,29,Midfielder,Retired,-,out,0,Liga Nos,1993,1993/1994
+CF Estrela Amadora,Christian,18,Centre-Forward,Marítimo,?,in,NA,Liga Nos,1993,1993/1994
+CF Estrela Amadora,Paulinho,27,Centre-Back,Estoril,?,in,NA,Liga Nos,1993,1993/1994
+CF Estrela Amadora,Fernando Mendes,26,Left-Back,Benfica,?,in,NA,Liga Nos,1993,1993/1994
+CF Estrela Amadora,José Carlos,26,Right-Back,Benfica,?,in,NA,Liga Nos,1993,1993/1994
+CF Estrela Amadora,Tico-Tico,19,Centre-Forward,Maputo,?,in,NA,Liga Nos,1993,1993/1994
+CF Estrela Amadora,Abel Xavier,20,Right-Back,Benfica,?,out,NA,Liga Nos,1993,1993/1994
+CF Estrela Amadora,Rui Neves,23,Right-Back,Gil Vicente,?,out,NA,Liga Nos,1993,1993/1994
+CF Estrela Amadora,Cavaco,21,Forward,Casa Pia,?,out,NA,Liga Nos,1993,1993/1994
+CF Estrela Amadora,Pedro Simões,18,Midfielder,O Elvas,?,out,NA,Liga Nos,1993,1993/1994
+CF Estrela Amadora,Baroti,23,Attacking Midfield,Coimbra,?,out,NA,Liga Nos,1993,1993/1994
+CF Estrela Amadora,Jordão,21,Defensive Midfield,Campomaiorense,?,out,NA,Liga Nos,1993,1993/1994
+CF Estrela Amadora,João Luís,31,Forward,Académico Viseu,?,out,NA,Liga Nos,1993,1993/1994
+Vitória Guimarães SC,Fernando Brassard,21,Goalkeeper,Gil Vicente,?,in,NA,Liga Nos,1993,1993/1994
+Vitória Guimarães SC,Zlatko Zahovic,22,Attacking Midfield,Partizan,?,in,NA,Liga Nos,1993,1993/1994
+Vitória Guimarães SC,Samuel,26,Centre-Back,Boavista,?,in,NA,Liga Nos,1993,1993/1994
+Vitória Guimarães SC,Artur Jorge,22,Centre-Forward,Famalicão,?,in,NA,Liga Nos,1993,1993/1994
+Vitória Guimarães SC,Agostinho,17,Left Winger,Guimarães U19,-,in,0,Liga Nos,1993,1993/1994
+Vitória Guimarães SC,Nuno Espírito Santo,19,Goalkeeper,Vila Real,Loan,out,0,Liga Nos,1993,1993/1994
+Vitória Guimarães SC,Lima,26,Left Winger,Atlético CP,?,out,NA,Liga Nos,1993,1993/1994
+Vitória Guimarães SC,João Oliveira Pinto,21,Right Winger,Estoril,?,out,NA,Liga Nos,1993,1993/1994
+Vitória Guimarães SC,Germano,27,Centre-Back,União Madeira,?,out,NA,Liga Nos,1993,1993/1994
+Vitória Guimarães SC,Paulo Pereira,27,Right-Back,FC Porto,?,out,NA,Liga Nos,1993,1993/1994
+Vitória Guimarães SC,Lima,26,Left Winger,Atlético CP,?,out,NA,Liga Nos,1993,1993/1994
+SC Farense,Goran Stevanovic,26,Midfielder,CA Osasuna,Free Transfer,in,0,Liga Nos,1993,1993/1994
+SC Farense,Floris Schaap,28,Centre-Back,Torreense,?,in,NA,Liga Nos,1993,1993/1994
+SC Farense,Nuno Amaro,17,Left-Back,Farense U19,-,in,0,Liga Nos,1993,1993/1994
+SC Farense,Hélder Batista,20,Midfielder,Torreense,?,out,NA,Liga Nos,1993,1993/1994
+SC Farense,Hélder Baptista,21,Midfielder,Torreense,?,out,NA,Liga Nos,1993,1993/1994
+SC Farense,Ademar,34,Defensive Midfield,Retired,-,out,0,Liga Nos,1993,1993/1994
+CF União Madeira,Predrag Jokanovic,24,Defender,OFK Kikinda,?,in,NA,Liga Nos,1993,1993/1994
+CF União Madeira,Germano,27,Centre-Back,Vit. Guimarães,?,in,NA,Liga Nos,1993,1993/1994
+CF União Madeira,António Caldas,34,Goalkeeper,Leixões,?,in,NA,Liga Nos,1993,1993/1994
+SC Salgueiros,Bino,20,Defensive Midfield,FC Porto,?,in,NA,Liga Nos,1993,1993/1994
+SC Salgueiros,Joni,23,Midfielder,Tondela,?,in,NA,Liga Nos,1993,1993/1994
+SC Salgueiros,Chico Faria,28,Centre-Forward,Espinho,?,in,NA,Liga Nos,1993,1993/1994
+SC Salgueiros,Luís Manuel,22,Defensive Midfield,Sporting CP,?,in,NA,Liga Nos,1993,1993/1994
+SC Salgueiros,Tozé,24,Centre-Forward,Boavista,?,in,NA,Liga Nos,1993,1993/1994
+SC Salgueiros,Tulipa,20,Attacking Midfield,Paços Ferreira,?,in,NA,Liga Nos,1993,1993/1994
+SC Salgueiros,Miguel Simao,20,Forward,Feirense,?,in,NA,Liga Nos,1993,1993/1994
+SC Salgueiros,Chico Faria,29,Centre-Forward,Coimbra,?,out,NA,Liga Nos,1993,1993/1994
+SC Salgueiros,Álvaro Gregório,20,Left-Back,Paços Ferreira,?,out,NA,Liga Nos,1993,1993/1994
+SC Salgueiros,Vinha,26,Centre-Forward,FC Porto,?,out,NA,Liga Nos,1993,1993/1994
+SC Salgueiros,Paulo Duarte,24,Centre-Back,Marítimo,?,out,NA,Liga Nos,1993,1993/1994
+Gil Vicente FC,Tozé,28,Forward,FC Porto,?,in,NA,Liga Nos,1993,1993/1994
+Gil Vicente FC,António Sousa,36,Left Midfield,Beira-Mar,?,in,NA,Liga Nos,1993,1993/1994
+Gil Vicente FC,Rui Neves,23,Right-Back,Estrela Amadora,?,in,NA,Liga Nos,1993,1993/1994
+Gil Vicente FC,Dito,31,Centre-Back,Espinho,?,in,NA,Liga Nos,1993,1993/1994
+Gil Vicente FC,Pedro Roma,22,Goalkeeper,Benfica,Loan,in,0,Liga Nos,1993,1993/1994
+Gil Vicente FC,Jorge Vital,31,Goalkeeper,Tirsense,?,in,NA,Liga Nos,1993,1993/1994
+Gil Vicente FC,Ljubinko Drulovic,25,Left Winger,FC Porto,Free Transfer,out,0,Liga Nos,1993,1993/1994
+Gil Vicente FC,Pedro Roma,23,Goalkeeper,Benfica,?,out,NA,Liga Nos,1993,1993/1994
+Gil Vicente FC,Fernando Brassard,21,Goalkeeper,Vit. Guimarães,?,out,NA,Liga Nos,1993,1993/1994
+Gil Vicente FC,Marcelo,23,Centre-Forward,Tirsense,?,out,NA,Liga Nos,1993,1993/1994
+Gil Vicente FC,Peter Hinds,31,Forward,Unknown,?,out,NA,Liga Nos,1993,1993/1994
+Gil Vicente FC,Hugo Costa,19,Centre-Back,Beira-Mar,?,out,NA,Liga Nos,1993,1993/1994
+Gil Vicente FC,Nando,30,Defender,Famalicão,?,out,NA,Liga Nos,1993,1993/1994
+Gil Vicente FC,Menayane Tueba,30,Defensive Midfield,Retired,-,out,0,Liga Nos,1993,1993/1994
+Belenenses SAD,Dacroce,25,Midfielder,Beira-Mar,Free Transfer,in,0,Liga Nos,1993,1993/1994
+Belenenses SAD,Vítor Manuel,22,Attacking Midfield,Desportivo Aves,Free Transfer,in,0,Liga Nos,1993,1993/1994
+Belenenses SAD,Darci,24,Left Winger,Volta Redonda,?,in,NA,Liga Nos,1993,1993/1994
+Belenenses SAD,Aleksandr Eshchenko,23,Defender,Rotor Volgograd,?,in,NA,Liga Nos,1993,1993/1994
+Belenenses SAD,Pinho,21,Goalkeeper,Esposende,?,in,NA,Liga Nos,1993,1993/1994
+Belenenses SAD,David Embe,19,Centre-Forward,Racing Bafoussam,?,in,NA,Liga Nos,1993,1993/1994
+Belenenses SAD,Toninho Cruz,24,Defensive Midfield,Felgueiras,?,in,NA,Liga Nos,1993,1993/1994
+Belenenses SAD,Tito,21,Left-Back,Moreirense,?,in,NA,Liga Nos,1993,1993/1994
+Belenenses SAD,Clêisson,21,Attacking Midfield,Cruzeiro,Loan,in,0,Liga Nos,1993,1993/1994
+Belenenses SAD,Dacroce,25,Midfielder,Paços Ferreira,Free Transfer,out,0,Liga Nos,1993,1993/1994
+Belenenses SAD,Djamel Menad,33,Centre-Forward,JS Kabylie,?,out,NA,Liga Nos,1993,1993/1994
+Belenenses SAD,Rui Gregório,24,Centre-Back,Vitória Setúbal,?,out,NA,Liga Nos,1993,1993/1994
+Belenenses SAD,Miroslav Curcic,31,Forward,Estoril,?,out,NA,Liga Nos,1993,1993/1994
+Belenenses SAD,Darci,25,Left Winger,Volta Redonda,?,out,NA,Liga Nos,1993,1993/1994
+Belenenses SAD,Adamo Ramos Martins,22,Goalkeeper,Nacional,?,out,NA,Liga Nos,1993,1993/1994
+Belenenses SAD,Paulo Sérgio,25,Centre-Forward,Paços Ferreira,?,out,NA,Liga Nos,1993,1993/1994
+SC Beira-Mar,Hugo Costa,19,Centre-Back,Gil Vicente,?,in,NA,Liga Nos,1993,1993/1994
+SC Beira-Mar,Nuno Sampaio,18,Goalkeeper,Benfica U19,?,in,NA,Liga Nos,1993,1993/1994
+SC Beira-Mar,Carlos Costa,26,Defensive Midfield,Feirense,?,in,NA,Liga Nos,1993,1993/1994
+SC Beira-Mar,Dragan Punisic,27,Attacking Midfield,CD Castellón,?,in,NA,Liga Nos,1993,1993/1994
+SC Beira-Mar,Dacroce,25,Midfielder,Belenenses SAD,Free Transfer,out,0,Liga Nos,1993,1993/1994
+SC Beira-Mar,Marko Nenezic,29,Midfielder,ESA Brive,?,out,NA,Liga Nos,1993,1993/1994
+SC Beira-Mar,Vitor Duarte,33,Defender,Coimbra,?,out,NA,Liga Nos,1993,1993/1994
+SC Beira-Mar,Tó Manel,31,Forward,Unknown,?,out,NA,Liga Nos,1993,1993/1994
+SC Beira-Mar,Petar Petrov,32,Defender,PFC Beroe Stara Zagora,?,out,NA,Liga Nos,1993,1993/1994
+SC Beira-Mar,Paulino Silva,35,Goalkeeper,Maia,?,out,NA,Liga Nos,1993,1993/1994
+SC Beira-Mar,Torres,20,Goalkeeper,Unknown,?,out,NA,Liga Nos,1993,1993/1994
+SC Beira-Mar,Mito,27,Central Midfield,Coimbra,?,out,NA,Liga Nos,1993,1993/1994
+SC Beira-Mar,António Sousa,36,Left Midfield,Gil Vicente,?,out,NA,Liga Nos,1993,1993/1994
+SC Beira-Mar,Helcinho,23,Attacking Midfield,Paços Ferreira,?,out,NA,Liga Nos,1993,1993/1994
+SC Beira-Mar,Marquinhos,29,Midfielder,Unknown,?,out,NA,Liga Nos,1993,1993/1994
+SC Beira-Mar,Redondo,31,Centre-Back,Tirsense,?,out,NA,Liga Nos,1993,1993/1994
+SC Beira-Mar,Serrinha,28,Midfielder,Chaves,?,out,NA,Liga Nos,1993,1993/1994
+SC Braga,Paulo Alves,24,Centre-Forward,Marítimo,Loan,in,0,Liga Nos,1993,1993/1994
+SC Braga,Barroso,22,Central Midfield,Rio Ave FC,Free Transfer,in,0,Liga Nos,1993,1993/1994
+SC Braga,Gil,20,Left Winger,Tours FC,?,in,NA,Liga Nos,1993,1993/1994
+SC Braga,Jaime Pacheco,35,Central Midfield,Paços Ferreira,?,in,NA,Liga Nos,1993,1993/1994
+SC Braga,Gil Gomes,20,Forward,Tours FC,?,in,NA,Liga Nos,1993,1993/1994
+SC Braga,Toni,21,Centre-Forward,FC Porto,?,in,NA,Liga Nos,1993,1993/1994
+SC Braga,Neves,22,Right-Back,FC Porto,?,in,NA,Liga Nos,1993,1993/1994
+SC Braga,Mladen Karoglan,29,Forward,Chaves,?,in,NA,Liga Nos,1993,1993/1994
+SC Braga,Rui Miguel,18,Centre-Forward,Braga U19,-,in,0,Liga Nos,1993,1993/1994
+SC Braga,António Folha,22,Left Winger,FC Porto,?,out,NA,Liga Nos,1993,1993/1994
+SC Braga,Chiquinho,30,Attacking Midfield,Vitória Setúbal,?,out,NA,Liga Nos,1993,1993/1994
+SC Braga,Kiki,31,Attacking Midfield,Paços Ferreira,?,out,NA,Liga Nos,1993,1993/1994
+SC Braga,Secretário,23,Right-Back,FC Porto,?,out,NA,Liga Nos,1993,1993/1994
+FC Paços de Ferreira,Dacroce,25,Midfielder,Belenenses SAD,Free Transfer,in,0,Liga Nos,1993,1993/1994
+FC Paços de Ferreira,Paulo Sérgio,25,Centre-Forward,Belenenses SAD,?,in,NA,Liga Nos,1993,1993/1994
+FC Paços de Ferreira,Vlado Bozinoski,29,Central Midfield,Ipswich,?,in,NA,Liga Nos,1993,1993/1994
+FC Paços de Ferreira,Álvaro Gregório,20,Left-Back,Salgueiros,?,in,NA,Liga Nos,1993,1993/1994
+FC Paços de Ferreira,Kiki,31,Attacking Midfield,Braga,?,in,NA,Liga Nos,1993,1993/1994
+FC Paços de Ferreira,Helcinho,23,Attacking Midfield,Beira-Mar,?,in,NA,Liga Nos,1993,1993/1994
+FC Paços de Ferreira,Carlos Carneiro,19,Centre-Forward,Paços F. U19,-,in,0,Liga Nos,1993,1993/1994
+FC Paços de Ferreira,Pedro Correia,18,Goalkeeper,Paços F. U19,-,in,0,Liga Nos,1993,1993/1994
+FC Paços de Ferreira,Miranda,27,Attacking Midfield,Espinho,?,out,NA,Liga Nos,1993,1993/1994
+FC Paços de Ferreira,Tulipa,20,Attacking Midfield,Salgueiros,?,out,NA,Liga Nos,1993,1993/1994
+FC Paços de Ferreira,Barriga,29,Left-Back,Leixões,?,out,NA,Liga Nos,1993,1993/1994
+FC Paços de Ferreira,Luís Sobrinho,32,Centre-Back,Felgueiras,?,out,NA,Liga Nos,1993,1993/1994
+FC Paços de Ferreira,Valtinho,26,Defensive Midfield,Unknown,?,out,NA,Liga Nos,1993,1993/1994
+FC Paços de Ferreira,Jaime Pacheco,35,Central Midfield,Braga,?,out,NA,Liga Nos,1993,1993/1994
+FC Famalicão,Tiago,18,Defensive Midfield,Trofense,?,in,NA,Liga Nos,1993,1993/1994
+FC Famalicão,Morgado,23,Left-Back,FC Porto,?,in,NA,Liga Nos,1993,1993/1994
+FC Famalicão,Silvino Morais,27,Goalkeeper,Espinho,?,in,NA,Liga Nos,1993,1993/1994
+FC Famalicão,Nando,30,Defender,Gil Vicente,?,in,NA,Liga Nos,1993,1993/1994
+FC Famalicão,Goran Milanko,24,Central Midfield,Cádiz CF,?,in,NA,Liga Nos,1993,1993/1994
+FC Famalicão,Amarildo,28,Forward,CD Logroñés,?,in,NA,Liga Nos,1993,1993/1994
+FC Famalicão,Zé Nando,24,Left-Back,Penafiel,?,out,NA,Liga Nos,1993,1993/1994
+FC Famalicão,Artur Jorge,22,Centre-Forward,Vit. Guimarães,?,out,NA,Liga Nos,1993,1993/1994
+FC Famalicão,Tó Ferreira,21,Goalkeeper,Amora FC,?,out,NA,Liga Nos,1993,1993/1994
+FC Famalicão,Thierry Pauk,27,Defender,LB Châteauroux,?,out,NA,Liga Nos,1993,1993/1994
+FC Famalicão,Petar Mihtarski,27,Forward,FC Porto,"End of loanSep 1, 1993",out,0,Liga Nos,1993,1993/1994
+GD Estoril,Litos,19,Centre-Back,Campomaiorense,Free Transfer,in,0,Liga Nos,1993,1993/1994
+GD Estoril,Fernando Barboza,29,Forward,Deportivo Quito,?,in,NA,Liga Nos,1993,1993/1994
+GD Estoril,Miroslav Curcic,31,Forward,Belenenses SAD,?,in,NA,Liga Nos,1993,1993/1994
+GD Estoril,João Oliveira Pinto,21,Right Winger,Vit. Guimarães,?,in,NA,Liga Nos,1993,1993/1994
+GD Estoril,Idrissa Thiam,22,Forward,Annecy FC,?,in,NA,Liga Nos,1993,1993/1994
+GD Estoril,Tomislav Ivkovic,33,Goalkeeper,Vitória Setúbal,?,out,NA,Liga Nos,1993,1993/1994
+GD Estoril,Stoycho Mladenov,36,Left Winger,Olhanense,?,out,NA,Liga Nos,1993,1993/1994
+GD Estoril,Paulinho,27,Centre-Back,Estrela Amadora,?,out,NA,Liga Nos,1993,1993/1994
+GD Estoril,Aziz Bouderbala,32,Attacking Midfield,FC St. Gallen,?,out,NA,Liga Nos,1993,1993/1994

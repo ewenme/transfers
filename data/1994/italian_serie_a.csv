@@ -1,0 +1,492 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Milan AC,Paolo Di Canio,26,Centre-Forward,Juventus,£675k,in,0.675,Serie A,1994,1994/1995
+Milan AC,Ruud Gullit,31,Second Striker,Sampdoria,£540k,in,0.54,Serie A,1994,1994/1995
+Milan AC,Massimo Orlando,23,Forward,Fiorentina,?,in,NA,Serie A,1994,1994/1995
+Milan AC,Gianluca Sordo,24,Right Midfield,Torino,?,in,NA,Serie A,1994,1994/1995
+Milan AC,Alessandro Melli,24,Centre-Forward,Sampdoria,?,in,NA,Serie A,1994,1994/1995
+Milan AC,Giovanni Stroppa,26,Attacking Midfield,Foggia,?,in,NA,Serie A,1994,1994/1995
+Milan AC,Enzo Gambaro,28,Left-Back,Fiorentina,"End of loanNov 1, 1994",in,0,Serie A,1994,1994/1995
+Milan AC,Cristian Brocchi,18,Central Midfield,Milan U19,-,in,0,Serie A,1994,1994/1995
+Milan AC,Roberto Colombo,18,Goalkeeper,Milan U19,-,in,0,Serie A,1994,1994/1995
+Milan AC,Angelo Carbone,27,Right Midfield,Fiorentina,"End of loanJun 30, 1995",in,0,Serie A,1994,1994/1995
+Milan AC,Francesco Cozza,20,Attacking Midfield,Reggiana,"End of loanSep 30, 1994",in,0,Serie A,1994,1994/1995
+Milan AC,Massimo Oddo,18,Right-Back,Milan U19,-,in,0,Serie A,1994,1994/1995
+Milan AC,Francesco De Francesco,16,Second Striker,Milan U19,-,in,0,Serie A,1994,1994/1995
+Milan AC,Enzo Gambaro,28,Left-Back,SSC Napoli,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+Milan AC,Giovane Elber,21,Centre-Forward,Grasshoppers,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+Milan AC,Carlo Cudicini,20,Goalkeeper,Como,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+Milan AC,Giuseppe Cardone,20,Right-Back,Pavia,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+Milan AC,Jean-Pierre Papin,30,Centre-Forward,Bayern Munich,£2.48m,out,2.48,Serie A,1994,1994/1995
+Milan AC,Giovane Elber,21,Centre-Forward,VfB Stuttgart,£1.44m,out,1.44,Serie A,1994,1994/1995
+Milan AC,Brian Laudrup,25,Right Winger,Rangers,Free Transfer,out,0,Serie A,1994,1994/1995
+Milan AC,Ruud Gullit,32,Second Striker,Sampdoria,?,out,NA,Serie A,1994,1994/1995
+Milan AC,Roberto Lorenzini,28,Left-Back,Torino,?,out,NA,Serie A,1994,1994/1995
+Milan AC,Fernando De Napoli,30,Central Midfield,Reggiana,?,out,NA,Serie A,1994,1994/1995
+Milan AC,Marco Pullo,26,Defender,Pro Sesto,?,out,NA,Serie A,1994,1994/1995
+Milan AC,Francesco Cozza,20,Attacking Midfield,Vicenza,Loan,out,0,Serie A,1994,1994/1995
+Milan AC,Francesco Cozza,20,Attacking Midfield,Reggiana,Loan,out,0,Serie A,1994,1994/1995
+Milan AC,Florin Raducioiu,24,Centre-Forward,Espanyol,?,out,NA,Serie A,1994,1994/1995
+Milan AC,Enzo Gambaro,28,Left-Back,Fiorentina,Loan,out,0,Serie A,1994,1994/1995
+Milan AC,Angelo Carbone,26,Right Midfield,Fiorentina,Loan,out,0,Serie A,1994,1994/1995
+Milan AC,Daniele Guerzoni,18,Centre-Forward,Calcio Monza,?,out,NA,Serie A,1994,1994/1995
+Milan AC,Enzo Gambaro,28,Left-Back,Reggiana,Loan,out,0,Serie A,1994,1994/1995
+Milan AC,Alessandro Orlando,24,Left-Back,Juventus,?,out,NA,Serie A,1994,1994/1995
+Milan AC,Giuseppe Cardone,20,Right-Back,SC Leffe,Loan,out,0,Serie A,1994,1994/1995
+AS Roma,Francesco Colonnese,22,Centre-Back,Cremonese,?,in,NA,Serie A,1994,1994/1995
+AS Roma,Francesco Moriero,25,Right Winger,Cagliari Calcio,?,in,NA,Serie A,1994,1994/1995
+AS Roma,Ferro Tontini,24,Goalkeeper,Modena,?,in,NA,Serie A,1994,1994/1995
+AS Roma,Dario Rossi,21,Defender,Modena,?,in,NA,Serie A,1994,1994/1995
+AS Roma,Giampiero Maini,22,Defensive Midfield,Ascoli,?,in,NA,Serie A,1994,1994/1995
+AS Roma,Daniel Fonseca,24,Centre-Forward,SSC Napoli,?,in,NA,Serie A,1994,1994/1995
+AS Roma,Andrea Borsa,22,Centre-Back,Pistoiese,?,in,NA,Serie A,1994,1994/1995
+AS Roma,Sandro Mazzoni,20,Midfielder,Unknown,?,in,NA,Serie A,1994,1994/1995
+AS Roma,Marco Branca,29,Centre-Forward,AC Parma,?,in,NA,Serie A,1994,1994/1995
+AS Roma,Jonas Thern,27,Central Midfield,SSC Napoli,?,in,NA,Serie A,1994,1994/1995
+AS Roma,Francesco Statuto,22,Central Midfield,Udinese,?,in,NA,Serie A,1994,1994/1995
+AS Roma,Andrea Cupi,18,Centre-Back,Roma U19,-,in,0,Serie A,1994,1994/1995
+AS Roma,Giampaolo Di Magno,20,Goalkeeper,Roma U19,-,in,0,Serie A,1994,1994/1995
+AS Roma,Lorenzo Stovini,17,Centre-Back,Roma U19,-,in,0,Serie A,1994,1994/1995
+AS Roma,Roberto Muzzi,22,Centre-Forward,AC Pisa,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+AS Roma,Fabio Petruzzi,23,Centre-Back,Udinese,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+AS Roma,Siniša Mihajlović,25,Centre-Back,Sampdoria,£5.40m,out,5.4,Serie A,1994,1994/1995
+AS Roma,Thomas Häßler,28,Attacking Midfield,Karlsruher SC,£3.33m,out,3.33,Serie A,1994,1994/1995
+AS Roma,Roberto Muzzi,23,Centre-Forward,Cagliari Calcio,Free Transfer,out,0,Serie A,1994,1994/1995
+AS Roma,Valter Bonacina,29,Defensive Midfield,Atalanta,?,out,NA,Serie A,1994,1994/1995
+AS Roma,Walter Lapini,20,Forward,Unknown,?,out,NA,Serie A,1994,1994/1995
+AS Roma,Ferro Tontini,25,Goalkeeper,Lucchese,?,out,NA,Serie A,1994,1994/1995
+AS Roma,Ruggiero Rizzitelli,26,Centre-Forward,Torino,?,out,NA,Serie A,1994,1994/1995
+AS Roma,Andrea Pazzagli,34,Goalkeeper,Prato,?,out,NA,Serie A,1994,1994/1995
+AS Roma,Emilio Pellegrino,19,Defender,Unknown,?,out,NA,Serie A,1994,1994/1995
+AS Roma,Dario Rossi,21,Defender,Lecce,?,out,NA,Serie A,1994,1994/1995
+AS Roma,Alessio Scarchilli,21,Attacking Midfield,Udinese,?,out,NA,Serie A,1994,1994/1995
+AS Roma,Daniele Berretta,22,Defensive Midfield,Cagliari Calcio,Loan,out,0,Serie A,1994,1994/1995
+AS Roma,Antonio Comi,29,Centre-Back,Como,?,out,NA,Serie A,1994,1994/1995
+AS Roma,Antonino Bernardini,20,Defensive Midfield,Torino,Loan,out,0,Serie A,1994,1994/1995
+AS Roma,Gianluca Festa,25,Right-Back,Inter,"End of loanJun 30, 1994",out,0,Serie A,1994,1994/1995
+Brescia Calcio,Stefano Borgonovo,30,Forward,Udinese,Loan,in,0,Serie A,1994,1994/1995
+Brescia Calcio,Ivan Gamberini,26,Goalkeeper,Spezia,?,in,NA,Serie A,1994,1994/1995
+Brescia Calcio,Giovanni Francini,31,Left-Back,Genoa,?,in,NA,Serie A,1994,1994/1995
+Brescia Calcio,Daniele Adani,20,Centre-Back,Lazio,?,in,NA,Serie A,1994,1994/1995
+Brescia Calcio,Danut Lupu,27,Attacking Midfield,Rapid Bucharest,?,in,NA,Serie A,1994,1994/1995
+Brescia Calcio,Luigi Corino,28,Defender,Lazio,?,in,NA,Serie A,1994,1994/1995
+Brescia Calcio,Fabrizio Baldini,21,Midfielder,AC Pisa,?,in,NA,Serie A,1994,1994/1995
+Brescia Calcio,Jorge Cadete,26,Centre-Forward,Sporting CP,?,in,NA,Serie A,1994,1994/1995
+Brescia Calcio,Marco Ballotta,30,Goalkeeper,AC Parma,?,in,NA,Serie A,1994,1994/1995
+Brescia Calcio,Sergio Battistini,31,Defensive Midfield,Inter,?,in,NA,Serie A,1994,1994/1995
+Brescia Calcio,Antonio Bernardi,17,Forward,Ostiamare,?,in,NA,Serie A,1994,1994/1995
+Brescia Calcio,Davide Ratti,18,Forward,Carrarese,?,in,NA,Serie A,1994,1994/1995
+Brescia Calcio,Eugenio Corini,24,Defensive Midfield,SSC Napoli,?,in,NA,Serie A,1994,1994/1995
+Brescia Calcio,Marco Nappi,28,Second Striker,Genoa,?,in,NA,Serie A,1994,1994/1995
+Brescia Calcio,Ivano Bonetti,30,Left Midfield,Torino,?,in,NA,Serie A,1994,1994/1995
+Brescia Calcio,Roberto Baronio,16,Defensive Midfield,Brescia U19,-,in,0,Serie A,1994,1994/1995
+Brescia Calcio,Nicola Pavarini,20,Goalkeeper,Brescia U19,-,in,0,Serie A,1994,1994/1995
+Brescia Calcio,Gheorghe Hagi,29,Attacking Midfield,FC Barcelona,£3.60m,out,3.6,Serie A,1994,1994/1995
+Brescia Calcio,Sergio Domini,33,Midfielder,Lucchese,?,out,NA,Serie A,1994,1994/1995
+Brescia Calcio,Paolo Ziliani,23,Sweeper,Cosenza,?,out,NA,Serie A,1994,1994/1995
+Brescia Calcio,Paolo Bonfadini,22,Defender,Alzano Virescit,?,out,NA,Serie A,1994,1994/1995
+Brescia Calcio,Gabriele Ambrosetti,21,Left Midfield,Vicenza,?,out,NA,Serie A,1994,1994/1995
+Brescia Calcio,Sergio Volpi,20,Central Midfield,Carrarese,Loan,out,0,Serie A,1994,1994/1995
+Brescia Calcio,Franco Lerda,26,Centre-Forward,SSC Napoli,?,out,NA,Serie A,1994,1994/1995
+Brescia Calcio,Luigi Corino,28,Defender,Cosenza,?,out,NA,Serie A,1994,1994/1995
+Brescia Calcio,Roberto Torchio,23,Midfielder,CPR Ospitaletto,?,out,NA,Serie A,1994,1994/1995
+Brescia Calcio,Marco Landucci,30,Goalkeeper,Avellino,?,out,NA,Serie A,1994,1994/1995
+Brescia Calcio,Nello Cusin,29,Goalkeeper,Pescara,?,out,NA,Serie A,1994,1994/1995
+Brescia Calcio,Andrea Borgogni,20,Midfielder,CPR Ospitaletto,?,out,NA,Serie A,1994,1994/1995
+Brescia Calcio,Danut Lupu,27,Attacking Midfield,Rapid Bucharest,?,out,NA,Serie A,1994,1994/1995
+Brescia Calcio,Stefano Ragnoli,19,Centre-Back,Cremapergo,?,out,NA,Serie A,1994,1994/1995
+FC Internazionale,Gianluca Pagliuca,27,Goalkeeper,Sampdoria,?,in,NA,Serie A,1994,1994/1995
+FC Internazionale,Pierluigi Orlandini,21,Right Midfield,Atalanta,?,in,NA,Serie A,1994,1994/1995
+FC Internazionale,Giovanni Bia,25,Centre-Back,SSC Napoli,?,in,NA,Serie A,1994,1994/1995
+FC Internazionale,Luca Mondini,24,Goalkeeper,Como,?,in,NA,Serie A,1994,1994/1995
+FC Internazionale,Andrea Seno,28,Central Midfield,Foggia,?,in,NA,Serie A,1994,1994/1995
+FC Internazionale,Andrea Zanchetta,19,Central Midfield,Inter U19,-,in,0,Serie A,1994,1994/1995
+FC Internazionale,Marco Fortin,19,Goalkeeper,Inter U19,-,in,0,Serie A,1994,1994/1995
+FC Internazionale,Gianluca Festa,25,Right-Back,AS Roma,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+FC Internazionale,Darko Pancev,28,Centre-Forward,VfB Leipzig,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+FC Internazionale,Paolo Orlandoni,21,Goalkeeper,Casarano,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+FC Internazionale,Mirko Conte,19,Centre-Back,AC Venezia 1907,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+FC Internazionale,Marco Barollo,21,Midfielder,Lecce,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+FC Internazionale,Salvatore Schillaci,29,Centre-Forward,Júbilo Iwata,Free Transfer,out,0,Serie A,1994,1994/1995
+FC Internazionale,Walter Zenga,34,Goalkeeper,Sampdoria,?,out,NA,Serie A,1994,1994/1995
+FC Internazionale,Riccardo Ferri,30,Centre-Back,Sampdoria,?,out,NA,Serie A,1994,1994/1995
+FC Internazionale,Alessandro Rossi,19,Defender,Unknown,?,out,NA,Serie A,1994,1994/1995
+FC Internazionale,Sergio Battistini,31,Defensive Midfield,Brescia,?,out,NA,Serie A,1994,1994/1995
+FC Internazionale,Antonio Manicone,27,Defensive Midfield,Genoa,Loan,out,0,Serie A,1994,1994/1995
+FC Internazionale,Igor Shalimov,25,Attacking Midfield,MSV Duisburg,?,out,NA,Serie A,1994,1994/1995
+FC Internazionale,Paolo Orlandoni,21,Goalkeeper,Pro Sesto,Loan,out,0,Serie A,1994,1994/1995
+FC Internazionale,Beniamino Abate,32,Goalkeeper,Andria,?,out,NA,Serie A,1994,1994/1995
+FC Internazionale,Marco Barollo,22,Midfielder,AC Venezia 1907,?,out,NA,Serie A,1994,1994/1995
+FC Internazionale,Massimo Marazzina,19,Centre-Forward,Foggia,?,out,NA,Serie A,1994,1994/1995
+AC Parma,Dino Baggio,22,Defensive Midfield,Juventus,£4.05m,in,4.05,Serie A,1994,1994/1995
+AC Parma,Fernando Couto,24,Centre-Back,FC Porto,£2.43m,in,2.43,Serie A,1994,1994/1995
+AC Parma,Stefano Fiore,19,Attacking Midfield,Cosenza,£675k,in,0.675,Serie A,1994,1994/1995
+AC Parma,Giovanni Galli,36,Goalkeeper,Torino,?,in,NA,Serie A,1994,1994/1995
+AC Parma,Mario Massimo Caruso,24,Attacking Midfield,SSC Napoli,?,in,NA,Serie A,1994,1994/1995
+AC Parma,Gianluca Hervatin,20,Forward,Ancona,?,in,NA,Serie A,1994,1994/1995
+AC Parma,Tony Meola,25,Goalkeeper,Unknown,?,in,NA,Serie A,1994,1994/1995
+AC Parma,Roberto Mussi,30,Right-Back,Torino,?,in,NA,Serie A,1994,1994/1995
+AC Parma,Gianfranco Circati,23,Defender,Salernitana,?,in,NA,Serie A,1994,1994/1995
+AC Parma,Marcello Castellini,21,Centre-Back,Perugia,?,in,NA,Serie A,1994,1994/1995
+AC Parma,Marco Branca,29,Centre-Forward,Udinese,?,in,NA,Serie A,1994,1994/1995
+AC Parma,Massimo Susic,27,Centre-Back,AC Pisa,?,in,NA,Serie A,1994,1994/1995
+AC Parma,Diego Pellegrini,23,Centre-Back,Vicenza,?,in,NA,Serie A,1994,1994/1995
+AC Parma,Gianluigi Buffon,16,Goalkeeper,Parma U19,-,in,0,Serie A,1994,1994/1995
+AC Parma,Mario Massimo Caruso,25,Attacking Midfield,Lucchese,"End of loanJun 30, 1995",in,0,Serie A,1994,1994/1995
+AC Parma,Marco Branca,29,Centre-Forward,AS Roma,?,out,NA,Serie A,1994,1994/1995
+AC Parma,David Balleri,25,Right-Back,Padova,?,out,NA,Serie A,1994,1994/1995
+AC Parma,Alessandro Melli,24,Centre-Forward,Sampdoria,?,out,NA,Serie A,1994,1994/1995
+AC Parma,Marco Ferrari,27,Goalkeeper,Forlì,?,out,NA,Serie A,1994,1994/1995
+AC Parma,Gianluca Hervatin,20,Forward,Calcio Monza,?,out,NA,Serie A,1994,1994/1995
+AC Parma,Marco Ballotta,30,Goalkeeper,Brescia,?,out,NA,Serie A,1994,1994/1995
+AC Parma,Georges Grün,32,Centre-Back,RSC Anderlecht,?,out,NA,Serie A,1994,1994/1995
+AC Parma,Salvatore Matrecano,23,Centre-Back,SSC Napoli,?,out,NA,Serie A,1994,1994/1995
+AC Parma,Gianfranco Circati,23,Defender,Salernitana,?,out,NA,Serie A,1994,1994/1995
+AC Parma,Mario Massimo Caruso,25,Attacking Midfield,Lucchese,Loan,out,0,Serie A,1994,1994/1995
+AC Parma,Roberto Colacone,20,Second Striker,Carrarese,?,out,NA,Serie A,1994,1994/1995
+AC Parma,Daniele Zoratto,32,Central Midfield,Padova,?,out,NA,Serie A,1994,1994/1995
+AC Parma,Davide Falcioni,19,Goalkeeper,AJ Fano,?,out,NA,Serie A,1994,1994/1995
+Genoa 1893,Daniele Delli Carri,22,Centre-Back,Torino,Free Transfer,in,0,Serie A,1994,1994/1995
+Genoa 1893,Gianluca Francesconi,22,Centre-Back,Juventus,?,in,NA,Serie A,1994,1994/1995
+Genoa 1893,Nicola Caricola,31,Centre-Back,Torino,?,in,NA,Serie A,1994,1994/1995
+Genoa 1893,Michele Padovano,27,Centre-Forward,Reggiana,?,in,NA,Serie A,1994,1994/1995
+Genoa 1893,Pier Giovanni Rutzittu,18,Midfielder,Olbia,?,in,NA,Serie A,1994,1994/1995
+Genoa 1893,Dario Marcolin,22,Defensive Midfield,Cagliari Calcio,?,in,NA,Serie A,1994,1994/1995
+Genoa 1893,Kazuyoshi Miura,27,Centre-Forward,Verdy Kawasaki,?,in,NA,Serie A,1994,1994/1995
+Genoa 1893,Antonio Manicone,27,Defensive Midfield,Inter,Loan,in,0,Serie A,1994,1994/1995
+Genoa 1893,Davide Micillo,23,Goalkeeper,Ravenna,?,in,NA,Serie A,1994,1994/1995
+Genoa 1893,Giovanni Francini,30,Left-Back,SSC Napoli,?,in,NA,Serie A,1994,1994/1995
+Genoa 1893,Davide Nicola,21,Right-Back,Andria,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+Genoa 1893,Gianluca Berti,27,Goalkeeper,Ancona,Free Transfer,out,0,Serie A,1994,1994/1995
+Genoa 1893,Davide Nicola,21,Right-Back,Ancona,Loan,out,0,Serie A,1994,1994/1995
+Genoa 1893,Marciano Vink,23,Defensive Midfield,PSV Eindhoven,?,out,NA,Serie A,1994,1994/1995
+Genoa 1893,Andrea Bianchi,25,Midfielder,Alessandria,?,out,NA,Serie A,1994,1994/1995
+Genoa 1893,Massimiliano Corrado,22,Right-Back,Perugia,?,out,NA,Serie A,1994,1994/1995
+Genoa 1893,Marco Nappi,28,Second Striker,Brescia,?,out,NA,Serie A,1994,1994/1995
+Genoa 1893,Lajos Détári,31,Attacking Midfield,Neuchâtel Xamax,?,out,NA,Serie A,1994,1994/1995
+Genoa 1893,Nicola Caricola,31,Centre-Back,Torino,?,out,NA,Serie A,1994,1994/1995
+Genoa 1893,Roberto Murgita,25,Centre-Forward,Vicenza,?,out,NA,Serie A,1994,1994/1995
+Genoa 1893,Michele Padovano,28,Centre-Forward,Reggiana,?,out,NA,Serie A,1994,1994/1995
+Genoa 1893,Dan Petrescu,26,Right-Back,Sheff Wed,?,out,NA,Serie A,1994,1994/1995
+Genoa 1893,Luca Cavallo,21,Right Midfield,Perugia,?,out,NA,Serie A,1994,1994/1995
+Genoa 1893,Giovanni Francini,31,Left-Back,Brescia,?,out,NA,Serie A,1994,1994/1995
+AS Bari,Paolo Annoni,24,Left-Back,Como,?,in,NA,Serie A,1994,1994/1995
+AS Bari,Miguel Ángel Guerrero,26,Second Striker,Junior FC,?,in,NA,Serie A,1994,1994/1995
+AS Bari,Nicola Legrottaglie,17,Centre-Back,Bari U19,-,in,0,Serie A,1994,1994/1995
+AS Bari,Michele Andrisani,21,Defensive Midfield,Palazzolo,"End of loanJun 30, 1995",in,0,Serie A,1994,1994/1995
+AS Bari,Roberto Cau,18,Right Midfield,Bari U19,-,in,0,Serie A,1994,1994/1995
+AS Bari,Luca Gentili,22,Goalkeeper,Fasano,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+AS Bari,Gerson,27,Central Midfield,Lecce,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+AS Bari,Giovanni Indiveri,19,Goalkeeper,Olbia,?,out,NA,Serie A,1994,1994/1995
+AS Bari,Luca Gentili,22,Goalkeeper,Barletta,Loan,out,0,Serie A,1994,1994/1995
+AS Bari,Berardino Capocchiano,28,Centre-Forward,Avellino,?,out,NA,Serie A,1994,1994/1995
+AS Bari,Fabio Di Domenico,18,Forward,Molfetta,?,out,NA,Serie A,1994,1994/1995
+AS Bari,Joao Paulo,29,Forward,Vasco da Gama,?,out,NA,Serie A,1994,1994/1995
+AS Bari,Michele Andrisani,20,Defensive Midfield,Palazzolo,Loan,out,0,Serie A,1994,1994/1995
+AS Bari,Carmelo Puglisi,22,Midfielder,Rimini,?,out,NA,Serie A,1994,1994/1995
+AS Bari,Donato Gentile,19,Midfielder,Vigor Trani,?,out,NA,Serie A,1994,1994/1995
+AS Bari,Massimiliano Tangorra,24,Defender,Ancona,?,out,NA,Serie A,1994,1994/1995
+AS Bari,Angelo Colombo,33,Right Midfield,Marconi Stallions,?,out,NA,Serie A,1994,1994/1995
+AS Bari,Gabriele Grossi,22,Left-Back,SSC Napoli,?,out,NA,Serie A,1994,1994/1995
+AS Bari,Maurizio Laureri,28,Midfielder,Como,?,out,NA,Serie A,1994,1994/1995
+AS Bari,Luigi Caggianelli,21,Defender,Bisceglie,?,out,NA,Serie A,1994,1994/1995
+AS Bari,Nicola Fanelli,20,Goalkeeper,Retired,-,out,0,Serie A,1994,1994/1995
+AS Bari,Francesco Cotugno,19,Defender,Retired,-,out,0,Serie A,1994,1994/1995
+SS Lazio,Roberto Rambaudi,28,Right Winger,Atalanta,?,in,NA,Serie A,1994,1994/1995
+SS Lazio,Daniele Adani,19,Centre-Back,Modena,?,in,NA,Serie A,1994,1994/1995
+SS Lazio,Giorgio Venturin,25,Central Midfield,Torino,?,in,NA,Serie A,1994,1994/1995
+SS Lazio,Ivano Della Morte,19,Central Midfield,Calcio Monza,?,in,NA,Serie A,1994,1994/1995
+SS Lazio,José Chamot,25,Left-Back,Foggia,?,in,NA,Serie A,1994,1994/1995
+SS Lazio,Vincenzo De Sio,21,Midfielder,Trapani,?,in,NA,Serie A,1994,1994/1995
+SS Lazio,Simone Tiribocchi,16,Centre-Forward,Lazio U19,-,in,0,Serie A,1994,1994/1995
+SS Lazio,Alessandro Iannuzzi,18,Forward,Lazio  Youth,-,in,0,Serie A,1994,1994/1995
+SS Lazio,Flavio Roma,20,Goalkeeper,Mantova,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+SS Lazio,Thomas Doll,28,Attacking Midfield,E. Frankfurt,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+SS Lazio,Thomas Doll,28,Attacking Midfield,E. Frankfurt,£1.58m,out,1.58,Serie A,1994,1994/1995
+SS Lazio,Claudio Sclosa,33,Midfielder,Cremonese,?,out,NA,Serie A,1994,1994/1995
+SS Lazio,Daniele Adani,20,Centre-Back,Brescia,?,out,NA,Serie A,1994,1994/1995
+SS Lazio,Luca Luzardi,24,Centre-Back,SSC Napoli,?,out,NA,Serie A,1994,1994/1995
+SS Lazio,Luigi Corino,28,Defender,Brescia,?,out,NA,Serie A,1994,1994/1995
+SS Lazio,Ivano Della Morte,20,Central Midfield,Lecce,Loan,out,0,Serie A,1994,1994/1995
+SS Lazio,Fabrizio Di Mauro,29,Defensive Midfield,Fiorentina,"End of loanJun 30, 1994",out,0,Serie A,1994,1994/1995
+Torino Calcio,Jocelyn Angloma,28,Right-Back,Marseille,Free Transfer,in,0,Serie A,1994,1994/1995
+Torino Calcio,Nicola Caricola,31,Centre-Back,Genoa,?,in,NA,Serie A,1994,1994/1995
+Torino Calcio,Abédi Pelé,29,Attacking Midfield,Olympique Lyon,?,in,NA,Serie A,1994,1994/1995
+Torino Calcio,Giuseppe Scienza,27,Midfielder,Reggiana,?,in,NA,Serie A,1994,1994/1995
+Torino Calcio,Stefano Torrisi,23,Centre-Back,Reggiana,?,in,NA,Serie A,1994,1994/1995
+Torino Calcio,Vittorio Tosto,20,Left-Back,Salernitana,?,in,NA,Serie A,1994,1994/1995
+Torino Calcio,Pasquale Luiso,24,Centre-Forward,AS Sora Calcio,?,in,NA,Serie A,1994,1994/1995
+Torino Calcio,Roberto Lorenzini,28,Left-Back,Milan,?,in,NA,Serie A,1994,1994/1995
+Torino Calcio,Luca Pellegrini,31,Defender,Ravenna,?,in,NA,Serie A,1994,1994/1995
+Torino Calcio,Antonino Bernardini,20,Defensive Midfield,AS Roma,Loan,in,0,Serie A,1994,1994/1995
+Torino Calcio,Sean Sogliano,23,Centre-Back,Ancona,?,in,NA,Serie A,1994,1994/1995
+Torino Calcio,Gianluca Pessotto,23,Left-Back,Hellas Verona,?,in,NA,Serie A,1994,1994/1995
+Torino Calcio,Luigi Simoni,29,Goalkeeper,Centese,?,in,NA,Serie A,1994,1994/1995
+Torino Calcio,Davide Possanzini,18,Centre-Forward,Recanatese,?,in,NA,Serie A,1994,1994/1995
+Torino Calcio,Ivano Bonetti,29,Left Midfield,Bologna,?,in,NA,Serie A,1994,1994/1995
+Torino Calcio,Gianluca Petrachi,25,Midfielder,AC Venezia 1907,?,in,NA,Serie A,1994,1994/1995
+Torino Calcio,Ruggiero Rizzitelli,26,Centre-Forward,AS Roma,?,in,NA,Serie A,1994,1994/1995
+Torino Calcio,Paolo Cristallini,22,Attacking Midfield,AC Pisa,?,in,NA,Serie A,1994,1994/1995
+Torino Calcio,Marcão,21,Centre-Forward,Matsubara-PR,?,in,NA,Serie A,1994,1994/1995
+Torino Calcio,Jean-Pierre Cyprien,25,Centre-Back,Stade Rennais,Loan,in,0,Serie A,1994,1994/1995
+Torino Calcio,Vincenzo Sommese,18,Right Winger,AS Nola,?,in,NA,Serie A,1994,1994/1995
+Torino Calcio,Mauro Briano,19,Defensive Midfield,Torino U19,-,in,0,Serie A,1994,1994/1995
+Torino Calcio,Moreno Longo,18,Right-Back,Torino U19,-,in,0,Serie A,1994,1994/1995
+Torino Calcio,Stefano Mercuri,16,Right-Back,Torino  Youth,-,in,0,Serie A,1994,1994/1995
+Torino Calcio,Pietro Sportillo,15,Centre-Back,Torino U19,-,in,0,Serie A,1994,1994/1995
+Torino Calcio,Daniele Delli Carri,22,Centre-Back,Genoa,Free Transfer,out,0,Serie A,1994,1994/1995
+Torino Calcio,Yahaya Mallam,19,Midfielder,Bor. Dortmund,Free Transfer,out,0,Serie A,1994,1994/1995
+Torino Calcio,Paolo Agostini,18,Midfielder,Ravenna,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Angelo Gregucci,30,Defender,Reggiana,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Marcão,21,Centre-Forward,Neuchâtel Xamax,Loan,out,0,Serie A,1994,1994/1995
+Torino Calcio,Giorgio Venturin,25,Central Midfield,Lazio,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Benny Carbone,22,Second Striker,SSC Napoli,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Daniele Fortunato,31,Defensive Midfield,Atalanta,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Marcelo Saralegui,23,Attacking Midfield,Racing Club,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Roberto Mussi,30,Right-Back,AC Parma,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Pasquale Luiso,24,Centre-Forward,Pescara,Loan,out,0,Serie A,1994,1994/1995
+Torino Calcio,Giovanni Galli,36,Goalkeeper,AC Parma,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Nicola Caricola,31,Centre-Back,Genoa,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Gianluca Sordo,24,Right Midfield,Milan,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Andrea Sottil,20,Centre-Back,Fiorentina,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Sandro Cois,21,Defensive Midfield,Fiorentina,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Paolo Poggi,23,Centre-Forward,Udinese,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Marco Sesia,24,Midfielder,Alessandria,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Michele Marcolini,18,Central Midfield,AS Sora Calcio,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Raffaele Sergio,27,Left-Back,Ancona,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Luca Fusi,31,Defensive Midfield,Juventus,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Gianluca Petrachi,25,Midfielder,US Palermo,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Ivano Bonetti,30,Left Midfield,Brescia,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Carlos Aguilera,29,Centre-Forward,Peñarol,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Domenico Doardo,19,Goalkeeper,Ravenna,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Robert Jarni,25,Left-Back,Juventus,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Felice Foglia,17,Forward,Stabia,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Enzo Francescoli,32,Second Striker,River Plate,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Gabriele Graziani,19,Centre-Forward,Nola,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Vittorio Tosto,20,Left-Back,Lucchese,?,out,NA,Serie A,1994,1994/1995
+Torino Calcio,Luca Pellegrini,32,Defender,Retired,-,out,0,Serie A,1994,1994/1995
+AC Fiorentina,Rui Costa,22,Attacking Midfield,Benfica,£4.95m,in,4.95,Serie A,1994,1994/1995
+AC Fiorentina,Sandro Cois,21,Defensive Midfield,Torino,?,in,NA,Serie A,1994,1994/1995
+AC Fiorentina,Emiliano Betti,22,Goalkeeper,Cosenza,?,in,NA,Serie A,1994,1994/1995
+AC Fiorentina,Enzo Gambaro,28,Left-Back,Milan,Loan,in,0,Serie A,1994,1994/1995
+AC Fiorentina,Angelo Carbone,26,Right Midfield,Milan,Loan,in,0,Serie A,1994,1994/1995
+AC Fiorentina,Márcio Santos,24,Centre-Back,G. Bordeaux,?,in,NA,Serie A,1994,1994/1995
+AC Fiorentina,Stefano Carobbi,30,Right-Back,Lecce,?,in,NA,Serie A,1994,1994/1995
+AC Fiorentina,Andrea Sottil,20,Centre-Back,Torino,?,in,NA,Serie A,1994,1994/1995
+AC Fiorentina,Christian Amoroso,17,Central Midfield,Fiorentina U19,-,in,0,Serie A,1994,1994/1995
+AC Fiorentina,Gianmatteo Mareggini,28,Goalkeeper,US Palermo,"End of loanJun 30, 1995",in,0,Serie A,1994,1994/1995
+AC Fiorentina,Luca Vigiani,17,Right Midfield,Fiorentina U19,-,in,0,Serie A,1994,1994/1995
+AC Fiorentina,Giacomo Banchelli,21,Centre-Forward,Cosenza,"End of loanOct 30, 1994",in,0,Serie A,1994,1994/1995
+AC Fiorentina,Fabrizio Di Mauro,29,Defensive Midfield,Lazio,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+AC Fiorentina,Stefan Effenberg,25,Central Midfield,Bor. M'gladbach,Loan fee:£675k,out,0.675,Serie A,1994,1994/1995
+AC Fiorentina,Emiliano Betti,22,Goalkeeper,Barletta,?,out,NA,Serie A,1994,1994/1995
+AC Fiorentina,Lorenzo D'Anna,22,Centre-Back,Chievo Verona,?,out,NA,Serie A,1994,1994/1995
+AC Fiorentina,Giuseppe Iachini,30,Defensive Midfield,US Palermo,?,out,NA,Serie A,1994,1994/1995
+AC Fiorentina,Giuseppe Antonaccio,22,Left-Back,Unknown,?,out,NA,Serie A,1994,1994/1995
+AC Fiorentina,Gionata Bruni,19,Centre-Back,Arezzo,?,out,NA,Serie A,1994,1994/1995
+AC Fiorentina,Fabio Di Sole,20,Centre-Back,Catanzaro,?,out,NA,Serie A,1994,1994/1995
+AC Fiorentina,Pasquale Bruno,32,Right-Back,Lecce,?,out,NA,Serie A,1994,1994/1995
+AC Fiorentina,Giacomo Banchelli,21,Centre-Forward,Udinese,Loan,out,0,Serie A,1994,1994/1995
+AC Fiorentina,Mauro Zironelli,24,Midfielder,Chievo Verona,?,out,NA,Serie A,1994,1994/1995
+AC Fiorentina,Daniele Beltrammi,20,Second Striker,AS Lodigiani,Loan,out,0,Serie A,1994,1994/1995
+AC Fiorentina,Edoardo Sacchini,18,Midfielder,Unknown,?,out,NA,Serie A,1994,1994/1995
+AC Fiorentina,Stefano Carobbi,30,Right-Back,US Poggibonsi,?,out,NA,Serie A,1994,1994/1995
+AC Fiorentina,David Dei,20,Goalkeeper,Benevento,?,out,NA,Serie A,1994,1994/1995
+AC Fiorentina,Massimo Orlando,23,Forward,Milan,?,out,NA,Serie A,1994,1994/1995
+AC Fiorentina,Giacomo Banchelli,21,Centre-Forward,Cosenza,Loan,out,0,Serie A,1994,1994/1995
+AC Fiorentina,Mario Faccenda,33,Centre-Back,Carrarese,?,out,NA,Serie A,1994,1994/1995
+AC Fiorentina,Angelo Carbone,27,Right Midfield,Milan,"End of loanJun 30, 1995",out,0,Serie A,1994,1994/1995
+AC Fiorentina,Enzo Gambaro,28,Left-Back,Milan,"End of loanNov 1, 1994",out,0,Serie A,1994,1994/1995
+Juventus FC,Didier Deschamps,25,Defensive Midfield,Marseille,£4.95m,in,4.95,Serie A,1994,1994/1995
+Juventus FC,Paulo Sousa,23,Central Midfield,Sporting CP,£3.60m,in,3.6,Serie A,1994,1994/1995
+Juventus FC,Luca Fusi,31,Defensive Midfield,Torino,?,in,NA,Serie A,1994,1994/1995
+Juventus FC,Alessio Tacchinardi,18,Defensive Midfield,Atalanta,?,in,NA,Serie A,1994,1994/1995
+Juventus FC,Simone Tognon,19,Midfielder,Sparta Novara,?,in,NA,Serie A,1994,1994/1995
+Juventus FC,Ciro Ferrara,27,Centre-Back,SSC Napoli,?,in,NA,Serie A,1994,1994/1995
+Juventus FC,Robert Jarni,25,Left-Back,Torino,?,in,NA,Serie A,1994,1994/1995
+Juventus FC,Alessandro Orlando,24,Left-Back,Milan,?,in,NA,Serie A,1994,1994/1995
+Juventus FC,Enrico Fantini,18,Centre-Forward,Juventus U19,-,in,0,Serie A,1994,1994/1995
+Juventus FC,Luigi Sartor,19,Right-Back,Reggina,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+Juventus FC,Federico Giampaolo,24,Attacking Midfield,Palermo,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+Juventus FC,Paolo Di Canio,25,Centre-Forward,SSC Napoli,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+Juventus FC,Andreas Möller,26,Attacking Midfield,Bor. Dortmund,£4.14m,out,4.14,Serie A,1994,1994/1995
+Juventus FC,Dino Baggio,22,Defensive Midfield,AC Parma,£4.05m,out,4.05,Serie A,1994,1994/1995
+Juventus FC,Júlio César,31,Centre-Back,Bor. Dortmund,£1.13m,out,1.13,Serie A,1994,1994/1995
+Juventus FC,Francesco Baldini,20,Centre-Back,Lucchese,£900k,out,0.9,Serie A,1994,1994/1995
+Juventus FC,Paolo Di Canio,26,Centre-Forward,Milan,£675k,out,0.675,Serie A,1994,1994/1995
+Juventus FC,Omar Milanetto,18,Defensive Midfield,Fiorenzuola,?,out,NA,Serie A,1994,1994/1995
+Juventus FC,Federico Giampaolo,24,Attacking Midfield,Pescara,Loan,out,0,Serie A,1994,1994/1995
+Juventus FC,Jonatan Binotto,19,Right Winger,Ascoli,?,out,NA,Serie A,1994,1994/1995
+Juventus FC,Marco Moro,24,Midfielder,Pontedera,?,out,NA,Serie A,1994,1994/1995
+Juventus FC,Alessandro Dal Canto,19,Left-Back,Vicenza,?,out,NA,Serie A,1994,1994/1995
+Juventus FC,Roberto Galia,31,Left Midfield,Ascoli,?,out,NA,Serie A,1994,1994/1995
+Juventus FC,Gianluca Francesconi,22,Centre-Back,Genoa,?,out,NA,Serie A,1994,1994/1995
+Juventus FC,Luca Fusi,31,Defensive Midfield,FC Lugano,?,out,NA,Serie A,1994,1994/1995
+Juventus FC,Daniel Terrera,20,Defender,Fiorenzuola,?,out,NA,Serie A,1994,1994/1995
+Juventus FC,Luigi Sartor,19,Right-Back,Vicenza,?,out,NA,Serie A,1994,1994/1995
+Juventus FC,Christian Manfredini,19,Left Winger,Pistoiese,Loan,out,0,Serie A,1994,1994/1995
+Juventus FC,Fabio Marchioro,26,Goalkeeper,Bologna,?,out,NA,Serie A,1994,1994/1995
+Juventus FC,Massimiliano Notari,22,Defender,Acireale,?,out,NA,Serie A,1994,1994/1995
+Juventus FC,Zoran Ban,21,Centre-Forward,Belenenses SAD,?,out,NA,Serie A,1994,1994/1995
+Foggia Calcio,Massimo Marazzina,19,Centre-Forward,Inter,?,in,NA,Serie A,1994,1994/1995
+Foggia Calcio,Oberdan Biagioni,24,Attacking Midfield,Udinese,?,in,NA,Serie A,1994,1994/1995
+Foggia Calcio,Matteo Baiocchi,20,Forward,Siena,?,in,NA,Serie A,1994,1994/1995
+Foggia Calcio,Pasquale Padalino,21,Centre-Back,Lecce,?,in,NA,Serie A,1994,1994/1995
+Foggia Calcio,Mauro Bressan,23,Defensive Midfield,Como,?,in,NA,Serie A,1994,1994/1995
+Foggia Calcio,Alex Brunner,20,Goalkeeper,Formia Calcio,?,in,NA,Serie A,1994,1994/1995
+Foggia Calcio,Aniello Parisi,20,Centre-Back,Avellino,?,in,NA,Serie A,1994,1994/1995
+Foggia Calcio,Paolo Bianco,16,Centre-Back,Foggia U19,-,in,0,Serie A,1994,1994/1995
+Foggia Calcio,Bryan Roy,24,Right Winger,Nottm Forest,£2.25m,out,2.25,Serie A,1994,1994/1995
+Foggia Calcio,Gianluca Grassadonia,22,Centre-Back,Salernitana,Free Transfer,out,0,Serie A,1994,1994/1995
+Foggia Calcio,Andrea Seno,28,Central Midfield,Inter,?,out,NA,Serie A,1994,1994/1995
+Foggia Calcio,Gualtiero Grandini,26,Defender,Marzotto,?,out,NA,Serie A,1994,1994/1995
+Foggia Calcio,Donatello Gasparini,22,Defender,Catania,?,out,NA,Serie A,1994,1994/1995
+Foggia Calcio,Giovanni Stroppa,26,Attacking Midfield,Milan,?,out,NA,Serie A,1994,1994/1995
+Foggia Calcio,Giovanni Giuseppe Di Meglio,19,Centre-Back,Bisceglie,?,out,NA,Serie A,1994,1994/1995
+Foggia Calcio,José Chamot,25,Left-Back,Lazio,?,out,NA,Serie A,1994,1994/1995
+Foggia Calcio,Mauro Bacchin,24,Goalkeeper,Casarano,?,out,NA,Serie A,1994,1994/1995
+Foggia Calcio,Giuseppe Fornaciari,26,Centre-Back,Avellino,?,out,NA,Serie A,1994,1994/1995
+Foggia Calcio,Andrea Martire,19,Goalkeeper,Retired,-,out,0,Serie A,1994,1994/1995
+UC Sampdoria,Siniša Mihajlović,25,Centre-Back,AS Roma,£5.40m,in,5.4,Serie A,1994,1994/1995
+UC Sampdoria,Giovanni Abate,18,Midfielder,Unknown,?,in,NA,Serie A,1994,1994/1995
+UC Sampdoria,Matteo Gianello,18,Goalkeeper,Chievo Verona,Loan,in,0,Serie A,1994,1994/1995
+UC Sampdoria,Riccardo Maspero,23,Attacking Midfield,Cremonese,?,in,NA,Serie A,1994,1994/1995
+UC Sampdoria,Walter Zenga,34,Goalkeeper,Inter,?,in,NA,Serie A,1994,1994/1995
+UC Sampdoria,Alessandro Melli,24,Centre-Forward,AC Parma,?,in,NA,Serie A,1994,1994/1995
+UC Sampdoria,Ruud Gullit,32,Second Striker,Milan,?,in,NA,Serie A,1994,1994/1995
+UC Sampdoria,Riccardo Ferri,30,Centre-Back,Inter,?,in,NA,Serie A,1994,1994/1995
+UC Sampdoria,Claudio Bellucci,19,Centre-Forward,Fiorenzuola,"End of loanOct 1, 1994",in,0,Serie A,1994,1994/1995
+UC Sampdoria,Ruud Gullit,31,Second Striker,Milan,£540k,out,0.54,Serie A,1994,1994/1995
+UC Sampdoria,Claudio Bellucci,19,Centre-Forward,Fiorenzuola,Loan,out,0,Serie A,1994,1994/1995
+UC Sampdoria,Riccardo Maspero,23,Attacking Midfield,Cremonese,?,out,NA,Serie A,1994,1994/1995
+UC Sampdoria,Giovanni Dall'Igna,21,Right-Back,Cremonese,?,out,NA,Serie A,1994,1994/1995
+UC Sampdoria,Nicola Amoruso,19,Centre-Forward,Andria,?,out,NA,Serie A,1994,1994/1995
+UC Sampdoria,Roberto Bucchioni,21,Defender,Bologna,?,out,NA,Serie A,1994,1994/1995
+UC Sampdoria,Alessandro Melli,24,Centre-Forward,Milan,?,out,NA,Serie A,1994,1994/1995
+UC Sampdoria,Gianluca Pagliuca,27,Goalkeeper,Inter,?,out,NA,Serie A,1994,1994/1995
+UC Sampdoria,Matteo Sereni,19,Goalkeeper,AC Crevalcore,Loan,out,0,Serie A,1994,1994/1995
+UC Sampdoria,Giulio Nuciari,35,Goalkeeper,Retired,-,out,0,Serie A,1994,1994/1995
+UC Sampdoria,Srecko Katanec,30,Defensive Midfield,Retired,-,out,0,Serie A,1994,1994/1995
+UC Sampdoria,Andrea Barigione,19,Goalkeeper,Retired,-,out,0,Serie A,1994,1994/1995
+Cagliari Calcio,Roberto Muzzi,23,Centre-Forward,AS Roma,Free Transfer,in,0,Serie A,1994,1994/1995
+Cagliari Calcio,Daniele Berretta,22,Defensive Midfield,AS Roma,Loan,in,0,Serie A,1994,1994/1995
+Cagliari Calcio,Andrea Benassi,18,Right-Back,Massese,?,in,NA,Serie A,1994,1994/1995
+Cagliari Calcio,Antonio Bitetti,19,Attacking Midfield,Matera,?,in,NA,Serie A,1994,1994/1995
+Cagliari Calcio,Christian Lantignotti,24,Midfielder,Reggiana,?,in,NA,Serie A,1994,1994/1995
+Cagliari Calcio,Luigi Molino,22,Forward,Olbia,?,in,NA,Serie A,1994,1994/1995
+Cagliari Calcio,Dario Marcolin,22,Defensive Midfield,Genoa,?,out,NA,Serie A,1994,1994/1995
+Cagliari Calcio,Antonio Aloisi,25,Defender,Cesena,?,out,NA,Serie A,1994,1994/1995
+Cagliari Calcio,Antonio Criniti,23,Forward,US Palermo,?,out,NA,Serie A,1994,1994/1995
+Cagliari Calcio,Gianfranco Matteoli,35,Midfielder,Perugia,?,out,NA,Serie A,1994,1994/1995
+Cagliari Calcio,Francesco Moriero,25,Right Winger,AS Roma,?,out,NA,Serie A,1994,1994/1995
+Cagliari Calcio,Luigi Molino,22,Forward,Novara,?,out,NA,Serie A,1994,1994/1995
+Cagliari Calcio,Felice Falaguerra,23,Forward,Retired,-,out,0,Serie A,1994,1994/1995
+Cagliari Calcio,Nunzio La Torre,21,Midfielder,Retired,-,out,0,Serie A,1994,1994/1995
+US Cremonese,Mauro Milanese,22,Left-Back,Triestina,£360k,in,0.36,Serie A,1994,1994/1995
+US Cremonese,Enrico Chiesa,23,Centre-Forward,Modena,£90k,in,0.09,Serie A,1994,1994/1995
+US Cremonese,Luigi Garzya,24,Centre-Back,AS Rom Youth,?,in,NA,Serie A,1994,1994/1995
+US Cremonese,Marco Bruzzano,26,Forward,AS Giarre Calcio,?,in,NA,Serie A,1994,1994/1995
+US Cremonese,Giovanni Dall'Igna,21,Right-Back,Sampdoria,?,in,NA,Serie A,1994,1994/1995
+US Cremonese,Jose Pirri,21,Midfielder,Centese,?,in,NA,Serie A,1994,1994/1995
+US Cremonese,Claudio Sclosa,33,Midfielder,Lazio,?,in,NA,Serie A,1994,1994/1995
+US Cremonese,Riccardo Maspero,23,Attacking Midfield,Sampdoria,?,in,NA,Serie A,1994,1994/1995
+US Cremonese,Riccardo Castagna,22,Centre-Back,Vicenza,"End of loanOct 31, 1994",in,0,Serie A,1994,1994/1995
+US Cremonese,Vanni Pessotto,20,Central Midfield,Cremonese U19,-,in,0,Serie A,1994,1994/1995
+US Cremonese,Francesco Colonnese,22,Centre-Back,AS Roma,?,out,NA,Serie A,1994,1994/1995
+US Cremonese,Riccardo Castagna,22,Centre-Back,Vicenza,Loan,out,0,Serie A,1994,1994/1995
+US Cremonese,Luca Compagnon,21,Right-Back,Udinese,?,out,NA,Serie A,1994,1994/1995
+US Cremonese,Alfredo Bassani,23,Defender,Como,Loan,out,0,Serie A,1994,1994/1995
+US Cremonese,Riccardo Maspero,23,Attacking Midfield,Sampdoria,?,out,NA,Serie A,1994,1994/1995
+US Cremonese,Manolo Guindani,23,Forward,Novara,?,out,NA,Serie A,1994,1994/1995
+US Cremonese,Gustavo Dezotti,30,Centre-Forward,León,?,out,NA,Serie A,1994,1994/1995
+US Cremonese,Alessandro Mannini,36,Goalkeeper,Viareggio,?,out,NA,Serie A,1994,1994/1995
+US Cremonese,Marco Pedretti,21,Defender,Novara,?,out,NA,Serie A,1994,1994/1995
+US Cremonese,Marco Bruzzano,26,Forward,Carrarese,?,out,NA,Serie A,1994,1994/1995
+US Cremonese,Mario Montorfano,33,Centre-Back,Retired,-,out,0,Serie A,1994,1994/1995
+Calcio Padova,Michel Kreek,23,Left-Back,Ajax,£818k,in,0.818,Serie A,1994,1994/1995
+Calcio Padova,David Balleri,25,Right-Back,AC Parma,?,in,NA,Serie A,1994,1994/1995
+Calcio Padova,Daniele Zoratto,32,Central Midfield,AC Parma,?,in,NA,Serie A,1994,1994/1995
+Calcio Padova,Roberto Putelli,24,Left Winger,Fiorenzuola,?,in,NA,Serie A,1994,1994/1995
+Calcio Padova,Alexi Lalas,24,Centre-Back,Unknown,?,in,NA,Serie A,1994,1994/1995
+Calcio Padova,Gianluca Zattarin,20,Centre-Back,Triestina,?,in,NA,Serie A,1994,1994/1995
+Calcio Padova,Cristian Servidei,21,Centre-Back,AC Venezia 1907,Loan,in,0,Serie A,1994,1994/1995
+Calcio Padova,Goran Vlaovic,21,Centre-Forward,Croatia Zagreb,?,in,NA,Serie A,1994,1994/1995
+Calcio Padova,Carlo Perrone,33,Right Winger,Atalanta,?,in,NA,Serie A,1994,1994/1995
+Calcio Padova,Gaetano Fontana,24,Central Midfield,Reggina,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+Calcio Padova,Agostino Siviero,22,Defender,Marzotto,?,out,NA,Serie A,1994,1994/1995
+Calcio Padova,Riccardo Bigon,23,Defender,Mestre,?,out,NA,Serie A,1994,1994/1995
+Calcio Padova,Roberto Simonetta,28,Left Winger,Lucchese,?,out,NA,Serie A,1994,1994/1995
+Calcio Padova,Davide Tentoni,24,Midfielder,AC Venezia 1907,?,out,NA,Serie A,1994,1994/1995
+Calcio Padova,Andrea Boscolo,19,Defensive Midfield,Treviso,?,out,NA,Serie A,1994,1994/1995
+Calcio Padova,Andrea Giordano,25,Forward,Chievo Verona,?,out,NA,Serie A,1994,1994/1995
+Calcio Padova,Roberto Putelli,25,Left Winger,Siena,?,out,NA,Serie A,1994,1994/1995
+Calcio Padova,Ferdinando Ruffini,32,Midfielder,Real Giulianova,?,out,NA,Serie A,1994,1994/1995
+Calcio Padova,Angelo Montrone,26,Forward,Pescara,?,out,NA,Serie A,1994,1994/1995
+Calcio Padova,Gabriele Cardini,21,Midfielder,Sandonà,?,out,NA,Serie A,1994,1994/1995
+Calcio Padova,Moreno Novello,20,Goalkeeper,Retired,-,out,0,Serie A,1994,1994/1995
+Calcio Padova,Claudio Ottoni,34,Centre-Back,Retired,-,out,0,Serie A,1994,1994/1995
+AC Reggiana,Paulo Futre,28,Left Winger,Marseille,£900k,in,0.9,Serie A,1994,1994/1995
+AC Reggiana,Igor Simutenkov,21,Centre-Forward,Dinamo Moscow,Free Transfer,in,0,Serie A,1994,1994/1995
+AC Reggiana,Massimo Brambilla,21,Central Midfield,Calcio Monza,Loan,in,0,Serie A,1994,1994/1995
+AC Reggiana,Angelo Gregucci,30,Defender,Torino,?,in,NA,Serie A,1994,1994/1995
+AC Reggiana,Nunzio Falco,20,Forward,Pro Sesto,?,in,NA,Serie A,1994,1994/1995
+AC Reggiana,Enzo Gambaro,28,Left-Back,Milan,Loan,in,0,Serie A,1994,1994/1995
+AC Reggiana,Sunday Oliseh,19,Defensive Midfield,RC Lüttich,?,in,NA,Serie A,1994,1994/1995
+AC Reggiana,Fernando De Napoli,30,Central Midfield,Milan,?,in,NA,Serie A,1994,1994/1995
+AC Reggiana,Adriano Alex Taribello,17,Forward,Lecco,?,in,NA,Serie A,1994,1994/1995
+AC Reggiana,Michele Padovano,28,Centre-Forward,Genoa,?,in,NA,Serie A,1994,1994/1995
+AC Reggiana,Alessandro Mazzola,25,Defensive Midfield,Catanzaro,?,in,NA,Serie A,1994,1994/1995
+AC Reggiana,Francesco Cozza,20,Attacking Midfield,Milan,Loan,in,0,Serie A,1994,1994/1995
+AC Reggiana,Francesco Antonioli,24,Goalkeeper,AC Pisa,?,in,NA,Serie A,1994,1994/1995
+AC Reggiana,Giorgio Bresciani,25,Centre-Forward,SSC Napoli,?,in,NA,Serie A,1994,1994/1995
+AC Reggiana,Monye Precious Onyabor,19,Midfielder,Enyimba Aba,?,in,NA,Serie A,1994,1994/1995
+AC Reggiana,Max Tonetto,19,Left-Back,AJ Fano,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+AC Reggiana,Johnny Ekström,29,Centre-Forward,Real Betis,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+AC Reggiana,Johnny Ekström,29,Centre-Forward,Dynamo Dresden,£540k,out,0.54,Serie A,1994,1994/1995
+AC Reggiana,Dorin Mateut,29,Attacking Midfield,Dinamo Bukarest,?,out,NA,Serie A,1994,1994/1995
+AC Reggiana,Giuseppe Accardi,30,Right-Back,AC Venezia 1907,?,out,NA,Serie A,1994,1994/1995
+AC Reggiana,Stefano Torrisi,23,Centre-Back,Torino,?,out,NA,Serie A,1994,1994/1995
+AC Reggiana,Christian Lantignotti,24,Midfielder,Cagliari Calcio,?,out,NA,Serie A,1994,1994/1995
+AC Reggiana,Mauro Picasso,28,Midfielder,Ancona,?,out,NA,Serie A,1994,1994/1995
+AC Reggiana,Alessio Costagli,19,Goalkeeper,Reggiolo,?,out,NA,Serie A,1994,1994/1995
+AC Reggiana,Giorgio Bresciani,25,Centre-Forward,Bologna,?,out,NA,Serie A,1994,1994/1995
+AC Reggiana,Max Tonetto,19,Left-Back,Ravenna,Loan,out,0,Serie A,1994,1994/1995
+AC Reggiana,Michele Padovano,27,Centre-Forward,Genoa,?,out,NA,Serie A,1994,1994/1995
+AC Reggiana,Dario Morello,26,Centre-Forward,Bologna,?,out,NA,Serie A,1994,1994/1995
+AC Reggiana,Paolo Mozzini,18,Defender,Carpi,?,out,NA,Serie A,1994,1994/1995
+AC Reggiana,Giuseppe Scienza,27,Midfielder,Torino,?,out,NA,Serie A,1994,1994/1995
+AC Reggiana,Michele Pietranera,19,Second Striker,AC Crevalcore,?,out,NA,Serie A,1994,1994/1995
+AC Reggiana,Mirko Faglioni,18,Midfielder,Retired,-,out,0,Serie A,1994,1994/1995
+AC Reggiana,Luca Broggi,17,Midfielder,Retired,-,out,0,Serie A,1994,1994/1995
+AC Reggiana,Francesco Cozza,20,Attacking Midfield,Milan,"End of loanSep 30, 1994",out,0,Serie A,1994,1994/1995
+AC Reggiana,Ferdinando De Giuseppe,20,Defender,Retired,-,out,0,Serie A,1994,1994/1995
+SSC Napoli,André Cruz,25,Centre-Back,Standard Liège,Free Transfer,in,0,Serie A,1994,1994/1995
+SSC Napoli,Freddy Rincón,27,Central Midfield,Palmeiras,?,in,NA,Serie A,1994,1994/1995
+SSC Napoli,Massimo Agostini,30,Centre-Forward,Ancona,?,in,NA,Serie A,1994,1994/1995
+SSC Napoli,Gabriele Grossi,22,Left-Back,Bari,?,in,NA,Serie A,1994,1994/1995
+SSC Napoli,Alain Boghossian,23,Central Midfield,Marseille,?,in,NA,Serie A,1994,1994/1995
+SSC Napoli,Salvatore Matrecano,23,Centre-Back,AC Parma,?,in,NA,Serie A,1994,1994/1995
+SSC Napoli,Roberto Vezzosi,20,Right-Back,Pontedera,?,in,NA,Serie A,1994,1994/1995
+SSC Napoli,Benny Carbone,22,Second Striker,Torino,?,in,NA,Serie A,1994,1994/1995
+SSC Napoli,Franco Lerda,26,Centre-Forward,Brescia,?,in,NA,Serie A,1994,1994/1995
+SSC Napoli,Luca Altomare,22,Central Midfield,Lucchese,?,in,NA,Serie A,1994,1994/1995
+SSC Napoli,Luca Luzardi,24,Centre-Back,Lazio,?,in,NA,Serie A,1994,1994/1995
+SSC Napoli,Salvatore D'Angelo,19,Centre-Back,Napoli U19,-,in,0,Serie A,1994,1994/1995
+SSC Napoli,Salvatore D'Angelo,19,Centre-Back,Nola,"End of loanJun 30, 1994",in,0,Serie A,1994,1994/1995
+SSC Napoli,Eugenio Corini,24,Defensive Midfield,Brescia,?,out,NA,Serie A,1994,1994/1995
+SSC Napoli,Daniel Fonseca,24,Centre-Forward,AS Roma,?,out,NA,Serie A,1994,1994/1995
+SSC Napoli,Mario Massimo Caruso,24,Attacking Midfield,AC Parma,?,out,NA,Serie A,1994,1994/1995
+SSC Napoli,Ciro Caruso,20,Centre-Back,Ischia,Loan,out,0,Serie A,1994,1994/1995
+SSC Napoli,Roberto Vezzosi,21,Right-Back,FC Empoli,?,out,NA,Serie A,1994,1994/1995
+SSC Napoli,Jonas Thern,27,Central Midfield,AS Roma,?,out,NA,Serie A,1994,1994/1995
+SSC Napoli,Angelo Pagotto,20,Goalkeeper,Pistoiese,Loan,out,0,Serie A,1994,1994/1995
+SSC Napoli,Carlo Cornacchia,29,Right-Back,Ancona,?,out,NA,Serie A,1994,1994/1995
+SSC Napoli,Luigi Ruggiero,19,Midfielder,Unknown,?,out,NA,Serie A,1994,1994/1995
+SSC Napoli,Ciro Ferrara,27,Centre-Back,Juventus,?,out,NA,Serie A,1994,1994/1995
+SSC Napoli,Giovanni Francini,30,Left-Back,Genoa,?,out,NA,Serie A,1994,1994/1995
+SSC Napoli,Giovanni Bia,25,Centre-Back,Inter,?,out,NA,Serie A,1994,1994/1995
+SSC Napoli,Giorgio Bresciani,25,Centre-Forward,Reggiana,?,out,NA,Serie A,1994,1994/1995
+SSC Napoli,Alessandro Castellano,18,Forward,Unknown,?,out,NA,Serie A,1994,1994/1995
+SSC Napoli,Sebastiano Nela,33,Left-Back,Retired,-,out,0,Serie A,1994,1994/1995
+SSC Napoli,Giancarlo Corradini,33,Centre-Back,Retired,,out,NA,Serie A,1994,1994/1995
+SSC Napoli,Enzo Gambaro,28,Left-Back,Milan,"End of loanJun 30, 1994",out,0,Serie A,1994,1994/1995
+SSC Napoli,Paolo Di Canio,25,Centre-Forward,Juventus,"End of loanJun 30, 1994",out,0,Serie A,1994,1994/1995

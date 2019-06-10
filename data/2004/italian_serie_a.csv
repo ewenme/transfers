@@ -1,0 +1,897 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+AC Milan,Jaap Stam,31,Centre-Back,Lazio,£9.45m,in,9.45,Serie A,2004,2004/2005
+AC Milan,Digão,19,Centre-Back,São Paulo,£450k,in,0.45,Serie A,2004,2004/2005
+AC Milan,Harvey Esajas,30,Defender,Zamora CF,Free Transfer,in,0,Serie A,2004,2004/2005
+AC Milan,Vikash Dhorasoo,30,Central Midfield,Olympique Lyon,Free Transfer,in,0,Serie A,2004,2004/2005
+AC Milan,Hernán Crespo,29,Centre-Forward,Chelsea,Loan,in,0,Serie A,2004,2004/2005
+AC Milan,Sandro Bloudek,18,Attacking Midfield,NK Maribor U19,Free Transfer,in,0,Serie A,2004,2004/2005
+AC Milan,Marco Donadel,21,Defensive Midfield,Sampdoria,"End of loanDec 31, 2004",in,0,Serie A,2004,2004/2005
+AC Milan,Michele Piccolo,19,Forward,Prato,"End of loanDec 1, 2004",in,0,Serie A,2004,2004/2005
+AC Milan,Catilina Aubameyang,21,Left Midfield,Rimini,"End of loanDec 1, 2004",in,0,Serie A,2004,2004/2005
+AC Milan,Nicola Pozzi,18,Centre-Forward,Napoli,"End of loanDec 1, 2004",in,0,Serie A,2004,2004/2005
+AC Milan,Giuseppe Ticli,25,Left Midfield,Calcio Monza,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AC Milan,Roque Júnior,27,Centre-Back,Siena,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AC Milan,Samuele Dalla Bona,23,Central Midfield,Bologna,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AC Milan,Filippo Porcari,20,Defensive Midfield,Padova,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AC Milan,Fabricio Coloccini,22,Centre-Back,Villarreal,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AC Milan,Marco Donadel,21,Defensive Midfield,AC Parma,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AC Milan,Catilina Aubameyang,20,Left Midfield,Triestina,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AC Milan,Vitali Kutuzov,24,Centre-Forward,Avellino,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AC Milan,Mohamed Sarr,20,Centre-Back,Atalanta,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AC Milan,Paolo Sammarco,21,Central Midfield,Prato,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AC Milan,Fabricio Coloccini,23,Centre-Back,Dep. La Coruña,£4.50m,out,4.5,Serie A,2004,2004/2005
+AC Milan,Martin Laursen,26,Centre-Back,Aston Villa,£3.60m,out,3.6,Serie A,2004,2004/2005
+AC Milan,Vitali Kutuzov,24,Centre-Forward,Sampdoria,£1.35m,out,1.35,Serie A,2004,2004/2005
+AC Milan,Catilina Aubameyang,20,Left Midfield,Rimini,Loan,out,0,Serie A,2004,2004/2005
+AC Milan,Catilina Aubameyang,21,Left Midfield,Ancona,Loan,out,0,Serie A,2004,2004/2005
+AC Milan,Mohamed Sarr,21,Centre-Back,Vittoria Calcio,Loan,out,0,Serie A,2004,2004/2005
+AC Milan,Samuele Dalla Bona,23,Central Midfield,Lecce,Loan,out,0,Serie A,2004,2004/2005
+AC Milan,Paolo Sammarco,21,Central Midfield,Chievo Verona,Loan,out,0,Serie A,2004,2004/2005
+AC Milan,Roque Júnior,27,Centre-Back,Bay. Leverkusen,Free Transfer,out,0,Serie A,2004,2004/2005
+AC Milan,Marco Borriello,22,Centre-Forward,Reggina,Loan,out,0,Serie A,2004,2004/2005
+AC Milan,Marco Donadel,21,Defensive Midfield,Sampdoria,Loan,out,0,Serie A,2004,2004/2005
+AC Milan,Patrick Kalambay,20,Right Midfield,Fermana,Loan,out,0,Serie A,2004,2004/2005
+AC Milan,Giuseppe Ticli,25,Left Midfield,Virtus Lanciano,Loan,out,0,Serie A,2004,2004/2005
+AC Milan,Marco Donadel,21,Defensive Midfield,Fiorentina,Loan,out,0,Serie A,2004,2004/2005
+AC Milan,Filippo Porcari,20,Defensive Midfield,AC Pisa,Loan,out,0,Serie A,2004,2004/2005
+AC Milan,Nicola Pozzi,18,Centre-Forward,Pescara,Loan,out,0,Serie A,2004,2004/2005
+AC Milan,Nicola Pozzi,18,Centre-Forward,Napoli,Loan,out,0,Serie A,2004,2004/2005
+AC Milan,Michele Piccolo,19,Forward,AS Pizzighettone,Loan,out,0,Serie A,2004,2004/2005
+AC Milan,Fernando Redondo,35,Defensive Midfield,Retired,-,out,0,Serie A,2004,2004/2005
+AS Roma,Matteo Brighi,23,Central Midfield,Juventus,£14.40m,in,14.4,Serie A,2004,2004/2005
+AS Roma,Simone Perrotta,26,Attacking Midfield,Chievo Verona,£6.48m,in,6.48,Serie A,2004,2004/2005
+AS Roma,Matteo Ferrari,24,Centre-Back,Parma,£6.30m,in,6.3,Serie A,2004,2004/2005
+AS Roma,Philippe Mexès,22,Centre-Back,AJ Auxerre,£6.30m,in,6.3,Serie A,2004,2004/2005
+AS Roma,Mido,21,Centre-Forward,Marseille,£5.40m,in,5.4,Serie A,2004,2004/2005
+AS Roma,Cesare Bovo,21,Centre-Back,Lecce,£9k,in,0.009,Serie A,2004,2004/2005
+AS Roma,Felipe,18,Second Striker,EC Juventude B,Loan,in,0,Serie A,2004,2004/2005
+AS Roma,Abel Xavier,32,Right-Back,Without Club,-,in,0,Serie A,2004,2004/2005
+AS Roma,Olasunkanmi Akande Ajide,18,Centre-Forward,AC Venezia 1907,"End of loanDec 1, 2004",in,0,Serie A,2004,2004/2005
+AS Roma,Andrea Briotti,18,Left-Back,Roma U19,-,in,0,Serie A,2004,2004/2005
+AS Roma,Leandro Greco,17,Central Midfield,Roma U19,-,in,0,Serie A,2004,2004/2005
+AS Roma,Valerio Virga,18,Right-Back,Roma U19,-,in,0,Serie A,2004,2004/2005
+AS Roma,Giuseppe Scurto,20,Centre-Back,Roma U19,-,in,0,Serie A,2004,2004/2005
+AS Roma,Luigi Stillo,20,Midfielder,Roma U19,-,in,0,Serie A,2004,2004/2005
+AS Roma,Christian Scarlato,21,Midfielder,Salernitana,"End of loanDec 31, 2004",in,0,Serie A,2004,2004/2005
+AS Roma,Gianluca Curci,18,Goalkeeper,Roma U19,-,in,0,Serie A,2004,2004/2005
+AS Roma,Pietro Pipolo,18,Goalkeeper,Roma U19,-,in,0,Serie A,2004,2004/2005
+AS Roma,Simone Piva,20,Left-Back,Roma U19,-,in,0,Serie A,2004,2004/2005
+AS Roma,Damiano Ferronetti,19,Centre-Back,Triestina,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AS Roma,Leandro Cufré,26,Left-Back,Siena,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AS Roma,Alberto Aquilani,19,Central Midfield,Triestina,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AS Roma,Luigi Sartor,29,Right-Back,Ancona,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AS Roma,Gianni Guigou,29,Defensive Midfield,Siena,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AS Roma,Christian Scarlato,20,Midfielder,Grosseto,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AS Roma,Émerson,28,Defensive Midfield,Juventus,£25.20m,out,25.2,Serie A,2004,2004/2005
+AS Roma,Wálter Samuel,26,Centre-Back,Real Madrid,£22.50m,out,22.5,Serie A,2004,2004/2005
+AS Roma,Francisco Lima,33,Defensive Midfield,Loko Moscow,£5.13m,out,5.13,Serie A,2004,2004/2005
+AS Roma,Mido,21,Centre-Forward,Spurs,Loan fee:£1.80m,out,1.8,Serie A,2004,2004/2005
+AS Roma,Gaetano D'Agostino,22,Central Midfield,Messina Peloro,Loan fee:£360k,out,0.36,Serie A,2004,2004/2005
+AS Roma,Cesare Bovo,21,Centre-Back,Parma,Loan fee:£90k,out,0.09,Serie A,2004,2004/2005
+AS Roma,Adewale Dauda Wahab,19,Central Midfield,Ternana,Loan,out,0,Serie A,2004,2004/2005
+AS Roma,Gianni Guigou,29,Defensive Midfield,Fiorentina,Free Transfer,out,0,Serie A,2004,2004/2005
+AS Roma,Marco Delvecchio,31,Centre-Forward,Brescia,Free Transfer,out,0,Serie A,2004,2004/2005
+AS Roma,Manuel Cattani,19,Defender,Chaux-de-Fonds,Free Transfer,out,0,Serie A,2004,2004/2005
+AS Roma,Vincent Candela,31,Left-Back,Bolton,Free Transfer,out,0,Serie A,2004,2004/2005
+AS Roma,Simone Piva,20,Left-Back,Triestina,Loan,out,0,Serie A,2004,2004/2005
+AS Roma,Jonathan Zebina,25,Centre-Back,Juventus,Free Transfer,out,0,Serie A,2004,2004/2005
+AS Roma,Christian Scarlato,21,Midfielder,Fermana,Loan,out,0,Serie A,2004,2004/2005
+AS Roma,Alessandro Cremaschini,21,Defender,Castel di Sangr,?,out,NA,Serie A,2004,2004/2005
+AS Roma,Cristiano Lupatelli,26,Goalkeeper,Fiorentina,?,out,NA,Serie A,2004,2004/2005
+AS Roma,Luigi Sartor,29,Right-Back,Genoa,Loan,out,0,Serie A,2004,2004/2005
+AS Roma,Christian Scarlato,20,Midfielder,Salernitana,Loan,out,0,Serie A,2004,2004/2005
+AS Roma,Luigi Stillo,20,Midfielder,Reggiana,?,out,NA,Serie A,2004,2004/2005
+AS Roma,Matteo Brighi,23,Central Midfield,Chievo Verona,Loan,out,0,Serie A,2004,2004/2005
+AS Roma,Olasunkanmi Akande Ajide,18,Centre-Forward,AC Venezia 1907,Loan,out,0,Serie A,2004,2004/2005
+AS Roma,Olasunkanmi Akande Ajide,19,Centre-Forward,Andria,Loan,out,0,Serie A,2004,2004/2005
+AS Roma,Daniele Galloppa,19,Central Midfield,Triestina,Loan,out,0,Serie A,2004,2004/2005
+AS Roma,Damiano Ferronetti,19,Centre-Back,Parma,?,out,NA,Serie A,2004,2004/2005
+AS Roma,John Carew,24,Centre-Forward,Valencia,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+FC Internazionale,Nicolás Burdisso,23,Centre-Back,Boca Juniors,£3.15m,in,3.15,Serie A,2004,2004/2005
+FC Internazionale,Júlio César,25,Goalkeeper,Flamengo,£2.21m,in,2.21,Serie A,2004,2004/2005
+FC Internazionale,Giuseppe Favalli,32,Left-Back,Lazio,Free Transfer,in,0,Serie A,2004,2004/2005
+FC Internazionale,Lampros Choutos,24,Centre-Forward,Olympiacos,Free Transfer,in,0,Serie A,2004,2004/2005
+FC Internazionale,Zé Maria,30,Right-Back,Perugia,Free Transfer,in,0,Serie A,2004,2004/2005
+FC Internazionale,Edgar Davids,31,Central Midfield,Juventus,Free Transfer,in,0,Serie A,2004,2004/2005
+FC Internazionale,Esteban Cambiasso,23,Defensive Midfield,Real Madrid,Free Transfer,in,0,Serie A,2004,2004/2005
+FC Internazionale,Siniša Mihajlović,35,Centre-Back,Lazio,Free Transfer,in,0,Serie A,2004,2004/2005
+FC Internazionale,Fabián Carini,24,Goalkeeper,Juventus,Free Transfer,in,0,Serie A,2004,2004/2005
+FC Internazionale,Juan Sebastián Verón,29,Central Midfield,Chelsea,Loan,in,0,Serie A,2004,2004/2005
+FC Internazionale,Ilario Aloe,17,Right Winger,Varese,?,in,NA,Serie A,2004,2004/2005
+FC Internazionale,Mario Rebecchi,21,Central Midfield,Parma,?,in,NA,Serie A,2004,2004/2005
+FC Internazionale,Paolo Dellafiore,19,Centre-Back,Inter U19,-,in,0,Serie A,2004,2004/2005
+FC Internazionale,Riccardo Meggiorini,18,Second Striker,Inter U19,-,in,0,Serie A,2004,2004/2005
+FC Internazionale,Julien Brellier,23,Central Midfield,Salernitana,"End of loanMay 1, 2005",in,0,Serie A,2004,2004/2005
+FC Internazionale,Fabrizio Biava,21,Midfielder,Ternana,"End of loanDec 1, 2004",in,0,Serie A,2004,2004/2005
+FC Internazionale,Júlio César,25,Goalkeeper,Chievo Verona,"End of loanJun 30, 2005",in,0,Serie A,2004,2004/2005
+FC Internazionale,Carl Valeri,19,Central Midfield,Inter U19,-,in,0,Serie A,2004,2004/2005
+FC Internazionale,Gonzalo Sorondo,25,Centre-Back,Crystal Palace,"End of loanMay 31, 2005",in,0,Serie A,2004,2004/2005
+FC Internazionale,Alessandro Potenza,20,Centre-Back,Parma,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Internazionale,Ianis Zicu,20,Attacking Midfield,AC Parma,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Internazionale,Mathieu Moreau,21,Goalkeeper,Spezia,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Internazionale,Dimitar Makriev,20,Centre-Forward,Górnik Zabrze,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Internazionale,Guly,30,Left Midfield,Bologna,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Internazionale,Goran Pandev,20,Second Striker,Ancona,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Internazionale,Horacio Peralta,22,Centre-Forward,Nacional,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Internazionale,Mattia Altobelli,20,Attacking Midfield,Spezia,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Internazionale,Mario Rebecchi,20,Central Midfield,Genoa,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Internazionale,Ümit Davala,30,Right Midfield,Werder Bremen,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Internazionale,Mauricio Pinilla,20,Centre-Forward,Celta de Vigo,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Internazionale,Aco Stojkov,21,Left Winger,Castel di Sangr,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Internazionale,Nicola Beati,21,Defensive Midfield,Triestina,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Internazionale,Stéphane Dalmat,25,Central Midfield,Spurs,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Internazionale,Julien Brellier,22,Central Midfield,Legnano,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Internazionale,Nicola Ventola,26,Centre-Forward,Siena,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Internazionale,Alberto Quadri,21,Defensive Midfield,Padova,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Internazionale,Fabio Cannavaro,30,Centre-Back,Juventus,£9.00m,out,9,Serie A,2004,2004/2005
+FC Internazionale,Goran Pandev,20,Second Striker,Lazio,£7.20m,out,7.2,Serie A,2004,2004/2005
+FC Internazionale,Mohamed Kallon,24,Centre-Forward,Monaco,£4.50m,out,4.5,Serie A,2004,2004/2005
+FC Internazionale,Francisco Farinós,26,Defensive Midfield,RCD Mallorca,Loan fee:£2.25m,out,2.25,Serie A,2004,2004/2005
+FC Internazionale,Jérémie Bréchet,24,Centre-Back,Real Sociedad,£1.35m,out,1.35,Serie A,2004,2004/2005
+FC Internazionale,Mauricio Pinilla,20,Centre-Forward,Sporting CP,£1.35m,out,1.35,Serie A,2004,2004/2005
+FC Internazionale,Ümit Davala,30,Right Midfield,Werder Bremen,£450k,out,0.45,Serie A,2004,2004/2005
+FC Internazionale,Paolo Dellafiore,19,Centre-Back,Spezia,Loan fee:£360k,out,0.36,Serie A,2004,2004/2005
+FC Internazionale,Guly,30,Left Midfield,Boca Juniors,£198k,out,0.198,Serie A,2004,2004/2005
+FC Internazionale,Ianis Zicu,21,Attacking Midfield,Dinamo Bukarest,Loan fee:£180k,out,0.18,Serie A,2004,2004/2005
+FC Internazionale,Stefano Lombardi,27,Centre-Back,Ancona,£104k,out,0.104,Serie A,2004,2004/2005
+FC Internazionale,Alex Cordaz,22,Goalkeeper,Spezia,Loan,out,0,Serie A,2004,2004/2005
+FC Internazionale,Matías Almeyda,30,Defensive Midfield,Brescia,Free Transfer,out,0,Serie A,2004,2004/2005
+FC Internazionale,Sabri Lamouchi,32,Central Midfield,Genoa,Loan,out,0,Serie A,2004,2004/2005
+FC Internazionale,Thomas Helveg,33,Right-Back,Norwich,Free Transfer,out,0,Serie A,2004,2004/2005
+FC Internazionale,Gonzalo Sorondo,24,Centre-Back,Crystal Palace,Loan,out,0,Serie A,2004,2004/2005
+FC Internazionale,Aco Stojkov,21,Left Winger,Andria,Loan,out,0,Serie A,2004,2004/2005
+FC Internazionale,Okan Buruk,30,Right Midfield,Besiktas,Free Transfer,out,0,Serie A,2004,2004/2005
+FC Internazionale,Lampros Choutos,25,Centre-Forward,Atalanta,Loan,out,0,Serie A,2004,2004/2005
+FC Internazionale,Júlio César,25,Goalkeeper,Chievo Verona,Loan,out,0,Serie A,2004,2004/2005
+FC Internazionale,Stéphane Dalmat,25,Central Midfield,Toulouse,Loan,out,0,Serie A,2004,2004/2005
+FC Internazionale,Alberto Quadri,21,Defensive Midfield,AC Montichiari,Loan,out,0,Serie A,2004,2004/2005
+FC Internazionale,Dimitar Makriev,20,Centre-Forward,FC Chiasso,Loan,out,0,Serie A,2004,2004/2005
+FC Internazionale,Mathieu Moreau,21,Goalkeeper,Ternana,?,out,NA,Serie A,2004,2004/2005
+FC Internazionale,Riccardo Meggiorini,19,Second Striker,Spezia,Loan,out,0,Serie A,2004,2004/2005
+FC Internazionale,Mattia Altobelli,20,Attacking Midfield,SPAL,Loan,out,0,Serie A,2004,2004/2005
+FC Internazionale,Mario Rebecchi,21,Central Midfield,Cremonese,?,out,NA,Serie A,2004,2004/2005
+FC Internazionale,Nicola Ventola,26,Centre-Forward,Crystal Palace,Loan,out,0,Serie A,2004,2004/2005
+FC Internazionale,Julien Brellier,22,Central Midfield,Salernitana,?,out,NA,Serie A,2004,2004/2005
+FC Internazionale,Fabrizio Biava,21,Midfielder,Lucchese,Loan,out,0,Serie A,2004,2004/2005
+FC Internazionale,Horacio Peralta,22,Centre-Forward,Cagliari Calcio,?,out,NA,Serie A,2004,2004/2005
+FC Internazionale,Nicola Beati,21,Defensive Midfield,Spezia,Loan,out,0,Serie A,2004,2004/2005
+FC Internazionale,Fabrizio Biava,20,Midfielder,Ternana,Loan,out,0,Serie A,2004,2004/2005
+FC Internazionale,Alessandro Potenza,20,Centre-Back,Chievo Verona,Loan,out,0,Serie A,2004,2004/2005
+FC Internazionale,Carl Valeri,19,Central Midfield,SPAL,Loan,out,0,Serie A,2004,2004/2005
+FC Internazionale,Giovanni Pasquale,22,Left-Back,Siena,Loan,out,0,Serie A,2004,2004/2005
+FC Internazionale,Julien Brellier,22,Central Midfield,AC Venezia 1907,Loan,out,0,Serie A,2004,2004/2005
+FC Internazionale,Daniele Adani,29,Centre-Back,Brescia,?,out,NA,Serie A,2004,2004/2005
+FC Internazionale,Mario Rebecchi,20,Central Midfield,Parma,?,out,NA,Serie A,2004,2004/2005
+FC Internazionale,Khalilou Fadiga,29,Left Winger,Without Club,-,out,0,Serie A,2004,2004/2005
+Parma FC,Massimo Maccarone,24,Centre-Forward,Middlesbrough,Loan fee:£900k,in,0.9,Serie A,2004,2004/2005
+Parma FC,Matteo Contini,24,Centre-Back,Avellino,£522k,in,0.522,Serie A,2004,2004/2005
+Parma FC,Alessandro Budel,23,Defensive Midfield,Genoa,£360k,in,0.36,Serie A,2004,2004/2005
+Parma FC,Cesare Bovo,21,Centre-Back,AS Roma,Loan fee:£90k,in,0.09,Serie A,2004,2004/2005
+Parma FC,Luca Bucci,35,Goalkeeper,Without Club,Free Transfer,in,0,Serie A,2004,2004/2005
+Parma FC,Vince Grella,24,Central Midfield,FC Empoli,Free Transfer,in,0,Serie A,2004,2004/2005
+Parma FC,Fábio Simplício,24,Central Midfield,São Paulo,Free Transfer,in,0,Serie A,2004,2004/2005
+Parma FC,Stefano Bettarini,32,Left-Back,Sampdoria,Free Transfer,in,0,Serie A,2004,2004/2005
+Parma FC,Gianluca Berti,37,Goalkeeper,US Palermo,Free Transfer,in,0,Serie A,2004,2004/2005
+Parma FC,Andrea Pisanu,22,Right Midfield,Hellas Verona,?,in,NA,Serie A,2004,2004/2005
+Parma FC,Mario Rebecchi,20,Central Midfield,Inter,?,in,NA,Serie A,2004,2004/2005
+Parma FC,Fabio Vignaroli,28,Centre-Forward,Modena,Loan,in,0,Serie A,2004,2004/2005
+Parma FC,Daniele Degano,22,Second Striker,Ancona,?,in,NA,Serie A,2004,2004/2005
+Parma FC,Damiano Ferronetti,19,Centre-Back,AS Roma,?,in,NA,Serie A,2004,2004/2005
+Parma FC,Federico Ranieri,18,Midfielder,Forlì,?,in,NA,Serie A,2004,2004/2005
+Parma FC,Daniele Dessena,17,Central Midfield,Parma U19,-,in,0,Serie A,2004,2004/2005
+Parma FC,Alberto Galuppo,18,Centre-Back,Parma U19,-,in,0,Serie A,2004,2004/2005
+Parma FC,Davide Furlan,18,Defensive Midfield,Parma  Youth,-,in,0,Serie A,2004,2004/2005
+Parma FC,Renato Olive,33,Central Midfield,Without Club,-,in,0,Serie A,2004,2004/2005
+Parma FC,Sebastiano Siviglia,31,Centre-Back,Lecce,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Parma FC,Emiliano Moretti,23,Centre-Back,Bologna,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Parma FC,Francesco Ruopolo,21,Centre-Forward,Cittadella,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Parma FC,Gaetano Grieco,21,Centre-Forward,Genoa,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Parma FC,Hidetoshi Nakata,27,Attacking Midfield,Bologna,"End of loanJun 1, 2004",in,0,Serie A,2004,2004/2005
+Parma FC,Savo Milosevic,30,Centre-Forward,Celta de Vigo,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Parma FC,Matteo Brighi,23,Central Midfield,Brescia,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Parma FC,Martin Djetou,29,Centre-Back,Fulham,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Parma FC,Jorge Bolaño,27,Central Midfield,Lecce,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Parma FC,Júnior,31,Left-Back,Siena,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Parma FC,Alfonso De Lucia,20,Goalkeeper,Salernitana,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Parma FC,Andrea Staffolani,21,Centre-Forward,Vis Pesaro,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Parma FC,Tonino Sorrentino,19,Centre-Forward,Avellino,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Parma FC,Matteo Brighi,23,Central Midfield,Juventus,£10.35m,out,10.35,Serie A,2004,2004/2005
+Parma FC,Matteo Ferrari,24,Centre-Back,AS Roma,£6.30m,out,6.3,Serie A,2004,2004/2005
+Parma FC,Simone Barone,26,Central Midfield,US Palermo,£4.50m,out,4.5,Serie A,2004,2004/2005
+Parma FC,Marcello Castellini,31,Centre-Back,Sampdoria,£720k,out,0.72,Serie A,2004,2004/2005
+Parma FC,Gianluca Berti,37,Goalkeeper,Torino,Free Transfer,out,0,Serie A,2004,2004/2005
+Parma FC,Emiliano Moretti,23,Centre-Back,Valencia,Free Transfer,out,0,Serie A,2004,2004/2005
+Parma FC,Martin Djetou,30,Centre-Back,OGC Nice,Free Transfer,out,0,Serie A,2004,2004/2005
+Parma FC,Júnior,31,Left-Back,São Paulo,Free Transfer,out,0,Serie A,2004,2004/2005
+Parma FC,Hidetoshi Nakata,27,Attacking Midfield,Fiorentina,Free Transfer,out,0,Serie A,2004,2004/2005
+Parma FC,Alessandro Rosina,20,Second Striker,Hellas Verona,Loan,out,0,Serie A,2004,2004/2005
+Parma FC,Savo Milosevic,30,Centre-Forward,CA Osasuna,Free Transfer,out,0,Serie A,2004,2004/2005
+Parma FC,Zlatko Dedic,19,Centre-Forward,FC Empoli,Loan,out,0,Serie A,2004,2004/2005
+Parma FC,Gaetano Grieco,22,Centre-Forward,Foggia,Loan,out,0,Serie A,2004,2004/2005
+Parma FC,Andrea Staffolani,21,Centre-Forward,Fermana,?,out,NA,Serie A,2004,2004/2005
+Parma FC,Benny Carbone,32,Second Striker,Catanzaro,?,out,NA,Serie A,2004,2004/2005
+Parma FC,Mirko Stefani,20,Centre-Back,Bellaria IM,Loan,out,0,Serie A,2004,2004/2005
+Parma FC,Gabriel Oyola,21,Centre-Back,Huracan de Tres Arroyos,?,out,NA,Serie A,2004,2004/2005
+Parma FC,Sebastiano Siviglia,31,Centre-Back,Lazio,?,out,NA,Serie A,2004,2004/2005
+Parma FC,Paolo Ruffini,20,Midfielder,Pro Sesto,?,out,NA,Serie A,2004,2004/2005
+Parma FC,Alessandro Budel,23,Defensive Midfield,Cagliari Calcio,?,out,NA,Serie A,2004,2004/2005
+Parma FC,Mario Rebecchi,21,Central Midfield,Inter,?,out,NA,Serie A,2004,2004/2005
+Parma FC,Alessandro Potenza,20,Centre-Back,Inter,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Parma FC,Massimo Maccarone,25,Centre-Forward,Middlesbrough,"End of loanDec 31, 2004",out,0,Serie A,2004,2004/2005
+Parma FC,Antonio Benarrivo,35,Left-Back,Retired,-,out,0,Serie A,2004,2004/2005
+Parma FC,Ianis Zicu,20,Attacking Midfield,Inter,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Parma FC,Marco Donadel,21,Defensive Midfield,Milan,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Parma FC,Anthony Seric,25,Left-Back,Hellas Verona,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Parma FC,Fabrizio Cammarata,28,Centre-Forward,Cagliari Calcio,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Parma FC,Marco Amelia,22,Goalkeeper,AS Livorno,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Parma FC,Manuele Blasi,23,Central Midfield,Juventus,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+SS Lazio,Goran Pandev,20,Second Striker,Inter,£7.20m,in,7.2,Serie A,2004,2004/2005
+SS Lazio,Anthony Seric,25,Left-Back,Hellas Verona,£1.35m,in,1.35,Serie A,2004,2004/2005
+SS Lazio,Paolo Di Canio,35,Centre-Forward,Charlton,Free Transfer,in,0,Serie A,2004,2004/2005
+SS Lazio,Matías Lequi,23,Centre-Back,Atlético Madrid,Free Transfer,in,0,Serie A,2004,2004/2005
+SS Lazio,Miguel Mea Vitali,23,Defensive Midfield,Caracas FC,Free Transfer,in,0,Serie A,2004,2004/2005
+SS Lazio,Tommaso Rocchi,26,Centre-Forward,FC Empoli,?,in,NA,Serie A,2004,2004/2005
+SS Lazio,Braian Robert,20,Left Midfield,Independiente,?,in,NA,Serie A,2004,2004/2005
+SS Lazio,Fabio Bazzani,28,Centre-Forward,Sampdoria,Loan,in,0,Serie A,2004,2004/2005
+SS Lazio,Leonardo Talamonti,22,Centre-Back,CA Rosario,Loan,in,0,Serie A,2004,2004/2005
+SS Lazio,Sebastiano Siviglia,31,Centre-Back,Parma,?,in,NA,Serie A,2004,2004/2005
+SS Lazio,Antonio Filippini,30,Right Midfield,US Palermo,Loan,in,0,Serie A,2004,2004/2005
+SS Lazio,Óscar López,24,Right-Back,FC Barcelona,Loan,in,0,Serie A,2004,2004/2005
+SS Lazio,Emanuele Filippini,30,Central Midfield,US Palermo,Loan,in,0,Serie A,2004,2004/2005
+SS Lazio,Esteban González,25,Defensive Midfield,Gimnasia,?,in,NA,Serie A,2004,2004/2005
+SS Lazio,Leonardo Colucci,32,Central Midfield,Bologna,Loan,in,0,Serie A,2004,2004/2005
+SS Lazio,Andrea Ciani,19,Central Midfield,Lazio U19,-,in,0,Serie A,2004,2004/2005
+SS Lazio,Simone Sannibale,18,Centre-Back,Lazio U19,-,in,0,Serie A,2004,2004/2005
+SS Lazio,Lorenzo De Silvestri,16,Right-Back,Lazio U19,-,in,0,Serie A,2004,2004/2005
+SS Lazio,Roberto Baronio,26,Defensive Midfield,Chievo Verona,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+SS Lazio,Nikola Lazetic,26,Right Winger,Siena,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+SS Lazio,Pierpaolo Masi,20,Midfielder,AS Lodigiani,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+SS Lazio,Dino Baggio,32,Defensive Midfield,Ancona,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+SS Lazio,Matteo Morici,19,Central Midfield,Fermana,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+SS Lazio,Gaizka Mendieta,30,Right Midfield,Middlesbrough,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+SS Lazio,Alessandro Volpe,21,Central Midfield,Cisco Roma,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+SS Lazio,Stefano Fiore,29,Attacking Midfield,Valencia,£15.30m,out,15.3,Serie A,2004,2004/2005
+SS Lazio,Jaap Stam,31,Centre-Back,AC Milan,£9.45m,out,9.45,Serie A,2004,2004/2005
+SS Lazio,Bernardo Corradi,28,Centre-Forward,Valencia,£9.00m,out,9,Serie A,2004,2004/2005
+SS Lazio,Claudio López,29,Centre-Forward,América,Loan,out,0,Serie A,2004,2004/2005
+SS Lazio,Siniša Mihajlović,35,Centre-Back,Inter,Free Transfer,out,0,Serie A,2004,2004/2005
+SS Lazio,Gaizka Mendieta,30,Right Midfield,Middlesbrough,Free Transfer,out,0,Serie A,2004,2004/2005
+SS Lazio,Giuseppe Favalli,32,Left-Back,Inter,Free Transfer,out,0,Serie A,2004,2004/2005
+SS Lazio,Demetrio Albertini,32,Defensive Midfield,Atalanta,Free Transfer,out,0,Serie A,2004,2004/2005
+SS Lazio,Simone Inzaghi,28,Centre-Forward,Sampdoria,Loan,out,0,Serie A,2004,2004/2005
+SS Lazio,Nikola Lazetic,26,Right Winger,Genoa,?,out,NA,Serie A,2004,2004/2005
+SS Lazio,Pierpaolo Masi,21,Midfielder,AC Montichiari,?,out,NA,Serie A,2004,2004/2005
+SS Lazio,Alessandro Volpe,21,Central Midfield,Ternana,?,out,NA,Serie A,2004,2004/2005
+SS Lazio,Lucas Castromán,23,Attacking Midfield,Vélez Sarsfield,?,out,NA,Serie A,2004,2004/2005
+SS Lazio,Braian Robert,20,Left Midfield,Catanzaro,Loan,out,0,Serie A,2004,2004/2005
+SS Lazio,Francesco Colonnese,32,Centre-Back,Siena,?,out,NA,Serie A,2004,2004/2005
+SS Lazio,Guerino Gottardi,33,Defensive Midfield,Retired,-,out,0,Serie A,2004,2004/2005
+Udinese Calcio,Antonio Di Natale,26,Centre-Forward,FC Empoli,£90k,in,0.09,Serie A,2004,2004/2005
+Udinese Calcio,Damiano Zenoni,27,Right-Back,Atalanta,Free Transfer,in,0,Serie A,2004,2004/2005
+Udinese Calcio,Samir Handanovic,19,Goalkeeper,NK Domzale,Free Transfer,in,0,Serie A,2004,2004/2005
+Udinese Calcio,Manuel Belleri,26,Right-Back,FC Empoli,?,in,NA,Serie A,2004,2004/2005
+Udinese Calcio,Cribari,24,Centre-Back,FC Empoli,?,in,NA,Serie A,2004,2004/2005
+Udinese Calcio,José Devaca,21,Centre-Back,Cerro Porteño,?,in,NA,Serie A,2004,2004/2005
+Udinese Calcio,Claudio Vargas,18,Defensive Midfield,Cerro Porteño,?,in,NA,Serie A,2004,2004/2005
+Udinese Calcio,Stefano Mauri,24,Attacking Midfield,Modena,?,in,NA,Serie A,2004,2004/2005
+Udinese Calcio,Michele Lestani,18,Central Midfield,Udinese U19,-,in,0,Serie A,2004,2004/2005
+Udinese Calcio,Olivier Renard,25,Goalkeeper,Modena,"End of loanDec 31, 2004",in,0,Serie A,2004,2004/2005
+Udinese Calcio,Siyabonga Nomvethe,26,Centre-Forward,Salernitana,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Udinese Calcio,Thomas Manfredini,24,Centre-Back,Fiorentina,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Udinese Calcio,Sergio Almirón,23,Central Midfield,Hellas Verona,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Udinese Calcio,David Di Michele,28,Centre-Forward,Reggina,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Udinese Calcio,Zlatan Muslimovic,23,Centre-Forward,Padova,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Udinese Calcio,Roberto Sosa,29,Centre-Forward,Messina Peloro,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Udinese Calcio,Luis Helguera,28,Defensive Midfield,Ancona,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Udinese Calcio,Julio Gutiérrez,24,Centre-Forward,Pescara,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Udinese Calcio,Anthony Basso,24,Goalkeeper,Chieti,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Udinese Calcio,Sergio Almirón,23,Central Midfield,FC Empoli,£1.98m,out,1.98,Serie A,2004,2004/2005
+Udinese Calcio,Julio Gutiérrez,24,Centre-Forward,Sambenedettese,Free Transfer,out,0,Serie A,2004,2004/2005
+Udinese Calcio,Carsten Jancker,29,Centre-Forward,1.FC K'lautern,Free Transfer,out,0,Serie A,2004,2004/2005
+Udinese Calcio,Anthony Basso,24,Goalkeeper,Viking FK,Free Transfer,out,0,Serie A,2004,2004/2005
+Udinese Calcio,Roberto Sosa,29,Centre-Forward,Napoli,Free Transfer,out,0,Serie A,2004,2004/2005
+Udinese Calcio,Siyabonga Nomvethe,26,Centre-Forward,FC Empoli,Loan,out,0,Serie A,2004,2004/2005
+Udinese Calcio,Renny Vega,24,Goalkeeper,Italchacao,?,out,NA,Serie A,2004,2004/2005
+Udinese Calcio,Olivier Renard,25,Goalkeeper,Napoli,Loan,out,0,Serie A,2004,2004/2005
+Udinese Calcio,Olivier Renard,25,Goalkeeper,Modena,Loan,out,0,Serie A,2004,2004/2005
+Udinese Calcio,Alessandro Pierini,31,Centre-Back,Racing,?,out,NA,Serie A,2004,2004/2005
+Udinese Calcio,Alberto Valentim,29,Right Midfield,Siena,Loan,out,0,Serie A,2004,2004/2005
+Udinese Calcio,Zlatan Muslimovic,23,Centre-Forward,Rimini,Loan,out,0,Serie A,2004,2004/2005
+Udinese Calcio,Thomas Manfredini,24,Centre-Back,Catania,Loan,out,0,Serie A,2004,2004/2005
+Udinese Calcio,Fabio Rossitto,32,Right Midfield,Germinal Beersch,?,out,NA,Serie A,2004,2004/2005
+Udinese Calcio,Toni Bernal,27,Goalkeeper,Ciudad Murcia,?,out,NA,Serie A,2004,2004/2005
+Udinese Calcio,José Devaca,22,Centre-Back,Libertad,?,out,NA,Serie A,2004,2004/2005
+Udinese Calcio,Martin Jörgensen,28,Central Midfield,Fiorentina,?,out,NA,Serie A,2004,2004/2005
+Udinese Calcio,Asamoah Gyan,18,Centre-Forward,Modena,Loan,out,0,Serie A,2004,2004/2005
+Udinese Calcio,Diego Gavilán,24,Central Midfield,Newcastle,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Juventus FC,Émerson,28,Defensive Midfield,AS Roma,£25.20m,in,25.2,Serie A,2004,2004/2005
+Juventus FC,Zlatan Ibrahimovic,22,Centre-Forward,Ajax,£14.40m,in,14.4,Serie A,2004,2004/2005
+Juventus FC,Matteo Brighi,23,Central Midfield,Parma,£10.35m,in,10.35,Serie A,2004,2004/2005
+Juventus FC,Fabio Cannavaro,30,Centre-Back,Inter,£9.00m,in,9,Serie A,2004,2004/2005
+Juventus FC,Benjamin Onwuachi,20,Centre-Forward,Reggiana U19,£378k,in,0.378,Serie A,2004,2004/2005
+Juventus FC,Jonathan Zebina,25,Centre-Back,AS Roma,Free Transfer,in,0,Serie A,2004,2004/2005
+Juventus FC,Olivier Kapo,23,Attacking Midfield,AJ Auxerre,Free Transfer,in,0,Serie A,2004,2004/2005
+Juventus FC,Adrian Mutu,26,Centre-Forward,AS Livorno,Free Transfer,in,0,Serie A,2004,2004/2005
+Juventus FC,Rey Volpato,17,Centre-Forward,Padova,?,in,NA,Serie A,2004,2004/2005
+Juventus FC,Raffaele Palladino,20,Left Winger,Juventus U19,-,in,0,Serie A,2004,2004/2005
+Juventus FC,Orlando Urbano,20,Centre-Back,Reggiana,"End of loanDec 1, 2004",in,0,Serie A,2004,2004/2005
+Juventus FC,Antonio Nocerino,19,Central Midfield,Avellino,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Juventus FC,Fabián Carini,24,Goalkeeper,Standard Liège,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Juventus FC,Edgar Davids,31,Central Midfield,FC Barcelona,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Juventus FC,Landry Bonnefoi,20,Goalkeeper,Messina Peloro,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Juventus FC,Felice Piccolo,20,Centre-Back,Como,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Juventus FC,Rubén Olivera,21,Central Midfield,Atlético Madrid,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Juventus FC,Marcelo Zalayeta,25,Centre-Forward,Perugia,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Juventus FC,Manuele Blasi,23,Central Midfield,AC Parma,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Juventus FC,Giuseppe Sculli,23,Left Winger,Chievo Verona,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Juventus FC,Salvatore Fresi,31,Centre-Back,Perugia,"End of loanJun 1, 2004",in,0,Serie A,2004,2004/2005
+Juventus FC,Marcelo Salas,29,Centre-Forward,River Plate,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Juventus FC,Luigi Lavecchia,22,Right Midfield,Messina Peloro,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Juventus FC,Tomás Guzmán,22,Attacking Midfield,Messina Peloro,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Juventus FC,Massimiliano Vieri,25,Centre-Forward,SSC Napoli,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Juventus FC,Matteo Brighi,23,Central Midfield,AS Roma,£14.40m,out,14.4,Serie A,2004,2004/2005
+Juventus FC,Marco Di Vaio,27,Centre-Forward,Valencia,£9.90m,out,9.9,Serie A,2004,2004/2005
+Juventus FC,Fabrizio Miccoli,25,Centre-Forward,Fiorentina,£6.30m,out,6.3,Serie A,2004,2004/2005
+Juventus FC,Antonio Nocerino,19,Central Midfield,Genoa,£405k,out,0.405,Serie A,2004,2004/2005
+Juventus FC,Edgar Davids,31,Central Midfield,Inter,Free Transfer,out,0,Serie A,2004,2004/2005
+Juventus FC,Orlando Urbano,20,Centre-Back,Reggiana,Loan,out,0,Serie A,2004,2004/2005
+Juventus FC,Marcelo Salas,29,Centre-Forward,River Plate,Free Transfer,out,0,Serie A,2004,2004/2005
+Juventus FC,Luigi Lavecchia,22,Right Midfield,Arezzo,Loan,out,0,Serie A,2004,2004/2005
+Juventus FC,Antonio Mirante,20,Goalkeeper,Crotone,Loan,out,0,Serie A,2004,2004/2005
+Juventus FC,Benjamin Onwuachi,20,Centre-Forward,Salernitana,Loan,out,0,Serie A,2004,2004/2005
+Juventus FC,Orlando Urbano,20,Centre-Back,Pavia,Loan,out,0,Serie A,2004,2004/2005
+Juventus FC,Abdoulay Konko,20,Right-Back,Crotone,Loan,out,0,Serie A,2004,2004/2005
+Juventus FC,Fabián Carini,24,Goalkeeper,Inter,Free Transfer,out,0,Serie A,2004,2004/2005
+Juventus FC,Mark Iuliano,31,Centre-Back,RCD Mallorca,?,out,NA,Serie A,2004,2004/2005
+Juventus FC,Davide Chiumiento,19,Attacking Midfield,Siena,Loan,out,0,Serie A,2004,2004/2005
+Juventus FC,Enzo Maresca,24,Central Midfield,Fiorentina,Loan,out,0,Serie A,2004,2004/2005
+Juventus FC,Salvatore Fresi,31,Centre-Back,Catania,?,out,NA,Serie A,2004,2004/2005
+Juventus FC,Raffaele Palladino,20,Left Winger,Salernitana,Loan,out,0,Serie A,2004,2004/2005
+Juventus FC,Nicola Legrottaglie,28,Centre-Back,Bologna,Loan,out,0,Serie A,2004,2004/2005
+Juventus FC,Felice Piccolo,20,Centre-Back,Reggina,Loan,out,0,Serie A,2004,2004/2005
+Juventus FC,Tomás Guzmán,22,Attacking Midfield,Crotone,?,out,NA,Serie A,2004,2004/2005
+Juventus FC,Luca Scicchitano,19,Central Midfield,Avellino,?,out,NA,Serie A,2004,2004/2005
+Juventus FC,Giuseppe Sculli,23,Left Winger,Brescia,Loan,out,0,Serie A,2004,2004/2005
+Juventus FC,Alessandro Frara,21,Defensive Midfield,Ternana,?,out,NA,Serie A,2004,2004/2005
+Juventus FC,Massimiliano Vieri,25,Centre-Forward,Ternana,Loan,out,0,Serie A,2004,2004/2005
+Juventus FC,Antonio Conte,34,Central Midfield,Retired,-,out,0,Serie A,2004,2004/2005
+Atalanta BC,Stephen Makinwa,21,Centre-Forward,Genoa,£4.86m,in,4.86,Serie A,2004,2004/2005
+Atalanta BC,Adriano,22,Right-Back,US Palermo,Loan,in,0,Serie A,2004,2004/2005
+Atalanta BC,Lampros Choutos,25,Centre-Forward,Inter,Loan,in,0,Serie A,2004,2004/2005
+Atalanta BC,Demetrio Albertini,32,Defensive Midfield,Lazio,Free Transfer,in,0,Serie A,2004,2004/2005
+Atalanta BC,Mariano Stendardo,21,Centre-Back,Perugia,?,in,NA,Serie A,2004,2004/2005
+Atalanta BC,Santos,23,Centre-Back,Monza,?,in,NA,Serie A,2004,2004/2005
+Atalanta BC,Claudio Rivalta,26,Centre-Back,Vicenza,?,in,NA,Serie A,2004,2004/2005
+Atalanta BC,Davide Sinigaglia,23,Centre-Forward,Arezzo,Loan,in,0,Serie A,2004,2004/2005
+Atalanta BC,Giulio Migliaccio,23,Central Midfield,Ternana,?,in,NA,Serie A,2004,2004/2005
+Atalanta BC,Massimo Gotti,18,Left-Back,Atalanta U19,-,in,0,Serie A,2004,2004/2005
+Atalanta BC,Michele Canini,19,Centre-Back,Atalanta U19,-,in,0,Serie A,2004,2004/2005
+Atalanta BC,Marino Defendi,18,Central Midfield,Atalanta U19,-,in,0,Serie A,2004,2004/2005
+Atalanta BC,Marco Motta,18,Right-Back,Atalanta U19,-,in,0,Serie A,2004,2004/2005
+Atalanta BC,Biagio Pagano,21,Right Winger,Sampdoria,"End of loanDec 31, 2004",in,0,Serie A,2004,2004/2005
+Atalanta BC,Luigi Sala,30,Centre-Back,Chievo Verona,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Atalanta BC,Gianni Comandini,27,Centre-Forward,Genoa,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Atalanta BC,Stefano Lorenzi,27,Centre-Back,Arezzo,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Atalanta BC,Fausto Rossini,26,Centre-Forward,Bologna,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Atalanta BC,Mauro Minelli,23,Centre-Back,Hellas Verona,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Atalanta BC,Cesare Natali,25,Centre-Back,Bologna,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Atalanta BC,Piá,22,Left Winger,Ascoli,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Atalanta BC,Nicholas Caglioni,21,Goalkeeper,Aglianese,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Atalanta BC,Giampaolo Pazzini,20,Centre-Forward,Fiorentina,£5.85m,out,5.85,Serie A,2004,2004/2005
+Atalanta BC,Piá,22,Left Winger,Napoli,£1.22m,out,1.22,Serie A,2004,2004/2005
+Atalanta BC,Michele Magrin,18,Central Midfield,Monza,Loan,out,0,Serie A,2004,2004/2005
+Atalanta BC,Damiano Zenoni,27,Right-Back,Udinese,Free Transfer,out,0,Serie A,2004,2004/2005
+Atalanta BC,Demetrio Albertini,33,Defensive Midfield,FC Barcelona,Free Transfer,out,0,Serie A,2004,2004/2005
+Atalanta BC,Gianni Comandini,27,Centre-Forward,Ternana,Loan fee:£27k,out,0.027,Serie A,2004,2004/2005
+Atalanta BC,Santos,23,Centre-Back,Monza,Loan,out,0,Serie A,2004,2004/2005
+Atalanta BC,Mauro Minelli,23,Centre-Back,UC AlbinoLeffe,?,out,NA,Serie A,2004,2004/2005
+Atalanta BC,Rolando Bianchi,21,Centre-Forward,Cagliari Calcio,?,out,NA,Serie A,2004,2004/2005
+Atalanta BC,Luca Saudati,25,Centre-Forward,FC Empoli,Loan,out,0,Serie A,2004,2004/2005
+Atalanta BC,Michele Canini,19,Centre-Back,Sambenedettese,Loan,out,0,Serie A,2004,2004/2005
+Atalanta BC,Carmine Gautieri,34,Right Winger,Napoli,Loan,out,0,Serie A,2004,2004/2005
+Atalanta BC,Biagio Pagano,21,Right Winger,Sampdoria,Loan,out,0,Serie A,2004,2004/2005
+Atalanta BC,Stefano Lorenzi,27,Centre-Back,Arezzo,Loan,out,0,Serie A,2004,2004/2005
+Atalanta BC,Fausto Rossini,26,Centre-Forward,Sampdoria,?,out,NA,Serie A,2004,2004/2005
+Atalanta BC,Natale Gonnella,29,Centre-Back,Arezzo,Loan,out,0,Serie A,2004,2004/2005
+Atalanta BC,Davor Vugrinec,29,Centre-Forward,Catania,?,out,NA,Serie A,2004,2004/2005
+Atalanta BC,Alex Pinardi,23,Defensive Midfield,Lecce,?,out,NA,Serie A,2004,2004/2005
+Atalanta BC,Tiberio Guarente,18,Central Midfield,Hellas Verona,?,out,NA,Serie A,2004,2004/2005
+Atalanta BC,Vlado Smit,24,Left-Back,Bologna,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Atalanta BC,Luigi Della Rocca,19,Centre-Forward,Bologna,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Atalanta BC,Mohamed Sarr,20,Centre-Back,Milan,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+US Lecce,Aleksey Eremenko Jr.,21,Attacking Midfield,HJK Helsinki,£225k,in,0.225,Serie A,2004,2004/2005
+US Lecce,Samuele Dalla Bona,23,Central Midfield,AC Milan,Loan,in,0,Serie A,2004,2004/2005
+US Lecce,Luca Anania,24,Goalkeeper,Avellino,?,in,NA,Serie A,2004,2004/2005
+US Lecce,Giuseppe Cozzolino,19,Centre-Forward,Real Giulianova,?,in,NA,Serie A,2004,2004/2005
+US Lecce,Alex Pinardi,23,Defensive Midfield,Atalanta,?,in,NA,Serie A,2004,2004/2005
+US Lecce,Babù,23,Right Winger,AC Venezia 1907,?,in,NA,Serie A,2004,2004/2005
+US Lecce,Jaime Valdés,23,Central Midfield,Fiorentina,?,in,NA,Serie A,2004,2004/2005
+US Lecce,Francesco Marianini,25,Central Midfield,Triestina,?,in,NA,Serie A,2004,2004/2005
+US Lecce,Massimo Paci,26,Centre-Back,Ternana,?,in,NA,Serie A,2004,2004/2005
+US Lecce,Souleymane Diamoutene,21,Centre-Back,Perugia,?,in,NA,Serie A,2004,2004/2005
+US Lecce,Sasa Bjelanovic,25,Centre-Forward,Genoa,?,in,NA,Serie A,2004,2004/2005
+US Lecce,Cristian Agnelli,19,Central Midfield,Hellas Verona,"End of loanDec 31, 2004",in,0,Serie A,2004,2004/2005
+US Lecce,Arnaud Kouyo,22,Centre-Back,RAEC Mons,"End of loanDec 31, 2004",in,0,Serie A,2004,2004/2005
+US Lecce,Alessandro Camisa,19,Centre-Back,Lecce U19,-,in,0,Serie A,2004,2004/2005
+US Lecce,Aldo Osorio,30,Centre-Forward,CA Talleres,"End of loanJul 6, 2004",in,0,Serie A,2004,2004/2005
+US Lecce,Djuric Winklaar,22,Left Midfield,SPAL,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+US Lecce,Valeri Bojinov,18,Centre-Forward,Fiorentina,£12.60m,out,12.6,Serie A,2004,2004/2005
+US Lecce,Javier Chevantón,23,Centre-Forward,Monaco,£9.00m,out,9,Serie A,2004,2004/2005
+US Lecce,Cristian Silvestri,29,Centre-Back,Catania,£2.88m,out,2.88,Serie A,2004,2004/2005
+US Lecce,Aldo Osorio,30,Centre-Forward,CD Numancia,£450k,out,0.45,Serie A,2004,2004/2005
+US Lecce,Björn Zimmermann,18,Centre-Back,VfV Hildesheim,Free Transfer,out,0,Serie A,2004,2004/2005
+US Lecce,Philippe Billy,22,Right-Back,RAEC Mons,Free Transfer,out,0,Serie A,2004,2004/2005
+US Lecce,Arnaud Kouyo,22,Centre-Back,RAEC Mons,Loan,out,0,Serie A,2004,2004/2005
+US Lecce,Cesare Bovo,21,Centre-Back,AS Roma,£9k,out,0.009,Serie A,2004,2004/2005
+US Lecce,Cristian Agnelli,19,Central Midfield,Catanzaro,Loan,out,0,Serie A,2004,2004/2005
+US Lecce,Djuric Winklaar,22,Left Midfield,AGOVV Apeldoorn,?,out,NA,Serie A,2004,2004/2005
+US Lecce,Graziano Pellè,19,Centre-Forward,Catania,Loan,out,0,Serie A,2004,2004/2005
+US Lecce,Max Tonetto,29,Left-Back,Sampdoria,?,out,NA,Serie A,2004,2004/2005
+US Lecce,Mariano Stendardo,21,Centre-Back,Perugia,?,out,NA,Serie A,2004,2004/2005
+US Lecce,Jorge Bolaño,27,Central Midfield,AC Parma,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+US Lecce,Daniele Franceschini,28,Left Midfield,Chievo Verona,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+US Lecce,Wilfried Dalmat,21,Right Winger,Grenoble,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+US Lecce,Nicola Mariniello,27,Right Midfield,Foggia,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+US Lecce,Sebastiano Siviglia,31,Centre-Back,AC Parma,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+UC Sampdoria,Vitali Kutuzov,24,Centre-Forward,AC Milan,£1.35m,in,1.35,Serie A,2004,2004/2005
+UC Sampdoria,Marcello Castellini,31,Centre-Back,Parma,£720k,in,0.72,Serie A,2004,2004/2005
+UC Sampdoria,Simone Inzaghi,28,Centre-Forward,Lazio,Loan,in,0,Serie A,2004,2004/2005
+UC Sampdoria,Simone Pavan,30,Centre-Back,Modena,?,in,NA,Serie A,2004,2004/2005
+UC Sampdoria,Daniele Padelli,18,Goalkeeper,Como U19,?,in,NA,Serie A,2004,2004/2005
+UC Sampdoria,Gennaro Delvecchio,26,Central Midfield,Perugia,?,in,NA,Serie A,2004,2004/2005
+UC Sampdoria,Marco Pisano,22,Left-Back,Brescia,?,in,NA,Serie A,2004,2004/2005
+UC Sampdoria,Marco Donadel,21,Defensive Midfield,AC Milan,Loan,in,0,Serie A,2004,2004/2005
+UC Sampdoria,Andrea Gasbarroni,23,Second Striker,US Palermo,Loan,in,0,Serie A,2004,2004/2005
+UC Sampdoria,Max Tonetto,29,Left-Back,Lecce,?,in,NA,Serie A,2004,2004/2005
+UC Sampdoria,Biagio Pagano,21,Right Winger,Atalanta,Loan,in,0,Serie A,2004,2004/2005
+UC Sampdoria,Vincenzo Iacopino,27,Attacking Midfield,Lucchese,?,in,NA,Serie A,2004,2004/2005
+UC Sampdoria,Fausto Rossini,26,Centre-Forward,Atalanta,?,in,NA,Serie A,2004,2004/2005
+UC Sampdoria,Luca Antonini,22,Left-Back,Pescara,"End of loanJun 30, 2005",in,0,Serie A,2004,2004/2005
+UC Sampdoria,Mattia Roselli,17,Forward,Sampdoria U19,-,in,0,Serie A,2004,2004/2005
+UC Sampdoria,Luca Antonini,22,Left-Back,Modena,"End of loanDec 31, 2004",in,0,Serie A,2004,2004/2005
+UC Sampdoria,Alessandro Grandoni,26,Centre-Back,Modena,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+UC Sampdoria,Maurizio Domizzi,23,Centre-Back,Modena,"End of loanJun 1, 2004",in,0,Serie A,2004,2004/2005
+UC Sampdoria,Francis Zé,22,Right Winger,FC Chiasso,Free Transfer,out,0,Serie A,2004,2004/2005
+UC Sampdoria,Atsushi Yanagisawa,27,Centre-Forward,Messina Peloro,Free Transfer,out,0,Serie A,2004,2004/2005
+UC Sampdoria,Stefano Bettarini,32,Left-Back,Parma,Free Transfer,out,0,Serie A,2004,2004/2005
+UC Sampdoria,Salvatore Amirante,20,Centre-Forward,Sestrese,Free Transfer,out,0,Serie A,2004,2004/2005
+UC Sampdoria,Giacomo Cipriani,23,Centre-Forward,Bologna,Free Transfer,out,0,Serie A,2004,2004/2005
+UC Sampdoria,Claudio Costanzo,18,Defensive Midfield,Ascoli,Free Transfer,out,0,Serie A,2004,2004/2005
+UC Sampdoria,Fabio Bazzani,28,Centre-Forward,Lazio,Loan,out,0,Serie A,2004,2004/2005
+UC Sampdoria,Luca Antonini,21,Left-Back,Modena,Loan,out,0,Serie A,2004,2004/2005
+UC Sampdoria,Maurizio Domizzi,24,Centre-Back,Brescia,?,out,NA,Serie A,2004,2004/2005
+UC Sampdoria,Mirko Conte,29,Centre-Back,Messina Peloro,?,out,NA,Serie A,2004,2004/2005
+UC Sampdoria,Giampaolo Calzi,18,Defensive Midfield,Montevarchi Calcio Aquila 1902,?,out,NA,Serie A,2004,2004/2005
+UC Sampdoria,Luca Antonini,22,Left-Back,Pescara,Loan,out,0,Serie A,2004,2004/2005
+UC Sampdoria,Bratislav Zivkovic,33,Left Midfield,FK Obilic,?,out,NA,Serie A,2004,2004/2005
+UC Sampdoria,Thomas Job,19,Right Winger,Pescara,Loan,out,0,Serie A,2004,2004/2005
+UC Sampdoria,Alessandro Grandoni,26,Centre-Back,AS Livorno,?,out,NA,Serie A,2004,2004/2005
+UC Sampdoria,Marco Donadel,21,Defensive Midfield,AC Milan,"End of loanDec 31, 2004",out,0,Serie A,2004,2004/2005
+UC Sampdoria,Nenad Sakic,33,Centre-Back,Retired,-,out,0,Serie A,2004,2004/2005
+UC Sampdoria,Biagio Pagano,21,Right Winger,Atalanta,"End of loanDec 31, 2004",out,0,Serie A,2004,2004/2005
+UC Sampdoria,Francesco Pedone,36,Right Midfield,Retired,-,out,0,Serie A,2004,2004/2005
+UC Sampdoria,Fabian Natale Valtolina,33,Left Winger,Without Club,-,out,0,Serie A,2004,2004/2005
+UC Sampdoria,Antonio Floro Flores,21,Centre-Forward,SSC Napoli,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+US Palermo,Simone Barone,26,Central Midfield,Parma,£4.50m,in,4.5,Serie A,2004,2004/2005
+US Palermo,Mariano González,23,Right Midfield,Racing Club,£3.15m,in,3.15,Serie A,2004,2004/2005
+US Palermo,Davide Possanzini,28,Centre-Forward,UC AlbinoLeffe,£1.71m,in,1.71,Serie A,2004,2004/2005
+US Palermo,Andrea Barzagli,23,Centre-Back,Chievo Verona,£1.35m,in,1.35,Serie A,2004,2004/2005
+US Palermo,Cristian Zaccardo,22,Centre-Back,Bologna,£612k,in,0.612,Serie A,2004,2004/2005
+US Palermo,Daniele Fornaio,16,Central Midfield,AC Venezia 1907,?,in,NA,Serie A,2004,2004/2005
+US Palermo,Cristian Raimondi,23,Right Midfield,UC AlbinoLeffe,?,in,NA,Serie A,2004,2004/2005
+US Palermo,Matteo Guardalben,30,Goalkeeper,Piacenza,?,in,NA,Serie A,2004,2004/2005
+US Palermo,Adriano,22,Right-Back,Grêmio,?,in,NA,Serie A,2004,2004/2005
+US Palermo,Davide Matteini,22,Left Winger,Padova,"End of loanDec 1, 2004",in,0,Serie A,2004,2004/2005
+US Palermo,Mario Santana,22,Second Striker,Chievo Verona,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+US Palermo,Franco Brienza,25,Attacking Midfield,Perugia,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+US Palermo,Leandro Rinaudo,21,Centre-Back,Salernitana,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+US Palermo,Valentino Lai,20,Central Midfield,Salernitana,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+US Palermo,Ighli Vannucchi,26,Attacking Midfield,FC Empoli,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+US Palermo,Davide Matteini,22,Left Winger,Teramo,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+US Palermo,Franck Ongfiang,19,Left Midfield,Cesena,"End of loanJun 1, 2004",in,0,Serie A,2004,2004/2005
+US Palermo,Stefano Morrone,25,Central Midfield,Chievo Verona,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+US Palermo,Maurizio Ciaramitaro,22,Central Midfield,AS Livorno,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+US Palermo,Giuseppe Mascara,24,Second Striker,Catania,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+US Palermo,Davide Matteini,22,Left Winger,Padova,Loan,out,0,Serie A,2004,2004/2005
+US Palermo,Vincenzo Giannusa,23,Central Midfield,Carrarese,Free Transfer,out,0,Serie A,2004,2004/2005
+US Palermo,Olufemi,20,Centre-Forward,AC Venezia 1907,Free Transfer,out,0,Serie A,2004,2004/2005
+US Palermo,Adriano,22,Right-Back,Atalanta,Loan,out,0,Serie A,2004,2004/2005
+US Palermo,Gianluca Berti,37,Goalkeeper,Parma,Free Transfer,out,0,Serie A,2004,2004/2005
+US Palermo,Davide Matteini,22,Left Winger,Crotone,Loan,out,0,Serie A,2004,2004/2005
+US Palermo,Simone Pepe,20,Right Winger,Piacenza,Loan,out,0,Serie A,2004,2004/2005
+US Palermo,Salvatore Masiello,22,Left-Back,Piacenza,Loan,out,0,Serie A,2004,2004/2005
+US Palermo,Maurizio Ciaramitaro,22,Central Midfield,Cesena,Loan,out,0,Serie A,2004,2004/2005
+US Palermo,Antonio Filippini,30,Right Midfield,Lazio,Loan,out,0,Serie A,2004,2004/2005
+US Palermo,Valentin Nastase,29,Centre-Back,Bologna,?,out,NA,Serie A,2004,2004/2005
+US Palermo,Andrea Gasbarroni,23,Second Striker,Sampdoria,Loan,out,0,Serie A,2004,2004/2005
+US Palermo,Ighli Vannucchi,27,Attacking Midfield,FC Empoli,?,out,NA,Serie A,2004,2004/2005
+US Palermo,Giuseppe Mascara,24,Second Striker,Perugia,?,out,NA,Serie A,2004,2004/2005
+US Palermo,Gaetano Vasari,33,Right Winger,Vittoria Calcio,?,out,NA,Serie A,2004,2004/2005
+US Palermo,Emanuele Filippini,30,Central Midfield,Lazio,Loan,out,0,Serie A,2004,2004/2005
+US Palermo,Ernesto Farías,24,Centre-Forward,River Plate,?,out,NA,Serie A,2004,2004/2005
+US Palermo,Paolo Cotroneo,20,Centre-Back,Fermana,?,out,NA,Serie A,2004,2004/2005
+US Palermo,Franck Ongfiang,19,Left Midfield,Martina,Loan,out,0,Serie A,2004,2004/2005
+US Palermo,Valentino Lai,20,Central Midfield,Triestina,Loan,out,0,Serie A,2004,2004/2005
+US Palermo,Leandro Rinaudo,21,Centre-Back,Cesena,Loan,out,0,Serie A,2004,2004/2005
+US Palermo,Daniele Di Donato,27,Central Midfield,Siena,Loan,out,0,Serie A,2004,2004/2005
+US Palermo,Evans Soligo,25,Central Midfield,Triestina,?,out,NA,Serie A,2004,2004/2005
+US Palermo,Jeda,25,Second Striker,Piacenza,?,out,NA,Serie A,2004,2004/2005
+US Palermo,Antonino Asta,33,Right Midfield,Retired,-,out,0,Serie A,2004,2004/2005
+US Palermo,Gianluca Atzori,33,Defender,Retired,-,out,0,Serie A,2004,2004/2005
+FC Messina Peloro,Gaetano D'Agostino,22,Central Midfield,AS Roma,Loan fee:£360k,in,0.36,Serie A,2004,2004/2005
+FC Messina Peloro,Atsushi Yanagisawa,27,Centre-Forward,Sampdoria,Free Transfer,in,0,Serie A,2004,2004/2005
+FC Messina Peloro,Nicola Amoruso,29,Centre-Forward,Modena,Free Transfer,in,0,Serie A,2004,2004/2005
+FC Messina Peloro,Ivica Iliev,24,Second Striker,Partizan,Free Transfer,in,0,Serie A,2004,2004/2005
+FC Messina Peloro,Dimitrios Eleftheropoulos,27,Goalkeeper,Olympiacos,Free Transfer,in,0,Serie A,2004,2004/2005
+FC Messina Peloro,Takis Gonias,32,Right Midfield,Olympiacos,Free Transfer,in,0,Serie A,2004,2004/2005
+FC Messina Peloro,Rafael,24,Right-Back,Flamengo,Free Transfer,in,0,Serie A,2004,2004/2005
+FC Messina Peloro,Mirko Conte,29,Centre-Back,Sampdoria,?,in,NA,Serie A,2004,2004/2005
+FC Messina Peloro,Matthew Olorunleke,21,Centre-Back,Reggiana,?,in,NA,Serie A,2004,2004/2005
+FC Messina Peloro,Alessandro Cucciari,34,Defensive Midfield,Siena,?,in,NA,Serie A,2004,2004/2005
+FC Messina Peloro,Raffaele Sorriso,16,Goalkeeper,Napoli U19,?,in,NA,Serie A,2004,2004/2005
+FC Messina Peloro,Filippo Cristante,27,Centre-Back,Piacenza,?,in,NA,Serie A,2004,2004/2005
+FC Messina Peloro,Marco Zanchi,27,Centre-Back,Bologna,?,in,NA,Serie A,2004,2004/2005
+FC Messina Peloro,Vittorio Bernardo,18,Centre-Forward,Messina U19,-,in,0,Serie A,2004,2004/2005
+FC Messina Peloro,Simone Eramo,18,Centre-Back,Messina  Youth,-,in,0,Serie A,2004,2004/2005
+FC Messina Peloro,Federico Dionisi,17,Centre-Forward,Monterotondo,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Messina Peloro,Salvatore D'Alterio,24,Centre-Back,Martina,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Messina Peloro,Davide Arigò,19,Right Winger,Igea Virtus,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Messina Peloro,Riccardo Zampagna,29,Centre-Forward,Ternana,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Messina Peloro,Giuseppe Russo,21,Central Midfield,Paternò,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+FC Messina Peloro,Raffaele Ametrano,31,Right-Back,Avellino,Free Transfer,out,0,Serie A,2004,2004/2005
+FC Messina Peloro,Takis Gonias,33,Right Midfield,Crotone,Free Transfer,out,0,Serie A,2004,2004/2005
+FC Messina Peloro,Igor Zaniolo,31,Centre-Forward,Salernitana,Loan,out,0,Serie A,2004,2004/2005
+FC Messina Peloro,Salvatore Accursi,26,Centre-Back,Napoli,Free Transfer,out,0,Serie A,2004,2004/2005
+FC Messina Peloro,Simone Eramo,18,Centre-Back,Taranto,Loan,out,0,Serie A,2004,2004/2005
+FC Messina Peloro,Giuseppe Russo,21,Central Midfield,Rimini,Free Transfer,out,0,Serie A,2004,2004/2005
+FC Messina Peloro,Niccolò Guzzo,21,Right-Back,Acireale,?,out,NA,Serie A,2004,2004/2005
+FC Messina Peloro,Sergio Campolo,32,Central Midfield,Catanzaro,?,out,NA,Serie A,2004,2004/2005
+FC Messina Peloro,Alessandro Demetrio Greco,24,Goalkeeper,Real Giulianova,Loan,out,0,Serie A,2004,2004/2005
+FC Messina Peloro,Mirko Conte,30,Centre-Back,Arezzo,?,out,NA,Serie A,2004,2004/2005
+FC Messina Peloro,Andrea Gentile,24,Central Midfield,Arezzo,Loan,out,0,Serie A,2004,2004/2005
+FC Messina Peloro,Gianluca Temelin,27,Centre-Forward,Pro Patria,?,out,NA,Serie A,2004,2004/2005
+FC Messina Peloro,Marco Giambruno,19,Goalkeeper,Tolentino,?,out,NA,Serie A,2004,2004/2005
+FC Messina Peloro,Landry Bonnefoi,20,Goalkeeper,Juventus,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+FC Messina Peloro,Roberto Sosa,29,Centre-Forward,Udinese,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+FC Messina Peloro,Luigi Lavecchia,22,Right Midfield,Juventus,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+FC Messina Peloro,Nicola Princivalli,24,Central Midfield,Triestina,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+FC Messina Peloro,Tomás Guzmán,22,Attacking Midfield,Juventus,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Brescia Calcio,Pierre Womé,25,Left-Back,Espanyol,Free Transfer,in,0,Serie A,2004,2004/2005
+Brescia Calcio,Matías Almeyda,30,Defensive Midfield,Inter,Free Transfer,in,0,Serie A,2004,2004/2005
+Brescia Calcio,Marco Delvecchio,31,Centre-Forward,AS Roma,Free Transfer,in,0,Serie A,2004,2004/2005
+Brescia Calcio,Moïse Brou Apanga,22,Centre-Back,Perugia,Free Transfer,in,0,Serie A,2004,2004/2005
+Brescia Calcio,Johan Vonlanthen,18,Left Midfield,PSV Eindhoven,Loan,in,0,Serie A,2004,2004/2005
+Brescia Calcio,Omar Milanetto,28,Defensive Midfield,Modena,?,in,NA,Serie A,2004,2004/2005
+Brescia Calcio,Ernesto Luca Fiumicelli,19,Forward,Varese,?,in,NA,Serie A,2004,2004/2005
+Brescia Calcio,Daniele Berretta,32,Defensive Midfield,Ancona,?,in,NA,Serie A,2004,2004/2005
+Brescia Calcio,Fabrizio Zambrella,18,Central Midfield,Servette FC,?,in,NA,Serie A,2004,2004/2005
+Brescia Calcio,Daniele Mannini,20,Right Midfield,AC Pisa,?,in,NA,Serie A,2004,2004/2005
+Brescia Calcio,Luigi Dipasquale,23,Centre-Forward,Gallipoli,?,in,NA,Serie A,2004,2004/2005
+Brescia Calcio,Daniele Adani,29,Centre-Back,Inter,?,in,NA,Serie A,2004,2004/2005
+Brescia Calcio,Maurizio Domizzi,24,Centre-Back,Sampdoria,?,in,NA,Serie A,2004,2004/2005
+Brescia Calcio,Giuseppe Sculli,23,Left Winger,Juventus,Loan,in,0,Serie A,2004,2004/2005
+Brescia Calcio,Marek Hamsik,17,Central Midfield,Brescia U19,-,in,0,Serie A,2004,2004/2005
+Brescia Calcio,Emiliano Viviano,18,Goalkeeper,Brescia U19,-,in,0,Serie A,2004,2004/2005
+Brescia Calcio,Cyril Gona,20,Defensive Midfield,Ternana,"End of loanDec 31, 2004",in,0,Serie A,2004,2004/2005
+Brescia Calcio,Marco Zambelli,18,Right-Back,Brescia U19,-,in,0,Serie A,2004,2004/2005
+Brescia Calcio,Davide Zoboli,22,Centre-Back,UC AlbinoLeffe,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Brescia Calcio,Mario Salgado,23,Centre-Forward,Wüstenrot Sbg,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Brescia Calcio,Marc Nygaard,27,Centre-Forward,Vicenza,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Brescia Calcio,Matuzalém,24,Defensive Midfield,Shakhtar D.,£12.60m,out,12.6,Serie A,2004,2004/2005
+Brescia Calcio,Dario Dainelli,25,Centre-Back,Fiorentina,£4.95m,out,4.95,Serie A,2004,2004/2005
+Brescia Calcio,Federico Giunti,32,Defensive Midfield,Bologna,£900k,out,0.9,Serie A,2004,2004/2005
+Brescia Calcio,Cyril Gona,19,Defensive Midfield,Ternana,Loan fee:£225k,out,0.225,Serie A,2004,2004/2005
+Brescia Calcio,Tiziano Ramon,33,Goalkeeper,Arezzo,Free Transfer,out,0,Serie A,2004,2004/2005
+Brescia Calcio,Mario Salgado,23,Centre-Forward,Ternana,Loan,out,0,Serie A,2004,2004/2005
+Brescia Calcio,Abderrazzak Jadid,21,Central Midfield,AC Pisa,Loan,out,0,Serie A,2004,2004/2005
+Brescia Calcio,Emiliano Viviano,18,Goalkeeper,Cesena,Loan,out,0,Serie A,2004,2004/2005
+Brescia Calcio,Giordano Paganotto,19,Defender,Viterbese,Loan,out,0,Serie A,2004,2004/2005
+Brescia Calcio,Alejandro Correa,24,Defensive Midfield,Peñarol,?,out,NA,Serie A,2004,2004/2005
+Brescia Calcio,Cyril Gona,20,Defensive Midfield,Lumezzane,Loan,out,0,Serie A,2004,2004/2005
+Brescia Calcio,Marco Pisano,22,Left-Back,Sampdoria,?,out,NA,Serie A,2004,2004/2005
+Brescia Calcio,Fabio Petruzzi,33,Centre-Back,Bologna,?,out,NA,Serie A,2004,2004/2005
+Brescia Calcio,Filippo Maniero,31,Centre-Forward,Torino,?,out,NA,Serie A,2004,2004/2005
+Brescia Calcio,Jonathan Bachini,29,Right Midfield,Without Club,-,out,0,Serie A,2004,2004/2005
+Brescia Calcio,Paolo Castellini,25,Left-Back,Torino,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Brescia Calcio,Giuseppe Colucci,23,Central Midfield,Hellas Verona,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Brescia Calcio,Matteo Brighi,23,Central Midfield,AC Parma,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Brescia Calcio,Stefano Mauri,24,Attacking Midfield,Modena,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+ACF Fiorentina,Valeri Bojinov,18,Centre-Forward,Lecce,£12.60m,in,12.6,Serie A,2004,2004/2005
+ACF Fiorentina,Tomás Ujfalusi,26,Centre-Back,Hamburger SV,£6.75m,in,6.75,Serie A,2004,2004/2005
+ACF Fiorentina,Fabrizio Miccoli,25,Centre-Forward,Juventus,£6.30m,in,6.3,Serie A,2004,2004/2005
+ACF Fiorentina,Giampaolo Pazzini,20,Centre-Forward,Atalanta,£5.85m,in,5.85,Serie A,2004,2004/2005
+ACF Fiorentina,Giorgio Chiellini,19,Centre-Back,AS Livorno,£5.85m,in,5.85,Serie A,2004,2004/2005
+ACF Fiorentina,Dario Dainelli,25,Centre-Back,Brescia,£4.95m,in,4.95,Serie A,2004,2004/2005
+ACF Fiorentina,Christian Obodo,20,Central Midfield,Perugia,Loan,in,0,Serie A,2004,2004/2005
+ACF Fiorentina,Javier Portillo,22,Centre-Forward,Real Madrid,Loan,in,0,Serie A,2004,2004/2005
+ACF Fiorentina,Hidetoshi Nakata,27,Attacking Midfield,Parma,Free Transfer,in,0,Serie A,2004,2004/2005
+ACF Fiorentina,Gianni Guigou,29,Defensive Midfield,AS Roma,Free Transfer,in,0,Serie A,2004,2004/2005
+ACF Fiorentina,Daniele Delli Carri,32,Centre-Back,Siena,?,in,NA,Serie A,2004,2004/2005
+ACF Fiorentina,Enzo Maresca,24,Central Midfield,Juventus,Loan,in,0,Serie A,2004,2004/2005
+ACF Fiorentina,Martin Jörgensen,28,Central Midfield,Udinese,?,in,NA,Serie A,2004,2004/2005
+ACF Fiorentina,Cristiano Lupatelli,26,Goalkeeper,AS Roma,?,in,NA,Serie A,2004,2004/2005
+ACF Fiorentina,Jaime Valdés,23,Central Midfield,Bari,?,in,NA,Serie A,2004,2004/2005
+ACF Fiorentina,Marco Donadel,21,Defensive Midfield,AC Milan,Loan,in,0,Serie A,2004,2004/2005
+ACF Fiorentina,Andrea Soncin,25,Centre-Forward,Pistoiese,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+ACF Fiorentina,Daniele De Vezze,24,Central Midfield,Ascoli,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+ACF Fiorentina,Francesco Scotti,21,Goalkeeper,Montevarchi Calcio Aquila 1902,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+ACF Fiorentina,Davide Carrus,25,Defensive Midfield,Bari,£1.80m,out,1.8,Serie A,2004,2004/2005
+ACF Fiorentina,Zisis Vryzas,30,Centre-Forward,Celta de Vigo,Loan,out,0,Serie A,2004,2004/2005
+ACF Fiorentina,Gaetano Fontana,34,Central Midfield,Napoli,Free Transfer,out,0,Serie A,2004,2004/2005
+ACF Fiorentina,Matthieu Bochu,24,Attacking Midfield,Ravenna,Loan,out,0,Serie A,2004,2004/2005
+ACF Fiorentina,Riccardo Maspero,33,Attacking Midfield,Unknown,Free Transfer,out,0,Serie A,2004,2004/2005
+ACF Fiorentina,Andrea Ivan,31,Goalkeeper,Pescara,Free Transfer,out,0,Serie A,2004,2004/2005
+ACF Fiorentina,Alessandro Lucarelli,26,Centre-Back,AS Livorno,?,out,NA,Serie A,2004,2004/2005
+ACF Fiorentina,Carlo Cherubini,27,Left-Back,Vicenza,?,out,NA,Serie A,2004,2004/2005
+ACF Fiorentina,Mattia Graffiedi,24,Centre-Forward,Siena,?,out,NA,Serie A,2004,2004/2005
+ACF Fiorentina,Andrea Soncin,25,Centre-Forward,Virtus Lanciano,?,out,NA,Serie A,2004,2004/2005
+ACF Fiorentina,Alfonso Camorani,26,Central Midfield,Siena,?,out,NA,Serie A,2004,2004/2005
+ACF Fiorentina,Antonio Rizzo,23,Right-Back,Spezia,Loan,out,0,Serie A,2004,2004/2005
+ACF Fiorentina,Francesco Magnanelli,19,Defensive Midfield,Sangiovannese,?,out,NA,Serie A,2004,2004/2005
+ACF Fiorentina,Massimiliano Scaglia,27,Left-Back,Bari,?,out,NA,Serie A,2004,2004/2005
+ACF Fiorentina,Daniele De Vezze,24,Central Midfield,Reggiana,Loan,out,0,Serie A,2004,2004/2005
+ACF Fiorentina,Julio de León,24,Attacking Midfield,Catanzaro,?,out,NA,Serie A,2004,2004/2005
+ACF Fiorentina,Jaime Valdés,23,Central Midfield,Lecce,?,out,NA,Serie A,2004,2004/2005
+ACF Fiorentina,Francesco Scotti,21,Goalkeeper,Fermana,?,out,NA,Serie A,2004,2004/2005
+ACF Fiorentina,Michele Bacis,24,Centre-Back,Arezzo,?,out,NA,Serie A,2004,2004/2005
+ACF Fiorentina,Roberto Ripa,36,Centre-Back,Retired,-,out,0,Serie A,2004,2004/2005
+ACF Fiorentina,Javier Portillo,22,Centre-Forward,Real Madrid,"End of loanDec 31, 2004",out,0,Serie A,2004,2004/2005
+ACF Fiorentina,Thomas Manfredini,24,Centre-Back,Udinese,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+AS Livorno,Paulinho,18,Centre-Forward,Juventude,£90k,in,0.09,Serie A,2004,2004/2005
+AS Livorno,Fabio Galante,30,Centre-Back,Torino,Free Transfer,in,0,Serie A,2004,2004/2005
+AS Livorno,Mario Licka,22,Attacking Midfield,Banik Ostrava,Loan,in,0,Serie A,2004,2004/2005
+AS Livorno,Emmanuel Osei,21,Defensive Midfield,A.Sebatspor,Free Transfer,in,0,Serie A,2004,2004/2005
+AS Livorno,José Luís Vidigal,31,Defensive Midfield,Napoli,Free Transfer,in,0,Serie A,2004,2004/2005
+AS Livorno,Nicolás Córdova,25,Central Midfield,Bari,?,in,NA,Serie A,2004,2004/2005
+AS Livorno,Alessandro Lucarelli,26,Centre-Back,Fiorentina,?,in,NA,Serie A,2004,2004/2005
+AS Livorno,Alessandro Grandoni,26,Centre-Back,Sampdoria,?,in,NA,Serie A,2004,2004/2005
+AS Livorno,Cristiano Lucarelli,28,Centre-Forward,Torino,?,in,NA,Serie A,2004,2004/2005
+AS Livorno,Andrea Giallombardo,23,Left-Back,Catania,?,in,NA,Serie A,2004,2004/2005
+AS Livorno,Jorge Vargas,28,Centre-Back,FC Empoli,?,in,NA,Serie A,2004,2004/2005
+AS Livorno,Corrado Colombo,24,Centre-Forward,Piacenza,?,in,NA,Serie A,2004,2004/2005
+AS Livorno,Paolo Ginestra,25,Goalkeeper,Vis Pesaro,?,in,NA,Serie A,2004,2004/2005
+AS Livorno,Adrian Mutu,25,Centre-Forward,Without Club,-,in,0,Serie A,2004,2004/2005
+AS Livorno,Luca Mazzoni,20,Goalkeeper,Livorno U19,-,in,0,Serie A,2004,2004/2005
+AS Livorno,Marco Amelia,22,Goalkeeper,AC Parma,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AS Livorno,Armando Perna,23,Centre-Back,Salernitana,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AS Livorno,Giorgio Chiellini,19,Centre-Back,Fiorentina,£5.85m,out,5.85,Serie A,2004,2004/2005
+AS Livorno,Adrian Mutu,26,Centre-Forward,Juventus,Free Transfer,out,0,Serie A,2004,2004/2005
+AS Livorno,Alessandro Gambadori,23,Defensive Midfield,Pavia,Loan,out,0,Serie A,2004,2004/2005
+AS Livorno,Armando Perna,23,Centre-Back,Modena,?,out,NA,Serie A,2004,2004/2005
+AS Livorno,Nicola Pavarini,30,Goalkeeper,Reggina,?,out,NA,Serie A,2004,2004/2005
+AS Livorno,Andrea Rabito,24,Right Winger,Ternana,?,out,NA,Serie A,2004,2004/2005
+AS Livorno,Alessandro Evangelisti,23,Central Midfield,Prato,?,out,NA,Serie A,2004,2004/2005
+AS Livorno,Stefano Fanucci,25,Centre-Back,Pescara,Loan,out,0,Serie A,2004,2004/2005
+AS Livorno,Juriy Cannarsa,28,Right-Back,Reggina,?,out,NA,Serie A,2004,2004/2005
+AS Livorno,Nicola Iannotti,19,Midfielder,Rosetana,?,out,NA,Serie A,2004,2004/2005
+AS Livorno,Nicolò Rossetti,19,Forward,Pavia,?,out,NA,Serie A,2004,2004/2005
+AS Livorno,Nicolás Córdova,25,Central Midfield,Ascoli,Loan,out,0,Serie A,2004,2004/2005
+AS Livorno,Emiliano Biliotti,29,Attacking Midfield,AC Venezia 1907,?,out,NA,Serie A,2004,2004/2005
+AS Livorno,Richard Vanigli,33,Right-Back,FC Empoli,?,out,NA,Serie A,2004,2004/2005
+AS Livorno,Luca Valtriani,19,Forward,Without Club,-,out,0,Serie A,2004,2004/2005
+AS Livorno,Maurizio Ciaramitaro,22,Central Midfield,US Palermo,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Bologna FC 1909,Federico Giunti,32,Defensive Midfield,Brescia,£900k,in,0.9,Serie A,2004,2004/2005
+Bologna FC 1909,Marco Ferrante,33,Centre-Forward,Catania,Free Transfer,in,0,Serie A,2004,2004/2005
+Bologna FC 1909,Theodoros Zagorakis,32,Central Midfield,AEK Athens,Free Transfer,in,0,Serie A,2004,2004/2005
+Bologna FC 1909,Giacomo Cipriani,23,Centre-Forward,Sampdoria,Free Transfer,in,0,Serie A,2004,2004/2005
+Bologna FC 1909,Fabio Petruzzi,33,Centre-Back,Brescia,?,in,NA,Serie A,2004,2004/2005
+Bologna FC 1909,Ciro Capuano,22,Centre-Back,AC Pisa,?,in,NA,Serie A,2004,2004/2005
+Bologna FC 1909,Valentin Nastase,29,Centre-Back,US Palermo,?,in,NA,Serie A,2004,2004/2005
+Bologna FC 1909,Jonatan Binotto,29,Right Winger,Como,?,in,NA,Serie A,2004,2004/2005
+Bologna FC 1909,Nicola Legrottaglie,28,Centre-Back,Juventus,Loan,in,0,Serie A,2004,2004/2005
+Bologna FC 1909,Daniele Daino,24,Right-Back,Ancona,?,in,NA,Serie A,2004,2004/2005
+Bologna FC 1909,Stefano Torrisi,33,Centre-Back,Reggina,?,in,NA,Serie A,2004,2004/2005
+Bologna FC 1909,Fabrizio Ferron,39,Goalkeeper,Como,?,in,NA,Serie A,2004,2004/2005
+Bologna FC 1909,Pasquale D'Aniello,18,Defender,Bologna U19,-,in,0,Serie A,2004,2004/2005
+Bologna FC 1909,Gabriele Paonessa,17,Attacking Midfield,Bologna U19,-,in,0,Serie A,2004,2004/2005
+Bologna FC 1909,Luigi Della Rocca,20,Centre-Forward,AC Pisa,"End of loanDec 31, 2004",in,0,Serie A,2004,2004/2005
+Bologna FC 1909,Juarez,30,Right-Back,Siena,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Bologna FC 1909,Luigi Della Rocca,19,Centre-Forward,Atalanta,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Bologna FC 1909,Vlado Smit,24,Left-Back,Atalanta,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Bologna FC 1909,Cristian Zaccardo,22,Centre-Back,US Palermo,£612k,out,0.612,Serie A,2004,2004/2005
+Bologna FC 1909,Giuseppe Signori,36,Centre-Forward,Iraklis,Free Transfer,out,0,Serie A,2004,2004/2005
+Bologna FC 1909,Luigi Della Rocca,19,Centre-Forward,AC Pisa,Loan,out,0,Serie A,2004,2004/2005
+Bologna FC 1909,Gennaro Fragiello,20,Centre-Forward,AC Carpenedolo,?,out,NA,Serie A,2004,2004/2005
+Bologna FC 1909,Claudio Terzi,20,Centre-Back,Napoli,Loan,out,0,Serie A,2004,2004/2005
+Bologna FC 1909,Vlado Smit,24,Left-Back,Pescara,Loan,out,0,Serie A,2004,2004/2005
+Bologna FC 1909,Leonardo Colucci,32,Central Midfield,Lazio,Loan,out,0,Serie A,2004,2004/2005
+Bologna FC 1909,Fabio Pecchia,30,Right Midfield,Siena,Loan,out,0,Serie A,2004,2004/2005
+Bologna FC 1909,Alexander Manninger,27,Goalkeeper,Siena,Loan,out,0,Serie A,2004,2004/2005
+Bologna FC 1909,Pasquale D'Aniello,18,Defender,US Castelnuovo,Loan,out,0,Serie A,2004,2004/2005
+Bologna FC 1909,Nicolò Consolini,20,Right-Back,Sassuolo,?,out,NA,Serie A,2004,2004/2005
+Bologna FC 1909,Marco Zanchi,27,Centre-Back,Messina Peloro,?,out,NA,Serie A,2004,2004/2005
+Bologna FC 1909,Fausto Rossini,26,Centre-Forward,Atalanta,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Bologna FC 1909,Samuele Dalla Bona,23,Central Midfield,Milan,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Bologna FC 1909,Cesare Natali,25,Centre-Back,Atalanta,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Bologna FC 1909,Guly,30,Left Midfield,Inter,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Bologna FC 1909,Hidetoshi Nakata,27,Attacking Midfield,AC Parma,"End of loanJun 1, 2004",out,0,Serie A,2004,2004/2005
+Bologna FC 1909,Emanuele Troise,25,Centre-Back,SSC Napoli,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Bologna FC 1909,Emiliano Moretti,23,Centre-Back,AC Parma,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Cagliari Calcio,Massimo Gobbi,23,Left-Back,Treviso,£630k,in,0.63,Serie A,2004,2004/2005
+Cagliari Calcio,Theofanis Katergiannakis,30,Goalkeeper,Olympiacos,Free Transfer,in,0,Serie A,2004,2004/2005
+Cagliari Calcio,Alessandro Budel,23,Defensive Midfield,Parma,?,in,NA,Serie A,2004,2004/2005
+Cagliari Calcio,Alex Brunner,31,Goalkeeper,Salernitana,?,in,NA,Serie A,2004,2004/2005
+Cagliari Calcio,Francesco Bega,29,Centre-Back,Triestina,?,in,NA,Serie A,2004,2004/2005
+Cagliari Calcio,Rolando Bianchi,21,Centre-Forward,Atalanta,?,in,NA,Serie A,2004,2004/2005
+Cagliari Calcio,Édgar Álvarez,24,Right Midfield,Peñarol,Loan,in,0,Serie A,2004,2004/2005
+Cagliari Calcio,Horacio Peralta,22,Centre-Forward,Inter,?,in,NA,Serie A,2004,2004/2005
+Cagliari Calcio,Jaime Penedo,22,Goalkeeper,Árabe Unido,?,in,NA,Serie A,2004,2004/2005
+Cagliari Calcio,Fabio Vignati,20,Centre-Back,Pistoiese,?,in,NA,Serie A,2004,2004/2005
+Cagliari Calcio,Francesco Pisano,18,Right-Back,Cagliari U19,-,in,0,Serie A,2004,2004/2005
+Cagliari Calcio,Claudio Pani,18,Defensive Midfield,Cagliari U19,-,in,0,Serie A,2004,2004/2005
+Cagliari Calcio,Simone Farci,19,Central Midfield,Cagliari U19,-,in,0,Serie A,2004,2004/2005
+Cagliari Calcio,Fabrizio Cammarata,28,Centre-Forward,AC Parma,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Cagliari Calcio,Armando Pantanelli,33,Goalkeeper,Catania,Free Transfer,out,0,Serie A,2004,2004/2005
+Cagliari Calcio,Di Fábio,24,Centre-Back,Como,Free Transfer,out,0,Serie A,2004,2004/2005
+Cagliari Calcio,François Modesto,25,Centre-Back,Monaco,Free Transfer,out,0,Serie A,2004,2004/2005
+Cagliari Calcio,Giacomo Demartis,20,Attacking Midfield,Martina,Free Transfer,out,0,Serie A,2004,2004/2005
+Cagliari Calcio,Davide Capello,20,Goalkeeper,Belluno,Loan,out,0,Serie A,2004,2004/2005
+Cagliari Calcio,Gianluca Festa,35,Right-Back,Nuorese,Free Transfer,out,0,Serie A,2004,2004/2005
+Cagliari Calcio,Horacio Peralta,22,Centre-Forward,Albacete,?,out,NA,Serie A,2004,2004/2005
+Cagliari Calcio,Fabrizio Marinelli,19,Goalkeeper,Unknown,?,out,NA,Serie A,2004,2004/2005
+Cagliari Calcio,Fabio Macellari,29,Left-Back,Pavia,?,out,NA,Serie A,2004,2004/2005
+Cagliari Calcio,Andrea Capone,23,Attacking Midfield,Treviso,Loan,out,0,Serie A,2004,2004/2005
+Cagliari Calcio,Fabrizio Cammarata,28,Centre-Forward,Catanzaro,?,out,NA,Serie A,2004,2004/2005
+Cagliari Calcio,Alberto Aramu,18,Forward,Without Club,-,out,0,Serie A,2004,2004/2005
+Reggina Calcio,Ricardo Esteves,24,Right Midfield,Paços Ferreira,Free Transfer,in,0,Serie A,2004,2004/2005
+Reggina Calcio,Marco Borriello,22,Centre-Forward,AC Milan,Loan,in,0,Serie A,2004,2004/2005
+Reggina Calcio,Ilyas Zeytulaev,22,Left Winger,Juventus U19,?,in,NA,Serie A,2004,2004/2005
+Reggina Calcio,Jacopo Balestri,29,Left-Back,Modena,?,in,NA,Serie A,2004,2004/2005
+Reggina Calcio,Salvatore Soviero,31,Goalkeeper,AC Venezia 1907,?,in,NA,Serie A,2004,2004/2005
+Reggina Calcio,Massimo Ganci,22,Centre-Forward,Treviso,?,in,NA,Serie A,2004,2004/2005
+Reggina Calcio,Felice Piccolo,20,Centre-Back,Juventus,Loan,in,0,Serie A,2004,2004/2005
+Reggina Calcio,Davide Dionigi,30,Centre-Forward,Napoli,?,in,NA,Serie A,2004,2004/2005
+Reggina Calcio,Giuseppe Colucci,23,Central Midfield,Hellas Verona,Loan,in,0,Serie A,2004,2004/2005
+Reggina Calcio,Juriy Cannarsa,28,Right-Back,AS Livorno,?,in,NA,Serie A,2004,2004/2005
+Reggina Calcio,Giacomo Mazzi,25,Goalkeeper,AS Lodigiani,?,in,NA,Serie A,2004,2004/2005
+Reggina Calcio,Viktor Budyanskiy,20,Central Midfield,Juventus U19,Loan,in,0,Serie A,2004,2004/2005
+Reggina Calcio,Gaetano De Rosa,31,Centre-Back,Bari,?,in,NA,Serie A,2004,2004/2005
+Reggina Calcio,Marco Zamboni,26,Centre-Back,Napoli,?,in,NA,Serie A,2004,2004/2005
+Reggina Calcio,Nicola Pavarini,30,Goalkeeper,AS Livorno,?,in,NA,Serie A,2004,2004/2005
+Reggina Calcio,Francesco Cosenza,18,Centre-Back,Reggina Primaver,-,in,0,Serie A,2004,2004/2005
+Reggina Calcio,Nassim Mendil,26,Centre-Forward,Salernitana,"End of loanJun 30, 2005",in,0,Serie A,2004,2004/2005
+Reggina Calcio,Erjon Bogdani,27,Centre-Forward,Salernitana,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Reggina Calcio,Martin Lejsal,21,Goalkeeper,Slovan Liberec,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Reggina Calcio,Nicola Carlo Pagani,26,Centre-Back,Pescara,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Reggina Calcio,Ricardo Verón,23,Central Midfield,Salernitana,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Reggina Calcio,José Cianni,20,Defensive Midfield,Cittadella,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Reggina Calcio,Gonzalo Martínez,28,Right-Back,SSC Napoli,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Reggina Calcio,Davide Dionigi,30,Centre-Forward,Bari,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Reggina Calcio,Martin Jiranek,25,Centre-Back,Spartak Moscow,£2.97m,out,2.97,Serie A,2004,2004/2005
+Reggina Calcio,Simone Giacchetta,34,Centre-Back,Torino,Free Transfer,out,0,Serie A,2004,2004/2005
+Reggina Calcio,Martin Lejsal,21,Goalkeeper,AC Venezia 1907,Free Transfer,out,0,Serie A,2004,2004/2005
+Reggina Calcio,Juan Sara,27,Centre-Forward,Shelbourne,Free Transfer,out,0,Serie A,2004,2004/2005
+Reggina Calcio,Davide Dionigi,30,Centre-Forward,Bari,Loan,out,0,Serie A,2004,2004/2005
+Reggina Calcio,Giovanni Morabito,26,Left-Back,Catanzaro,?,out,NA,Serie A,2004,2004/2005
+Reggina Calcio,Nassim Mendil,25,Centre-Forward,Salernitana,Loan,out,0,Serie A,2004,2004/2005
+Reggina Calcio,Giovanni Lavrendi,18,Central Midfield,Trento,Loan,out,0,Serie A,2004,2004/2005
+Reggina Calcio,Andrea Sottil,30,Centre-Back,Genoa,?,out,NA,Serie A,2004,2004/2005
+Reggina Calcio,Nicola Carlo Pagani,26,Centre-Back,Frosinone,?,out,NA,Serie A,2004,2004/2005
+Reggina Calcio,Davide Baiocco,29,Defensive Midfield,Perugia,?,out,NA,Serie A,2004,2004/2005
+Reggina Calcio,José Cianni,20,Defensive Midfield,Vigor Lamezia,?,out,NA,Serie A,2004,2004/2005
+Reggina Calcio,Erjon Bogdani,27,Centre-Forward,Hellas Verona,Loan,out,0,Serie A,2004,2004/2005
+Reggina Calcio,Gianluca Falsini,28,Left-Back,Siena,?,out,NA,Serie A,2004,2004/2005
+Reggina Calcio,Stefano Dall'Acqua,22,Centre-Forward,Treviso,?,out,NA,Serie A,2004,2004/2005
+Reggina Calcio,Massimo Ganci,23,Centre-Forward,Piacenza,?,out,NA,Serie A,2004,2004/2005
+Reggina Calcio,Francesco Cozza,30,Attacking Midfield,Genoa,?,out,NA,Serie A,2004,2004/2005
+Reggina Calcio,Stefano Torrisi,33,Centre-Back,Bologna,?,out,NA,Serie A,2004,2004/2005
+Reggina Calcio,Emanuele Belardi,26,Goalkeeper,Napoli,Loan,out,0,Serie A,2004,2004/2005
+Reggina Calcio,Graziano Tilaro,19,Goalkeeper,Gela,?,out,NA,Serie A,2004,2004/2005
+Reggina Calcio,David Di Michele,28,Centre-Forward,Udinese,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Reggina Calcio,Ferdinando Coppola,26,Goalkeeper,Ascoli,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Reggina Calcio,Gianluca Comotto,25,Right-Back,Torino,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Reggina Calcio,Roberto Stellone,26,Centre-Forward,SSC Napoli,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+AC Siena,Massimo Maccarone,25,Centre-Forward,Middlesbrough,Loan fee:£360k,in,0.36,Serie A,2004,2004/2005
+AC Siena,Adriano Zancopè,32,Goalkeeper,Modena,Free Transfer,in,0,Serie A,2004,2004/2005
+AC Siena,Alin Stoica,25,Attacking Midfield,Club Brugge,Free Transfer,in,0,Serie A,2004,2004/2005
+AC Siena,Francesco Cozza,30,Attacking Midfield,Genoa,?,in,NA,Serie A,2004,2004/2005
+AC Siena,Davide Chiumiento,19,Attacking Midfield,Juventus,Loan,in,0,Serie A,2004,2004/2005
+AC Siena,Gianluca Falsini,28,Left-Back,Reggina,?,in,NA,Serie A,2004,2004/2005
+AC Siena,Simone Marini,22,Centre-Forward,Benevento,?,in,NA,Serie A,2004,2004/2005
+AC Siena,Alfonso Camorani,26,Central Midfield,Fiorentina,?,in,NA,Serie A,2004,2004/2005
+AC Siena,Gennaro Esposito,19,Defensive Midfield,Napoli,?,in,NA,Serie A,2004,2004/2005
+AC Siena,Giovanni Pasquale,22,Left-Back,Inter,Loan,in,0,Serie A,2004,2004/2005
+AC Siena,Marco Carparelli,28,Second Striker,Como,?,in,NA,Serie A,2004,2004/2005
+AC Siena,Francesco Colonnese,32,Centre-Back,Lazio,?,in,NA,Serie A,2004,2004/2005
+AC Siena,Matteo Serafini,26,Centre-Forward,Arezzo,?,in,NA,Serie A,2004,2004/2005
+AC Siena,Davide Nicola,31,Right-Back,Ternana,Loan,in,0,Serie A,2004,2004/2005
+AC Siena,Alberto Valentim,29,Right Midfield,Udinese,Loan,in,0,Serie A,2004,2004/2005
+AC Siena,Francesco Carbone,24,Right-Back,Chievo Verona,Loan,in,0,Serie A,2004,2004/2005
+AC Siena,Alexander Manninger,27,Goalkeeper,Bologna,Loan,in,0,Serie A,2004,2004/2005
+AC Siena,Mattia Graffiedi,24,Centre-Forward,Fiorentina,?,in,NA,Serie A,2004,2004/2005
+AC Siena,Daniele Portanova,25,Centre-Back,Napoli,?,in,NA,Serie A,2004,2004/2005
+AC Siena,Daniele Di Donato,27,Central Midfield,US Palermo,Loan,in,0,Serie A,2004,2004/2005
+AC Siena,Fabio Pecchia,30,Right Midfield,Bologna,Loan,in,0,Serie A,2004,2004/2005
+AC Siena,Carlos Arano,24,Left-Back,Perugia,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AC Siena,Simone Bonomi,23,Left-Back,Chievo Verona,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AC Siena,Paolo Foglio,28,Right-Back,Genoa,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AC Siena,Matteo Gianello,28,Goalkeeper,AS Lodigiani,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+AC Siena,Matteo Gianello,28,Goalkeeper,Napoli,£270k,out,0.27,Serie A,2004,2004/2005
+AC Siena,Alin Stoica,25,Attacking Midfield,FC National,Free Transfer,out,0,Serie A,2004,2004/2005
+AC Siena,Daniele Delli Carri,32,Centre-Back,Fiorentina,?,out,NA,Serie A,2004,2004/2005
+AC Siena,Simone Farelli,21,Goalkeeper,Nocerina,?,out,NA,Serie A,2004,2004/2005
+AC Siena,Fernando,23,Defensive Midfield,Catania,Loan,out,0,Serie A,2004,2004/2005
+AC Siena,Mattia Graffiedi,24,Centre-Forward,Modena,?,out,NA,Serie A,2004,2004/2005
+AC Siena,Giuseppe Taglialatela,35,Goalkeeper,Benevento,?,out,NA,Serie A,2004,2004/2005
+AC Siena,Generoso Rossi,25,Goalkeeper,QPR,?,out,NA,Serie A,2004,2004/2005
+AC Siena,Simone Bonomi,24,Left-Back,Napoli,Loan,out,0,Serie A,2004,2004/2005
+AC Siena,Simone Marini,23,Centre-Forward,Castel di Sangr,Loan,out,0,Serie A,2004,2004/2005
+AC Siena,Alessandro Cucciari,34,Defensive Midfield,Messina Peloro,?,out,NA,Serie A,2004,2004/2005
+AC Siena,Christian Lantignotti,34,Midfielder,Bellaria IM,?,out,NA,Serie A,2004,2004/2005
+AC Siena,Matteo Serafini,26,Centre-Forward,Catania,?,out,NA,Serie A,2004,2004/2005
+AC Siena,Marco Carparelli,28,Second Striker,Genoa,?,out,NA,Serie A,2004,2004/2005
+AC Siena,Nikola Lazetic,26,Right Winger,Lazio,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+AC Siena,Juarez,30,Right-Back,Bologna,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+AC Siena,Gianni Guigou,29,Defensive Midfield,AS Roma,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+AC Siena,Júnior,31,Left-Back,AC Parma,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+AC Siena,Nicola Ventola,26,Centre-Forward,Inter,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+AC Siena,Roque Júnior,27,Centre-Back,Milan,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+AC Siena,Konstantinos Louboutis,25,Left-Back,Perugia,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+AC Siena,Leandro Cufré,26,Left-Back,AS Roma,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Chievo Verona,Marco Esposito,24,Centre-Back,Ancona,Free Transfer,in,0,Serie A,2004,2004/2005
+Chievo Verona,Paolo Sammarco,21,Central Midfield,AC Milan,Loan,in,0,Serie A,2004,2004/2005
+Chievo Verona,Andrea Mengoni,20,Centre-Back,Fermana,?,in,NA,Serie A,2004,2004/2005
+Chievo Verona,Alessandro Potenza,20,Centre-Back,Inter,Loan,in,0,Serie A,2004,2004/2005
+Chievo Verona,Marco Brighi,21,Defensive Midfield,Lucchese,?,in,NA,Serie A,2004,2004/2005
+Chievo Verona,Sergio Marcon,33,Goalkeeper,Ancona,?,in,NA,Serie A,2004,2004/2005
+Chievo Verona,Simone Tiribocchi,26,Centre-Forward,Torino,?,in,NA,Serie A,2004,2004/2005
+Chievo Verona,Massimiliano Fusani,24,Central Midfield,Perugia,?,in,NA,Serie A,2004,2004/2005
+Chievo Verona,Davide Marchini,23,Right Midfield,Virtus Lanciano,?,in,NA,Serie A,2004,2004/2005
+Chievo Verona,Júlio César,25,Goalkeeper,Inter,Loan,in,0,Serie A,2004,2004/2005
+Chievo Verona,Davide Mandelli,27,Centre-Back,Torino,?,in,NA,Serie A,2004,2004/2005
+Chievo Verona,Riccardo Allegretti,26,Central Midfield,Modena,Loan,in,0,Serie A,2004,2004/2005
+Chievo Verona,Mattia Passarini,23,Goalkeeper,Comprensorio,?,in,NA,Serie A,2004,2004/2005
+Chievo Verona,Roberto Bortolotto,19,Centre-Forward,Milan U19,?,in,NA,Serie A,2004,2004/2005
+Chievo Verona,Simone Rizzato,23,Left-Back,Torino,Loan,in,0,Serie A,2004,2004/2005
+Chievo Verona,Matteo Brighi,23,Central Midfield,AS Roma,Loan,in,0,Serie A,2004,2004/2005
+Chievo Verona,Mattia Marchesetti,20,Left Winger,Cremonese,?,in,NA,Serie A,2004,2004/2005
+Chievo Verona,Marcos De Paula,20,Centre-Forward,Belluno,"End of loanDec 1, 2004",in,0,Serie A,2004,2004/2005
+Chievo Verona,Paolo Codognola,23,Goalkeeper,Monza,"End of loanJul 1, 2004",in,0,Serie A,2004,2004/2005
+Chievo Verona,Salvatore Bruno,25,Centre-Forward,Catania,"End of loanDec 31, 2004",in,0,Serie A,2004,2004/2005
+Chievo Verona,Ivano Della Morte,29,Central Midfield,Genoa,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Chievo Verona,Marcos De Paula,20,Centre-Forward,Imolese,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Chievo Verona,Tommaso Chiecchi,24,Centre-Back,Foggia,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Chievo Verona,Ivone De Franceschi,30,Left Winger,Bari,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Chievo Verona,Emanuele Pesaresi,27,Left-Back,Ternana,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Chievo Verona,Salvatore Bruno,24,Centre-Forward,Bari,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Chievo Verona,Stefano Garzon,22,Defensive Midfield,Acireale,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Chievo Verona,Massimo Marazzina,29,Centre-Forward,Modena,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Chievo Verona,Daniele Franceschini,28,Left Midfield,Lecce,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Chievo Verona,Davide Succi,22,Centre-Forward,SPAL,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Chievo Verona,Giuseppe Aquaro,21,Centre-Back,Melfi,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Chievo Verona,John Mensah,21,Centre-Back,Modena,"End of loanJun 30, 2004",in,0,Serie A,2004,2004/2005
+Chievo Verona,Simone Perrotta,26,Attacking Midfield,AS Roma,£6.48m,out,6.48,Serie A,2004,2004/2005
+Chievo Verona,Andrea Barzagli,23,Centre-Back,US Palermo,£1.35m,out,1.35,Serie A,2004,2004/2005
+Chievo Verona,Guido Lippi,22,Goalkeeper,Pistoiese,Free Transfer,out,0,Serie A,2004,2004/2005
+Chievo Verona,Massimo Marazzina,30,Centre-Forward,Torino,Free Transfer,out,0,Serie A,2004,2004/2005
+Chievo Verona,Roberto Bortolotto,19,Centre-Forward,Biellese,?,out,NA,Serie A,2004,2004/2005
+Chievo Verona,Francesco Carbone,24,Right-Back,Siena,Loan,out,0,Serie A,2004,2004/2005
+Chievo Verona,Davide Succi,23,Centre-Forward,Lucchese,Loan,out,0,Serie A,2004,2004/2005
+Chievo Verona,Tommaso Chiecchi,24,Centre-Back,Vittoria Calcio,Loan,out,0,Serie A,2004,2004/2005
+Chievo Verona,Marco Esposito,24,Centre-Back,Triestina,?,out,NA,Serie A,2004,2004/2005
+Chievo Verona,Ivano Della Morte,29,Central Midfield,Genoa,?,out,NA,Serie A,2004,2004/2005
+Chievo Verona,Mattia Passarini,24,Goalkeeper,Ancona,?,out,NA,Serie A,2004,2004/2005
+Chievo Verona,Giorgio Frezzolini,28,Goalkeeper,Modena,?,out,NA,Serie A,2004,2004/2005
+Chievo Verona,Ivone De Franceschi,31,Left Winger,Padova,?,out,NA,Serie A,2004,2004/2005
+Chievo Verona,Santos Oliveira,18,Left Midfield,Catania,?,out,NA,Serie A,2004,2004/2005
+Chievo Verona,Salvatore Bruno,25,Centre-Forward,Torino,Loan,out,0,Serie A,2004,2004/2005
+Chievo Verona,Marcos De Paula,20,Centre-Forward,Belluno,Loan,out,0,Serie A,2004,2004/2005
+Chievo Verona,Marco Brighi,21,Defensive Midfield,Bellaria IM,?,out,NA,Serie A,2004,2004/2005
+Chievo Verona,Andrea Mengoni,20,Centre-Back,Fermana,Loan,out,0,Serie A,2004,2004/2005
+Chievo Verona,Davide Marchini,23,Right Midfield,Torres,?,out,NA,Serie A,2004,2004/2005
+Chievo Verona,Salvatore Bruno,24,Centre-Forward,Catania,Loan,out,0,Serie A,2004,2004/2005
+Chievo Verona,César,25,Centre-Back,Catania,?,out,NA,Serie A,2004,2004/2005
+Chievo Verona,Stefano Garzon,22,Defensive Midfield,Pescara,?,out,NA,Serie A,2004,2004/2005
+Chievo Verona,Emanuele Pesaresi,28,Left-Back,Torino,?,out,NA,Serie A,2004,2004/2005
+Chievo Verona,Alfredo Cariello,24,Left Midfield,Frosinone,?,out,NA,Serie A,2004,2004/2005
+Chievo Verona,Marcos De Paula,21,Centre-Forward,Benevento,Loan,out,0,Serie A,2004,2004/2005
+Chievo Verona,Riccardo Allegretti,26,Central Midfield,Modena,End of loan-,out,0,Serie A,2004,2004/2005
+Chievo Verona,Maurizio D'Angelo,34,Centre-Back,Retired,-,out,0,Serie A,2004,2004/2005
+Chievo Verona,Júlio César,25,Goalkeeper,Inter,"End of loanJun 30, 2005",out,0,Serie A,2004,2004/2005
+Chievo Verona,Roberto Baronio,26,Defensive Midfield,Lazio,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Chievo Verona,Luigi Sala,30,Centre-Back,Atalanta,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Chievo Verona,Juninho,20,Central Midfield,Junior,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Chievo Verona,Stefano Morrone,25,Central Midfield,US Palermo,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Chievo Verona,Giuseppe Sculli,23,Left Winger,Juventus,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Chievo Verona,Mario Santana,22,Second Striker,US Palermo,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005
+Chievo Verona,Simone Bonomi,23,Left-Back,Siena,"End of loanJun 30, 2004",out,0,Serie A,2004,2004/2005

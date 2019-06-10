@@ -9,7 +9,7 @@ Data on European football clubs' player transfers, through 1992/93 to 2018/19 se
 Data
 ----
 
-Transfers can be found in the `data` directory, in .csv format. Includes these leagues:
+Transfers can be found in the `data` directory, in .csv format. There's a sub-directory for each year/season (e.g. 2018/19 season is in `data/2018`) containing data for each of these leagues:
 
 - English Premier League
 - English Championship

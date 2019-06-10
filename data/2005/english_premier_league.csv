@@ -1,0 +1,881 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Chelsea FC,Michael Essien,22,Defensive Midfield,Olympique Lyon,£34.20m,in,34.2,Premier League,2005,2005/2006
+Chelsea FC,Shaun Wright-Phillips,23,Right Winger,Man City,£28.35m,in,28.35,Premier League,2005,2005/2006
+Chelsea FC,Asier del Horno,24,Left-Back,Athletic,£10.80m,in,10.8,Premier League,2005,2005/2006
+Chelsea FC,Slobodan Rajkovic,16,Centre-Back,OFK Beograd,£4.68m,in,4.68,Premier League,2005,2005/2006
+Chelsea FC,Lassana Diarra,20,Defensive Midfield,AC Le Havre,£4.05m,in,4.05,Premier League,2005,2005/2006
+Chelsea FC,Maniche,28,Central Midfield,Dinamo Moscow,Loan fee:£270k,in,0.27,Premier League,2005,2005/2006
+Chelsea FC,Jimmy Smith,18,Central Midfield,Chelsea U18,-,in,0,Premier League,2005,2005/2006
+Chelsea FC,Steven Watt,20,Centre-Back,Barnsley FC,"End of loanNov 1, 2005",in,0,Premier League,2005,2005/2006
+Chelsea FC,Aleksey Smertin,30,Defensive Midfield,Charlton,"End of loanFeb 1, 2006",in,0,Premier League,2005,2005/2006
+Chelsea FC,Jiri Jarosik,28,Centre-Back,Birmingham,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Chelsea FC,Joe Keenan,22,Left-Back,Brentford,"End of loanSep 1, 2005",in,0,Premier League,2005,2005/2006
+Chelsea FC,Wayne Bridge,25,Left-Back,Fulham,"End of loanMay 8, 2006",in,0,Premier League,2005,2005/2006
+Chelsea FC,Lenny Pidgeley,21,Goalkeeper,Millwall,"End of loanDec 1, 2005",in,0,Premier League,2005,2005/2006
+Chelsea FC,Hernán Crespo,29,Centre-Forward,AC Milan,"End of loanJun 30, 2005",in,0,Premier League,2005,2005/2006
+Chelsea FC,Valerio Di Cesare,22,Centre-Back,UC AlbinoLeffe,"End of loanJun 30, 2005",in,0,Premier League,2005,2005/2006
+Chelsea FC,Tiago,24,Central Midfield,Olympique Lyon,£9.09m,out,9.09,Premier League,2005,2005/2006
+Chelsea FC,Mateja Kezman,26,Centre-Forward,Atlético Madrid,£8.10m,out,8.1,Premier League,2005,2005/2006
+Chelsea FC,Scott Parker,24,Central Midfield,Newcastle,£8.10m,out,8.1,Premier League,2005,2005/2006
+Chelsea FC,Mikael Forssell,24,Centre-Forward,Birmingham,£4.05m,out,4.05,Premier League,2005,2005/2006
+Chelsea FC,Aleksey Smertin,30,Defensive Midfield,Dinamo Moscow,£1.35m,out,1.35,Premier League,2005,2005/2006
+Chelsea FC,Wayne Bridge,25,Left-Back,Fulham,Loan,out,0,Premier League,2005,2005/2006
+Chelsea FC,Steven Watt,20,Centre-Back,Barnsley FC,Loan,out,0,Premier League,2005,2005/2006
+Chelsea FC,Slobodan Rajkovic,16,Centre-Back,OFK Beograd,Loan,out,0,Premier League,2005,2005/2006
+Chelsea FC,Jiri Jarosik,27,Centre-Back,Birmingham,Loan,out,0,Premier League,2005,2005/2006
+Chelsea FC,Joe Keenan,22,Left-Back,Brentford,Loan,out,0,Premier League,2005,2005/2006
+Chelsea FC,Steven Watt,20,Centre-Back,Swansea,Free Transfer,out,0,Premier League,2005,2005/2006
+Chelsea FC,Lenny Pidgeley,21,Goalkeeper,Millwall,Loan,out,0,Premier League,2005,2005/2006
+Chelsea FC,Sebastian Kneißl,22,Attacking Midfield,W. Burghausen,Free Transfer,out,0,Premier League,2005,2005/2006
+Chelsea FC,Nuno Morais,21,Defensive Midfield,Marítimo,Loan,out,0,Premier League,2005,2005/2006
+Chelsea FC,Valerio Di Cesare,22,Centre-Back,Catanzaro,Free Transfer,out,0,Premier League,2005,2005/2006
+Chelsea FC,Joe Keenan,23,Left-Back,Willem II,Loan,out,0,Premier League,2005,2005/2006
+Chelsea FC,Danny Woodards,22,Left-Back,Exeter City,Free Transfer,out,0,Premier League,2005,2005/2006
+Chelsea FC,Filipe Oliveira,21,Right Winger,Marítimo,?,out,NA,Premier League,2005,2005/2006
+Chelsea FC,Aleksey Smertin,30,Defensive Midfield,Charlton,Loan,out,0,Premier League,2005,2005/2006
+Arsenal FC,Aleksandr Hleb,24,Attacking Midfield,VfB Stuttgart,£13.50m,in,13.5,Premier League,2005,2005/2006
+Arsenal FC,Theo Walcott,16,Right Winger,Southampton,£9.45m,in,9.45,Premier League,2005,2005/2006
+Arsenal FC,Emmanuel Adebayor,21,Centre-Forward,Monaco,£9.00m,in,9,Premier League,2005,2005/2006
+Arsenal FC,Alex Song,17,Defensive Midfield,SC Bastia,£3.60m,in,3.6,Premier League,2005,2005/2006
+Arsenal FC,Abou Diaby,19,Central Midfield,AJ Auxerre,£2.70m,in,2.7,Premier League,2005,2005/2006
+Arsenal FC,Carlos Vela,16,Right Winger,Chivas,£2.70m,in,2.7,Premier League,2005,2005/2006
+Arsenal FC,Vito Mannone,17,Goalkeeper,Atalanta U19,£450k,in,0.45,Premier League,2005,2005/2006
+Arsenal FC,Mart Poom,33,Goalkeeper,Sunderland,Free Transfer,in,0,Premier League,2005,2005/2006
+Arsenal FC,Jérémie Aliadière,22,Centre-Forward,West Ham,"End of loanJan 30, 2006",in,0,Premier League,2005,2005/2006
+Arsenal FC,Jérémie Aliadière,23,Centre-Forward,Wolves,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Arsenal FC,David Bentley,21,Right Midfield,Blackburn,"End of loanDec 1, 2005",in,0,Premier League,2005,2005/2006
+Arsenal FC,Ryan Smith,19,Left Winger,Leicester,"End of loanMar 1, 2006",in,0,Premier League,2005,2005/2006
+Arsenal FC,Fabrice Muamba,17,Central Midfield,Arsenal U18,-,in,0,Premier League,2005,2005/2006
+Arsenal FC,Graham Stack,24,Goalkeeper,Reading,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Arsenal FC,Kerrea Gilbert,18,Right-Back,Arsenal U18,-,in,0,Premier League,2005,2005/2006
+Arsenal FC,Jérémie Aliadière,22,Centre-Forward,Celtic,"End of loanAug 24, 2005",in,0,Premier League,2005,2005/2006
+Arsenal FC,Jermaine Pennant,22,Right Winger,Birmingham,"End of loanJun 30, 2005",in,0,Premier League,2005,2005/2006
+Arsenal FC,Sebastian Svärd,22,Defensive Midfield,Bröndby IF,"End of loanJun 30, 2005",in,0,Premier League,2005,2005/2006
+Arsenal FC,Patrick Vieira,29,Defensive Midfield,Juventus,£18.00m,out,18,Premier League,2005,2005/2006
+Arsenal FC,Quincy Owusu-Abeyie,19,Left Winger,Spartak Moscow,£2.25m,out,2.25,Premier League,2005,2005/2006
+Arsenal FC,David Bentley,21,Right Midfield,Blackburn,£1.58m,out,1.58,Premier League,2005,2005/2006
+Arsenal FC,Jermaine Pennant,22,Right Winger,Birmingham,£675k,out,0.675,Premier League,2005,2005/2006
+Arsenal FC,Justin Hoyte,20,Right-Back,Sunderland,Loan,out,0,Premier League,2005,2005/2006
+Arsenal FC,Jérémie Aliadière,22,Centre-Forward,Wolves,Loan,out,0,Premier League,2005,2005/2006
+Arsenal FC,Ólafur Ingi Skúlason,22,Defensive Midfield,Brentford,Free Transfer,out,0,Premier League,2005,2005/2006
+Arsenal FC,Jérémie Aliadière,22,Centre-Forward,West Ham,Loan,out,0,Premier League,2005,2005/2006
+Arsenal FC,Ryan Smith,18,Left Winger,Leicester,Loan,out,0,Premier League,2005,2005/2006
+Arsenal FC,Daniel Karbassiyoon,20,Left-Back,Burnley,Free Transfer,out,0,Premier League,2005,2005/2006
+Arsenal FC,Frank Simek,20,Right-Back,Sheff Wed,Free Transfer,out,0,Premier League,2005,2005/2006
+Arsenal FC,Sebastian Svärd,22,Defensive Midfield,Vit. Guimarães,Loan,out,0,Premier League,2005,2005/2006
+Arsenal FC,David Bentley,20,Right Midfield,Blackburn,Loan,out,0,Premier League,2005,2005/2006
+Arsenal FC,Carlos Vela,16,Right Winger,Celta de Vigo,Loan,out,0,Premier League,2005,2005/2006
+Arsenal FC,Edú Gaspar,27,Central Midfield,Valencia,Free Transfer,out,0,Premier League,2005,2005/2006
+Arsenal FC,Stuart Taylor,24,Goalkeeper,Aston Villa,Free Transfer,out,0,Premier League,2005,2005/2006
+Arsenal FC,Jérémie Aliadière,22,Centre-Forward,Celtic,Loan,out,0,Premier League,2005,2005/2006
+Arsenal FC,Graham Stack,23,Goalkeeper,Reading,Loan,out,0,Premier League,2005,2005/2006
+Arsenal FC,Patrick Cregg,19,Central Midfield,Falkirk FC,?,out,NA,Premier League,2005,2005/2006
+Manchester United,Nemanja Vidic‎,24,Centre-Back,Spartak Moscow,£9.45m,in,9.45,Premier League,2005,2005/2006
+Manchester United,Patrice Evra,24,Left-Back,Monaco,£7.20m,in,7.2,Premier League,2005,2005/2006
+Manchester United,Ji-sung Park,24,Attacking Midfield,PSV Eindhoven,£6.57m,in,6.57,Premier League,2005,2005/2006
+Manchester United,Edwin van der Sar,34,Goalkeeper,Fulham,£3.60m,in,3.6,Premier League,2005,2005/2006
+Manchester United,Ben Foster,22,Goalkeeper,Stoke City,£1.80m,in,1.8,Premier League,2005,2005/2006
+Manchester United,David Bellion,23,Centre-Forward,West Ham,"End of loanJan 8, 2006",in,0,Premier League,2005,2005/2006
+Manchester United,David Jones,21,Central Midfield,NEC Nijmegen,"End of loanApr 1, 2006",in,0,Premier League,2005,2005/2006
+Manchester United,Lee Martin,18,Attacking Midfield,Man Utd U18,-,in,0,Premier League,2005,2005/2006
+Manchester United,Adam Eckersley,20,Left-Back,Royal Antwerp,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Manchester United,Chris Eagles,20,Right Winger,Sheff Wed,"End of loanDec 1, 2005",in,0,Premier League,2005,2005/2006
+Manchester United,Liam Miller,25,Central Midfield,Leeds,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Manchester United,Lee Martin,19,Attacking Midfield,Royal Antwerp,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Manchester United,Ritchie Jones,18,Central Midfield,Man Utd U18,-,in,0,Premier League,2005,2005/2006
+Manchester United,Ritchie Jones,19,Central Midfield,Royal Antwerp,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Manchester United,David Jones,21,Central Midfield,Preston NE,"End of loanDec 1, 2005",in,0,Premier League,2005,2005/2006
+Manchester United,Phil Picken,20,Right-Back,Chesterfield FC,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Manchester United,Eddie Johnson,21,Centre-Forward,Crewe Alexandra,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Manchester United,Phil Picken,19,Right-Back,Man Utd U18,-,in,0,Premier League,2005,2005/2006
+Manchester United,Jonathan Spector,20,Centre-Back,Charlton,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Manchester United,Colin Heath,21,Centre-Forward,Swindon Town,"End of loanNov 1, 2005",in,0,Premier League,2005,2005/2006
+Manchester United,Tom Heaton,20,Goalkeeper,Royal Antwerp,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Manchester United,Tom Heaton,19,Goalkeeper,Swindon Town,"End of loanDec 1, 2005",in,0,Premier League,2005,2005/2006
+Manchester United,Phil Bardsley,20,Right-Back,Burnley,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Manchester United,Chris Eagles,20,Right Winger,Watford,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Manchester United,Michael Stewart,24,Central Midfield,Heart of Midl.,"End of loanJun 30, 2005",in,0,Premier League,2005,2005/2006
+Manchester United,Phil Neville,28,Right-Back,Everton,£4.77m,out,4.77,Premier League,2005,2005/2006
+Manchester United,Kléberson,26,Central Midfield,Besiktas,£2.34m,out,2.34,Premier League,2005,2005/2006
+Manchester United,Colin Heath,22,Centre-Forward,Chesterfield FC,Free Transfer,out,0,Premier League,2005,2005/2006
+Manchester United,Colin Heath,21,Centre-Forward,Swindon Town,Loan,out,0,Premier League,2005,2005/2006
+Manchester United,Ricardo,33,Goalkeeper,CA Osasuna,Free Transfer,out,0,Premier League,2005,2005/2006
+Manchester United,Liam Miller,24,Central Midfield,Leeds,Loan,out,0,Premier League,2005,2005/2006
+Manchester United,Lee Martin,18,Attacking Midfield,Royal Antwerp,Loan,out,0,Premier League,2005,2005/2006
+Manchester United,David Poole,20,Right Winger,Yeovil Town,Free Transfer,out,0,Premier League,2005,2005/2006
+Manchester United,Adam Eckersley,20,Left-Back,Royal Antwerp,Loan,out,0,Premier League,2005,2005/2006
+Manchester United,David Jones,20,Central Midfield,Preston NE,Loan,out,0,Premier League,2005,2005/2006
+Manchester United,Chris Eagles,20,Right Winger,Watford,Loan,out,0,Premier League,2005,2005/2006
+Manchester United,Tom Heaton,19,Goalkeeper,Swindon Town,Loan,out,0,Premier League,2005,2005/2006
+Manchester United,Roy Carroll,27,Goalkeeper,West Ham,Free Transfer,out,0,Premier League,2005,2005/2006
+Manchester United,Ben Foster,22,Goalkeeper,Watford,Loan,out,0,Premier League,2005,2005/2006
+Manchester United,Jonathan Spector,19,Centre-Back,Charlton,Loan,out,0,Premier League,2005,2005/2006
+Manchester United,Roy Keane,34,Defensive Midfield,Celtic,Free Transfer,out,0,Premier League,2005,2005/2006
+Manchester United,Steven Hogg,19,Central Midfield,Shrewsbury,Free Transfer,out,0,Premier League,2005,2005/2006
+Manchester United,Ritchie Jones,19,Central Midfield,Royal Antwerp,Loan,out,0,Premier League,2005,2005/2006
+Manchester United,Eddie Johnson,20,Centre-Forward,Crewe Alexandra,Loan,out,0,Premier League,2005,2005/2006
+Manchester United,Tom Heaton,19,Goalkeeper,Royal Antwerp,Loan,out,0,Premier League,2005,2005/2006
+Manchester United,Phil Picken,19,Right-Back,Chesterfield FC,Loan,out,0,Premier League,2005,2005/2006
+Manchester United,Phil Bardsley,20,Right-Back,Burnley,Loan,out,0,Premier League,2005,2005/2006
+Manchester United,Chris Eagles,19,Right Winger,Sheff Wed,Loan,out,0,Premier League,2005,2005/2006
+Manchester United,Paul Tierney,22,Left-Back,Livingston FC,Free Transfer,out,0,Premier League,2005,2005/2006
+Manchester United,David Jones,21,Central Midfield,NEC Nijmegen,Loan,out,0,Premier League,2005,2005/2006
+Manchester United,Michael Stewart,24,Central Midfield,Hibernian FC,Free Transfer,out,0,Premier League,2005,2005/2006
+Manchester United,David Bellion,23,Centre-Forward,OGC Nice,Loan,out,0,Premier League,2005,2005/2006
+Manchester United,David Bellion,22,Centre-Forward,West Ham,Loan,out,0,Premier League,2005,2005/2006
+Everton FC,Andy van der Meyde,25,Right Winger,Inter,£8.10m,in,8.1,Premier League,2005,2005/2006
+Everton FC,Per Kröldrup,25,Centre-Back,Udinese,£6.12m,in,6.12,Premier League,2005,2005/2006
+Everton FC,Phil Neville,28,Right-Back,Man Utd,£4.77m,in,4.77,Premier League,2005,2005/2006
+Everton FC,Simon Davies,25,Right Midfield,Spurs,£4.73m,in,4.73,Premier League,2005,2005/2006
+Everton FC,Mikel Arteta,23,Central Midfield,Real Sociedad,£2.52m,in,2.52,Premier League,2005,2005/2006
+Everton FC,Nuno Valente,30,Left-Back,FC Porto,£1.80m,in,1.8,Premier League,2005,2005/2006
+Everton FC,Anderson Silva,22,Defensive Midfield,Nacional,£900k,in,0.9,Premier League,2005,2005/2006
+Everton FC,John Ruddy,18,Goalkeeper,Cambridge Utd.,£338k,in,0.338,Premier League,2005,2005/2006
+Everton FC,Matteo Ferrari,25,Centre-Back,AS Roma,Loan,in,0,Premier League,2005,2005/2006
+Everton FC,Sander Westerveld,31,Goalkeeper,Portsmouth,Loan,in,0,Premier League,2005,2005/2006
+Everton FC,Alan Stubbs,34,Centre-Back,Sunderland,Free Transfer,in,0,Premier League,2005,2005/2006
+Everton FC,Paddy Boyle,18,Left-Back,Everton U18,-,in,0,Premier League,2005,2005/2006
+Everton FC,John Ruddy,19,Goalkeeper,Rush. & Diamon.,"End of loanDec 1, 2005",in,0,Premier League,2005,2005/2006
+Everton FC,Iain Turner,21,Goalkeeper,Wycombe,"End of loanDec 1, 2005",in,0,Premier League,2005,2005/2006
+Everton FC,John Ruddy,19,Goalkeeper,Chester City,"End of loanFeb 1, 2006",in,0,Premier League,2005,2005/2006
+Everton FC,John Ruddy,18,Goalkeeper,Walsall,"End of loanOct 1, 2005",in,0,Premier League,2005,2005/2006
+Everton FC,Per Kröldrup,26,Centre-Back,Fiorentina,£3.60m,out,3.6,Premier League,2005,2005/2006
+Everton FC,Marcus Bent,27,Centre-Forward,Charlton,£2.70m,out,2.7,Premier League,2005,2005/2006
+Everton FC,John Ruddy,19,Goalkeeper,Chester City,Loan,out,0,Premier League,2005,2005/2006
+Everton FC,Anderson Silva,22,Defensive Midfield,Málaga CF,Loan,out,0,Premier League,2005,2005/2006
+Everton FC,John Ruddy,19,Goalkeeper,Rush. & Diamon.,Loan,out,0,Premier League,2005,2005/2006
+Everton FC,Steve Watson,31,Right Midfield,West Brom,Free Transfer,out,0,Premier League,2005,2005/2006
+Everton FC,Guillaume Plessis,20,Defensive Midfield,Clermont Foot,Free Transfer,out,0,Premier League,2005,2005/2006
+Everton FC,Iain Turner,21,Goalkeeper,Wycombe,Loan,out,0,Premier League,2005,2005/2006
+Everton FC,Eddy Bosnar,25,Centre-Back,Dinamo Zagreb,Free Transfer,out,0,Premier League,2005,2005/2006
+Everton FC,Alan Stubbs,33,Centre-Back,Sunderland,Free Transfer,out,0,Premier League,2005,2005/2006
+Everton FC,John Ruddy,18,Goalkeeper,Walsall,Loan,out,0,Premier League,2005,2005/2006
+Everton FC,Sander Westerveld,31,Goalkeeper,Portsmouth,"End of loanApr 1, 2006",out,0,Premier League,2005,2005/2006
+Everton FC,Paul Hopkins,18,Forward,Everton U21,-,out,0,Premier League,2005,2005/2006
+Liverpool FC,Mohamed Sissoko,20,Defensive Midfield,Valencia,£10.80m,in,10.8,Premier League,2005,2005/2006
+Liverpool FC,Peter Crouch,24,Centre-Forward,Southampton,£9.45m,in,9.45,Premier League,2005,2005/2006
+Liverpool FC,Pepe Reina,22,Goalkeeper,Villarreal,£8.82m,in,8.82,Premier League,2005,2005/2006
+Liverpool FC,Daniel Agger,21,Centre-Back,Bröndby IF,£7.88m,in,7.88,Premier League,2005,2005/2006
+Liverpool FC,Mark González,20,Left Winger,Albacete,£2.25m,in,2.25,Premier League,2005,2005/2006
+Liverpool FC,Besian Idrizaj,17,Centre-Forward,LASK,£248k,in,0.248,Premier League,2005,2005/2006
+Liverpool FC,Jack Hobbs,17,Centre-Back,Lincoln City,£203k,in,0.203,Premier League,2005,2005/2006
+Liverpool FC,Antonio Barragán,18,Right-Back,Sevilla B,Free Transfer,in,0,Premier League,2005,2005/2006
+Liverpool FC,Miki Roqué,16,Centre-Back,UE Lleida,Free Transfer,in,0,Premier League,2005,2005/2006
+Liverpool FC,David Martin,19,Goalkeeper,MK Dons,Free Transfer,in,0,Premier League,2005,2005/2006
+Liverpool FC,Robbie Fowler,30,Centre-Forward,Man City,Loan,in,0,Premier League,2005,2005/2006
+Liverpool FC,Ramon Calliste,19,Centre-Forward,Man Utd U23,Free Transfer,in,0,Premier League,2005,2005/2006
+Liverpool FC,Boudewijn Zenden,28,Left Winger,Middlesbrough,Free Transfer,in,0,Premier League,2005,2005/2006
+Liverpool FC,Jan Kromkamp,25,Right-Back,Villarreal,?,in,NA,Premier League,2005,2005/2006
+Liverpool FC,Chris Kirkland,24,Goalkeeper,West Brom,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Liverpool FC,Florent Sinama-Pongolle,21,Second Striker,Blackburn,"End of loanMay 8, 2006",in,0,Premier League,2005,2005/2006
+Liverpool FC,Zak Whitbread,22,Centre-Back,Millwall,"End of loanMay 31, 2006",in,0,Premier League,2005,2005/2006
+Liverpool FC,Zak Whitbread,21,Centre-Back,Liverpool U23,-,in,0,Premier League,2005,2005/2006
+Liverpool FC,Neil Mellor,23,Centre-Forward,Wigan,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Liverpool FC,Robbie Foy,20,Left Winger,Wrexham,"End of loanDec 31, 2005",in,0,Premier League,2005,2005/2006
+Liverpool FC,Scott Carson,20,Goalkeeper,Sheff Wed,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Liverpool FC,Salif Diao,29,Defensive Midfield,Portsmouth,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Liverpool FC,Darren Potter,21,Central Midfield,Southampton,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Liverpool FC,Alou Diarra,23,Defensive Midfield,Lens,"End of loanJun 30, 2005",in,0,Premier League,2005,2005/2006
+Liverpool FC,Carl Medjani,20,Defensive Midfield,FC Lorient,"End of loanJun 30, 2005",in,0,Premier League,2005,2005/2006
+Liverpool FC,Bruno Cheyrou,27,Central Midfield,Marseille,"End of loanJun 30, 2005",in,0,Premier League,2005,2005/2006
+Liverpool FC,Milan Baros,23,Centre-Forward,Aston Villa,£7.96m,out,7.96,Premier League,2005,2005/2006
+Liverpool FC,El-Hadji Diouf,24,Centre-Forward,Bolton,£4.32m,out,4.32,Premier League,2005,2005/2006
+Liverpool FC,Alou Diarra,23,Defensive Midfield,Lens,£2.70m,out,2.7,Premier League,2005,2005/2006
+Liverpool FC,John Welsh,21,Central Midfield,Hull City,£2.03m,out,2.03,Premier League,2005,2005/2006
+Liverpool FC,Florent Sinama-Pongolle,21,Second Striker,Blackburn,Loan fee:£135k,out,0.135,Premier League,2005,2005/2006
+Liverpool FC,Jon Otsemobor,22,Right-Back,Rotherham,Free Transfer,out,0,Premier League,2005,2005/2006
+Liverpool FC,Neil Mellor,23,Centre-Forward,Wigan,Loan,out,0,Premier League,2005,2005/2006
+Liverpool FC,Antonio Núñez,26,Right Winger,Celta de Vigo,Free Transfer,out,0,Premier League,2005,2005/2006
+Liverpool FC,Darren Potter,21,Central Midfield,Southampton,Loan,out,0,Premier League,2005,2005/2006
+Liverpool FC,Vladimir Smicer,32,Attacking Midfield,G. Bordeaux,Free Transfer,out,0,Premier League,2005,2005/2006
+Liverpool FC,Zak Whitbread,21,Centre-Back,Millwall,Loan,out,0,Premier League,2005,2005/2006
+Liverpool FC,Patrice Luzi,24,Goalkeeper,Exc. Mouscron,Free Transfer,out,0,Premier League,2005,2005/2006
+Liverpool FC,Igor Biscan,27,Centre-Back,Panathinaikos,Free Transfer,out,0,Premier League,2005,2005/2006
+Liverpool FC,Richie Partridge,24,Right Midfield,Sheff Wed,Free Transfer,out,0,Premier League,2005,2005/2006
+Liverpool FC,Carl Medjani,20,Defensive Midfield,FC Metz,Loan,out,0,Premier League,2005,2005/2006
+Liverpool FC,Mauricio Pellegrino,33,Centre-Back,Alavés,Free Transfer,out,0,Premier League,2005,2005/2006
+Liverpool FC,Salif Diao,28,Defensive Midfield,Portsmouth,Loan,out,0,Premier League,2005,2005/2006
+Liverpool FC,Chris Kirkland,24,Goalkeeper,West Brom,Loan,out,0,Premier League,2005,2005/2006
+Liverpool FC,Grégory Vignal,23,Left-Back,Portsmouth,Free Transfer,out,0,Premier League,2005,2005/2006
+Liverpool FC,Paul Harrison,20,Goalkeeper,Accrington,Free Transfer,out,0,Premier League,2005,2005/2006
+Liverpool FC,Scott Carson,20,Goalkeeper,Sheff Wed,Loan,out,0,Premier League,2005,2005/2006
+Liverpool FC,Anthony Le Tallec,20,Centre-Forward,Sunderland,Loan,out,0,Premier League,2005,2005/2006
+Liverpool FC,Robbie Foy,19,Left Winger,Wrexham,Loan,out,0,Premier League,2005,2005/2006
+Liverpool FC,Bruno Cheyrou,27,Central Midfield,G. Bordeaux,Loan,out,0,Premier League,2005,2005/2006
+Liverpool FC,Josemi,26,Centre-Back,Villarreal,?,out,NA,Premier League,2005,2005/2006
+Liverpool FC,Mark González,21,Left Winger,Real Sociedad,Loan,out,0,Premier League,2005,2005/2006
+Liverpool FC,Robbie Fowler,31,Centre-Forward,Man City,"End of loanMay 1, 2006",out,0,Premier League,2005,2005/2006
+Bolton Wanderers,El-Hadji Diouf,24,Centre-Forward,Liverpool,£4.32m,in,4.32,Premier League,2005,2005/2006
+Bolton Wanderers,Jared Borgetti,31,Centre-Forward,CF Pachuca,£1.26m,in,1.26,Premier League,2005,2005/2006
+Bolton Wanderers,Johann Smith,18,Left-Back,Chesterfield FC,Free Transfer,in,0,Premier League,2005,2005/2006
+Bolton Wanderers,Ian Walker,33,Goalkeeper,Leicester,Free Transfer,in,0,Premier League,2005,2005/2006
+Bolton Wanderers,Fabrice Fernandes,25,Left Winger,Southampton,Free Transfer,in,0,Premier League,2005,2005/2006
+Bolton Wanderers,Martin Djetou,30,Centre-Back,OGC Nice,Free Transfer,in,0,Premier League,2005,2005/2006
+Bolton Wanderers,Matt Jansen,28,Centre-Forward,Blackburn,Free Transfer,in,0,Premier League,2005,2005/2006
+Bolton Wanderers,Abdoulaye Fayé,27,Centre-Back,Lens,Loan,in,0,Premier League,2005,2005/2006
+Bolton Wanderers,Hidetoshi Nakata,28,Attacking Midfield,Fiorentina,Loan,in,0,Premier League,2005,2005/2006
+Bolton Wanderers,Khalilou Fadiga,30,Left Winger,Derby,"End of loanOct 1, 2005",in,0,Premier League,2005,2005/2006
+Bolton Wanderers,Joey O'Brien,19,Right-Back,Bolton W. U18,-,in,0,Premier League,2005,2005/2006
+Bolton Wanderers,Chris Howarth,19,Goalkeeper,Stockport,"End of loanFeb 1, 2006",in,0,Premier League,2005,2005/2006
+Bolton Wanderers,Bédi Buval,19,Centre-Forward,Bolton W. U18,-,in,0,Premier League,2005,2005/2006
+Bolton Wanderers,Blessing Kaku,27,Attacking Midfield,Derby,"End of loanJun 30, 2005",in,0,Premier League,2005,2005/2006
+Bolton Wanderers,Florent Laville,31,Centre-Back,Coventry,"End of loanJun 30, 2005",in,0,Premier League,2005,2005/2006
+Bolton Wanderers,Fabrice Fernandes,26,Left Winger,B. Jerusalem,Free Transfer,out,0,Premier League,2005,2005/2006
+Bolton Wanderers,Anthony Barness,32,Right-Back,Plymouth,Free Transfer,out,0,Premier League,2005,2005/2006
+Bolton Wanderers,Florent Laville,31,Centre-Back,SC Bastia,Free Transfer,out,0,Premier League,2005,2005/2006
+Bolton Wanderers,Ricky Shakes,20,Right Midfield,Swindon Town,Free Transfer,out,0,Premier League,2005,2005/2006
+Bolton Wanderers,Khalilou Fadiga,30,Left Winger,Derby,Loan,out,0,Premier League,2005,2005/2006
+Bolton Wanderers,Chris Howarth,19,Goalkeeper,Stockport,Loan,out,0,Premier League,2005,2005/2006
+Bolton Wanderers,Júlio César,26,Centre-Back,Tigres UANL,Free Transfer,out,0,Premier League,2005,2005/2006
+Bolton Wanderers,Vincent Candela,31,Left-Back,Udinese,Free Transfer,out,0,Premier League,2005,2005/2006
+Bolton Wanderers,Martin Djetou,31,Centre-Back,FC Istres,Free Transfer,out,0,Premier League,2005,2005/2006
+Bolton Wanderers,Donovan Ricketts,28,Goalkeeper,Bradford,Free Transfer,out,0,Premier League,2005,2005/2006
+Bolton Wanderers,Kevin Poole,41,Goalkeeper,Derby,Free Transfer,out,0,Premier League,2005,2005/2006
+Bolton Wanderers,Charlie Comyn-Platt,19,Centre-Back,Swindon Town,Free Transfer,out,0,Premier League,2005,2005/2006
+Bolton Wanderers,Jardel,31,Centre-Forward,Goiás EC,Free Transfer,out,0,Premier League,2005,2005/2006
+Bolton Wanderers,Blessing Kaku,27,Attacking Midfield,M. Tel Aviv,?,out,NA,Premier League,2005,2005/2006
+Bolton Wanderers,Fernando Hierro,37,Centre-Back,Retired,-,out,0,Premier League,2005,2005/2006
+Middlesbrough FC,Yakubu Aiyegbeni,22,Centre-Forward,Portsmouth,£8.78m,in,8.78,Premier League,2005,2005/2006
+Middlesbrough FC,Emanuel Pogatetz,22,Centre-Back,Bay. Leverkusen,£2.44m,in,2.44,Premier League,2005,2005/2006
+Middlesbrough FC,Fábio Rochemback,23,Central Midfield,FC Barcelona,£1.35m,in,1.35,Premier League,2005,2005/2006
+Middlesbrough FC,Abel Xavier,32,Right-Back,AS Roma,Free Transfer,in,0,Premier League,2005,2005/2006
+Middlesbrough FC,Ben Hutchinson,18,Centre-Forward,Arnold Town,Free Transfer,in,0,Premier League,2005,2005/2006
+Middlesbrough FC,Andrew Taylor,18,Left-Back,Boro U21,-,in,0,Premier League,2005,2005/2006
+Middlesbrough FC,Andrew Taylor,19,Left-Back,Bradford,"End of loanJan 3, 2006",in,0,Premier League,2005,2005/2006
+Middlesbrough FC,Tom Craddock,19,Centre-Forward,Boro U18,-,in,0,Premier League,2005,2005/2006
+Middlesbrough FC,David Wheater,19,Centre-Back,Doncaster,"End of loanApr 1, 2006",in,0,Premier League,2005,2005/2006
+Middlesbrough FC,Adam Johnson,17,Right Winger,Boro U18,-,in,0,Premier League,2005,2005/2006
+Middlesbrough FC,David Wheater,18,Centre-Back,Boro U18,-,in,0,Premier League,2005,2005/2006
+Middlesbrough FC,Andrew Davies,21,Centre-Back,Derby,"End of loanDec 31, 2005",in,0,Premier League,2005,2005/2006
+Middlesbrough FC,Lee Cattermole,17,Defensive Midfield,Boro U18,-,in,0,Premier League,2005,2005/2006
+Middlesbrough FC,Ross Turnbull,21,Goalkeeper,Crewe Alexandra,"End of loanApr 23, 2006",in,0,Premier League,2005,2005/2006
+Middlesbrough FC,Danny Graham,20,Centre-Forward,Leeds,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Middlesbrough FC,Danny Graham,20,Centre-Forward,Derby,"End of loanFeb 1, 2006",in,0,Premier League,2005,2005/2006
+Middlesbrough FC,Joseph-Désiré Job,28,Centre-Forward,Ittihad,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Middlesbrough FC,Mark Wilson,26,Central Midfield,Livingston FC,"End of loanJun 30, 2005",in,0,Premier League,2005,2005/2006
+Middlesbrough FC,Boudewijn Zenden,28,Left Winger,Liverpool,Free Transfer,out,0,Premier League,2005,2005/2006
+Middlesbrough FC,Mark Wilson,26,Central Midfield,FC Dallas,Free Transfer,out,0,Premier League,2005,2005/2006
+Middlesbrough FC,Danny Graham,20,Centre-Forward,Leeds,Loan,out,0,Premier League,2005,2005/2006
+Middlesbrough FC,Michael Reiziger,32,Right-Back,PSV Eindhoven,Free Transfer,out,0,Premier League,2005,2005/2006
+Middlesbrough FC,Ross Turnbull,20,Goalkeeper,Crewe Alexandra,Loan,out,0,Premier League,2005,2005/2006
+Middlesbrough FC,David Wheater,18,Centre-Back,Doncaster,Loan,out,0,Premier League,2005,2005/2006
+Middlesbrough FC,Andrew Taylor,18,Left-Back,Bradford,Loan,out,0,Premier League,2005,2005/2006
+Middlesbrough FC,Andrew Davies,20,Centre-Back,Derby,Loan,out,0,Premier League,2005,2005/2006
+Middlesbrough FC,Danny Graham,20,Centre-Forward,Derby,Loan,out,0,Premier League,2005,2005/2006
+Middlesbrough FC,Szilard Nemeth,28,Second Striker,R. Strasbourg,Loan,out,0,Premier League,2005,2005/2006
+Middlesbrough FC,Joseph-Désiré Job,27,Centre-Forward,Ittihad,Loan,out,0,Premier League,2005,2005/2006
+Middlesbrough FC,Abel Xavier,33,Right-Back,Ban,?,out,NA,Premier League,2005,2005/2006
+Manchester City,Georgios Samaras,20,Left Winger,Heerenveen,£7.65m,in,7.65,Premier League,2005,2005/2006
+Manchester City,Darius Vassell,25,Centre-Forward,Aston Villa,£3.24m,in,3.24,Premier League,2005,2005/2006
+Manchester City,Matt Mills,19,Centre-Back,Southampton,£338k,in,0.338,Premier League,2005,2005/2006
+Manchester City,Albert Riera,23,Left Winger,Espanyol,Loan,in,0,Premier League,2005,2005/2006
+Manchester City,Tuomas Haapala,26,Defensive Midfield,MYPA,Free Transfer,in,0,Premier League,2005,2005/2006
+Manchester City,Andy Cole,33,Centre-Forward,Fulham,Free Transfer,in,0,Premier League,2005,2005/2006
+Manchester City,Hussein Yasser,22,Attacking Midfield,Al Sadd,?,in,NA,Premier League,2005,2005/2006
+Manchester City,Micah Richards,17,Right-Back,Man City U18,-,in,0,Premier League,2005,2005/2006
+Manchester City,Kasper Schmeichel,19,Goalkeeper,Bury,"End of loanMay 31, 2006",in,0,Premier League,2005,2005/2006
+Manchester City,Stephen Ireland,18,Attacking Midfield,Man City U18,-,in,0,Premier League,2005,2005/2006
+Manchester City,Willo Flood,20,Central Midfield,Coventry,"End of loanNov 1, 2005",in,0,Premier League,2005,2005/2006
+Manchester City,Kasper Schmeichel,19,Goalkeeper,Darlington,"End of loanJan 31, 2006",in,0,Premier League,2005,2005/2006
+Manchester City,Mikkel Bischoff,24,Centre-Back,Sheff Wed,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Manchester City,Karl Bermingham,19,Centre-Forward,Burnley,"End of loanSep 1, 2005",in,0,Premier League,2005,2005/2006
+Manchester City,Nicky Weaver,26,Goalkeeper,Sheff Wed,"End of loanJan 27, 2006",in,0,Premier League,2005,2005/2006
+Manchester City,Robbie Fowler,31,Centre-Forward,Liverpool,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Manchester City,Mikkel Bischoff,23,Centre-Back,Wolves,"End of loanJun 30, 2005",in,0,Premier League,2005,2005/2006
+Manchester City,Shaun Wright-Phillips,23,Right Winger,Chelsea,£28.35m,out,28.35,Premier League,2005,2005/2006
+Manchester City,Jon Macken,27,Centre-Forward,Crystal Palace,£900k,out,0.9,Premier League,2005,2005/2006
+Manchester City,Karl Bermingham,19,Centre-Forward,Burnley,Loan,out,0,Premier League,2005,2005/2006
+Manchester City,Kasper Schmeichel,19,Goalkeeper,Darlington,Loan,out,0,Premier League,2005,2005/2006
+Manchester City,Mikkel Bischoff,24,Centre-Back,Sheff Wed,Loan,out,0,Premier League,2005,2005/2006
+Manchester City,Paul Bosvelt,35,Defensive Midfield,Heerenveen,Free Transfer,out,0,Premier League,2005,2005/2006
+Manchester City,Christian Negouai,27,Defensive Midfield,Standard Liège,Free Transfer,out,0,Premier League,2005,2005/2006
+Manchester City,Willo Flood,20,Central Midfield,Coventry,Loan,out,0,Premier League,2005,2005/2006
+Manchester City,Robbie Fowler,30,Centre-Forward,Liverpool,Loan,out,0,Premier League,2005,2005/2006
+Manchester City,Kevin Stuhr Ellegaard,22,Goalkeeper,Hertha BSC,Free Transfer,out,0,Premier League,2005,2005/2006
+Manchester City,Mark Redshaw,20,Second Striker,Triestina,Free Transfer,out,0,Premier League,2005,2005/2006
+Manchester City,Nicky Weaver,26,Goalkeeper,Sheff Wed,Loan,out,0,Premier League,2005,2005/2006
+Manchester City,Kasper Schmeichel,19,Goalkeeper,Bury,Loan,out,0,Premier League,2005,2005/2006
+Manchester City,Hussein Yasser,23,Attacking Midfield,Al Sadd,?,out,NA,Premier League,2005,2005/2006
+Manchester City,Albert Riera,24,Left Winger,Espanyol,"End of loanMay 1, 2006",out,0,Premier League,2005,2005/2006
+Manchester City,Kiki Musampa,28,Left Winger,Atlético Madrid,"End of loanMay 1, 2006",out,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Jermaine Jenas,22,Central Midfield,Newcastle,£13.50m,in,13.5,Premier League,2005,2005/2006
+Tottenham Hotspur,Tom Huddlestone,18,Defensive Midfield,Derby,£4.23m,in,4.23,Premier League,2005,2005/2006
+Tottenham Hotspur,Grzegorz Rasiak,26,Centre-Forward,Derby,£3.15m,in,3.15,Premier League,2005,2005/2006
+Tottenham Hotspur,Danny Murphy,28,Central Midfield,Charlton,£2.89m,in,2.89,Premier League,2005,2005/2006
+Tottenham Hotspur,Wayne Routledge,20,Left Winger,Crystal Palace,£2.70m,in,2.7,Premier League,2005,2005/2006
+Tottenham Hotspur,Hossam Ghaly,24,Central Midfield,Feyenoord,£2.70m,in,2.7,Premier League,2005,2005/2006
+Tottenham Hotspur,Yeong-pyo Lee,28,Left-Back,PSV Eindhoven,£1.80m,in,1.8,Premier League,2005,2005/2006
+Tottenham Hotspur,Aaron Lennon,18,Right Winger,Leeds,£1.08m,in,1.08,Premier League,2005,2005/2006
+Tottenham Hotspur,Rodrigo Defendi,19,Centre-Back,Cruzeiro,£810k,in,0.81,Premier League,2005,2005/2006
+Tottenham Hotspur,Teemu Tainio,25,Defensive Midfield,AJ Auxerre,Free Transfer,in,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Paul Stalteri,27,Right-Back,Werder Bremen,Free Transfer,in,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Edgar Davids,32,Central Midfield,Inter,Free Transfer,in,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Reto Ziegler,20,Centre-Back,Hamburger SV,"End of loanJan 20, 2006",in,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Andy Barcham,18,Left Winger,Tottenham U18,-,in,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Tom Huddlestone,19,Defensive Midfield,Wolves,"End of loanJan 15, 2006",in,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Wayne Routledge,21,Left Winger,Portsmouth,"End of loanMay 31, 2006",in,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Robert Burch,20,Goalkeeper,Bristol City,"End of loanOct 1, 2005",in,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Charlie Daniels,18,Left-Back,Tottenham U18,-,in,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Mark Yeates,21,Left Winger,Colchester Utd.,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Dean Marney,21,Central Midfield,Norwich,"End of loanOct 1, 2005",in,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Calum Davenport,22,Centre-Back,Norwich,"End of loanDec 1, 2005",in,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Tommy Forecast,18,Goalkeeper,Tottenham U18,-,in,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Mounir El Hamdaoui,21,Centre-Forward,Derby,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Philip Ifil,19,Right-Back,Millwall,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Johnnie Jackson,23,Central Midfield,Derby,"End of loanDec 4, 2005",in,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Edson,21,Centre-Forward,ADO Den Haag,"End of loanJun 30, 2005",in,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Frédéric Kanouté,27,Centre-Forward,Sevilla FC,£5.85m,out,5.85,Premier League,2005,2005/2006
+Tottenham Hotspur,Simon Davies,25,Right Midfield,Everton,£4.73m,out,4.73,Premier League,2005,2005/2006
+Tottenham Hotspur,Erik Edman,26,Left-Back,Stade Rennais,£2.70m,out,2.7,Premier League,2005,2005/2006
+Tottenham Hotspur,Grzegorz Rasiak,26,Centre-Forward,Southampton,£2.70m,out,2.7,Premier League,2005,2005/2006
+Tottenham Hotspur,Thimothée Atouba,23,Left-Back,Hamburger SV,£2.25m,out,2.25,Premier League,2005,2005/2006
+Tottenham Hotspur,Michael Brown,28,Central Midfield,Fulham,£2.07m,out,2.07,Premier League,2005,2005/2006
+Tottenham Hotspur,Reto Ziegler,19,Centre-Back,Hamburger SV,Loan fee:£90k,out,0.09,Premier League,2005,2005/2006
+Tottenham Hotspur,Mounir El Hamdaoui,21,Centre-Forward,Derby,Loan,out,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Rodrigo Defendi,19,Centre-Back,Udinese,Loan,out,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Márton Fülöp,22,Goalkeeper,Coventry,Loan,out,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Spase Dilevski,20,Defensive Midfield,Brisbane Roar,Free Transfer,out,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Dean Marney,21,Central Midfield,Norwich,Loan,out,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Robert Burch,20,Goalkeeper,Bristol City,Loan,out,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Calum Davenport,22,Centre-Back,Norwich,Loan,out,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Johnnie Jackson,23,Central Midfield,Derby,Loan,out,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Mark Yeates,20,Left Winger,Colchester Utd.,Loan,out,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Wayne Routledge,21,Left Winger,Portsmouth,Loan,out,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Philip Ifil,18,Right-Back,Millwall,Loan,out,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Tom Huddlestone,18,Defensive Midfield,Wolves,Loan,out,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Noé Pamarot,26,Centre-Back,Portsmouth,?,out,NA,Premier League,2005,2005/2006
+Tottenham Hotspur,Reto Ziegler,20,Centre-Back,Wigan,Loan,out,0,Premier League,2005,2005/2006
+Tottenham Hotspur,Sean Davis,26,Defensive Midfield,Portsmouth,?,out,NA,Premier League,2005,2005/2006
+Tottenham Hotspur,Gavin Kelly,24,Goalkeeper,Scarborough Athletic,?,out,NA,Premier League,2005,2005/2006
+Tottenham Hotspur,Pedro Mendes,26,Defensive Midfield,Portsmouth,?,out,NA,Premier League,2005,2005/2006
+Tottenham Hotspur,Edson,21,Centre-Forward,Tottenham U21,-,out,0,Premier League,2005,2005/2006
+Aston Villa,Milan Baros,23,Centre-Forward,Liverpool,£7.96m,in,7.96,Premier League,2005,2005/2006
+Aston Villa,Wilfred Bouma,27,Left-Back,PSV Eindhoven,£4.23m,in,4.23,Premier League,2005,2005/2006
+Aston Villa,Aaron Hughes,25,Centre-Back,Newcastle,£1.35m,in,1.35,Premier League,2005,2005/2006
+Aston Villa,Kevin Phillips,31,Centre-Forward,Southampton,£1.35m,in,1.35,Premier League,2005,2005/2006
+Aston Villa,Eirik Bakke,27,Central Midfield,Leeds,Loan,in,0,Premier League,2005,2005/2006
+Aston Villa,Patrik Berger,31,Attacking Midfield,Portsmouth,Free Transfer,in,0,Premier League,2005,2005/2006
+Aston Villa,James Milner,19,Central Midfield,Newcastle,Loan,in,0,Premier League,2005,2005/2006
+Aston Villa,Stuart Taylor,24,Goalkeeper,Arsenal,Free Transfer,in,0,Premier League,2005,2005/2006
+Aston Villa,Craig Gardner,19,Central Midfield,Aston Villa U23,-,in,0,Premier League,2005,2005/2006
+Aston Villa,Sam Williams,18,Centre-Forward,Aston Villa U18,-,in,0,Premier League,2005,2005/2006
+Aston Villa,Gabriel Agbonlahor,19,Centre-Forward,Sheff Wed,"End of loanDec 28, 2005",in,0,Premier League,2005,2005/2006
+Aston Villa,Gabriel Agbonlahor,18,Centre-Forward,Aston Villa U18,-,in,0,Premier League,2005,2005/2006
+Aston Villa,Peter Whittingham,21,Central Midfield,Derby,"End of loanNov 19, 2005",in,0,Premier League,2005,2005/2006
+Aston Villa,Sam Williams,18,Centre-Forward,Wrexham,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Aston Villa,Bobby Olejnik,18,Goalkeeper,Aston Villa U18,-,in,0,Premier League,2005,2005/2006
+Aston Villa,Gabriel Agbonlahor,19,Centre-Forward,Watford,"End of loanOct 22, 2005",in,0,Premier League,2005,2005/2006
+Aston Villa,Darius Vassell,25,Centre-Forward,Man City,£3.24m,out,3.24,Premier League,2005,2005/2006
+Aston Villa,Nolberto Solano,31,Right Midfield,Newcastle,£2.03m,out,2.03,Premier League,2005,2005/2006
+Aston Villa,Stefan Postma,29,Goalkeeper,Wolves,Loan fee:£450k,out,0.45,Premier League,2005,2005/2006
+Aston Villa,Peter Whittingham,21,Central Midfield,Derby,Loan,out,0,Premier League,2005,2005/2006
+Aston Villa,Stefan Moore,21,Centre-Forward,QPR,Free Transfer,out,0,Premier League,2005,2005/2006
+Aston Villa,Gabriel Agbonlahor,19,Centre-Forward,Sheff Wed,Loan,out,0,Premier League,2005,2005/2006
+Aston Villa,Sam Williams,18,Centre-Forward,Wrexham,Loan,out,0,Premier League,2005,2005/2006
+Aston Villa,Stephen Cooke,22,Right Midfield,Bournemouth,Free Transfer,out,0,Premier League,2005,2005/2006
+Aston Villa,Gabriel Agbonlahor,18,Centre-Forward,Watford,Loan,out,0,Premier League,2005,2005/2006
+Aston Villa,Thomas Hitzlsperger,23,Central Midfield,VfB Stuttgart,Free Transfer,out,0,Premier League,2005,2005/2006
+Aston Villa,Wayne Henderson,21,Goalkeeper,Brighton,£45k,out,0.045,Premier League,2005,2005/2006
+Aston Villa,Mathieu Berson,25,Defensive Midfield,AJ Auxerre,Loan,out,0,Premier League,2005,2005/2006
+Aston Villa,Eirik Bakke,28,Central Midfield,Leeds,"End of loanDec 31, 2005",out,0,Premier League,2005,2005/2006
+Aston Villa,James Milner,20,Central Midfield,Newcastle,"End of loanMay 8, 2006",out,0,Premier League,2005,2005/2006
+Aston Villa,Vaclav Drobny,24,Centre-Back,R. Strasbourg,"End of loanJun 30, 2005",out,0,Premier League,2005,2005/2006
+Charlton Athletic,Darren Bent,21,Centre-Forward,Ipswich,£4.05m,in,4.05,Premier League,2005,2005/2006
+Charlton Athletic,Marcus Bent,27,Centre-Forward,Everton,£2.70m,in,2.7,Premier League,2005,2005/2006
+Charlton Athletic,Darren Ambrose,21,Left Midfield,Newcastle,£1.44m,in,1.44,Premier League,2005,2005/2006
+Charlton Athletic,Jay Bothroyd,23,Centre-Forward,Perugia,Free Transfer,in,0,Premier League,2005,2005/2006
+Charlton Athletic,Thomas Myhre,31,Goalkeeper,Sunderland,Free Transfer,in,0,Premier League,2005,2005/2006
+Charlton Athletic,Jonathan Spector,19,Centre-Back,Man Utd,Loan,in,0,Premier League,2005,2005/2006
+Charlton Athletic,Rúrik Gíslason,17,Right Midfield,HK Kópavogs,Free Transfer,in,0,Premier League,2005,2005/2006
+Charlton Athletic,Gonzalo Sorondo,25,Centre-Back,Inter,Free Transfer,in,0,Premier League,2005,2005/2006
+Charlton Athletic,Gonçalo Brandão,18,Centre-Back,Belenenses SAD,Loan,in,0,Premier League,2005,2005/2006
+Charlton Athletic,Chris Powell,35,Left-Back,West Ham,Free Transfer,in,0,Premier League,2005,2005/2006
+Charlton Athletic,Kelly Youga,19,Left-Back,Olympique Lyon,Free Transfer,in,0,Premier League,2005,2005/2006
+Charlton Athletic,Aleksey Smertin,30,Defensive Midfield,Chelsea,Loan,in,0,Premier League,2005,2005/2006
+Charlton Athletic,Alistair John,18,Midfielder,Unknown,?,in,NA,Premier League,2005,2005/2006
+Charlton Athletic,Mads Nielsen,16,Goalkeeper,BK Frem U19,?,in,NA,Premier League,2005,2005/2006
+Charlton Athletic,Mark Ricketts,21,Defensive Midfield,MK Dons,"End of loanMay 31, 2006",in,0,Premier League,2005,2005/2006
+Charlton Athletic,Jonatan Johansson,30,Centre-Forward,Norwich,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Charlton Athletic,James Walker,17,Centre-Forward,Charlton U18,-,in,0,Premier League,2005,2005/2006
+Charlton Athletic,Osei Sankofa,20,Right-Back,Charlton U21,-,in,0,Premier League,2005,2005/2006
+Charlton Athletic,Mark Fish,31,Centre-Back,Ipswich,"End of loanSep 1, 2005",in,0,Premier League,2005,2005/2006
+Charlton Athletic,Darren Randolph,18,Goalkeeper,Accrington,"End of loanNov 1, 2005",in,0,Premier League,2005,2005/2006
+Charlton Athletic,Rob Elliot,19,Goalkeeper,Accrington,"End of loanApr 1, 2006",in,0,Premier League,2005,2005/2006
+Charlton Athletic,Nathan Ashton,18,Left-Back,Charlton U18,-,in,0,Premier League,2005,2005/2006
+Charlton Athletic,Talal El Karkouri,29,Centre-Back,Al Gharafa,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Charlton Athletic,Osei Sankofa,20,Right-Back,Bristol City,"End of loanNov 27, 2005",in,0,Premier League,2005,2005/2006
+Charlton Athletic,Kelly Youga,20,Left-Back,Bristol City,"End of loanDec 1, 2005",in,0,Premier League,2005,2005/2006
+Charlton Athletic,Kevin Lisbie,27,Centre-Forward,Derby,"End of loanApr 28, 2006",in,0,Premier League,2005,2005/2006
+Charlton Athletic,Barry Fuller,21,Right-Back,Barnet,"End of loanMay 13, 2006",in,0,Premier League,2005,2005/2006
+Charlton Athletic,James Walker,18,Centre-Forward,Hartlepool Utd.,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Charlton Athletic,Darren Randolph,18,Goalkeeper,Charlton U18,-,in,0,Premier League,2005,2005/2006
+Charlton Athletic,Kevin Lisbie,26,Centre-Forward,Norwich,"End of loanOct 9, 2005",in,0,Premier League,2005,2005/2006
+Charlton Athletic,Francis Jeffers,24,Centre-Forward,Rangers,"End of loanDec 31, 2005",in,0,Premier League,2005,2005/2006
+Charlton Athletic,Danny Murphy,28,Central Midfield,Spurs,£2.89m,out,2.89,Premier League,2005,2005/2006
+Charlton Athletic,Paul Konchesky,24,Left-Back,West Ham,£2.03m,out,2.03,Premier League,2005,2005/2006
+Charlton Athletic,Dean Kiely,35,Goalkeeper,Portsmouth,£225k,out,0.225,Premier League,2005,2005/2006
+Charlton Athletic,Mark Ricketts,21,Defensive Midfield,MK Dons,Loan,out,0,Premier League,2005,2005/2006
+Charlton Athletic,Darren Randolph,18,Goalkeeper,Accrington,Loan,out,0,Premier League,2005,2005/2006
+Charlton Athletic,Kelly Youga,20,Left-Back,Bristol City,Loan,out,0,Premier League,2005,2005/2006
+Charlton Athletic,James Walker,18,Centre-Forward,Hartlepool Utd.,Loan,out,0,Premier League,2005,2005/2006
+Charlton Athletic,Talal El Karkouri,29,Centre-Back,Al Gharafa,Loan,out,0,Premier League,2005,2005/2006
+Charlton Athletic,Adam Gross,19,Left-Back,Barnet,Free Transfer,out,0,Premier League,2005,2005/2006
+Charlton Athletic,Mark Fish,31,Centre-Back,Jomo Cosmos,Free Transfer,out,0,Premier League,2005,2005/2006
+Charlton Athletic,Francis Jeffers,24,Centre-Forward,Rangers,Loan,out,0,Premier League,2005,2005/2006
+Charlton Athletic,Osei Sankofa,20,Right-Back,Bristol City,Loan,out,0,Premier League,2005,2005/2006
+Charlton Athletic,Alex Varney,21,Centre-Forward,Barnet,Free Transfer,out,0,Premier League,2005,2005/2006
+Charlton Athletic,Kevin Lisbie,27,Centre-Forward,Derby,Loan,out,0,Premier League,2005,2005/2006
+Charlton Athletic,Mark Fish,31,Centre-Back,Ipswich,Loan,out,0,Premier League,2005,2005/2006
+Charlton Athletic,Barry Fuller,21,Right-Back,Barnet,Loan,out,0,Premier League,2005,2005/2006
+Charlton Athletic,Kevin Lisbie,26,Centre-Forward,Norwich,Loan,out,0,Premier League,2005,2005/2006
+Charlton Athletic,Jonatan Johansson,30,Centre-Forward,Norwich,Loan,out,0,Premier League,2005,2005/2006
+Charlton Athletic,Rob Elliot,19,Goalkeeper,Accrington,Loan,out,0,Premier League,2005,2005/2006
+Charlton Athletic,Stacy Long,20,Left Winger,Notts County,Free Transfer,out,0,Premier League,2005,2005/2006
+Charlton Athletic,Aleksey Smertin,30,Defensive Midfield,Chelsea,"End of loanFeb 1, 2006",out,0,Premier League,2005,2005/2006
+Charlton Athletic,Jonathan Spector,20,Centre-Back,Man Utd,"End of loanMay 1, 2006",out,0,Premier League,2005,2005/2006
+Birmingham City,Mikael Forssell,24,Centre-Forward,Chelsea,£4.05m,in,4.05,Premier League,2005,2005/2006
+Birmingham City,Mehdi Nafti,26,Defensive Midfield,Racing,£1.35m,in,1.35,Premier League,2005,2005/2006
+Birmingham City,DJ Campbell,24,Centre-Forward,Brentford,£675k,in,0.675,Premier League,2005,2005/2006
+Birmingham City,Jermaine Pennant,22,Right Winger,Arsenal,£675k,in,0.675,Premier League,2005,2005/2006
+Birmingham City,Martin Latka,21,Centre-Back,Slavia Prag,£540k,in,0.54,Premier League,2005,2005/2006
+Birmingham City,Jiri Jarosik,27,Centre-Back,Chelsea,Loan,in,0,Premier League,2005,2005/2006
+Birmingham City,Nicky Butt,30,Central Midfield,Newcastle,Loan,in,0,Premier League,2005,2005/2006
+Birmingham City,Chris Sutton,32,Centre-Forward,Celtic,Free Transfer,in,0,Premier League,2005,2005/2006
+Birmingham City,Ingi Höjsted,19,Central Midfield,HB Tórshavn,Free Transfer,in,0,Premier League,2005,2005/2006
+Birmingham City,Wálter Pandiani,29,Centre-Forward,Dep. La Coruña,?,in,NA,Premier League,2005,2005/2006
+Birmingham City,Sam Oji,20,Centre-Back,Doncaster,"End of loanJan 3, 2006",in,0,Premier League,2005,2005/2006
+Birmingham City,Mathew Birley,18,Midfielder,Birmingham U18,-,in,0,Premier League,2005,2005/2006
+Birmingham City,Oliver Allen,18,Centre-Forward,Birmingham U18,-,in,0,Premier League,2005,2005/2006
+Birmingham City,Nick Wright,18,Centre-Forward,Tamworth,"End of loanFeb 6, 2006",in,0,Premier League,2005,2005/2006
+Birmingham City,Asa Hall,18,Central Midfield,Birmingham U18,-,in,0,Premier League,2005,2005/2006
+Birmingham City,Colin Doyle,20,Goalkeeper,Millwall,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Birmingham City,Adam Legzdins,18,Goalkeeper,Alfreton,"End of loanNov 1, 2005",in,0,Premier League,2005,2005/2006
+Birmingham City,Marcos Painter,18,Left-Back,Birmingham U18,-,in,0,Premier League,2005,2005/2006
+Birmingham City,Adam Legzdins,18,Goalkeeper,Birmingham U18,-,in,0,Premier League,2005,2005/2006
+Birmingham City,Njazi Kuqi,22,Centre-Forward,Blackpool,"End of loanFeb 1, 2006",in,0,Premier League,2005,2005/2006
+Birmingham City,David Howland,18,Central Midfield,Birmingham U18,-,in,0,Premier League,2005,2005/2006
+Birmingham City,Asa Hall,19,Central Midfield,Boston United,"End of loanApr 1, 2006",in,0,Premier League,2005,2005/2006
+Birmingham City,Peter Till,20,Right Midfield,Boston United,"End of loanMay 7, 2006",in,0,Premier League,2005,2005/2006
+Birmingham City,Alex Bruce,21,Centre-Back,Tranmere Rovers,"End of loanOct 1, 2005",in,0,Premier League,2005,2005/2006
+Birmingham City,Jamie Price,18,Centre-Forward,Birmingham U18,-,in,0,Premier League,2005,2005/2006
+Birmingham City,Peter Till,20,Right Midfield,Scunthorpe Utd.,"End of loanJan 8, 2006",in,0,Premier League,2005,2005/2006
+Birmingham City,Carl Motteram,21,Midfielder,Tamworth,"End of loanApr 1, 2006",in,0,Premier League,2005,2005/2006
+Birmingham City,Nick Wright,17,Centre-Forward,Birmingham U18,-,in,0,Premier League,2005,2005/2006
+Birmingham City,Sam Alsop,20,Centre-Back,Yeovil Town,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Birmingham City,Adam Legzdins,19,Goalkeeper,Halifax Town,"End of loanDec 31, 2005",in,0,Premier League,2005,2005/2006
+Birmingham City,Clinton Morrison,26,Centre-Forward,Crystal Palace,£2.70m,out,2.7,Premier League,2005,2005/2006
+Birmingham City,Darren Carter,21,Central Midfield,West Brom,£2.03m,out,2.03,Premier League,2005,2005/2006
+Birmingham City,Wálter Pandiani,29,Centre-Forward,Espanyol,£1.35m,out,1.35,Premier League,2005,2005/2006
+Birmingham City,Robbie Blake,29,Second Striker,Leeds,£1.08m,out,1.08,Premier League,2005,2005/2006
+Birmingham City,Sam Alsop,20,Centre-Back,Yeovil Town,Loan,out,0,Premier League,2005,2005/2006
+Birmingham City,Njazi Kuqi,22,Centre-Forward,Blackpool,Loan,out,0,Premier League,2005,2005/2006
+Birmingham City,Adam Legzdins,18,Goalkeeper,Alfreton,Loan,out,0,Premier League,2005,2005/2006
+Birmingham City,Njazi Kuqi,22,Centre-Forward,Peterborough,Loan,out,0,Premier League,2005,2005/2006
+Birmingham City,Adam Legzdins,19,Goalkeeper,Halifax Town,Loan,out,0,Premier League,2005,2005/2006
+Birmingham City,Ian Bennett,33,Goalkeeper,Leeds,Free Transfer,out,0,Premier League,2005,2005/2006
+Birmingham City,Andy Barrowman,21,Centre-Forward,Walsall,Free Transfer,out,0,Premier League,2005,2005/2006
+Birmingham City,Darren Anderton,33,Right Midfield,Wolves,Free Transfer,out,0,Premier League,2005,2005/2006
+Birmingham City,Peter Till,20,Right Midfield,Scunthorpe Utd.,Loan,out,0,Premier League,2005,2005/2006
+Birmingham City,Nick Wright,18,Centre-Forward,Tamworth,Loan,out,0,Premier League,2005,2005/2006
+Birmingham City,Colin Doyle,20,Goalkeeper,Millwall,Loan,out,0,Premier League,2005,2005/2006
+Birmingham City,Dwight Yorke,33,Centre-Forward,Sydney FC,Free Transfer,out,0,Premier League,2005,2005/2006
+Birmingham City,Carl Motteram,21,Midfielder,Tamworth,Loan,out,0,Premier League,2005,2005/2006
+Birmingham City,Peter Till,20,Right Midfield,Boston United,Loan,out,0,Premier League,2005,2005/2006
+Birmingham City,Alex Bruce,20,Centre-Back,Tranmere Rovers,Loan,out,0,Premier League,2005,2005/2006
+Birmingham City,Asa Hall,19,Central Midfield,Boston United,Loan,out,0,Premier League,2005,2005/2006
+Birmingham City,Sam Oji,20,Centre-Back,Doncaster,Loan,out,0,Premier League,2005,2005/2006
+Birmingham City,Martin Latka,21,Centre-Back,Slavia Prag,?,out,NA,Premier League,2005,2005/2006
+Birmingham City,Ingi Höjsted,20,Central Midfield,B36 Tórshavn,?,out,NA,Premier League,2005,2005/2006
+Birmingham City,Jiri Jarosik,28,Centre-Back,Chelsea,"End of loanMay 1, 2006",out,0,Premier League,2005,2005/2006
+Birmingham City,Nicky Butt,31,Central Midfield,Newcastle,"End of loanMay 31, 2006",out,0,Premier League,2005,2005/2006
+Birmingham City,Wálter Pandiani,29,Centre-Forward,Dep. La Coruña,"End of loanJun 30, 2005",out,0,Premier League,2005,2005/2006
+Birmingham City,Jermaine Pennant,22,Right Winger,Arsenal,"End of loanJun 30, 2005",out,0,Premier League,2005,2005/2006
+Fulham FC,Michael Brown,28,Central Midfield,Spurs,£2.07m,in,2.07,Premier League,2005,2005/2006
+Fulham FC,Heidar Helguson,27,Centre-Forward,Watford,£1.80m,in,1.8,Premier League,2005,2005/2006
+Fulham FC,Antti Niemi,33,Goalkeeper,Southampton,£1.35m,in,1.35,Premier League,2005,2005/2006
+Fulham FC,Niclas Jensen,30,Left-Back,Bor. Dortmund,£675k,in,0.675,Premier League,2005,2005/2006
+Fulham FC,Simon Elliott,31,Defensive Midfield,Columbus Crew,Free Transfer,in,0,Premier League,2005,2005/2006
+Fulham FC,Philippe Christanval,26,Centre-Back,Marseille,Free Transfer,in,0,Premier League,2005,2005/2006
+Fulham FC,Ahmad Elrich,24,Right Midfield,Pusan I'Park,Free Transfer,in,0,Premier League,2005,2005/2006
+Fulham FC,Wayne Bridge,25,Left-Back,Chelsea,Loan,in,0,Premier League,2005,2005/2006
+Fulham FC,Jaroslav Drobny,25,Goalkeeper,Panionios,Free Transfer,in,0,Premier League,2005,2005/2006
+Fulham FC,Tony Warner,31,Goalkeeper,Cardiff,Free Transfer,in,0,Premier League,2005,2005/2006
+Fulham FC,Ahmad Elrich,24,Right Midfield,FK Lyn,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Fulham FC,Rob Milsom,18,Central Midfield,Fulham U18,-,in,0,Premier League,2005,2005/2006
+Fulham FC,Neale McDermott,20,Central Midfield,Darlington,"End of loanMar 1, 2006",in,0,Premier League,2005,2005/2006
+Fulham FC,Neale McDermott,20,Central Midfield,Swindon Town,"End of loanDec 31, 2005",in,0,Premier League,2005,2005/2006
+Fulham FC,Michael Timlin,21,Central Midfield,Doncaster,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Fulham FC,Ismael Ehui,20,Centre-Forward,Scunthorpe Utd.,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Fulham FC,Adam Green,22,Left-Back,Bristol City,"End of loanFeb 20, 2006",in,0,Premier League,2005,2005/2006
+Fulham FC,Liam Fontaine,19,Centre-Back,Yeovil Town,"End of loanDec 1, 2005",in,0,Premier League,2005,2005/2006
+Fulham FC,Zesh Rehman,22,Centre-Back,Norwich,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Fulham FC,Darren Pratley,21,Central Midfield,Brentford,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Fulham FC,Michael Timlin,20,Central Midfield,Scunthorpe Utd.,"End of loanFeb 1, 2006",in,0,Premier League,2005,2005/2006
+Fulham FC,Ricardo Batista,19,Goalkeeper,MK Dons,"End of loanApr 1, 2006",in,0,Premier League,2005,2005/2006
+Fulham FC,Robert Watkins,20,Centre-Back,GNFC,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Fulham FC,Martín Herrera,34,Goalkeeper,Estudiantes,"End of loanJun 30, 2005",in,0,Premier League,2005,2005/2006
+Fulham FC,Facundo Sava,31,Centre-Forward,Celta de Vigo,"End of loanJun 30, 2005",in,0,Premier League,2005,2005/2006
+Fulham FC,Steve Marlet,31,Centre-Forward,Marseille,"End of loanJun 30, 2005",in,0,Premier League,2005,2005/2006
+Fulham FC,Edwin van der Sar,34,Goalkeeper,Man Utd,£3.60m,out,3.6,Premier League,2005,2005/2006
+Fulham FC,Elvis Hammond,24,Centre-Forward,Leicester,£360k,out,0.36,Premier League,2005,2005/2006
+Fulham FC,Liam Fontaine,19,Centre-Back,Bristol City,£203k,out,0.203,Premier League,2005,2005/2006
+Fulham FC,Zesh Rehman,22,Centre-Back,Norwich,Loan,out,0,Premier League,2005,2005/2006
+Fulham FC,Michael Timlin,20,Central Midfield,Scunthorpe Utd.,Loan,out,0,Premier League,2005,2005/2006
+Fulham FC,Ross Flitney,21,Goalkeeper,Barnet,Free Transfer,out,0,Premier League,2005,2005/2006
+Fulham FC,Michael Timlin,20,Central Midfield,Doncaster,Loan,out,0,Premier League,2005,2005/2006
+Fulham FC,Darren Pratley,20,Central Midfield,Brentford,Loan,out,0,Premier League,2005,2005/2006
+Fulham FC,Sean Doherty,20,Left Midfield,ADO Den Haag,Free Transfer,out,0,Premier League,2005,2005/2006
+Fulham FC,Lee Clark,32,Right Winger,Newcastle,Free Transfer,out,0,Premier League,2005,2005/2006
+Fulham FC,Jaroslav Drobny,26,Goalkeeper,ADO Den Haag,Loan,out,0,Premier League,2005,2005/2006
+Fulham FC,Martín Herrera,34,Goalkeeper,Estudiantes,Free Transfer,out,0,Premier League,2005,2005/2006
+Fulham FC,Adam Green,22,Left-Back,Bristol City,Loan,out,0,Premier League,2005,2005/2006
+Fulham FC,Jide Ogunbote,16,Right Midfield,Aldershot Town,Free Transfer,out,0,Premier League,2005,2005/2006
+Fulham FC,Ismael Ehui,20,Centre-Forward,Scunthorpe Utd.,Loan,out,0,Premier League,2005,2005/2006
+Fulham FC,Neale McDermott,20,Central Midfield,Swindon Town,Loan,out,0,Premier League,2005,2005/2006
+Fulham FC,Andy Cole,33,Centre-Forward,Man City,Free Transfer,out,0,Premier League,2005,2005/2006
+Fulham FC,Ricardo Batista,19,Goalkeeper,MK Dons,Loan,out,0,Premier League,2005,2005/2006
+Fulham FC,Malik Buari,21,Right Midfield,Woking FC,Free Transfer,out,0,Premier League,2005,2005/2006
+Fulham FC,Robert Watkins,20,Centre-Back,GNFC,Loan,out,0,Premier League,2005,2005/2006
+Fulham FC,Neale McDermott,20,Central Midfield,Darlington,Loan,out,0,Premier League,2005,2005/2006
+Fulham FC,Steve Marlet,31,Centre-Forward,VfL Wolfsburg,Free Transfer,out,0,Premier League,2005,2005/2006
+Fulham FC,Ahmad Elrich,24,Right Midfield,FK Lyn,Loan,out,0,Premier League,2005,2005/2006
+Fulham FC,Liam Fontaine,19,Centre-Back,Yeovil Town,Loan,out,0,Premier League,2005,2005/2006
+Fulham FC,Jérôme Bonnissel,31,Left-Back,Without Club,-,out,0,Premier League,2005,2005/2006
+Fulham FC,Billy McKinlay,36,Right Midfield,Retired,-,out,0,Premier League,2005,2005/2006
+Fulham FC,Wayne Bridge,25,Left-Back,Chelsea,"End of loanMay 8, 2006",out,0,Premier League,2005,2005/2006
+Newcastle United,Michael Owen,25,Centre-Forward,Real Madrid,£22.50m,in,22.5,Premier League,2005,2005/2006
+Newcastle United,Albert Luque,27,Left Winger,Dep. La Coruña,£18.00m,in,18,Premier League,2005,2005/2006
+Newcastle United,Scott Parker,24,Central Midfield,Chelsea,£8.10m,in,8.1,Premier League,2005,2005/2006
+Newcastle United,Emre Belözoglu,24,Central Midfield,Inter,£4.50m,in,4.5,Premier League,2005,2005/2006
+Newcastle United,Nolberto Solano,31,Right Midfield,Aston Villa,£2.03m,in,2.03,Premier League,2005,2005/2006
+Newcastle United,Lee Clark,32,Right Winger,Fulham,Free Transfer,in,0,Premier League,2005,2005/2006
+Newcastle United,Craig Moore,29,Centre-Back,Bor. M'gladbach,Free Transfer,in,0,Premier League,2005,2005/2006
+Newcastle United,Daryl Smylie,19,Attacking Midfield,Newcastle U18,-,in,0,Premier League,2005,2005/2006
+Newcastle United,Daryl Smylie,20,Attacking Midfield,Stockport,"End of loanDec 31, 2005",in,0,Premier League,2005,2005/2006
+Newcastle United,Nicky Butt,31,Central Midfield,Birmingham,"End of loanMay 31, 2006",in,0,Premier League,2005,2005/2006
+Newcastle United,Guy Bates,19,Centre-Forward,Newcastle U18,-,in,0,Premier League,2005,2005/2006
+Newcastle United,Laurent Robert,30,Left Winger,Portsmouth,"End of loanDec 31, 2005",in,0,Premier League,2005,2005/2006
+Newcastle United,Matthew Pattison,19,Central Midfield,Newcastle U18,-,in,0,Premier League,2005,2005/2006
+Newcastle United,Liam Atkin,18,Centre-Back,Newcastle U18,-,in,0,Premier League,2005,2005/2006
+Newcastle United,Alan O'Brien,20,Left Midfield,Carlisle United,"End of loanNov 1, 2005",in,0,Premier League,2005,2005/2006
+Newcastle United,James Milner,20,Central Midfield,Aston Villa,"End of loanMay 8, 2006",in,0,Premier League,2005,2005/2006
+Newcastle United,Hugo Viana,22,Central Midfield,Sporting CP,"End of loanJun 30, 2005",in,0,Premier League,2005,2005/2006
+Newcastle United,Jermaine Jenas,22,Central Midfield,Spurs,£13.50m,out,13.5,Premier League,2005,2005/2006
+Newcastle United,Craig Bellamy,25,Left Winger,Blackburn,£6.75m,out,6.75,Premier League,2005,2005/2006
+Newcastle United,Andrew O'Brien,26,Centre-Back,Portsmouth,£2.70m,out,2.7,Premier League,2005,2005/2006
+Newcastle United,Laurent Robert,30,Left Winger,Portsmouth,Loan fee:£2.07m,out,2.07,Premier League,2005,2005/2006
+Newcastle United,Darren Ambrose,21,Left Midfield,Charlton,£1.44m,out,1.44,Premier League,2005,2005/2006
+Newcastle United,Aaron Hughes,25,Centre-Back,Aston Villa,£1.35m,out,1.35,Premier League,2005,2005/2006
+Newcastle United,James Milner,19,Central Midfield,Aston Villa,Loan,out,0,Premier League,2005,2005/2006
+Newcastle United,Laurent Robert,30,Left Winger,Benfica,Free Transfer,out,0,Premier League,2005,2005/2006
+Newcastle United,Daryl Smylie,19,Attacking Midfield,Stockport,Loan,out,0,Premier League,2005,2005/2006
+Newcastle United,Alan O'Brien,20,Left Midfield,Carlisle United,Loan,out,0,Premier League,2005,2005/2006
+Newcastle United,Patrick Kluivert,29,Centre-Forward,Valencia,Free Transfer,out,0,Premier League,2005,2005/2006
+Newcastle United,Jamie McClen,26,Central Midfield,Carlisle United,Free Transfer,out,0,Premier League,2005,2005/2006
+Newcastle United,Nicky Butt,30,Central Midfield,Birmingham,Loan,out,0,Premier League,2005,2005/2006
+Newcastle United,Hugo Viana,22,Central Midfield,Valencia,Loan,out,0,Premier League,2005,2005/2006
+Newcastle United,Stephen Brennan,22,Defensive Midfield,St. Patricks,Free Transfer,out,0,Premier League,2005,2005/2006
+Newcastle United,Guy Bates,20,Centre-Forward,Darlington,?,out,NA,Premier League,2005,2005/2006
+Blackburn Rovers,Craig Bellamy,25,Left Winger,Newcastle,£6.75m,in,6.75,Premier League,2005,2005/2006
+Blackburn Rovers,David Bentley,21,Right Midfield,Arsenal,£1.58m,in,1.58,Premier League,2005,2005/2006
+Blackburn Rovers,Florent Sinama-Pongolle,21,Second Striker,Liverpool,Loan fee:£135k,in,0.135,Premier League,2005,2005/2006
+Blackburn Rovers,David Bentley,20,Right Midfield,Arsenal,Loan,in,0,Premier League,2005,2005/2006
+Blackburn Rovers,Shefki Kuqi,28,Centre-Forward,Ipswich,Free Transfer,in,0,Premier League,2005,2005/2006
+Blackburn Rovers,Zurab Khizanishvili,23,Centre-Back,Rangers,Loan,in,0,Premier League,2005,2005/2006
+Blackburn Rovers,Richard Lee,22,Goalkeeper,Watford,Loan,in,0,Premier League,2005,2005/2006
+Blackburn Rovers,Zak Jones,17,Goalkeeper,Southampton,?,in,NA,Premier League,2005,2005/2006
+Blackburn Rovers,Keith Barker,19,Forward,Cercle Brugge,"End of loanMar 1, 2006",in,0,Premier League,2005,2005/2006
+Blackburn Rovers,Paul Gallagher,21,Central Midfield,Stoke City,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Blackburn Rovers,Andy Taylor,19,Left-Back,Blackburn U18,-,in,0,Premier League,2005,2005/2006
+Blackburn Rovers,Joel Byrom,18,Central Midfield,Blackburn U18,-,in,0,Premier League,2005,2005/2006
+Blackburn Rovers,Andy Taylor,19,Left-Back,QPR,"End of loanFeb 1, 2006",in,0,Premier League,2005,2005/2006
+Blackburn Rovers,Luke Jones,19,Centre-Back,Cercle Brugge,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Blackburn Rovers,Gary Harkins,20,Attacking Midfield,Blackpool,"End of loanDec 18, 2005",in,0,Premier League,2005,2005/2006
+Blackburn Rovers,Andy Taylor,20,Left-Back,Blackpool,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Blackburn Rovers,Sergio Peter,18,Left Midfield,Blackburn U21,-,in,0,Premier League,2005,2005/2006
+Blackburn Rovers,Luke Jones,18,Centre-Back,Blackburn U18,-,in,0,Premier League,2005,2005/2006
+Blackburn Rovers,Jemal Johnson,20,Right Winger,Darlington,"End of loanApr 1, 2006",in,0,Premier League,2005,2005/2006
+Blackburn Rovers,Jemal Johnson,20,Right Winger,Preston NE,"End of loanNov 1, 2005",in,0,Premier League,2005,2005/2006
+Blackburn Rovers,Jonathan Douglas,24,Central Midfield,Leeds,"End of loanMay 31, 2006",in,0,Premier League,2005,2005/2006
+Blackburn Rovers,Keith Barker,18,Forward,Blackburn U18,-,in,0,Premier League,2005,2005/2006
+Blackburn Rovers,Jay McEveley,20,Centre-Back,Ipswich,"End of loanDec 31, 2005",in,0,Premier League,2005,2005/2006
+Blackburn Rovers,Zak Jones,16,Goalkeeper,Blackburn U18,-,in,0,Premier League,2005,2005/2006
+Blackburn Rovers,Jon Stead,22,Centre-Forward,Sunderland,£2.43m,out,2.43,Premier League,2005,2005/2006
+Blackburn Rovers,Andy Taylor,19,Left-Back,QPR,Loan,out,0,Premier League,2005,2005/2006
+Blackburn Rovers,Luke Jones,18,Centre-Back,Cercle Brugge,Loan,out,0,Premier League,2005,2005/2006
+Blackburn Rovers,Keith Barker,19,Forward,Cercle Brugge,Loan,out,0,Premier League,2005,2005/2006
+Blackburn Rovers,Jemal Johnson,20,Right Winger,Preston NE,Loan,out,0,Premier League,2005,2005/2006
+Blackburn Rovers,Matt Jansen,28,Centre-Forward,Bolton,Free Transfer,out,0,Premier League,2005,2005/2006
+Blackburn Rovers,Jonathan Douglas,23,Central Midfield,Leeds,Loan,out,0,Premier League,2005,2005/2006
+Blackburn Rovers,Garry Flitcroft,33,Central Midfield,Sheffield Utd.,Free Transfer,out,0,Premier League,2005,2005/2006
+Blackburn Rovers,Alan Morgan,21,Left Midfield,Inverness Cal.,Free Transfer,out,0,Premier League,2005,2005/2006
+Blackburn Rovers,Jemal Johnson,20,Right Winger,Darlington,Loan,out,0,Premier League,2005,2005/2006
+Blackburn Rovers,Zak Jones,16,Goalkeeper,Southampton,Free Transfer,out,0,Premier League,2005,2005/2006
+Blackburn Rovers,Craig Short,37,Centre-Back,Sheffield Utd.,Free Transfer,out,0,Premier League,2005,2005/2006
+Blackburn Rovers,David Thompson,28,Right Midfield,Wigan,Free Transfer,out,0,Premier League,2005,2005/2006
+Blackburn Rovers,Paul Gallagher,20,Central Midfield,Stoke City,Loan,out,0,Premier League,2005,2005/2006
+Blackburn Rovers,Andy Taylor,19,Left-Back,Blackpool,Loan,out,0,Premier League,2005,2005/2006
+Blackburn Rovers,Gary Harkins,20,Attacking Midfield,Blackpool,Loan,out,0,Premier League,2005,2005/2006
+Blackburn Rovers,Nils-Eric Johansson,25,Left-Back,Leicester,Free Transfer,out,0,Premier League,2005,2005/2006
+Blackburn Rovers,Jay McEveley,20,Centre-Back,Ipswich,Loan,out,0,Premier League,2005,2005/2006
+Blackburn Rovers,David Yelldell,23,Goalkeeper,Stuttg. Kickers,?,out,NA,Premier League,2005,2005/2006
+Blackburn Rovers,Zurab Khizanishvili,24,Centre-Back,Rangers,"End of loanMay 31, 2006",out,0,Premier League,2005,2005/2006
+Blackburn Rovers,David Bentley,21,Right Midfield,Arsenal,"End of loanDec 1, 2005",out,0,Premier League,2005,2005/2006
+Blackburn Rovers,Paul Weaver,19,Midfielder,Blackburn U21,-,out,0,Premier League,2005,2005/2006
+Blackburn Rovers,Florent Sinama-Pongolle,21,Second Striker,Liverpool,"End of loanMay 8, 2006",out,0,Premier League,2005,2005/2006
+Blackburn Rovers,Richard Lee,23,Goalkeeper,Watford,"End of loanMay 1, 2006",out,0,Premier League,2005,2005/2006
+Portsmouth FC,Benjani,27,Centre-Forward,AJ Auxerre,£5.40m,in,5.4,Premier League,2005,2005/2006
+Portsmouth FC,Andrew O'Brien,26,Centre-Back,Newcastle,£2.70m,in,2.7,Premier League,2005,2005/2006
+Portsmouth FC,Jhon Viáfara,26,Defensive Midfield,Once Caldas,£2.16m,in,2.16,Premier League,2005,2005/2006
+Portsmouth FC,Laurent Robert,30,Left Winger,Newcastle,Loan fee:£2.07m,in,2.07,Premier League,2005,2005/2006
+Portsmouth FC,Brian Priske,28,Right-Back,KRC Genk,£675k,in,0.675,Premier League,2005,2005/2006
+Portsmouth FC,Emmanuel Olisadebe,26,Centre-Forward,Panathinaikos,£450k,in,0.45,Premier League,2005,2005/2006
+Portsmouth FC,Andrés D'Alessandro,24,Attacking Midfield,VfL Wolfsburg,Loan fee:£450k,in,0.45,Premier League,2005,2005/2006
+Portsmouth FC,Zvonimir Vukic,25,Attacking Midfield,Shakhtar D.,Loan fee:£360k,in,0.36,Premier League,2005,2005/2006
+Portsmouth FC,Franck Songo'o,18,Right Winger,Barça U19,£338k,in,0.338,Premier League,2005,2005/2006
+Portsmouth FC,Dean Kiely,35,Goalkeeper,Charlton,£225k,in,0.225,Premier League,2005,2005/2006
+Portsmouth FC,Wayne Routledge,21,Left Winger,Spurs,Loan,in,0,Premier League,2005,2005/2006
+Portsmouth FC,Grégory Vignal,23,Left-Back,Liverpool,Free Transfer,in,0,Premier League,2005,2005/2006
+Portsmouth FC,Darío Silva,32,Centre-Forward,Sevilla FC,Free Transfer,in,0,Premier League,2005,2005/2006
+Portsmouth FC,Collins Mbesuma,21,Centre-Forward,Kaizer Chiefs,Free Transfer,in,0,Premier League,2005,2005/2006
+Portsmouth FC,Berlin,18,Centre-Forward,Westerlo Res.,Free Transfer,in,0,Premier League,2005,2005/2006
+Portsmouth FC,Salif Diao,28,Defensive Midfield,Liverpool,Loan,in,0,Premier League,2005,2005/2006
+Portsmouth FC,Sander Westerveld,30,Goalkeeper,Real Sociedad,Free Transfer,in,0,Premier League,2005,2005/2006
+Portsmouth FC,Pedro Mendes,26,Defensive Midfield,Spurs,?,in,NA,Premier League,2005,2005/2006
+Portsmouth FC,Noé Pamarot,26,Centre-Back,Spurs,?,in,NA,Premier League,2005,2005/2006
+Portsmouth FC,Ognjen Koroman,26,Right Winger,Terek Grozny,Loan,in,0,Premier League,2005,2005/2006
+Portsmouth FC,Azar Karadas,23,Centre-Back,Benfica,Loan,in,0,Premier League,2005,2005/2006
+Portsmouth FC,Sean Davis,26,Defensive Midfield,Spurs,?,in,NA,Premier League,2005,2005/2006
+Portsmouth FC,Sander Westerveld,31,Goalkeeper,Everton,"End of loanApr 1, 2006",in,0,Premier League,2005,2005/2006
+Portsmouth FC,Liam Horsted,20,Left Winger,Dunfermline A.,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Portsmouth FC,Marc Wilson,17,Centre-Back,Portsmouth U18,-,in,0,Premier League,2005,2005/2006
+Portsmouth FC,Richard Duffy,20,Centre-Back,Coventry,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Portsmouth FC,Vincent Péricard,23,Centre-Forward,Sheffield Utd.,"End of loanNov 1, 2005",in,0,Premier League,2005,2005/2006
+Portsmouth FC,James Keene,20,Centre-Forward,Boston United,"End of loanFeb 13, 2006",in,0,Premier League,2005,2005/2006
+Portsmouth FC,Marc Wilson,18,Centre-Back,Yeovil Town,"End of loanApr 10, 2006",in,0,Premier League,2005,2005/2006
+Portsmouth FC,Daryl Fordyce,18,Attacking Midfield,Portsmouth U18,-,in,0,Premier League,2005,2005/2006
+Portsmouth FC,Vincent Péricard,23,Centre-Forward,Plymouth,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Portsmouth FC,Asmir Begovic,18,Goalkeeper,AA La Louviere,"End of loanDec 31, 2005",in,0,Premier League,2005,2005/2006
+Portsmouth FC,Gary Silk,21,Right-Back,Boston United,"End of loanApr 1, 2006",in,0,Premier League,2005,2005/2006
+Portsmouth FC,Jhon Viáfara,27,Defensive Midfield,Real Sociedad,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Portsmouth FC,Asmir Begovic,18,Goalkeeper,Portsmouth U18,-,in,0,Premier League,2005,2005/2006
+Portsmouth FC,Daryl Fordyce,19,Attacking Midfield,Bournemouth,"End of loanMay 7, 2006",in,0,Premier League,2005,2005/2006
+Portsmouth FC,James Keene,19,Centre-Forward,Bournemouth,"End of loanDec 13, 2005",in,0,Premier League,2005,2005/2006
+Portsmouth FC,Chris Clark,21,Midfielder,Stoke City,"End of loanJun 30, 2005",in,0,Premier League,2005,2005/2006
+Portsmouth FC,Ivica Mornar,31,Centre-Forward,Stade Rennais,"End of loanJun 30, 2005",in,0,Premier League,2005,2005/2006
+Portsmouth FC,Yakubu Aiyegbeni,22,Centre-Forward,Middlesbrough,£8.78m,out,8.78,Premier League,2005,2005/2006
+Portsmouth FC,Ricardo Fuller,25,Centre-Forward,Southampton,£135k,out,0.135,Premier League,2005,2005/2006
+Portsmouth FC,Richard Duffy,19,Centre-Back,Coventry,Loan,out,0,Premier League,2005,2005/2006
+Portsmouth FC,Aleksandar Rodic,26,Centre-Forward,Kayserispor,Loan,out,0,Premier League,2005,2005/2006
+Portsmouth FC,Jhon Viáfara,27,Defensive Midfield,Real Sociedad,Loan,out,0,Premier League,2005,2005/2006
+Portsmouth FC,David Unsworth,31,Left-Back,Sheffield Utd.,Free Transfer,out,0,Premier League,2005,2005/2006
+Portsmouth FC,Daryl Fordyce,19,Attacking Midfield,Bournemouth,Loan,out,0,Premier League,2005,2005/2006
+Portsmouth FC,Liam Horsted,19,Left Winger,Dunfermline A.,Loan,out,0,Premier League,2005,2005/2006
+Portsmouth FC,Andrea Guatelli,21,Goalkeeper,Oxford United,Loan,out,0,Premier League,2005,2005/2006
+Portsmouth FC,Shaun Cooper,21,Defensive Midfield,Bournemouth,Free Transfer,out,0,Premier League,2005,2005/2006
+Portsmouth FC,James Keene,19,Centre-Forward,Bournemouth,Loan,out,0,Premier League,2005,2005/2006
+Portsmouth FC,Konstantinos Chalkias,31,Goalkeeper,Real Murcia,Free Transfer,out,0,Premier League,2005,2005/2006
+Portsmouth FC,Patrik Berger,31,Attacking Midfield,Aston Villa,Free Transfer,out,0,Premier League,2005,2005/2006
+Portsmouth FC,Gary Silk,21,Right-Back,Boston United,Loan,out,0,Premier League,2005,2005/2006
+Portsmouth FC,Arjan de Zeeuw,35,Centre-Back,Wigan,Free Transfer,out,0,Premier League,2005,2005/2006
+Portsmouth FC,Vincent Péricard,23,Centre-Forward,Plymouth,Loan,out,0,Premier League,2005,2005/2006
+Portsmouth FC,Marc Wilson,18,Centre-Back,Yeovil Town,Loan,out,0,Premier League,2005,2005/2006
+Portsmouth FC,Asmir Begovic,18,Goalkeeper,AA La Louviere,Loan,out,0,Premier League,2005,2005/2006
+Portsmouth FC,Vincent Péricard,22,Centre-Forward,Sheffield Utd.,Loan,out,0,Premier League,2005,2005/2006
+Portsmouth FC,Giannis Skopelitis,27,Defensive Midfield,AO Egaleo,Free Transfer,out,0,Premier League,2005,2005/2006
+Portsmouth FC,James Keene,20,Centre-Forward,Boston United,Loan,out,0,Premier League,2005,2005/2006
+Portsmouth FC,Steve Stone,33,Right Midfield,Leeds,Free Transfer,out,0,Premier League,2005,2005/2006
+Portsmouth FC,Sander Westerveld,31,Goalkeeper,Everton,Loan,out,0,Premier League,2005,2005/2006
+Portsmouth FC,James Keene,20,Centre-Forward,GAIS,Loan,out,0,Premier League,2005,2005/2006
+Portsmouth FC,Shaka Hislop,36,Goalkeeper,West Ham,Free Transfer,out,0,Premier League,2005,2005/2006
+Portsmouth FC,Salif Diao,29,Defensive Midfield,Liverpool,"End of loanMay 1, 2006",out,0,Premier League,2005,2005/2006
+Portsmouth FC,Ognjen Koroman,27,Right Winger,Terek Grozny,"End of loanMay 1, 2006",out,0,Premier League,2005,2005/2006
+Portsmouth FC,Zvonimir Vukic,26,Attacking Midfield,Shakhtar D.,"End of loanDec 1, 2005",out,0,Premier League,2005,2005/2006
+Portsmouth FC,Darío Silva,33,Centre-Forward,Without Club,-,out,0,Premier League,2005,2005/2006
+Portsmouth FC,Wayne Routledge,21,Left Winger,Spurs,"End of loanMay 31, 2006",out,0,Premier League,2005,2005/2006
+Portsmouth FC,Chris Clark,21,Midfielder,Portsmouth U21,-,out,0,Premier League,2005,2005/2006
+Portsmouth FC,Andrés D'Alessandro,25,Attacking Midfield,VfL Wolfsburg,"End of loanMay 1, 2006",out,0,Premier League,2005,2005/2006
+Portsmouth FC,Laurent Robert,30,Left Winger,Newcastle,"End of loanDec 31, 2005",out,0,Premier League,2005,2005/2006
+Portsmouth FC,Hayden Foxe,28,Centre-Back,Career break,-,out,0,Premier League,2005,2005/2006
+West Bromwich Albion,Nathan Ellington,23,Centre-Forward,Wigan,£4.05m,in,4.05,Premier League,2005,2005/2006
+West Bromwich Albion,Curtis Davies,20,Centre-Back,Luton Town,£4.05m,in,4.05,Premier League,2005,2005/2006
+West Bromwich Albion,Diomansy Kamara,24,Right Winger,Modena,£2.03m,in,2.03,Premier League,2005,2005/2006
+West Bromwich Albion,Darren Carter,21,Central Midfield,Birmingham,£2.03m,in,2.03,Premier League,2005,2005/2006
+West Bromwich Albion,Nigel Quashie,27,Central Midfield,Southampton,£1.62m,in,1.62,Premier League,2005,2005/2006
+West Bromwich Albion,Chris Kirkland,24,Goalkeeper,Liverpool,Loan,in,0,Premier League,2005,2005/2006
+West Bromwich Albion,Williams Martínez,23,Centre-Back,Defensor,Loan,in,0,Premier League,2005,2005/2006
+West Bromwich Albion,Steve Watson,31,Right Midfield,Everton,Free Transfer,in,0,Premier League,2005,2005/2006
+West Bromwich Albion,Jan Kozak,25,Attacking Midfield,Artmedia Brat.,Loan,in,0,Premier League,2005,2005/2006
+West Bromwich Albion,Stuart Nicholson,18,Centre-Forward,West Brom U18,-,in,0,Premier League,2005,2005/2006
+West Bromwich Albion,Rob Davies,18,Central Midfield,West Brom U18,-,in,0,Premier League,2005,2005/2006
+West Bromwich Albion,Lloyd Dyer,23,Left Midfield,QPR,"End of loanDec 1, 2005",in,0,Premier League,2005,2005/2006
+West Bromwich Albion,Jason Koumas,25,Attacking Midfield,Cardiff,"End of loanMay 31, 2005",in,0,Premier League,2005,2005/2006
+West Bromwich Albion,Jeff Forsyth,17,Centre-Back,West Brom U18,-,in,0,Premier League,2005,2005/2006
+West Bromwich Albion,Russell Hoult,32,Goalkeeper,Nottm Forest,"End of loanOct 1, 2005",in,0,Premier League,2005,2005/2006
+West Bromwich Albion,Jared Hodgkiss,18,Right-Back,West Brom U18,-,in,0,Premier League,2005,2005/2006
+West Bromwich Albion,Richard Chaplow,21,Central Midfield,Southampton,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+West Bromwich Albion,Robert Earnshaw,24,Centre-Forward,Norwich,£3.71m,out,3.71,Premier League,2005,2005/2006
+West Bromwich Albion,Geoff Horsfield,31,Centre-Forward,Sheffield Utd.,£1.62m,out,1.62,Premier League,2005,2005/2006
+West Bromwich Albion,Rob Hulse,25,Centre-Forward,Leeds,£1.49m,out,1.49,Premier League,2005,2005/2006
+West Bromwich Albion,Darren Purse,28,Centre-Back,Cardiff,£810k,out,0.81,Premier League,2005,2005/2006
+West Bromwich Albion,Darren Moore,31,Centre-Back,Derby,£360k,out,0.36,Premier League,2005,2005/2006
+West Bromwich Albion,Lloyd Dyer,23,Left Midfield,Millwall,£180k,out,0.18,Premier League,2005,2005/2006
+West Bromwich Albion,Artim Sakiri,31,Left Midfield,Aalborg BK,Free Transfer,out,0,Premier League,2005,2005/2006
+West Bromwich Albion,Joe Murphy,23,Goalkeeper,Sunderland,Free Transfer,out,0,Premier League,2005,2005/2006
+West Bromwich Albion,Riccardo Scimeca,30,Centre-Back,Cardiff,Free Transfer,out,0,Premier League,2005,2005/2006
+West Bromwich Albion,Lloyd Dyer,23,Left Midfield,QPR,Loan,out,0,Premier League,2005,2005/2006
+West Bromwich Albion,Richard Chaplow,21,Central Midfield,Southampton,Loan,out,0,Premier League,2005,2005/2006
+West Bromwich Albion,Jason Koumas,25,Attacking Midfield,Cardiff,Loan,out,0,Premier League,2005,2005/2006
+West Bromwich Albion,Matthew Turner,23,Forward,Herfölge BK,Free Transfer,out,0,Premier League,2005,2005/2006
+West Bromwich Albion,Russell Hoult,32,Goalkeeper,Nottm Forest,Loan,out,0,Premier League,2005,2005/2006
+West Bromwich Albion,Simon Miotto,35,Goalkeeper,Ölstykke FC,Free Transfer,out,0,Premier League,2005,2005/2006
+West Bromwich Albion,Chris Kirkland,24,Goalkeeper,Liverpool,"End of loanMay 1, 2006",out,0,Premier League,2005,2005/2006
+West Bromwich Albion,Sekou Berthé,27,Centre-Back,Without Club,-,out,0,Premier League,2005,2005/2006
+West Bromwich Albion,Williams Martínez,23,Centre-Back,Defensor,"End of loanMay 8, 2006",out,0,Premier League,2005,2005/2006
+Sunderland AFC,Jon Stead,22,Centre-Forward,Blackburn,£2.43m,in,2.43,Premier League,2005,2005/2006
+Sunderland AFC,Kelvin Davis,28,Goalkeeper,Ipswich,£1.69m,in,1.69,Premier League,2005,2005/2006
+Sunderland AFC,Andy Gray,27,Centre-Forward,Sheffield Utd.,£1.08m,in,1.08,Premier League,2005,2005/2006
+Sunderland AFC,Daryl Murphy,22,Centre-Forward,Waterford FC,£135k,in,0.135,Premier League,2005,2005/2006
+Sunderland AFC,Tommy Miller,26,Central Midfield,Ipswich,Free Transfer,in,0,Premier League,2005,2005/2006
+Sunderland AFC,Joe Murphy,23,Goalkeeper,West Brom,Free Transfer,in,0,Premier League,2005,2005/2006
+Sunderland AFC,Kevin Smith,18,Centre-Forward,Leeds,Free Transfer,in,0,Premier League,2005,2005/2006
+Sunderland AFC,Christian Bassila,27,Centre-Back,R. Strasbourg,Free Transfer,in,0,Premier League,2005,2005/2006
+Sunderland AFC,Alan Stubbs,33,Centre-Back,Everton,Free Transfer,in,0,Premier League,2005,2005/2006
+Sunderland AFC,Rory Delap,29,Central Midfield,Southampton,Free Transfer,in,0,Premier League,2005,2005/2006
+Sunderland AFC,Anthony Le Tallec,20,Centre-Forward,Liverpool,Loan,in,0,Premier League,2005,2005/2006
+Sunderland AFC,Nyron Nosworthy,24,Centre-Back,Gillingham FC,Free Transfer,in,0,Premier League,2005,2005/2006
+Sunderland AFC,Martin Woods,19,Central Midfield,Leeds,Free Transfer,in,0,Premier League,2005,2005/2006
+Sunderland AFC,Justin Hoyte,20,Right-Back,Arsenal,Loan,in,0,Premier League,2005,2005/2006
+Sunderland AFC,Sean Taylor,20,Midfielder,Blackpool,"End of loanMay 7, 2006",in,0,Premier League,2005,2005/2006
+Sunderland AFC,Neill Collins,22,Centre-Back,Hartlepool Utd.,"End of loanDec 31, 2005",in,0,Premier League,2005,2005/2006
+Sunderland AFC,Andy Welsh,22,Left Midfield,Leicester,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Sunderland AFC,Grant Leadbitter,19,Central Midfield,Rotherham,"End of loanNov 1, 2005",in,0,Premier League,2005,2005/2006
+Sunderland AFC,Joe Murphy,24,Goalkeeper,Walsall,"End of loanDec 31, 2005",in,0,Premier League,2005,2005/2006
+Sunderland AFC,Neill Collins,22,Centre-Back,Sheffield Utd.,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Sunderland AFC,Chris Brown,20,Centre-Forward,Hull City,"End of loanNov 23, 2005",in,0,Premier League,2005,2005/2006
+Sunderland AFC,Jake Richardson,16,Central Midfield,Sunderland U18,-,in,0,Premier League,2005,2005/2006
+Sunderland AFC,Daryl Murphy,22,Centre-Forward,Sheff Wed,"End of loanDec 1, 2005",in,0,Premier League,2005,2005/2006
+Sunderland AFC,Daniel Smith,19,Left-Back,Huddersfield,"End of loanMar 5, 2006",in,0,Premier League,2005,2005/2006
+Sunderland AFC,Andy Gray,28,Centre-Forward,Burnley,£990k,out,0.99,Premier League,2005,2005/2006
+Sunderland AFC,Sean Thornton,22,Central Midfield,Doncaster,£225k,out,0.225,Premier League,2005,2005/2006
+Sunderland AFC,Carl Robinson,29,Central Midfield,Norwich,£68k,out,0.068,Premier League,2005,2005/2006
+Sunderland AFC,Alan Stubbs,34,Centre-Back,Everton,Free Transfer,out,0,Premier League,2005,2005/2006
+Sunderland AFC,Daniel Smith,19,Left-Back,Huddersfield,Loan,out,0,Premier League,2005,2005/2006
+Sunderland AFC,Andy Welsh,22,Left Midfield,Leicester,Loan,out,0,Premier League,2005,2005/2006
+Sunderland AFC,Grant Leadbitter,19,Central Midfield,Rotherham,Loan,out,0,Premier League,2005,2005/2006
+Sunderland AFC,Marcus Stewart,32,Centre-Forward,Bristol City,Free Transfer,out,0,Premier League,2005,2005/2006
+Sunderland AFC,Mark Lynch,23,Right-Back,Hull City,Free Transfer,out,0,Premier League,2005,2005/2006
+Sunderland AFC,Neil Teggart,20,Centre-Forward,Perth Glory,Free Transfer,out,0,Premier League,2005,2005/2006
+Sunderland AFC,Mart Poom,33,Goalkeeper,Arsenal,Free Transfer,out,0,Premier League,2005,2005/2006
+Sunderland AFC,Neill Collins,22,Centre-Back,Sheffield Utd.,Loan,out,0,Premier League,2005,2005/2006
+Sunderland AFC,Chris Brown,20,Centre-Forward,Hull City,Loan,out,0,Premier League,2005,2005/2006
+Sunderland AFC,Jeff Whitley,26,Defensive Midfield,Cardiff,Free Transfer,out,0,Premier League,2005,2005/2006
+Sunderland AFC,Daryl Murphy,22,Centre-Forward,Sheff Wed,Loan,out,0,Premier League,2005,2005/2006
+Sunderland AFC,Chris Kingsberry,19,Midfielder,Linfield,Free Transfer,out,0,Premier League,2005,2005/2006
+Sunderland AFC,Michael Bridges,26,Centre-Forward,Bristol City,Free Transfer,out,0,Premier League,2005,2005/2006
+Sunderland AFC,Jonjo Dickman,23,Right Midfield,Darlington,Free Transfer,out,0,Premier League,2005,2005/2006
+Sunderland AFC,Sean Taylor,20,Midfielder,Blackpool,Loan,out,0,Premier League,2005,2005/2006
+Sunderland AFC,Neill Collins,21,Centre-Back,Hartlepool Utd.,Loan,out,0,Premier League,2005,2005/2006
+Sunderland AFC,Joe Murphy,24,Goalkeeper,Walsall,Loan,out,0,Premier League,2005,2005/2006
+Sunderland AFC,Michael Ingham,24,Goalkeeper,Wrexham,Free Transfer,out,0,Premier League,2005,2005/2006
+Sunderland AFC,Thomas Myhre,31,Goalkeeper,Charlton,Free Transfer,out,0,Premier League,2005,2005/2006
+Sunderland AFC,Colin Healy,25,Central Midfield,Without Club,-,out,0,Premier League,2005,2005/2006
+Sunderland AFC,Matt Piper,24,Right Midfield,Without Club,-,out,0,Premier League,2005,2005/2006
+Wigan Athletic,Henri Camara,28,Centre-Forward,Wolves,£5.81m,in,5.81,Premier League,2005,2005/2006
+Wigan Athletic,Paul Scharner,25,Centre-Back,SK Brann,£3.30m,in,3.3,Premier League,2005,2005/2006
+Wigan Athletic,David Connolly,28,Centre-Forward,Leicester,£2.70m,in,2.7,Premier League,2005,2005/2006
+Wigan Athletic,Damien Francis,26,Central Midfield,Norwich,£2.03m,in,2.03,Premier League,2005,2005/2006
+Wigan Athletic,Mike Pollitt,33,Goalkeeper,Rotherham,£270k,in,0.27,Premier League,2005,2005/2006
+Wigan Athletic,Ryan Taylor,20,Right-Back,Tranmere Rovers,£90k,in,0.09,Premier League,2005,2005/2006
+Wigan Athletic,Stéphane Henchoz,30,Centre-Back,Celtic,Free Transfer,in,0,Premier League,2005,2005/2006
+Wigan Athletic,David Thompson,28,Right Midfield,Blackburn,Free Transfer,in,0,Premier League,2005,2005/2006
+Wigan Athletic,Arjan de Zeeuw,35,Centre-Back,Portsmouth,Free Transfer,in,0,Premier League,2005,2005/2006
+Wigan Athletic,Josip Skoko,29,Central Midfield,Genclerbirligi,Free Transfer,in,0,Premier League,2005,2005/2006
+Wigan Athletic,Pascal Chimbonda,26,Right-Back,SC Bastia,Free Transfer,in,0,Premier League,2005,2005/2006
+Wigan Athletic,Neil Mellor,23,Centre-Forward,Liverpool,Loan,in,0,Premier League,2005,2005/2006
+Wigan Athletic,Reto Ziegler,20,Centre-Back,Spurs,Loan,in,0,Premier League,2005,2005/2006
+Wigan Athletic,Ngasanya Saddam Ilongo,20,Defensive Midfield,Hapoel Tel Aviv,?,in,NA,Premier League,2005,2005/2006
+Wigan Athletic,Josip Skoko,30,Central Midfield,Stoke City,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+Wigan Athletic,David Wright,25,Defensive Midfield,Norwich,"End of loanDec 18, 2005",in,0,Premier League,2005,2005/2006
+Wigan Athletic,Émerson Thome,33,Centre-Back,Derby,"End of loanNov 19, 2005",in,0,Premier League,2005,2005/2006
+Wigan Athletic,Nathan Ellington,23,Centre-Forward,West Brom,£4.05m,out,4.05,Premier League,2005,2005/2006
+Wigan Athletic,Ian Breckin,29,Centre-Back,Nottm Forest,£405k,out,0.405,Premier League,2005,2005/2006
+Wigan Athletic,David Graham,26,Centre-Forward,Sheff Wed,£338k,out,0.338,Premier League,2005,2005/2006
+Wigan Athletic,Alan Mahon,27,Left Midfield,Burnley,£270k,out,0.27,Premier League,2005,2005/2006
+Wigan Athletic,Phil Edwards,19,Right-Back,Accrington,Free Transfer,out,0,Premier League,2005,2005/2006
+Wigan Athletic,Luke Joyce,18,Defensive Midfield,Carlisle United,Free Transfer,out,0,Premier League,2005,2005/2006
+Wigan Athletic,Jason Jarrett,25,Central Midfield,Norwich,Free Transfer,out,0,Premier League,2005,2005/2006
+Wigan Athletic,Gareth Whalley,31,Central Midfield,Swindon Town,Free Transfer,out,0,Premier League,2005,2005/2006
+Wigan Athletic,Émerson Thome,33,Centre-Back,Derby,Loan,out,0,Premier League,2005,2005/2006
+Wigan Athletic,Nicky Eaden,32,Right-Back,Nottm Forest,Free Transfer,out,0,Premier League,2005,2005/2006
+Wigan Athletic,Josip Skoko,30,Central Midfield,Stoke City,Loan,out,0,Premier League,2005,2005/2006
+Wigan Athletic,David Wright,25,Defensive Midfield,Norwich,Loan,out,0,Premier League,2005,2005/2006
+Wigan Athletic,Gregg Traynor,20,Left Midfield,Hyde United,Free Transfer,out,0,Premier League,2005,2005/2006
+Wigan Athletic,Ngasanya Saddam Ilongo,21,Defensive Midfield,Loko Moscow,?,out,NA,Premier League,2005,2005/2006
+Wigan Athletic,Émerson Thome,33,Centre-Back,Vissel Kobe,?,out,NA,Premier League,2005,2005/2006
+Wigan Athletic,Neil Mellor,23,Centre-Forward,Liverpool,"End of loanMay 1, 2006",out,0,Premier League,2005,2005/2006
+Wigan Athletic,Per Frandsen,35,Right Midfield,Retired,-,out,0,Premier League,2005,2005/2006
+Wigan Athletic,David Moore,NA,Midfielder,Retired,-,out,0,Premier League,2005,2005/2006
+West Ham United,Dean Ashton,22,Centre-Forward,Norwich,£9.80m,in,9.8,Premier League,2005,2005/2006
+West Ham United,Yossi Benayoun,25,Right Winger,Racing,£3.38m,in,3.38,Premier League,2005,2005/2006
+West Ham United,Paul Konchesky,24,Left-Back,Charlton,£2.03m,in,2.03,Premier League,2005,2005/2006
+West Ham United,Danny Gabbidon,25,Centre-Back,Cardiff,£1.80m,in,1.8,Premier League,2005,2005/2006
+West Ham United,James Collins,21,Centre-Back,Cardiff,£1.80m,in,1.8,Premier League,2005,2005/2006
+West Ham United,Clive Clarke,25,Left-Back,Stoke City,£495k,in,0.495,Premier League,2005,2005/2006
+West Ham United,Yaniv Katan,24,Attacking Midfield,Maccabi Haifa,£135k,in,0.135,Premier League,2005,2005/2006
+West Ham United,Shaka Hislop,36,Goalkeeper,Portsmouth,Free Transfer,in,0,Premier League,2005,2005/2006
+West Ham United,Sekou Baradji,21,Defensive Midfield,Le Mans UC 72,Free Transfer,in,0,Premier League,2005,2005/2006
+West Ham United,Jérémie Aliadière,22,Centre-Forward,Arsenal,Loan,in,0,Premier League,2005,2005/2006
+West Ham United,Roy Carroll,27,Goalkeeper,Man Utd,Free Transfer,in,0,Premier League,2005,2005/2006
+West Ham United,Petr Mikolanda,20,Centre-Forward,Viktoria Zizkov,Free Transfer,in,0,Premier League,2005,2005/2006
+West Ham United,David Bellion,22,Centre-Forward,Man Utd,Loan,in,0,Premier League,2005,2005/2006
+West Ham United,Lionel Scaloni,27,Right-Back,Dep. La Coruña,Loan,in,0,Premier League,2005,2005/2006
+West Ham United,Luke Chadwick,25,Attacking Midfield,Stoke City,"End of loanJan 3, 2006",in,0,Premier League,2005,2005/2006
+West Ham United,Matthew Reed,18,Goalkeeper,West Ham U18,-,in,0,Premier League,2005,2005/2006
+West Ham United,Chris Cohen,19,Central Midfield,Yeovil Town,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+West Ham United,Matthew Reed,19,Goalkeeper,Barnet,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+West Ham United,Petr Mikolanda,21,Centre-Forward,Northampt. Town,"End of loanOct 1, 2005",in,0,Premier League,2005,2005/2006
+West Ham United,Petr Mikolanda,21,Centre-Forward,Swindon Town,"End of loanNov 1, 2005",in,0,Premier League,2005,2005/2006
+West Ham United,Tony Stokes,18,Central Midfield,West Ham U18,-,in,0,Premier League,2005,2005/2006
+West Ham United,Elliott Ward,21,Centre-Back,Plymouth,"End of loanFeb 1, 2006",in,0,Premier League,2005,2005/2006
+West Ham United,Ishmael Welsh,17,Central Midfield,West Ham U18,-,in,0,Premier League,2005,2005/2006
+West Ham United,Tony Stokes,19,Central Midfield,Rush. & Diamon.,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+West Ham United,Stephen Bywater,24,Goalkeeper,Coventry,"End of loanOct 1, 2005",in,0,Premier League,2005,2005/2006
+West Ham United,Moses Ashikodi,18,Centre-Forward,Gillingham FC,"End of loanNov 1, 2005",in,0,Premier League,2005,2005/2006
+West Ham United,Darren Blewitt,20,Defender,Hereford Utd.,"End of loanJan 3, 2006",in,0,Premier League,2005,2005/2006
+West Ham United,Kyel Reid,17,Left Winger,West Ham U18,-,in,0,Premier League,2005,2005/2006
+West Ham United,Mark Noble,18,Central Midfield,Hull City,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+West Ham United,Trent McClenahan,21,Centre-Back,MK Dons,"End of loanMay 1, 2006",in,0,Premier League,2005,2005/2006
+West Ham United,Carl Fletcher,25,Defensive Midfield,Watford,"End of loanOct 16, 2005",in,0,Premier League,2005,2005/2006
+West Ham United,Sekou Baradji,21,Defensive Midfield,Reading,"End of loanNov 1, 2005",in,0,Premier League,2005,2005/2006
+West Ham United,Gavin Williams,25,Attacking Midfield,Ipswich,£360k,out,0.36,Premier League,2005,2005/2006
+West Ham United,Luke Chadwick,25,Attacking Midfield,Stoke City,£135k,out,0.135,Premier League,2005,2005/2006
+West Ham United,Petr Mikolanda,21,Centre-Forward,Rush. & Diamon.,Loan,out,0,Premier League,2005,2005/2006
+West Ham United,Darren Blewitt,19,Defender,Hereford Utd.,Loan,out,0,Premier League,2005,2005/2006
+West Ham United,Mark Noble,18,Central Midfield,Hull City,Loan,out,0,Premier League,2005,2005/2006
+West Ham United,Greg Pearson,20,Centre-Forward,Rush. & Diamon.,Free Transfer,out,0,Premier League,2005,2005/2006
+West Ham United,Elliott Ward,20,Centre-Back,Plymouth,Loan,out,0,Premier League,2005,2005/2006
+West Ham United,Steve Lomas,31,Central Midfield,QPR,Free Transfer,out,0,Premier League,2005,2005/2006
+West Ham United,Moses Ashikodi,18,Centre-Forward,Gillingham FC,Loan,out,0,Premier League,2005,2005/2006
+West Ham United,Tomás Repka,31,Centre-Back,Sparta Praha,Free Transfer,out,0,Premier League,2005,2005/2006
+West Ham United,Luke Chadwick,24,Attacking Midfield,Stoke City,Loan,out,0,Premier League,2005,2005/2006
+West Ham United,Matthew Reed,19,Goalkeeper,Barnet,Loan,out,0,Premier League,2005,2005/2006
+West Ham United,Carl Fletcher,25,Defensive Midfield,Watford,Loan,out,0,Premier League,2005,2005/2006
+West Ham United,Rufus Brevett,35,Left-Back,Plymouth,Free Transfer,out,0,Premier League,2005,2005/2006
+West Ham United,Youssef Sofiane,21,Centre-Forward,Coventry,Free Transfer,out,0,Premier League,2005,2005/2006
+West Ham United,Malky Mackay,33,Centre-Back,Watford,Free Transfer,out,0,Premier League,2005,2005/2006
+West Ham United,Chris Cohen,18,Central Midfield,Yeovil Town,Loan,out,0,Premier League,2005,2005/2006
+West Ham United,Moses Ashikodi,18,Centre-Forward,Rangers,Free Transfer,out,0,Premier League,2005,2005/2006
+West Ham United,Trent McClenahan,20,Centre-Back,MK Dons,Loan,out,0,Premier League,2005,2005/2006
+West Ham United,Tony Stokes,18,Central Midfield,Rush. & Diamon.,Loan,out,0,Premier League,2005,2005/2006
+West Ham United,Sekou Baradji,21,Defensive Midfield,Reading,Loan,out,0,Premier League,2005,2005/2006
+West Ham United,Serhii Rebrov,31,Second Striker,Dynamo Kyiv,Free Transfer,out,0,Premier League,2005,2005/2006
+West Ham United,Petr Mikolanda,21,Centre-Forward,Swindon Town,Loan,out,0,Premier League,2005,2005/2006
+West Ham United,Don Hutchison,34,Attacking Midfield,Millwall,Free Transfer,out,0,Premier League,2005,2005/2006
+West Ham United,Chris Powell,35,Left-Back,Charlton,Free Transfer,out,0,Premier League,2005,2005/2006
+West Ham United,Stephen Bywater,24,Goalkeeper,Coventry,Loan,out,0,Premier League,2005,2005/2006
+West Ham United,Petr Mikolanda,20,Centre-Forward,Northampt. Town,Loan,out,0,Premier League,2005,2005/2006
+West Ham United,David Bellion,23,Centre-Forward,Man Utd,"End of loanJan 8, 2006",out,0,Premier League,2005,2005/2006
+West Ham United,Jérémie Aliadière,22,Centre-Forward,Arsenal,"End of loanJan 30, 2006",out,0,Premier League,2005,2005/2006
+West Ham United,Andy Melville,36,Centre-Back,Retired,-,out,0,Premier League,2005,2005/2006
+West Ham United,Dusan Kuciak,20,Goalkeeper,MSK Zilina,"End of loanJun 30, 2005",out,0,Premier League,2005,2005/2006

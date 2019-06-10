@@ -1,0 +1,396 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Boavista Porto FC,Elpídio Silva,24,Centre-Forward,Braga,£630k,in,0.63,Liga Nos,2000,2000/2001
+Boavista Porto FC,Rui Óscar,24,Right-Back,Marítimo,Free Transfer,in,0,Liga Nos,2000,2000/2001
+Boavista Porto FC,Marçal,25,Defender,Leiria,Free Transfer,in,0,Liga Nos,2000,2000/2001
+Boavista Porto FC,Pedro Santos,24,Central Midfield,Gil Vicente,?,in,NA,Liga Nos,2000,2000/2001
+Boavista Porto FC,Artur Jorge Vicente,27,Forward,Rio Ave FC,?,in,NA,Liga Nos,2000,2000/2001
+Boavista Porto FC,Geraldo,27,Central Midfield,Bragantino,?,in,NA,Liga Nos,2000,2000/2001
+Boavista Porto FC,Khadim Fayé,29,Goalkeeper,Felgueiras,?,in,NA,Liga Nos,2000,2000/2001
+Boavista Porto FC,Petit,23,Defensive Midfield,Gil Vicente,?,in,NA,Liga Nos,2000,2000/2001
+Boavista Porto FC,Frechaut,22,Right-Back,Vitória Setúbal,?,in,NA,Liga Nos,2000,2000/2001
+Boavista Porto FC,Duda,26,Centre-Forward,Alverca,?,in,NA,Liga Nos,2000,2000/2001
+Boavista Porto FC,Filipe Gouveia,27,Left Midfield,Montpellier,?,in,NA,Liga Nos,2000,2000/2001
+Boavista Porto FC,Erivan,25,Left-Back,Freamunde,?,in,NA,Liga Nos,2000,2000/2001
+Boavista Porto FC,Bosingwa,17,Right-Back,Boavista U19,-,in,0,Liga Nos,2000,2000/2001
+Boavista Porto FC,João Paulo,20,Centre-Forward,Desportivo Aves,"End of loanJun 30, 2000",in,0,Liga Nos,2000,2000/2001
+Boavista Porto FC,Rui Lima,22,Attacking Midfield,Chaves,"End of loanJun 30, 2000",in,0,Liga Nos,2000,2000/2001
+Boavista Porto FC,César de Loma,24,Left Midfield,CP Mérida,"End of loanJun 30, 2000",in,0,Liga Nos,2000,2000/2001
+Boavista Porto FC,Rui Bento,28,Defensive Midfield,Sporting CP,Free Transfer,out,0,Liga Nos,2000,2000/2001
+Boavista Porto FC,Bosingwa,17,Right-Back,Freamunde,Loan,out,0,Liga Nos,2000,2000/2001
+Boavista Porto FC,Pedro Martins,29,Defensive Midfield,Alverca,Free Transfer,out,0,Liga Nos,2000,2000/2001
+Boavista Porto FC,Pedro Albergaria,19,Goalkeeper,Gondomar,?,out,NA,Liga Nos,2000,2000/2001
+Boavista Porto FC,Augustine Ahinful,26,Centre-Forward,Ankaragücü,?,out,NA,Liga Nos,2000,2000/2001
+Boavista Porto FC,Nílton,21,Central Midfield,Desportivo Aves,?,out,NA,Liga Nos,2000,2000/2001
+Boavista Porto FC,Paulo Sousa,33,Right-Back,União Lamas,?,out,NA,Liga Nos,2000,2000/2001
+Boavista Porto FC,César de Loma,24,Left Midfield,Real Betis,?,out,NA,Liga Nos,2000,2000/2001
+Boavista Porto FC,Emanuel,25,Central Midfield,Rio Ave FC,?,out,NA,Liga Nos,2000,2000/2001
+Boavista Porto FC,João Paulo,20,Centre-Forward,Vitória Setúbal,Loan,out,0,Liga Nos,2000,2000/2001
+Boavista Porto FC,Douala,21,Left Winger,Desportivo Aves,Loan,out,0,Liga Nos,2000,2000/2001
+Boavista Porto FC,Luís Manuel,29,Defensive Midfield,Beira-Mar,?,out,NA,Liga Nos,2000,2000/2001
+Boavista Porto FC,Gilmar,33,Forward,Chaves,?,out,NA,Liga Nos,2000,2000/2001
+Boavista Porto FC,Artur Jorge Vicente,28,Forward,Vitória Setúbal,?,out,NA,Liga Nos,2000,2000/2001
+Boavista Porto FC,Rui Lima,22,Attacking Midfield,Desportivo Aves,Loan,out,0,Liga Nos,2000,2000/2001
+Boavista Porto FC,Mário Silva,23,Left-Back,FC Nantes,?,out,NA,Liga Nos,2000,2000/2001
+Boavista Porto FC,Pedro Costa,18,Right-Back,Gondomar,?,out,NA,Liga Nos,2000,2000/2001
+Boavista Porto FC,Carlos Alberto,25,Defender,Lierse SK,?,out,NA,Liga Nos,2000,2000/2001
+Boavista Porto FC,Ion Timofte,32,Left Midfield,Retired,-,out,0,Liga Nos,2000,2000/2001
+FC Porto,Dmitri Alenichev,27,Central Midfield,AS Roma,£2.70m,in,2.7,Liga Nos,2000,2000/2001
+FC Porto,Miran Pavlin,28,Attacking Midfield,SC Freiburg,£810k,in,0.81,Liga Nos,2000,2000/2001
+FC Porto,Carlos Paredes,23,Defensive Midfield,Olimpia,Free Transfer,in,0,Liga Nos,2000,2000/2001
+FC Porto,Sergey Ovchinnikov,29,Goalkeeper,Alverca,?,in,NA,Liga Nos,2000,2000/2001
+FC Porto,Pena,26,Centre-Forward,Palmeiras,?,in,NA,Liga Nos,2000,2000/2001
+FC Porto,Juan Antonio Pizzi,32,Centre-Forward,CA Rosario,?,in,NA,Liga Nos,2000,2000/2001
+FC Porto,Pedro Espinha,34,Goalkeeper,Vit. Guimarães,?,in,NA,Liga Nos,2000,2000/2001
+FC Porto,Fernandinho,19,Left-Back,EC Vitória,?,in,NA,Liga Nos,2000,2000/2001
+FC Porto,Pedro Oliveira,18,Right Winger,Boavista U19,?,in,NA,Liga Nos,2000,2000/2001
+FC Porto,Alhandra,21,Left-Back,Alverca,?,in,NA,Liga Nos,2000,2000/2001
+FC Porto,Jorge Andrade,22,Centre-Back,Estrela Amadora,?,in,NA,Liga Nos,2000,2000/2001
+FC Porto,Manuel José,19,Right Winger,FC Porto B,-,in,0,Liga Nos,2000,2000/2001
+FC Porto,Bruno Alves,17,Centre-Back,FC Porto U19,-,in,0,Liga Nos,2000,2000/2001
+FC Porto,Alessandro Cambalhota,27,Right Winger,Fluminense,"End of loanDec 31, 2000",in,0,Liga Nos,2000,2000/2001
+FC Porto,Tonel,20,Centre-Back,FC Porto B,-,in,0,Liga Nos,2000,2000/2001
+FC Porto,António Folha,29,Left Winger,Standard Liège,"End of loanDec 31, 2000",in,0,Liga Nos,2000,2000/2001
+FC Porto,Miklós Fehér,20,Centre-Forward,Salgueiros,"End of loanJun 1, 2000",in,0,Liga Nos,2000,2000/2001
+FC Porto,Ricardo Carvalho,22,Centre-Back,Vitória Setúbal,"End of loanJun 30, 2000",in,0,Liga Nos,2000,2000/2001
+FC Porto,Jardel,26,Centre-Forward,Galatasaray,£15.35m,out,15.35,Liga Nos,2000,2000/2001
+FC Porto,Joca,20,Right-Back,Famalicão,Free Transfer,out,0,Liga Nos,2000,2000/2001
+FC Porto,Tonel,20,Centre-Back,Coimbra,Loan,out,0,Liga Nos,2000,2000/2001
+FC Porto,Ljubinko Drulovic,31,Left Winger,Benfica,Free Transfer,out,0,Liga Nos,2000,2000/2001
+FC Porto,Ricardo Carvalho,22,Centre-Back,Alverca,Loan,out,0,Liga Nos,2000,2000/2001
+FC Porto,Alessandro Cambalhota,27,Right Winger,Fluminense,Loan,out,0,Liga Nos,2000,2000/2001
+FC Porto,Rubens Júnior,25,Left-Back,Atlético-PR,Loan,out,0,Liga Nos,2000,2000/2001
+FC Porto,Alessandro Cambalhota,27,Right Winger,Cruzeiro,Loan,out,0,Liga Nos,2000,2000/2001
+FC Porto,Argel Fucks,25,Centre-Back,Palmeiras,?,out,NA,Liga Nos,2000,2000/2001
+FC Porto,Correia,21,Centre-Back,Alverca,?,out,NA,Liga Nos,2000,2000/2001
+FC Porto,Juan Antonio Pizzi,32,Centre-Forward,CA Rosario,?,out,NA,Liga Nos,2000,2000/2001
+FC Porto,Josivan,21,Forward,Desportivo Aves,?,out,NA,Liga Nos,2000,2000/2001
+FC Porto,António Folha,29,Left Winger,Standard Liège,Loan,out,0,Liga Nos,2000,2000/2001
+FC Porto,Marco Almeida,21,Midfielder,Leça,Loan,out,0,Liga Nos,2000,2000/2001
+FC Porto,Miklós Fehér,20,Centre-Forward,Braga,Loan,out,0,Liga Nos,2000,2000/2001
+FC Porto,Alhandra,21,Left-Back,Coimbra,?,out,NA,Liga Nos,2000,2000/2001
+FC Porto,Rui Barros,34,Attacking Midfield,Retired,-,out,0,Liga Nos,2000,2000/2001
+FC Porto,Cajú,23,Forward,Alverca,"End of loanJun 30, 2000",out,0,Liga Nos,2000,2000/2001
+Sporting CP,Rodrigo Tello,21,Left Midfield,U. de Chile,£6.30m,in,6.3,Liga Nos,2000,2000/2001
+Sporting CP,Pavel Horvath,25,Central Midfield,Slavia Prag,£1.35m,in,1.35,Liga Nos,2000,2000/2001
+Sporting CP,Rodrigo Fabri,24,Central Midfield,Real Valladolid,£810k,in,0.81,Liga Nos,2000,2000/2001
+Sporting CP,Chiquinho Delgado,19,Centre-Forward,Naval,Free Transfer,in,0,Liga Nos,2000,2000/2001
+Sporting CP,Phil Babb,29,Centre-Back,Liverpool,Free Transfer,in,0,Liga Nos,2000,2000/2001
+Sporting CP,Cuco,18,Central Midfield,Rio Tinto,Free Transfer,in,0,Liga Nos,2000,2000/2001
+Sporting CP,Alan Mahon,22,Left Midfield,Tranmere Rovers,Free Transfer,in,0,Liga Nos,2000,2000/2001
+Sporting CP,João Pinto,28,Second Striker,Benfica,Free Transfer,in,0,Liga Nos,2000,2000/2001
+Sporting CP,Houssine Kharja,17,Central Midfield,GFCO Ajaccio,Free Transfer,in,0,Liga Nos,2000,2000/2001
+Sporting CP,Rui Bento,28,Defensive Midfield,Boavista,Free Transfer,in,0,Liga Nos,2000,2000/2001
+Sporting CP,Jovan Kirovski,24,Right Winger,Bor. Dortmund,Free Transfer,in,0,Liga Nos,2000,2000/2001
+Sporting CP,Ricardo Sá Pinto,27,Second Striker,Real Sociedad,?,in,NA,Liga Nos,2000,2000/2001
+Sporting CP,Vargas,21,Right Winger,Espinho,?,in,NA,Liga Nos,2000,2000/2001
+Sporting CP,Hélder Rosário,20,Centre-Back,Lourinhanense,?,in,NA,Liga Nos,2000,2000/2001
+Sporting CP,Jorge Vidigal,22,Right-Back,Estoril,?,in,NA,Liga Nos,2000,2000/2001
+Sporting CP,Mario Cáceres,19,Centre-Forward,Colo Colo,Loan,in,0,Liga Nos,2000,2000/2001
+Sporting CP,Bruno Caires,24,Defensive Midfield,CD Tenerife,?,in,NA,Liga Nos,2000,2000/2001
+Sporting CP,Paíto,17,Left-Back,Maxaquene,?,in,NA,Liga Nos,2000,2000/2001
+Sporting CP,Bruno Sousa,18,Centre-Back,Lourinhanense,?,in,NA,Liga Nos,2000,2000/2001
+Sporting CP,Paulo Teixeira,19,Defensive Midfield,Lourinhanense,?,in,NA,Liga Nos,2000,2000/2001
+Sporting CP,Jorge Brítez,19,Defensive Midfield,Real Valladolid,?,in,NA,Liga Nos,2000,2000/2001
+Sporting CP,Paulo Bento,31,Defensive Midfield,Real Oviedo,?,in,NA,Liga Nos,2000,2000/2001
+Sporting CP,Dimas,31,Left-Back,Standard Liège,?,in,NA,Liga Nos,2000,2000/2001
+Sporting CP,Nuno Santos,21,Goalkeeper,Lourinhanense,"End of loanJun 30, 2000",in,0,Liga Nos,2000,2000/2001
+Sporting CP,Marco Caneira,21,Centre-Back,Alverca,"End of loanJun 30, 2000",in,0,Liga Nos,2000,2000/2001
+Sporting CP,Santamaria,18,Centre-Back,Lourinhanense,"End of loanJun 30, 2000",in,0,Liga Nos,2000,2000/2001
+Sporting CP,Márcio Ramos,19,Goalkeeper,Lourinhanense,"End of loanJun 30, 2000",in,0,Liga Nos,2000,2000/2001
+Sporting CP,Patacas,22,Right-Back,Lourinhanense,"End of loanJun 30, 2000",in,0,Liga Nos,2000,2000/2001
+Sporting CP,Aldo Duscher,21,Defensive Midfield,Dep. La Coruña,£11.70m,out,11.7,Liga Nos,2000,2000/2001
+Sporting CP,Abdelilah Saber,26,Right-Back,SSC Napoli,£2.25m,out,2.25,Liga Nos,2000,2000/2001
+Sporting CP,Alan Mahon,22,Left Midfield,Blackburn,£2.07m,out,2.07,Liga Nos,2000,2000/2001
+Sporting CP,Vinícius,23,Centre-Back,Standard Liège,Free Transfer,out,0,Liga Nos,2000,2000/2001
+Sporting CP,Facundo Quiroga,22,Centre-Back,SSC Napoli,Loan,out,0,Liga Nos,2000,2000/2001
+Sporting CP,Marco Caneira,21,Centre-Back,Reggina,Free Transfer,out,0,Liga Nos,2000,2000/2001
+Sporting CP,Vasco Faísca,19,Centre-Back,Inter U19,?,out,NA,Liga Nos,2000,2000/2001
+Sporting CP,Kwame Ayew,26,Centre-Forward,Yimpas Yozgat,?,out,NA,Liga Nos,2000,2000/2001
+Sporting CP,José Luís Vidigal,27,Defensive Midfield,SSC Napoli,?,out,NA,Liga Nos,2000,2000/2001
+Sporting CP,Julián Andrés Kmet,22,Left Winger,Lanús,?,out,NA,Liga Nos,2000,2000/2001
+Sporting CP,Marcos,24,Centre-Back,EC Vitória,?,out,NA,Liga Nos,2000,2000/2001
+Sporting CP,Toni Robaina,25,Left Midfield,Uni. Las Palmas,?,out,NA,Liga Nos,2000,2000/2001
+Sporting CP,Patacas,22,Right-Back,Campomaiorense,Loan,out,0,Liga Nos,2000,2000/2001
+Sporting CP,Mauricio Hanuch,23,Central Midfield,Estudiantes,?,out,NA,Liga Nos,2000,2000/2001
+Sporting CP,Ivone De Franceschi,26,Left Winger,AC Venezia 1907,?,out,NA,Liga Nos,2000,2000/2001
+SC Braga,Abiodun Agunbiade,17,Right Winger,Plateau United,Free Transfer,in,0,Liga Nos,2000,2000/2001
+SC Braga,Sousa,22,Right-Back,Alverca,?,in,NA,Liga Nos,2000,2000/2001
+SC Braga,Sena,22,Right-Back,Dep. La Coruña,?,in,NA,Liga Nos,2000,2000/2001
+SC Braga,Edmilson,32,Forward,Vit. Guimarães,?,in,NA,Liga Nos,2000,2000/2001
+SC Braga,Miklós Fehér,20,Centre-Forward,FC Porto,Loan,in,0,Liga Nos,2000,2000/2001
+SC Braga,Luís Manuel,19,Defensive Midfield,Braga U19,-,in,0,Liga Nos,2000,2000/2001
+SC Braga,Elpídio Silva,24,Centre-Forward,Boavista,£630k,out,0.63,Liga Nos,2000,2000/2001
+SC Braga,Jordão,28,Defensive Midfield,West Brom,£405k,out,0.405,Liga Nos,2000,2000/2001
+SC Braga,Kata,22,Defensive Midfield,Paroquial de Fátima,?,out,NA,Liga Nos,2000,2000/2001
+SC Braga,Lino,28,Defender,Unknown,?,out,NA,Liga Nos,2000,2000/2001
+SC Braga,Alberto Cabral,31,Left-Back,Maia,?,out,NA,Liga Nos,2000,2000/2001
+SC Braga,Nuno Cavaleiro,24,Right Winger,Moreirense,?,out,NA,Liga Nos,2000,2000/2001
+SC Braga,Sob Evariste Dibo,31,Attacking Midfield,Retired,-,out,0,Liga Nos,2000,2000/2001
+União de Leiria,Bruno Ribeiro,25,Left Midfield,Sheffield Utd.,?,in,NA,Liga Nos,2000,2000/2001
+União de Leiria,Tiago,25,Defensive Midfield,CD Tenerife,?,in,NA,Liga Nos,2000,2000/2001
+União de Leiria,Costinha,26,Goalkeeper,CD Tenerife,?,in,NA,Liga Nos,2000,2000/2001
+União de Leiria,Vasco Évora,21,Goalkeeper,GDR Bidoeirense,?,in,NA,Liga Nos,2000,2000/2001
+União de Leiria,Éder Gaúcho,22,Centre-Back,Grêmio,?,in,NA,Liga Nos,2000,2000/2001
+União de Leiria,Bruno Jorge,15,Goalkeeper,Leiria Sub-17,-,in,0,Liga Nos,2000,2000/2001
+União de Leiria,João Paulo,19,Centre-Back,Tomar,Loan,out,0,Liga Nos,2000,2000/2001
+União de Leiria,Marçal,25,Defender,Boavista,Free Transfer,out,0,Liga Nos,2000,2000/2001
+União de Leiria,Pedro Mingote,19,Goalkeeper,Naval,Free Transfer,out,0,Liga Nos,2000,2000/2001
+União de Leiria,Ramos,19,Centre-Back,Vila FC,?,out,NA,Liga Nos,2000,2000/2001
+União de Leiria,Miroslav Zitnjak,32,Goalkeeper,NK Osijek,?,out,NA,Liga Nos,2000,2000/2001
+SL Benfica,Roger,21,Attacking Midfield,Fluminense,£6.75m,in,6.75,Liga Nos,2000,2000/2001
+SL Benfica,Pierre van Hooijdonk,30,Centre-Forward,Vitesse,£6.12m,in,6.12,Liga Nos,2000,2000/2001
+SL Benfica,Fernando Meira,22,Centre-Back,Vit. Guimarães,£3.60m,in,3.6,Liga Nos,2000,2000/2001
+SL Benfica,Ljubinko Drulovic,31,Left Winger,FC Porto,Free Transfer,in,0,Liga Nos,2000,2000/2001
+SL Benfica,Carlos Marchena,20,Centre-Back,Sevilla FC,Free Transfer,in,0,Liga Nos,2000,2000/2001
+SL Benfica,Ivan Dudic,23,Right-Back,Red Star,Free Transfer,in,0,Liga Nos,2000,2000/2001
+SL Benfica,Miguel,20,Right-Back,Estrela Amadora,Free Transfer,in,0,Liga Nos,2000,2000/2001
+SL Benfica,Ednilson,18,Defensive Midfield,AS Roma,?,in,NA,Liga Nos,2000,2000/2001
+SL Benfica,Carlitos,23,Right Winger,Gil Vicente,?,in,NA,Liga Nos,2000,2000/2001
+SL Benfica,Alejandro Escalona,20,Left-Back,Torino,?,in,NA,Liga Nos,2000,2000/2001
+SL Benfica,Ricardo Esteves,21,Right Midfield,Alverca,?,in,NA,Liga Nos,2000,2000/2001
+SL Benfica,André Neles,22,Centre-Forward,Atlético-MG,?,in,NA,Liga Nos,2000,2000/2001
+SL Benfica,Rui Baião,20,Attacking Midfield,Alverca,"End of loanDec 31, 2000",in,0,Liga Nos,2000,2000/2001
+SL Benfica,Nuno Marques,19,Goalkeeper,Benfica B,-,in,0,Liga Nos,2000,2000/2001
+SL Benfica,Diogo Luís,19,Left-Back,Benfica U19,-,in,0,Liga Nos,2000,2000/2001
+SL Benfica,Paulo Fonseca,18,Right-Back,Benfica U19,-,in,0,Liga Nos,2000,2000/2001
+SL Benfica,Jorge Ribeiro,19,Left-Back,Santa Clara,"End of loanDec 31, 2000",in,0,Liga Nos,2000,2000/2001
+SL Benfica,Geraldo Alves,19,Centre-Back,Benfica B,-,in,0,Liga Nos,2000,2000/2001
+SL Benfica,Nuno Gomes,23,Centre-Forward,Fiorentina,£15.30m,out,15.3,Liga Nos,2000,2000/2001
+SL Benfica,Karel Poborsky,28,Right Midfield,Lazio,£2.03m,out,2.03,Liga Nos,2000,2000/2001
+SL Benfica,Ricardo Rojas,29,Right-Back,River Plate,Loan fee:£180k,out,0.18,Liga Nos,2000,2000/2001
+SL Benfica,Triantafyllos Macheridis,27,Defensive Midfield,PS Kalamata,Loan,out,0,Liga Nos,2000,2000/2001
+SL Benfica,João Pinto,28,Second Striker,Sporting CP,Free Transfer,out,0,Liga Nos,2000,2000/2001
+SL Benfica,Jorge Ribeiro,18,Left-Back,Santa Clara,Loan,out,0,Liga Nos,2000,2000/2001
+SL Benfica,Michael Thomas,32,Right Midfield,Wimbledon FC,Free Transfer,out,0,Liga Nos,2000,2000/2001
+SL Benfica,Porfírio,26,Left Midfield,Marítimo,Loan,out,0,Liga Nos,2000,2000/2001
+SL Benfica,Nuno Santos,27,Goalkeeper,CD Badajoz,?,out,NA,Liga Nos,2000,2000/2001
+SL Benfica,Luís Carlos,27,Attacking Midfield,Estrela Amadora,?,out,NA,Liga Nos,2000,2000/2001
+SL Benfica,Roger,22,Attacking Midfield,Fluminense,Loan,out,0,Liga Nos,2000,2000/2001
+SL Benfica,Rui Baião,19,Attacking Midfield,Alverca,Loan,out,0,Liga Nos,2000,2000/2001
+SL Benfica,Dani,23,Attacking Midfield,Atlético Madrid,?,out,NA,Liga Nos,2000,2000/2001
+SL Benfica,Marco Freitas,27,Defensive Midfield,Alverca,Loan,out,0,Liga Nos,2000,2000/2001
+SL Benfica,Tote,21,Attacking Midfield,Real Madrid,"End of loanJun 30, 2000",out,0,Liga Nos,2000,2000/2001
+SL Benfica,Samuel Okunowo,21,Right-Back,FC Barcelona,"End of loanJun 30, 2000",out,0,Liga Nos,2000,2000/2001
+Belenenses SAD,Guga,23,Right Winger,Gil Vicente,Free Transfer,in,0,Liga Nos,2000,2000/2001
+Belenenses SAD,Brian Waltrip,22,Right Midfield,Tampere United,?,in,NA,Liga Nos,2000,2000/2001
+Belenenses SAD,Paulo Dias,22,Defensive Midfield,Coimbra,?,in,NA,Liga Nos,2000,2000/2001
+Belenenses SAD,Verona,26,Attacking Midfield,Estrela Amadora,?,in,NA,Liga Nos,2000,2000/2001
+Belenenses SAD,Pedro Henriques,25,Left-Back,Vitória Setúbal,?,in,NA,Liga Nos,2000,2000/2001
+Belenenses SAD,Fábio Cosme,22,Defensive Midfield,Caçadores,?,in,NA,Liga Nos,2000,2000/2001
+Belenenses SAD,Carlos Manuel,21,Central Midfield,Alcains,?,in,NA,Liga Nos,2000,2000/2001
+Belenenses SAD,Cléber,26,Centre-Back,UA Barbarense,?,in,NA,Liga Nos,2000,2000/2001
+Belenenses SAD,Bruno Fernandes,21,Centre-Back,Alcochentense,?,in,NA,Liga Nos,2000,2000/2001
+Belenenses SAD,Pedro Alves,21,Goalkeeper,Fátima,"End of loanJun 30, 2000",in,0,Liga Nos,2000,2000/2001
+Belenenses SAD,Marco Botelho,24,Goalkeeper,Vitória Setúbal,Free Transfer,out,0,Liga Nos,2000,2000/2001
+Belenenses SAD,Rui Gregório,31,Centre-Back,Santa Clara,?,out,NA,Liga Nos,2000,2000/2001
+Belenenses SAD,Fernando Mendes,33,Left-Back,Vitória Setúbal,?,out,NA,Liga Nos,2000,2000/2001
+Belenenses SAD,Haruna Doda,25,Forward,Santa Clara,?,out,NA,Liga Nos,2000,2000/2001
+Belenenses SAD,José Carlos,33,Right-Back,Retired,-,out,0,Liga Nos,2000,2000/2001
+SC Beira-Mar,Filipe,26,Centre-Back,Freamunde,?,in,NA,Liga Nos,2000,2000/2001
+SC Beira-Mar,Areias,23,Left-Back,Ovarense,?,in,NA,Liga Nos,2000,2000/2001
+SC Beira-Mar,Ricardo Sousa,21,Attacking Midfield,Santa Clara,?,in,NA,Liga Nos,2000,2000/2001
+SC Beira-Mar,Luís Manuel,29,Defensive Midfield,Boavista,?,in,NA,Liga Nos,2000,2000/2001
+SC Beira-Mar,Gamboa,27,Centre-Forward,Santa Clara,?,in,NA,Liga Nos,2000,2000/2001
+SC Beira-Mar,Avelino,24,Goalkeeper,Penafiel,?,in,NA,Liga Nos,2000,2000/2001
+SC Beira-Mar,Tobias Grahn,20,Central Midfield,Lyngby BK,?,out,NA,Liga Nos,2000,2000/2001
+SC Beira-Mar,Maxwell Konadu,28,Forward,Marinhense,?,out,NA,Liga Nos,2000,2000/2001
+SC Beira-Mar,Caetano,33,Left-Back,Feirense,?,out,NA,Liga Nos,2000,2000/2001
+FC Paços de Ferreira,Beto,23,Central Midfield,Sport Recife,£900k,in,0.9,Liga Nos,2000,2000/2001
+FC Paços de Ferreira,Glauber,25,Defensive Midfield,Sport Recife,Free Transfer,in,0,Liga Nos,2000,2000/2001
+FC Paços de Ferreira,Vitinha,24,Left-Back,Trofense,?,in,NA,Liga Nos,2000,2000/2001
+FC Paços de Ferreira,Zé Nando,24,Left-Back,Gil Vicente,?,in,NA,Liga Nos,2000,2000/2001
+FC Paços de Ferreira,Pinho,28,Goalkeeper,Freamunde,?,in,NA,Liga Nos,2000,2000/2001
+FC Paços de Ferreira,Formoso,26,Left Winger,Santa Clara,?,in,NA,Liga Nos,2000,2000/2001
+FC Paços de Ferreira,Gaspar,25,Centre-Back,Alverca,?,in,NA,Liga Nos,2000,2000/2001
+FC Paços de Ferreira,Leonardo,31,Centre-Forward,ABC FC,?,in,NA,Liga Nos,2000,2000/2001
+FC Paços de Ferreira,Cadú,18,Centre-Back,Paços F. U19,-,in,0,Liga Nos,2000,2000/2001
+FC Paços de Ferreira,Miguel Reisinho,25,Right Winger,Marco,Free Transfer,out,0,Liga Nos,2000,2000/2001
+FC Paços de Ferreira,Cadú,18,Centre-Back,Aliados Lordelo,Loan,out,0,Liga Nos,2000,2000/2001
+FC Paços de Ferreira,Paulo Vida,29,Centre-Forward,Campomaiorense,?,out,NA,Liga Nos,2000,2000/2001
+FC Paços de Ferreira,José Tavares,35,Central Midfield,Infesta,?,out,NA,Liga Nos,2000,2000/2001
+FC Paços de Ferreira,Lula,34,Centre-Back,SC Quanxing,?,out,NA,Liga Nos,2000,2000/2001
+FC Paços de Ferreira,Rui Miguel,25,Centre-Forward,Vitória Setúbal,?,out,NA,Liga Nos,2000,2000/2001
+FC Paços de Ferreira,Gabriel Alejandro Gervino,35,Central Midfield,Olhanense,?,out,NA,Liga Nos,2000,2000/2001
+SC Salgueiros,Nandinho,24,Left-Back,Maia,?,in,NA,Liga Nos,2000,2000/2001
+SC Salgueiros,Ahmed Ouattara,30,Centre-Forward,CF Extremadura,?,in,NA,Liga Nos,2000,2000/2001
+SC Salgueiros,Bodunha,25,Right-Back,Espinho,?,in,NA,Liga Nos,2000,2000/2001
+SC Salgueiros,Maia,19,Right-Back,Salgueiros U19,-,in,0,Liga Nos,2000,2000/2001
+SC Salgueiros,André Macanga,22,Defensive Midfield,Alverca,Free Transfer,out,0,Liga Nos,2000,2000/2001
+SC Salgueiros,Paulinho,34,Centre-Back,Estoril,Free Transfer,out,0,Liga Nos,2000,2000/2001
+SC Salgueiros,Marcelo Verón,22,Forward,Platense,Free Transfer,out,0,Liga Nos,2000,2000/2001
+SC Salgueiros,Silvino Louro,41,Goalkeeper,Retired,-,out,0,Liga Nos,2000,2000/2001
+SC Salgueiros,Basarab Panduru,29,Attacking Midfield,Retired,-,out,0,Liga Nos,2000,2000/2001
+SC Salgueiros,Miklós Fehér,20,Centre-Forward,FC Porto,"End of loanJun 1, 2000",out,0,Liga Nos,2000,2000/2001
+CS Marítimo,Marco Lagarto,NA,Attacking Midfield,Farense,Free Transfer,in,0,Liga Nos,2000,2000/2001
+CS Marítimo,Rubén Darío Ferrer,25,Forward,Los Andes,?,in,NA,Liga Nos,2000,2000/2001
+CS Marítimo,Porfírio,26,Left Midfield,Benfica,Loan,in,0,Liga Nos,2000,2000/2001
+CS Marítimo,Walter Otta,27,Centre-Forward,Marathón,?,in,NA,Liga Nos,2000,2000/2001
+CS Marítimo,Quim,26,Centre-Forward,Dundee United,?,in,NA,Liga Nos,2000,2000/2001
+CS Marítimo,Bakero,22,Left Winger,Sevilla FC,?,in,NA,Liga Nos,2000,2000/2001
+CS Marítimo,Fernando,19,Centre-Back,Marítimo B,-,in,0,Liga Nos,2000,2000/2001
+CS Marítimo,Luís Olim,19,Left-Back,Marítimo U19,-,in,0,Liga Nos,2000,2000/2001
+CS Marítimo,Danny,16,Attacking Midfield,Marítimo U19,-,in,0,Liga Nos,2000,2000/2001
+CS Marítimo,Briguel,21,Right-Back,Marítimo B,-,in,0,Liga Nos,2000,2000/2001
+CS Marítimo,Paulo Pereira,23,Defensive Midfield,Ovarense,Free Transfer,out,0,Liga Nos,2000,2000/2001
+CS Marítimo,Rui Óscar,24,Right-Back,Boavista,Free Transfer,out,0,Liga Nos,2000,2000/2001
+CS Marítimo,Mariano Toedtli,24,Centre-Forward,UD Salamanca,?,out,NA,Liga Nos,2000,2000/2001
+CS Marítimo,Toni,27,Centre-Forward,Leça,?,out,NA,Liga Nos,2000,2000/2001
+CS Marítimo,Nuno Afonso,25,Centre-Back,Desportivo Aves,?,out,NA,Liga Nos,2000,2000/2001
+CS Marítimo,Jörg Smeets,29,Midfielder,Helmond Sport,?,out,NA,Liga Nos,2000,2000/2001
+CS Marítimo,Yves Van Der Straeten,29,Goalkeeper,Lierse SK,?,out,NA,Liga Nos,2000,2000/2001
+CS Marítimo,Johann Duveau,22,Left Winger,Torpedo Moscow,?,out,NA,Liga Nos,2000,2000/2001
+CS Marítimo,Ion Sburlea,29,Centre-Back,C. Piatra Neamt,?,out,NA,Liga Nos,2000,2000/2001
+FC Alverca,Gabriel,22,Midfielder,Lourinhanense,Free Transfer,in,0,Liga Nos,2000,2000/2001
+FC Alverca,André Macanga,22,Defensive Midfield,Salgueiros,Free Transfer,in,0,Liga Nos,2000,2000/2001
+FC Alverca,Pedro Martins,29,Defensive Midfield,Boavista,Free Transfer,in,0,Liga Nos,2000,2000/2001
+FC Alverca,Mickaël Tavares,17,Defensive Midfield,US Créteil,Free Transfer,in,0,Liga Nos,2000,2000/2001
+FC Alverca,Ricardo Carvalho,22,Centre-Back,FC Porto,Loan,in,0,Liga Nos,2000,2000/2001
+FC Alverca,Ernesto,20,Goalkeeper,Barreirense,Free Transfer,in,0,Liga Nos,2000,2000/2001
+FC Alverca,Tinaia,21,Left-Back,Real Madrid C,Free Transfer,in,0,Liga Nos,2000,2000/2001
+FC Alverca,Correia,21,Centre-Back,FC Porto,?,in,NA,Liga Nos,2000,2000/2001
+FC Alverca,Ricardo Esteves,20,Right Midfield,Vitória Setúbal,?,in,NA,Liga Nos,2000,2000/2001
+FC Alverca,Nicolas Paviot,25,Right-Back,Toulouse,?,in,NA,Liga Nos,2000,2000/2001
+FC Alverca,Tito,28,Left-Back,Vit. Guimarães,?,in,NA,Liga Nos,2000,2000/2001
+FC Alverca,Marco Freitas,27,Defensive Midfield,Benfica,Loan,in,0,Liga Nos,2000,2000/2001
+FC Alverca,Rui Baião,19,Attacking Midfield,Benfica,Loan,in,0,Liga Nos,2000,2000/2001
+FC Alverca,Chiquinho Conde,34,Centre-Forward,Vitória Setúbal,?,in,NA,Liga Nos,2000,2000/2001
+FC Alverca,Zeferino,22,Centre-Forward,Real Madrid B,"End of loanDec 31, 2000",in,0,Liga Nos,2000,2000/2001
+FC Alverca,Manú,17,Right Winger,Alverca U19,-,in,0,Liga Nos,2000,2000/2001
+FC Alverca,Pedro Neves,18,Right-Back,Alverca U19,-,in,0,Liga Nos,2000,2000/2001
+FC Alverca,Hugo Santos,22,Left Winger,Olivais,"End of loanJun 30, 2000",in,0,Liga Nos,2000,2000/2001
+FC Alverca,Cajú,23,Forward,FC Porto,"End of loanJun 30, 2000",in,0,Liga Nos,2000,2000/2001
+FC Alverca,Paulo Costa,20,Attacking Midfield,Inter,Free Transfer,out,0,Liga Nos,2000,2000/2001
+FC Alverca,Duda,26,Centre-Forward,Boavista,?,out,NA,Liga Nos,2000,2000/2001
+FC Alverca,Jamir,28,Defensive Midfield,Cor. Bolognesi,?,out,NA,Liga Nos,2000,2000/2001
+FC Alverca,Sousa,22,Right-Back,Braga,?,out,NA,Liga Nos,2000,2000/2001
+FC Alverca,Alhandra,21,Left-Back,FC Porto,?,out,NA,Liga Nos,2000,2000/2001
+FC Alverca,Ricardo Esteves,21,Right Midfield,Benfica,?,out,NA,Liga Nos,2000,2000/2001
+FC Alverca,Nuno Assis,22,Attacking Midfield,Gil Vicente,?,out,NA,Liga Nos,2000,2000/2001
+FC Alverca,Gaspar,25,Centre-Back,Paços Ferreira,?,out,NA,Liga Nos,2000,2000/2001
+FC Alverca,Miner,29,Midfielder,Santa Clara,?,out,NA,Liga Nos,2000,2000/2001
+FC Alverca,Hugo Santos,22,Left Winger,Olivais,Loan,out,0,Liga Nos,2000,2000/2001
+FC Alverca,Sergey Ovchinnikov,29,Goalkeeper,FC Porto,?,out,NA,Liga Nos,2000,2000/2001
+FC Alverca,Lima,33,Left Winger,Retired,-,out,0,Liga Nos,2000,2000/2001
+FC Alverca,Abel Silva,30,Right-Back,Retired,-,out,0,Liga Nos,2000,2000/2001
+FC Alverca,Rui Baião,20,Attacking Midfield,Benfica,"End of loanDec 31, 2000",out,0,Liga Nos,2000,2000/2001
+FC Alverca,Vasili Kulkov,34,Centre-Back,Retired,-,out,0,Liga Nos,2000,2000/2001
+FC Alverca,Marco Caneira,21,Centre-Back,Sporting CP,"End of loanJun 30, 2000",out,0,Liga Nos,2000,2000/2001
+SC Farense,Rubio,24,Centre-Back,CD Toledo,Free Transfer,in,0,Liga Nos,2000,2000/2001
+SC Farense,Toni Lopes,20,Right-Back,Lusitano,Free Transfer,in,0,Liga Nos,2000,2000/2001
+SC Farense,Raúl Iglesias,25,Goalkeeper,Mérida UD,?,in,NA,Liga Nos,2000,2000/2001
+SC Farense,Fernando De Los Rios,24,Forward,Valladolid B,?,in,NA,Liga Nos,2000,2000/2001
+SC Farense,Ivan Djurdjevic,23,Defensive Midfield,CD Ourense,?,in,NA,Liga Nos,2000,2000/2001
+SC Farense,Jean Paulista,22,Centre-Forward,Desportivo Aves,?,in,NA,Liga Nos,2000,2000/2001
+SC Farense,Pablo Zegarra,27,Midfielder,UD Salamanca,?,in,NA,Liga Nos,2000,2000/2001
+SC Farense,Rui Marcos,25,Goalkeeper,Nacional,?,in,NA,Liga Nos,2000,2000/2001
+SC Farense,Bruno Mestre,18,Left-Back,Farense U19,-,in,0,Liga Nos,2000,2000/2001
+SC Farense,Jean Paulista,23,Centre-Forward,Imortal,Free Transfer,out,0,Liga Nos,2000,2000/2001
+SC Farense,Marco Lagarto,NA,Attacking Midfield,Marítimo,Free Transfer,out,0,Liga Nos,2000,2000/2001
+SC Farense,Bruno Mestre,18,Left-Back,Esp. Lagos,Loan,out,0,Liga Nos,2000,2000/2001
+SC Farense,Candeias,27,Goalkeeper,Famalicão,Free Transfer,out,0,Liga Nos,2000,2000/2001
+SC Farense,Mouloud Beltitane,29,Goalkeeper,CD Roda,Free Transfer,out,0,Liga Nos,2000,2000/2001
+SC Farense,Zé Tó,25,Attacking Midfield,UD Salamanca,?,out,NA,Liga Nos,2000,2000/2001
+SC Farense,Eugénio,33,Right-Back,Olhanense,?,out,NA,Liga Nos,2000,2000/2001
+SC Farense,Fernando De Los Rios,24,Forward,CD Castellón,?,out,NA,Liga Nos,2000,2000/2001
+SC Farense,Tulipa,27,Attacking Midfield,CD Badajoz,?,out,NA,Liga Nos,2000,2000/2001
+SC Farense,Darko Butorovic,29,Right-Back,Hajduk Split,?,out,NA,Liga Nos,2000,2000/2001
+SC Farense,Ricardo Lunari,30,Midfielder,Almagro,?,out,NA,Liga Nos,2000,2000/2001
+SC Farense,Redouane Hajry,36,Attacking Midfield,Retired,-,out,0,Liga Nos,2000,2000/2001
+SC Farense,Pedro Miguel,32,Defender,Retired,-,out,0,Liga Nos,2000,2000/2001
+SC Farense,Lucian Marinescu,28,Attacking Midfield,UD Salamanca,"End of loanJun 30, 2000",out,0,Liga Nos,2000,2000/2001
+SC Farense,Paulo Ferreira,26,Forward,Estrela Amadora,"End of loanJun 30, 2000",out,0,Liga Nos,2000,2000/2001
+Gil Vicente FC,Paulo César,20,Right Winger,Villa Nova AC,?,in,NA,Liga Nos,2000,2000/2001
+Gil Vicente FC,Vargas Fernandes,22,Left Midfield,Sporting Praia,?,in,NA,Liga Nos,2000,2000/2001
+Gil Vicente FC,Nuno Sampaio,25,Goalkeeper,Espinho,?,in,NA,Liga Nos,2000,2000/2001
+Gil Vicente FC,Nuno Assis,22,Attacking Midfield,Alverca,?,in,NA,Liga Nos,2000,2000/2001
+Gil Vicente FC,Pinheiro,23,Attacking Midfield,Dragões,?,in,NA,Liga Nos,2000,2000/2001
+Gil Vicente FC,Ivo Afonso,24,Centre-Back,Canelas 2010,?,in,NA,Liga Nos,2000,2000/2001
+Gil Vicente FC,Dário,21,Centre-Back,Sporting Praia,?,in,NA,Liga Nos,2000,2000/2001
+Gil Vicente FC,Adriano,22,Goalkeeper,Leixões,?,in,NA,Liga Nos,2000,2000/2001
+Gil Vicente FC,Sérgio Gameiro,24,Attacking Midfield,Santa Clara,?,in,NA,Liga Nos,2000,2000/2001
+Gil Vicente FC,Miguel Simao,27,Forward,Sanf. Hiroshima,?,in,NA,Liga Nos,2000,2000/2001
+Gil Vicente FC,Nuno Amaro,24,Left-Back,Marco,?,in,NA,Liga Nos,2000,2000/2001
+Gil Vicente FC,Guga,23,Right Winger,Belenenses SAD,Free Transfer,out,0,Liga Nos,2000,2000/2001
+Gil Vicente FC,Fangueiro,23,Right Winger,Vit. Guimarães,Free Transfer,out,0,Liga Nos,2000,2000/2001
+Gil Vicente FC,Pedro Santos,24,Central Midfield,Boavista,?,out,NA,Liga Nos,2000,2000/2001
+Gil Vicente FC,Paulo Lopes,22,Goalkeeper,Barreirense,?,out,NA,Liga Nos,2000,2000/2001
+Gil Vicente FC,Zé Nando,24,Left-Back,Paços Ferreira,?,out,NA,Liga Nos,2000,2000/2001
+Gil Vicente FC,Petit,23,Defensive Midfield,Boavista,?,out,NA,Liga Nos,2000,2000/2001
+Gil Vicente FC,Auri,26,Centre-Back,Vit. Guimarães,?,out,NA,Liga Nos,2000,2000/2001
+Gil Vicente FC,Ovidiu Lucian Cuc,27,Forward,FC Ashdod,?,out,NA,Liga Nos,2000,2000/2001
+Gil Vicente FC,Carlitos,23,Right Winger,Benfica,?,out,NA,Liga Nos,2000,2000/2001
+Gil Vicente FC,Ricardo Nascimento,26,Attacking Midfield,Montpellier,?,out,NA,Liga Nos,2000,2000/2001
+Gil Vicente FC,Marquinhos,26,Midfielder,Chaves,?,out,NA,Liga Nos,2000,2000/2001
+Gil Vicente FC,Peter Rufai,36,Goalkeeper,Retired,-,out,0,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,Fangueiro,23,Right Winger,Gil Vicente,Free Transfer,in,0,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,Rogério Matias,25,Left-Back,Campomaiorense,?,in,NA,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,Manoel,22,Centre-Forward,EC Vitória,?,in,NA,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,Marco Couto,25,Centre-Back,Chaves,?,in,NA,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,Romano Sion,29,Midfielder,SD Compostela,?,in,NA,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,Cândido Rego,29,Goalkeeper,Desportivo Aves,?,in,NA,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,William,32,Centre-Back,SD Compostela,?,in,NA,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,Abel Ferreira,21,Right-Back,Penafiel,?,in,NA,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,Auri,26,Centre-Back,Gil Vicente,?,in,NA,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,Edwin Congo,23,Centre-Forward,Real Madrid,Loan,in,0,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,Evando,23,Centre-Forward,EC Vitória,"End of loanJun 30, 2000",in,0,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,Fernando Meira,22,Centre-Back,Benfica,£3.60m,out,3.6,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,Nuno Claro,23,Goalkeeper,Trofense,?,out,NA,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,Paulo Fonseca,27,Centre-Back,Estrela Amadora,?,out,NA,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,Edmilson,32,Forward,Braga,?,out,NA,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,João Costa,27,Defensive Midfield,Vitória Setúbal,?,out,NA,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,Paiva,27,Defensive Midfield,Santa Clara,?,out,NA,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,Kipulo,18,Centre-Back,Moreirense,?,out,NA,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,Preto Casagrande,25,Midfielder,EC Bahia,?,out,NA,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,Cândido Rego,29,Goalkeeper,Imortal,?,out,NA,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,Bruno Tiago,19,Central Midfield,UD Salamanca,?,out,NA,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,Tito,28,Left-Back,Alverca,?,out,NA,Liga Nos,2000,2000/2001
+Vitória Guimarães SC,Pedro Espinha,34,Goalkeeper,FC Porto,?,out,NA,Liga Nos,2000,2000/2001
+SC Campomaiorense,Srgjan Zaharievski,26,Central Midfield,VfB Stuttgart,Free Transfer,in,0,Liga Nos,2000,2000/2001
+SC Campomaiorense,Nuno Gomes,22,Centre-Back,Felgueiras,Free Transfer,in,0,Liga Nos,2000,2000/2001
+SC Campomaiorense,Philippe De Azevedo,25,Centre-Forward,Loko Moscow,Free Transfer,in,0,Liga Nos,2000,2000/2001
+SC Campomaiorense,Sreto Ristic,24,Centre-Forward,VfB Stuttgart,Free Transfer,in,0,Liga Nos,2000,2000/2001
+SC Campomaiorense,Paulo Vida,29,Centre-Forward,Paços Ferreira,?,in,NA,Liga Nos,2000,2000/2001
+SC Campomaiorense,Duka,27,Centre-Back,Espinho,?,in,NA,Liga Nos,2000,2000/2001
+SC Campomaiorense,Marco Almeida,23,Centre-Back,Southampton,?,in,NA,Liga Nos,2000,2000/2001
+SC Campomaiorense,Detinho,26,Centre-Forward,Marco,?,in,NA,Liga Nos,2000,2000/2001
+SC Campomaiorense,Patacas,22,Right-Back,Sporting CP,Loan,in,0,Liga Nos,2000,2000/2001
+SC Campomaiorense,Miguel Vaz,27,Defensive Midfield,Covilhã,?,in,NA,Liga Nos,2000,2000/2001
+SC Campomaiorense,Srgjan Zaharievski,27,Central Midfield,Vardar,Free Transfer,out,0,Liga Nos,2000,2000/2001
+SC Campomaiorense,Sreto Ristic,24,Centre-Forward,SSV Ulm 1846,Free Transfer,out,0,Liga Nos,2000,2000/2001
+SC Campomaiorense,Philippe De Azevedo,25,Centre-Forward,Penafiel,Free Transfer,out,0,Liga Nos,2000,2000/2001
+SC Campomaiorense,Rogério Matias,25,Left-Back,Vit. Guimarães,?,out,NA,Liga Nos,2000,2000/2001
+SC Campomaiorense,Arley,28,Defender,América-MG,?,out,NA,Liga Nos,2000,2000/2001
+SC Campomaiorense,Marco Silva,22,Right-Back,Trofense,?,out,NA,Liga Nos,2000,2000/2001
+SC Campomaiorense,José Soares,24,Centre-Back,Desportivo Aves,?,out,NA,Liga Nos,2000,2000/2001
+Desportivo Aves,Josivan,21,Forward,FC Porto,?,in,NA,Liga Nos,2000,2000/2001
+Desportivo Aves,José Soares,24,Centre-Back,Campomaiorense,?,in,NA,Liga Nos,2000,2000/2001
+Desportivo Aves,Nuno Afonso,25,Centre-Back,Marítimo,?,in,NA,Liga Nos,2000,2000/2001
+Desportivo Aves,Rui Lima,22,Attacking Midfield,Boavista,Loan,in,0,Liga Nos,2000,2000/2001
+Desportivo Aves,Nílton,21,Central Midfield,Boavista,?,in,NA,Liga Nos,2000,2000/2001
+Desportivo Aves,Quinzinho,26,Forward,Rayo Vallecano,?,in,NA,Liga Nos,2000,2000/2001
+Desportivo Aves,Tó Luis,32,Goalkeeper,Rio Ave FC,?,in,NA,Liga Nos,2000,2000/2001
+Desportivo Aves,Douala,21,Left Winger,Boavista,Loan,in,0,Liga Nos,2000,2000/2001
+Desportivo Aves,Michel Pensée,27,Centre-Back,Seongnam Ilhwa,?,in,NA,Liga Nos,2000,2000/2001
+Desportivo Aves,Adamo Ramos Martins,29,Goalkeeper,Moreirense,?,in,NA,Liga Nos,2000,2000/2001
+Desportivo Aves,Rui Faria,19,Goalkeeper,GD Serzedelo,Loan,out,0,Liga Nos,2000,2000/2001
+Desportivo Aves,Jean Paulista,22,Centre-Forward,Farense,?,out,NA,Liga Nos,2000,2000/2001
+Desportivo Aves,Quim Machado,33,Right-Back,Tirsense,?,out,NA,Liga Nos,2000,2000/2001
+Desportivo Aves,Paulo Alexandre,30,Defender,Chaves,?,out,NA,Liga Nos,2000,2000/2001
+Desportivo Aves,Ermin Rakovic,22,Right Winger,NK Olimpija,?,out,NA,Liga Nos,2000,2000/2001
+Desportivo Aves,Cândido Rego,29,Goalkeeper,Vit. Guimarães,?,out,NA,Liga Nos,2000,2000/2001
+Desportivo Aves,João Paulo,20,Centre-Forward,Boavista,"End of loanJun 30, 2000",out,0,Liga Nos,2000,2000/2001
+CF Estrela Amadora,Jorge Cadete,31,Centre-Forward,Bradford,?,in,NA,Liga Nos,2000,2000/2001
+CF Estrela Amadora,Tiago Lemos,22,Central Midfield,Estoril,?,in,NA,Liga Nos,2000,2000/2001
+CF Estrela Amadora,António Semedo,21,Right Winger,Casa Pia,?,in,NA,Liga Nos,2000,2000/2001
+CF Estrela Amadora,Igor Souza,21,Attacking Midfield,Central,?,in,NA,Liga Nos,2000,2000/2001
+CF Estrela Amadora,Paulo Fonseca,27,Centre-Back,Vit. Guimarães,?,in,NA,Liga Nos,2000,2000/2001
+CF Estrela Amadora,Luís Carlos,27,Attacking Midfield,Benfica,?,in,NA,Liga Nos,2000,2000/2001
+CF Estrela Amadora,Paulo Ferreira,26,Forward,Farense,"End of loanJun 30, 2000",in,0,Liga Nos,2000,2000/2001
+CF Estrela Amadora,Pedro Duarte,28,Goalkeeper,Sporting Pombal,Free Transfer,out,0,Liga Nos,2000,2000/2001
+CF Estrela Amadora,Miguel,20,Right-Back,Benfica,Free Transfer,out,0,Liga Nos,2000,2000/2001
+CF Estrela Amadora,José Leal,35,Left-Back,Santa Clara,?,out,NA,Liga Nos,2000,2000/2001
+CF Estrela Amadora,Verona,26,Attacking Midfield,Belenenses SAD,?,out,NA,Liga Nos,2000,2000/2001
+CF Estrela Amadora,Jorge Andrade,22,Centre-Back,FC Porto,?,out,NA,Liga Nos,2000,2000/2001
+CF Estrela Amadora,Leonson Lewis,33,Forward,União Lamas,?,out,NA,Liga Nos,2000,2000/2001
+CF Estrela Amadora,Sérgio Marquês,24,Defensive Midfield,Imortal,?,out,NA,Liga Nos,2000,2000/2001
+CF Estrela Amadora,Hugo Évora,18,Centre-Back,Samora Correia,Loan,out,0,Liga Nos,2000,2000/2001

@@ -1,0 +1,1384 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+FC Internazionale,Diego Milito,30,Centre-Forward,Genoa,£22.50m,in,22.5,Serie A,2009,2009/2010
+FC Internazionale,Samuel Eto'o,28,Centre-Forward,FC Barcelona,£18.00m,in,18,Serie A,2009,2009/2010
+FC Internazionale,Wesley Sneijder,25,Attacking Midfield,Real Madrid,£13.50m,in,13.5,Serie A,2009,2009/2010
+FC Internazionale,Thiago Motta,26,Defensive Midfield,Genoa,£9.18m,in,9.18,Serie A,2009,2009/2010
+FC Internazionale,McDonald Mariga,22,Defensive Midfield,Parma,£9.00m,in,9,Serie A,2009,2009/2010
+FC Internazionale,Emiliano Viviano,23,Goalkeeper,Brescia,£6.30m,in,6.3,Serie A,2009,2009/2010
+FC Internazionale,Lúcio,31,Centre-Back,Bayern Munich,£6.30m,in,6.3,Serie A,2009,2009/2010
+FC Internazionale,Marko Arnautovic,20,Centre-Forward,FC Twente,Loan,in,0,Serie A,2009,2009/2010
+FC Internazionale,Goran Pandev,26,Second Striker,Lazio,Free Transfer,in,0,Serie A,2009,2009/2010
+FC Internazionale,Simone Fautario,23,Left-Back,Grosseto,?,in,NA,Serie A,2009,2009/2010
+FC Internazionale,Paolo Tornaghi,21,Goalkeeper,Rimini,?,in,NA,Serie A,2009,2009/2010
+FC Internazionale,Kerlon,21,Attacking Midfield,Chievo Verona,?,in,NA,Serie A,2009,2009/2010
+FC Internazionale,Luis Jiménez,25,Attacking Midfield,West Ham,"End of loanJan 29, 2010",in,0,Serie A,2009,2009/2010
+FC Internazionale,Andrea Mei,20,Centre-Back,Crotone,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Rene Krhin,19,Defensive Midfield,Inter U19,-,in,0,Serie A,2009,2009/2010
+FC Internazionale,Vid Belec,19,Goalkeeper,Inter U19,-,in,0,Serie A,2009,2009/2010
+FC Internazionale,Jonathan Biabiany,21,Right Winger,Parma,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Giulio Donati,19,Right-Back,Inter U19,-,in,0,Serie A,2009,2009/2010
+FC Internazionale,Attila Filkor,21,Central Midfield,Sassuolo,"End of loanJan 28, 2010",in,0,Serie A,2009,2009/2010
+FC Internazionale,Cristian Daminuta,19,Defensive Midfield,Modena,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Juri Toppan,19,Centre-Back,Villacidrese,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Luca Siligardi,21,Right Winger,Piacenza,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Daniele Pedrelli,21,Left-Back,Treviso,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Giacomo Bindi,22,Goalkeeper,Pistoiese,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Rincón,22,Centre-Back,Ancona,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Matteo Lombardo,24,Left Midfield,Legnano,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Ivan Fatic,20,Centre-Back,Salernitana,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Olivier Dacourt,34,Defensive Midfield,Fulham,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Leonardo Bonucci,22,Centre-Back,AC Pisa,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Dennis Esposito,21,Centre-Back,Reggiana,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Enrico Alfonso,21,Goalkeeper,AC Pisa,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Nicolas Desenclos,20,Centre-Back,Racing Ferrol,"End of loanJun 1, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,David Suazo,29,Centre-Forward,Benfica,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Ibrahim Maaroufi,20,Defensive Midfield,Vicenza,"End of loanJun 1, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Gianluca Litteri,21,Centre-Forward,Slavia Prag,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Paolo Tornaghi,21,Goalkeeper,Como,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Robert Acquafresca,21,Centre-Forward,Cagliari Calcio,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Gabriele Puccio,19,Central Midfield,Hellas Verona,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Jonathan Biabiany,21,Right Winger,Modena,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Ricardo Quaresma,25,Right Winger,Chelsea,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+FC Internazionale,Zlatan Ibrahimovic,27,Centre-Forward,FC Barcelona,£62.55m,out,62.55,Serie A,2009,2009/2010
+FC Internazionale,Robert Acquafresca,21,Centre-Forward,Genoa,£13.50m,out,13.5,Serie A,2009,2009/2010
+FC Internazionale,Riccardo Meggiorini,23,Second Striker,Genoa,£4.50m,out,4.5,Serie A,2009,2009/2010
+FC Internazionale,Maxwell,27,Left-Back,FC Barcelona,£4.50m,out,4.5,Serie A,2009,2009/2010
+FC Internazionale,Leonardo Bonucci,22,Centre-Back,Genoa,£3.60m,out,3.6,Serie A,2009,2009/2010
+FC Internazionale,Emiliano Viviano,23,Goalkeeper,Bologna,£3.15m,out,3.15,Serie A,2009,2009/2010
+FC Internazionale,Francesco Bolzoni,20,Central Midfield,Genoa,£2.70m,out,2.7,Serie A,2009,2009/2010
+FC Internazionale,Jonathan Biabiany,21,Right Winger,Parma,£2.25m,out,2.25,Serie A,2009,2009/2010
+FC Internazionale,Ivan Fatic,20,Centre-Back,Genoa,£900k,out,0.9,Serie A,2009,2009/2010
+FC Internazionale,Luis Jiménez,25,Attacking Midfield,West Ham,Loan fee:£540k,out,0.54,Serie A,2009,2009/2010
+FC Internazionale,Cristian Daminuta,19,Defensive Midfield,Dinamo Bukarest,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Mancini,29,Left Winger,AC Milan,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Nicolás Burdisso,28,Centre-Back,AS Roma,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Nelson Rivas,26,Centre-Back,AS Livorno,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Hernán Crespo,34,Centre-Forward,Genoa,Free Transfer,out,0,Serie A,2009,2009/2010
+FC Internazionale,Patrick Vieira,33,Defensive Midfield,Man City,Free Transfer,out,0,Serie A,2009,2009/2010
+FC Internazionale,Julio Cruz,34,Centre-Forward,Lazio,Free Transfer,out,0,Serie A,2009,2009/2010
+FC Internazionale,David Suazo,30,Centre-Forward,Genoa,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Rincón,22,Centre-Back,Piacenza,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Attila Filkor,21,Central Midfield,Gallipoli,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Alberto Gerbo,19,Central Midfield,Ancona,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Kerlon,21,Attacking Midfield,Ajax U21,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Andrea Mei,20,Centre-Back,Crotone,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Dennis Esposito,21,Centre-Back,Monza,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Jonathan Biabiany,21,Right Winger,Parma,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Luis Jiménez,25,Attacking Midfield,Parma,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Daniele Pedrelli,21,Left-Back,Cesena,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Paolo Tornaghi,21,Goalkeeper,Rimini,?,out,NA,Serie A,2009,2009/2010
+FC Internazionale,Giacomo Bindi,22,Goalkeeper,Foggia,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Ibrahim Maaroufi,20,Defensive Midfield,Vicenza,?,out,NA,Serie A,2009,2009/2010
+FC Internazionale,Matteo Lombardo,24,Left Midfield,Villacidrese,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Gianluca Litteri,21,Centre-Forward,Vicenza,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Victor Obinna,22,Second Striker,Málaga CF,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Juri Toppan,20,Centre-Back,Catania,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Luca Siligardi,21,Right Winger,Triestina,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Nicolas Desenclos,20,Centre-Back,KAS Eupen,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Gabriele Puccio,19,Central Midfield,Portogruaro,?,out,NA,Serie A,2009,2009/2010
+FC Internazionale,Zule,19,Left Winger,Fuengirola,?,out,NA,Serie A,2009,2009/2010
+FC Internazionale,Andrea Mei,20,Centre-Back,Lumezzane,Loan,out,0,Serie A,2009,2009/2010
+FC Internazionale,Luís Figo,36,Right Winger,Retired,-,out,0,Serie A,2009,2009/2010
+FC Internazionale,Olivier Dacourt,34,Defensive Midfield,Without Club,-,out,0,Serie A,2009,2009/2010
+AS Roma,Marco Motta,23,Right-Back,Udinese,£3.15m,in,3.15,Serie A,2009,2009/2010
+AS Roma,Luca Toni,32,Centre-Forward,Bayern Munich,Loan,in,0,Serie A,2009,2009/2010
+AS Roma,Bogdan Lobont,31,Goalkeeper,Dinamo Bukarest,Loan,in,0,Serie A,2009,2009/2010
+AS Roma,Stefano Guberti,24,Left Winger,Bari,Free Transfer,in,0,Serie A,2009,2009/2010
+AS Roma,Nicolás Burdisso,28,Centre-Back,Inter,Loan,in,0,Serie A,2009,2009/2010
+AS Roma,Alessandro Crescenzi,17,Left-Back,Roma U19,-,in,0,Serie A,2009,2009/2010
+AS Roma,Gianluca Zara,18,Left-Back,Roma U19,-,in,0,Serie A,2009,2009/2010
+AS Roma,Andrea Bertolacci,18,Central Midfield,Roma U19,-,in,0,Serie A,2009,2009/2010
+AS Roma,Daniele Sciarra,18,Second Striker,Roma U19,-,in,0,Serie A,2009,2009/2010
+AS Roma,Guido Giannotta,19,Right-Back,Roma U19,-,in,0,Serie A,2009,2009/2010
+AS Roma,Riccardo Brosco,18,Centre-Back,Roma U19,-,in,0,Serie A,2009,2009/2010
+AS Roma,Ahmed Barusso,24,Defensive Midfield,Brescia,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Édgar Álvarez,29,Right Midfield,AC Pisa,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,João Paulo,20,Right Midfield,Vibonese,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Andrea Giacomini,22,Left Midfield,Gallipoli,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Aleandro Rosi,22,Right-Back,AS Livorno,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Leandro Greco,22,Central Midfield,AC Pisa,"End of loanJun 1, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Alessio Cerci,21,Right Winger,Atalanta,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Ivan Lanni,19,Goalkeeper,Lecce U19,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Mauro Esposito,30,Right Winger,Chievo Verona,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Massimiliano Marsili,21,Central Midfield,Modena,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Valerio Virga,23,Right-Back,Novara,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Ahmed Barusso,24,Defensive Midfield,Siena,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Cristian Palumbo,20,Defender,Casale,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Federico Maria Erba,20,Centre-Back,Virtus Lanciano,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Mirco Zazza,19,Centre-Back,ASD Sarzanese,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Claudio Della Penna,20,Right Winger,Pistoiese,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Marco Andreolli,23,Centre-Back,Sassuolo,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Stefano Okaka,19,Centre-Forward,Brescia,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Ricardo Faty,22,Defensive Midfield,FC Nantes,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Manuel Mancini,20,Left Midfield,Rieti,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Vitorino Antunes,22,Left-Back,Lecce,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Alessandro Triola,18,Right Winger,ASD Sarzanese,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Giuliano Falco,20,Centre-Back,Vibonese,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Roma,Alberto Aquilani,25,Central Midfield,Liverpool,£18.00m,out,18,Serie A,2009,2009/2010
+AS Roma,Aleandro Rosi,22,Right-Back,Siena,£1.08m,out,1.08,Serie A,2009,2009/2010
+AS Roma,Édgar Álvarez,29,Right Midfield,Bari,£405k,out,0.405,Serie A,2009,2009/2010
+AS Roma,Stefano Guberti,25,Left Winger,Sampdoria,Loan fee:£225k,out,0.225,Serie A,2009,2009/2010
+AS Roma,Stefano Okaka,20,Centre-Forward,Fulham,Loan fee:£158k,out,0.158,Serie A,2009,2009/2010
+AS Roma,Adrian Pit,26,Left Midfield,Triestina,Loan,out,0,Serie A,2009,2009/2010
+AS Roma,Christian Panucci,36,Right-Back,Parma,Free Transfer,out,0,Serie A,2009,2009/2010
+AS Roma,Simone Loria,32,Centre-Back,Torino,Loan,out,0,Serie A,2009,2009/2010
+AS Roma,Andrea Bertolacci,18,Central Midfield,Lecce,Loan,out,0,Serie A,2009,2009/2010
+AS Roma,Valerio Virga,23,Right-Back,Cosenza,Loan,out,0,Serie A,2009,2009/2010
+AS Roma,Leandro Greco,23,Central Midfield,Piacenza,Loan,out,0,Serie A,2009,2009/2010
+AS Roma,Claudio Della Penna,20,Right Winger,Gallipoli,Loan,out,0,Serie A,2009,2009/2010
+AS Roma,Cicinho,29,Right-Back,São Paulo,Loan,out,0,Serie A,2009,2009/2010
+AS Roma,Filipe,22,Defensive Midfield,Siena,Free Transfer,out,0,Serie A,2009,2009/2010
+AS Roma,Massimiliano Marsili,22,Central Midfield,Cosenza,Free Transfer,out,0,Serie A,2009,2009/2010
+AS Roma,Ahmed Barusso,25,Defensive Midfield,Torino,Loan,out,0,Serie A,2009,2009/2010
+AS Roma,Cristian Palumbo,20,Defender,Pomezia,?,out,NA,Serie A,2009,2009/2010
+AS Roma,Ivan Lanni,19,Goalkeeper,Grosseto,?,out,NA,Serie A,2009,2009/2010
+AS Roma,Mirco Zazza,19,Centre-Back,Sanluri,?,out,NA,Serie A,2009,2009/2010
+AS Roma,Guido Giannotta,19,Right-Back,Aversa Norm.,?,out,NA,Serie A,2009,2009/2010
+AS Roma,Mauro Esposito,30,Right Winger,Grosseto,Loan,out,0,Serie A,2009,2009/2010
+AS Roma,Gianluca Zara,18,Left-Back,Rondinella,?,out,NA,Serie A,2009,2009/2010
+AS Roma,Emiliano Tortolano,19,Right Winger,VF Colligiana,Loan,out,0,Serie A,2009,2009/2010
+AS Roma,Alessandro Triola,19,Right Winger,Rondinella,?,out,NA,Serie A,2009,2009/2010
+AS Roma,Giuliano Falco,20,Centre-Back,Isola Liri,?,out,NA,Serie A,2009,2009/2010
+AS Roma,Alessandro Crescenzi,17,Left-Back,Grosseto,Loan,out,0,Serie A,2009,2009/2010
+AS Roma,João Paulo,20,Right Midfield,Igea Virtus,Loan,out,0,Serie A,2009,2009/2010
+AS Roma,Manuel Mancini,20,Left Midfield,Rieti,?,out,NA,Serie A,2009,2009/2010
+AS Roma,Paolo Seppani,22,Right-Back,Morolo Calcio,?,out,NA,Serie A,2009,2009/2010
+AS Roma,Ahmed Barusso,24,Defensive Midfield,Brescia,Loan,out,0,Serie A,2009,2009/2010
+AS Roma,Vitorino Antunes,22,Left-Back,Leixões,Loan,out,0,Serie A,2009,2009/2010
+AS Roma,Federico Maria Erba,20,Centre-Back,Cesena,?,out,NA,Serie A,2009,2009/2010
+AS Roma,Andrea Giacomini,22,Left Midfield,Rimini,?,out,NA,Serie A,2009,2009/2010
+AS Roma,Riccardo Brosco,18,Centre-Back,Triestina,Loan,out,0,Serie A,2009,2009/2010
+AS Roma,Vincenzo Montella,35,Centre-Forward,Retired,-,out,0,Serie A,2009,2009/2010
+AS Roma,Pietro Pipolo,23,Goalkeeper,Retired,-,out,0,Serie A,2009,2009/2010
+AS Roma,Souleymane Diamoutene,26,Centre-Back,Lecce,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+AS Roma,Marco Motta,23,Right-Back,Udinese,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+AC Milan,Klaas-Jan Huntelaar,25,Centre-Forward,Real Madrid,£13.50m,in,13.5,Serie A,2009,2009/2010
+AC Milan,Ignazio Abate,22,Right-Back,Torino,£2.52m,in,2.52,Serie A,2009,2009/2010
+AC Milan,Davide Di Gennaro,21,Defensive Midfield,Genoa,£2.25m,in,2.25,Serie A,2009,2009/2010
+AC Milan,Dominic Adiyiah,20,Right Winger,Fredrikstad,£1.26m,in,1.26,Serie A,2009,2009/2010
+AC Milan,Elia Legati,24,Centre-Back,Crotone,£360k,in,0.36,Serie A,2009,2009/2010
+AC Milan,Oguchi Onyewu,27,Centre-Back,Standard Liège,Free Transfer,in,0,Serie A,2009,2009/2010
+AC Milan,Flavio Roma,35,Goalkeeper,Monaco,Free Transfer,in,0,Serie A,2009,2009/2010
+AC Milan,Mancini,29,Left Winger,Inter,Loan,in,0,Serie A,2009,2009/2010
+AC Milan,David Beckham,34,Right Midfield,LA Galaxy,Loan,in,0,Serie A,2009,2009/2010
+AC Milan,Matteo Bruscagin,19,Centre-Back,Milan U19,-,in,0,Serie A,2009,2009/2010
+AC Milan,Wilfred Osuji,18,Defensive Midfield,Milan U19,-,in,0,Serie A,2009,2009/2010
+AC Milan,Digão,24,Centre-Back,Lecce,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+AC Milan,Rodney Strasser,19,Defensive Midfield,Milan U19,-,in,0,Serie A,2009,2009/2010
+AC Milan,Giorgio Gianola,19,Centre-Back,Milan U19,-,in,0,Serie A,2009,2009/2010
+AC Milan,Yoann Gourcuff,22,Attacking Midfield,G. Bordeaux,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Milan,Digão,23,Centre-Back,Standard Liège,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Milan,Marcus Diniz,21,Centre-Back,Crotone,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Milan,Sandro Bloudek,23,Attacking Midfield,Varteks,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Milan,Marco Storari,32,Goalkeeper,Fiorentina,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Milan,Massimo Oddo,33,Right-Back,Bayern Munich,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Milan,Elia Legati,23,Centre-Back,Novara,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Milan,Pierre-Emerick Aubameyang,20,Centre-Forward,Dijon,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Milan,William-Fils Aubameyang,22,Centre-Back,Avellino,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Milan,Davide Facchin,22,Goalkeeper,Padova,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Milan,Marco Bergamini,21,Centre-Back,Olginatese,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Milan,Kaká,27,Attacking Midfield,Real Madrid,£60.30m,out,60.3,Serie A,2009,2009/2010
+AC Milan,Yoann Gourcuff,22,Attacking Midfield,G. Bordeaux,£12.15m,out,12.15,Serie A,2009,2009/2010
+AC Milan,Marcus Diniz,21,Centre-Back,AS Livorno,Loan fee:£135k,out,0.135,Serie A,2009,2009/2010
+AC Milan,Zeljko Kalac,36,Goalkeeper,AO Kavala,Free Transfer,out,0,Serie A,2009,2009/2010
+AC Milan,Digão,24,Centre-Back,Crotone,Loan,out,0,Serie A,2009,2009/2010
+AC Milan,Sandro Bloudek,23,Attacking Midfield,Varteks,Free Transfer,out,0,Serie A,2009,2009/2010
+AC Milan,Digão,23,Centre-Back,Lecce,Loan,out,0,Serie A,2009,2009/2010
+AC Milan,Davide Di Gennaro,21,Defensive Midfield,AS Livorno,Loan,out,0,Serie A,2009,2009/2010
+AC Milan,Elia Legati,23,Centre-Back,Crotone,£9k,out,0.009,Serie A,2009,2009/2010
+AC Milan,Marco Storari,33,Goalkeeper,Sampdoria,Loan,out,0,Serie A,2009,2009/2010
+AC Milan,William-Fils Aubameyang,22,Centre-Back,KAS Eupen,Loan,out,0,Serie A,2009,2009/2010
+AC Milan,Marco Bergamini,21,Centre-Back,San Marino,Loan,out,0,Serie A,2009,2009/2010
+AC Milan,Wilfred Osuji,18,Defensive Midfield,Varese,Loan,out,0,Serie A,2009,2009/2010
+AC Milan,Matteo Bruscagin,19,Centre-Back,AS Gubbio,Loan,out,0,Serie A,2009,2009/2010
+AC Milan,Pierre-Emerick Aubameyang,20,Centre-Forward,LOSC Lille,Loan,out,0,Serie A,2009,2009/2010
+AC Milan,Matteo Darmian,19,Right-Back,Padova,Loan,out,0,Serie A,2009,2009/2010
+AC Milan,Giorgio Gianola,20,Centre-Back,Varese,Loan,out,0,Serie A,2009,2009/2010
+AC Milan,Paolo Maldini,41,Left-Back,Retired,-,out,0,Serie A,2009,2009/2010
+AC Milan,Tabaré Viúdez,19,Right Winger,Without Club,-,out,0,Serie A,2009,2009/2010
+AC Milan,Mathías Cardacio,21,Central Midfield,Without Club,-,out,0,Serie A,2009,2009/2010
+AC Milan,David Beckham,34,Right Midfield,LA Galaxy,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+AC Milan,Philippe Senderos,24,Centre-Back,Arsenal,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+AC Milan,Andrii Shevchenko,32,Centre-Forward,Chelsea,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+AC Milan,Felipe Mattioni,20,Right-Back,Maga,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+UC Sampdoria,Franco Semioli,29,Right Winger,Fiorentina,£4.50m,in,4.5,Serie A,2009,2009/2010
+UC Sampdoria,Daniele Mannini,25,Right Midfield,SSC Napoli,£3.15m,in,3.15,Serie A,2009,2009/2010
+UC Sampdoria,Stefano Guberti,25,Left Winger,AS Roma,Loan fee:£225k,in,0.225,Serie A,2009,2009/2010
+UC Sampdoria,Matteo Guardalben,35,Goalkeeper,Treviso,Free Transfer,in,0,Serie A,2009,2009/2010
+UC Sampdoria,Mohammed Rabiu,19,Defensive Midfield,Liberty Prof.,Loan,in,0,Serie A,2009,2009/2010
+UC Sampdoria,Stefan Scepovic,19,Centre-Forward,OFK Beograd,Loan,in,0,Serie A,2009,2009/2010
+UC Sampdoria,Luciano Zauri,31,Right-Back,Lazio,Loan,in,0,Serie A,2009,2009/2010
+UC Sampdoria,Nicola Pozzi,23,Centre-Forward,FC Empoli,Loan,in,0,Serie A,2009,2009/2010
+UC Sampdoria,Marco Storari,33,Goalkeeper,AC Milan,Loan,in,0,Serie A,2009,2009/2010
+UC Sampdoria,Stefano Scappini,21,Centre-Forward,Ternana,?,in,NA,Serie A,2009,2009/2010
+UC Sampdoria,Fernando Tissone,22,Central Midfield,Udinese,?,in,NA,Serie A,2009,2009/2010
+UC Sampdoria,Mario Cassano,26,Goalkeeper,Piacenza,Loan,in,0,Serie A,2009,2009/2010
+UC Sampdoria,Marco Rossi,21,Centre-Back,Parma,Loan,in,0,Serie A,2009,2009/2010
+UC Sampdoria,Salvatore Foti,20,Centre-Forward,Treviso,?,in,NA,Serie A,2009,2009/2010
+UC Sampdoria,Gabriel Ferrari,21,Centre-Forward,Foggia,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Danilo Soddimo,22,Left Midfield,Salernitana,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Massimo Bonanni,27,Left Midfield,Grosseto,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Mirko Eramo,19,Central Midfield,Piacenza,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Massimo Volta,22,Centre-Back,Vicenza,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Francesco Virdis,24,Centre-Forward,Legnano,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Alessandro Bastrini,22,Centre-Back,Sassuolo,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Pietro Arnulfo,20,Forward,Cappiano Romano,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Francesco Signori,20,Central Midfield,Foligno,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Emiliano Bonazzoli,30,Centre-Forward,Fiorentina,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Jonathan Rossini,20,Centre-Back,Cittadella,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Gianluigi Bianco,20,Left-Back,FC Empoli,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Gabriel Ferrari,20,Centre-Forward,Perugia,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Fabrizio Cacciatore,22,Right-Back,Triestina,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Vladimir Koman,20,Attacking Midfield,Avellino,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Matteo Lanzoni,20,Centre-Back,Sambenedettese,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Jonathan Bottinelli,24,Centre-Back,San Lorenzo,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Giovanni Taormina,21,Left Midfield,Como,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Bruno Fornaroli,21,Centre-Forward,San Lorenzo,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Leonardo Migliónico,29,Centre-Back,AS Livorno,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Alessandro Romeo,22,Centre-Forward,Cavese,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Daniele Padelli,23,Goalkeeper,Avellino,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Danilo Soddimo,21,Left Midfield,Ancona,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Andrea Poli,19,Central Midfield,Sassuolo,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Paolo Castellazzi,21,Central Midfield,SPAL,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+UC Sampdoria,Hugo Campagnaro,29,Centre-Back,SSC Napoli,£6.30m,out,6.3,Serie A,2009,2009/2010
+UC Sampdoria,Antonio Mirante,25,Goalkeeper,Parma,£3.24m,out,3.24,Serie A,2009,2009/2010
+UC Sampdoria,Gennaro Delvecchio,31,Central Midfield,Catania,£1.80m,out,1.8,Serie A,2009,2009/2010
+UC Sampdoria,Jonathan Bottinelli,24,Centre-Back,San Lorenzo,£1.02m,out,1.02,Serie A,2009,2009/2010
+UC Sampdoria,Marius Stankevicius,28,Centre-Back,Sevilla FC,Loan fee:£450k,out,0.45,Serie A,2009,2009/2010
+UC Sampdoria,Vladimir Koman,20,Attacking Midfield,Bari,Loan fee:£270k,out,0.27,Serie A,2009,2009/2010
+UC Sampdoria,Mirko Pieri,30,Left-Back,AS Livorno,£180k,out,0.18,Serie A,2009,2009/2010
+UC Sampdoria,Guido Marilungo,19,Centre-Forward,Lecce,Loan fee:£135k,out,0.135,Serie A,2009,2009/2010
+UC Sampdoria,Michele Ferri,28,Centre-Back,Vicenza,Free Transfer,out,0,Serie A,2009,2009/2010
+UC Sampdoria,Claudio Bellucci,34,Centre-Forward,AS Livorno,Free Transfer,out,0,Serie A,2009,2009/2010
+UC Sampdoria,Jonathan Rossini,20,Centre-Back,Sassuolo,Loan,out,0,Serie A,2009,2009/2010
+UC Sampdoria,Paolo Sammarco,26,Central Midfield,Udinese,Loan,out,0,Serie A,2009,2009/2010
+UC Sampdoria,Vincenzo Fiorillo,19,Goalkeeper,Reggina,Loan,out,0,Serie A,2009,2009/2010
+UC Sampdoria,Daniele Dessena,22,Central Midfield,Cagliari Calcio,?,out,NA,Serie A,2009,2009/2010
+UC Sampdoria,Gabriel Ferrari,21,Centre-Forward,Ternana,Loan,out,0,Serie A,2009,2009/2010
+UC Sampdoria,Giovanni Taormina,21,Left Midfield,Viareggio,?,out,NA,Serie A,2009,2009/2010
+UC Sampdoria,Paolo Castellazzi,21,Central Midfield,Foligno,?,out,NA,Serie A,2009,2009/2010
+UC Sampdoria,Alessandro Bastrini,22,Centre-Back,Salernitana,Loan,out,0,Serie A,2009,2009/2010
+UC Sampdoria,Mirko Eramo,19,Central Midfield,Monza,Loan,out,0,Serie A,2009,2009/2010
+UC Sampdoria,Salvatore Foti,21,Centre-Forward,Piacenza,Loan,out,0,Serie A,2009,2009/2010
+UC Sampdoria,Francesco Signori,20,Central Midfield,Vicenza,Loan,out,0,Serie A,2009,2009/2010
+UC Sampdoria,Bruno Fornaroli,21,Centre-Forward,Recr. Huelva,Loan,out,0,Serie A,2009,2009/2010
+UC Sampdoria,Danilo Soddimo,22,Left Midfield,Pescara,?,out,NA,Serie A,2009,2009/2010
+UC Sampdoria,Francesco Virdis,24,Centre-Forward,Foligno,Loan,out,0,Serie A,2009,2009/2010
+UC Sampdoria,Leonardo Migliónico,29,Centre-Back,AS Livorno,?,out,NA,Serie A,2009,2009/2010
+UC Sampdoria,Gabriel Ferrari,20,Centre-Forward,Foggia,Loan,out,0,Serie A,2009,2009/2010
+UC Sampdoria,Daniele Padelli,23,Goalkeeper,Bari,Loan,out,0,Serie A,2009,2009/2010
+UC Sampdoria,Gianluigi Bianco,20,Left-Back,Sassuolo,Loan,out,0,Serie A,2009,2009/2010
+UC Sampdoria,Emiliano Bonazzoli,30,Centre-Forward,Reggina,?,out,NA,Serie A,2009,2009/2010
+UC Sampdoria,Mattia Mustacchio,20,Right Winger,Ancona,Loan,out,0,Serie A,2009,2009/2010
+UC Sampdoria,Danilo Soddimo,21,Left Midfield,Salernitana,Loan,out,0,Serie A,2009,2009/2010
+UC Sampdoria,Massimo Bonanni,27,Left Midfield,Pescara,?,out,NA,Serie A,2009,2009/2010
+UC Sampdoria,Pietro Arnulfo,20,Forward,Figline,Loan,out,0,Serie A,2009,2009/2010
+UC Sampdoria,Alessandro Romeo,22,Centre-Forward,Ascoli,?,out,NA,Serie A,2009,2009/2010
+UC Sampdoria,Stefano Scappini,21,Centre-Forward,Ravenna,?,out,NA,Serie A,2009,2009/2010
+UC Sampdoria,Massimo Volta,22,Centre-Back,Cesena,Loan,out,0,Serie A,2009,2009/2010
+UC Sampdoria,Andrea Raggi,25,Centre-Back,US Palermo,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+UC Sampdoria,Manuel da Costa,23,Centre-Back,Fiorentina,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+US Palermo,Javier Pastore,20,Attacking Midfield,Huracán,£6.30m,in,6.3,Serie A,2009,2009/2010
+US Palermo,Rubinho,27,Goalkeeper,Genoa,£4.50m,in,4.5,Serie A,2009,2009/2010
+US Palermo,Dorin Goian,28,Centre-Back,Steaua Bukarest,£1.80m,in,1.8,Serie A,2009,2009/2010
+US Palermo,Nicolás Bertolo,23,Left Winger,CA Banfield,£1.80m,in,1.8,Serie A,2009,2009/2010
+US Palermo,Cristian Melinte,21,Centre-Back,Dinamo Bukarest,£540k,in,0.54,Serie A,2009,2009/2010
+US Palermo,Ondrej Celustka,20,Centre-Back,Slavia Prag,Loan fee:£450k,in,0.45,Serie A,2009,2009/2010
+US Palermo,Marco Calderoni,20,Left-Back,Piacenza,Loan fee:£180k,in,0.18,Serie A,2009,2009/2010
+US Palermo,Francesco Benussi,28,Goalkeeper,Lecce,Loan,in,0,Serie A,2009,2009/2010
+US Palermo,Emanuele Terranova,22,Centre-Back,AS Livorno,?,in,NA,Serie A,2009,2009/2010
+US Palermo,Manuele Blasi,29,Central Midfield,SSC Napoli,Loan,in,0,Serie A,2009,2009/2010
+US Palermo,Mirko Velardi,22,Central Midfield,Foggia,?,in,NA,Serie A,2009,2009/2010
+US Palermo,Giacomo Brichetto,26,Goalkeeper,Novara,Loan,in,0,Serie A,2009,2009/2010
+US Palermo,Giuseppe Polito,21,Second Striker,Südtirol,?,in,NA,Serie A,2009,2009/2010
+US Palermo,Luca Di Matteo,21,Left-Back,Crotone,"End of loanJan 31, 2010",in,0,Serie A,2009,2009/2010
+US Palermo,Antonio Mazzotta,19,Left-Back,Palermo U19,-,in,0,Serie A,2009,2009/2010
+US Palermo,Guido Davì,18,Central Midfield,Palermo U19,-,in,0,Serie A,2009,2009/2010
+US Palermo,Gianluca Palmiteri,21,Centre-Forward,Palermo U19,-,in,0,Serie A,2009,2009/2010
+US Palermo,Pietro Balistreri,23,Centre-Forward,Monopoli,"End of loanJan 1, 2010",in,0,Serie A,2009,2009/2010
+US Palermo,Edgar Cani,20,Centre-Forward,Padova,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+US Palermo,Daniele Conti,19,Left Midfield,Palermo U19,-,in,0,Serie A,2009,2009/2010
+US Palermo,Antonio Tranchina,20,Central Midfield,Palermo U19,-,in,0,Serie A,2009,2009/2010
+US Palermo,Ciro Capuano,27,Centre-Back,Catania,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+US Palermo,Maurizio Ciaramitaro,27,Central Midfield,Salernitana,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+US Palermo,Salvatore Sirigu,22,Goalkeeper,Ancona,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+US Palermo,Boško Janković,25,Right Winger,Genoa,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+US Palermo,Davis Curiale,21,Centre-Forward,Ravenna,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+US Palermo,Paolo Dellafiore,24,Centre-Back,Torino,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+US Palermo,Giuseppe Polito,20,Second Striker,Vibonese,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+US Palermo,Edgar Cani,19,Centre-Forward,Ascoli,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+US Palermo,Paolo Carbonaro,20,Second Striker,Monopoli,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+US Palermo,Andrea Raggi,25,Centre-Back,Sampdoria,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+US Palermo,Luca Di Matteo,21,Left-Back,Cittadella,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+US Palermo,Francesco Inglese,21,Defender,Lucchese,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+US Palermo,Federico Agliardi,26,Goalkeeper,Rimini,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+US Palermo,Davide Lanzafame,22,Centre-Forward,Bari,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+US Palermo,Marco Amelia,27,Goalkeeper,Genoa,£4.50m,out,4.5,Serie A,2009,2009/2010
+US Palermo,Boško Janković,25,Right Winger,Genoa,£3.15m,out,3.15,Serie A,2009,2009/2010
+US Palermo,Ciro Capuano,27,Centre-Back,Catania,£2.70m,out,2.7,Serie A,2009,2009/2010
+US Palermo,Roberto Guana,28,Central Midfield,Bologna,Loan fee:£432k,out,0.432,Serie A,2009,2009/2010
+US Palermo,Rubinho,27,Goalkeeper,AS Livorno,Loan fee:£360k,out,0.36,Serie A,2009,2009/2010
+US Palermo,Paolo Dellafiore,24,Centre-Back,Parma,Loan fee:£225k,out,0.225,Serie A,2009,2009/2010
+US Palermo,Andrea Raggi,25,Centre-Back,Bologna,Loan fee:£126k,out,0.126,Serie A,2009,2009/2010
+US Palermo,Davide Succi,28,Centre-Forward,Bologna,Loan,out,0,Serie A,2009,2009/2010
+US Palermo,Cristian Melinte,21,Centre-Back,Piacenza,Loan,out,0,Serie A,2009,2009/2010
+US Palermo,Mirko Savini,30,Left-Back,PAOK Salonika,Free Transfer,out,0,Serie A,2009,2009/2010
+US Palermo,Federico Agliardi,26,Goalkeeper,Padova,Free Transfer,out,0,Serie A,2009,2009/2010
+US Palermo,Samir Ujkani,21,Goalkeeper,Novara,Loan,out,0,Serie A,2009,2009/2010
+US Palermo,Samuele Romeo,20,Centre-Back,Lumezzane,Loan fee:£18k,out,0.018,Serie A,2009,2009/2010
+US Palermo,Luca Di Matteo,21,Left-Back,Vicenza,£450,out,NA,Serie A,2009,2009/2010
+US Palermo,Giuseppe Ingrassia,20,Goalkeeper,Hellas Verona,Loan,out,0,Serie A,2009,2009/2010
+US Palermo,Davis Curiale,21,Centre-Forward,Cittadella,Loan,out,0,Serie A,2009,2009/2010
+US Palermo,Gianluca Palmiteri,21,Centre-Forward,Celano,Loan,out,0,Serie A,2009,2009/2010
+US Palermo,Antonio Mazzotta,19,Left-Back,Lecce,?,out,NA,Serie A,2009,2009/2010
+US Palermo,Maurizio Ciaramitaro,27,Central Midfield,AC Bellinzona,Loan,out,0,Serie A,2009,2009/2010
+US Palermo,Edgar Cani,20,Centre-Forward,Padova,Loan,out,0,Serie A,2009,2009/2010
+US Palermo,Edgar Cani,20,Centre-Forward,Piacenza,Loan,out,0,Serie A,2009,2009/2010
+US Palermo,Davide Lanzafame,22,Centre-Forward,Parma,Loan,out,0,Serie A,2009,2009/2010
+US Palermo,Paolo Carbonaro,20,Second Striker,Real Giulianova,Loan,out,0,Serie A,2009,2009/2010
+US Palermo,Francesco Inglese,21,Defender,Villacidrese,?,out,NA,Serie A,2009,2009/2010
+US Palermo,Luca Di Matteo,21,Left-Back,Crotone,Loan,out,0,Serie A,2009,2009/2010
+US Palermo,Emanuele Terranova,22,Centre-Back,Lecce,Loan,out,0,Serie A,2009,2009/2010
+US Palermo,Pietro Balistreri,24,Centre-Forward,Ternana,?,out,NA,Serie A,2009,2009/2010
+US Palermo,Giuseppe Polito,20,Second Striker,Südtirol,?,out,NA,Serie A,2009,2009/2010
+US Palermo,Daniele Conti,20,Left Midfield,Arezzo,Loan,out,0,Serie A,2009,2009/2010
+US Palermo,Alberto Cossentino,20,Centre-Back,Novara,Loan,out,0,Serie A,2009,2009/2010
+US Palermo,Antonio Tranchina,20,Central Midfield,Monopoli,Loan,out,0,Serie A,2009,2009/2010
+US Palermo,Alberto Fontana,42,Goalkeeper,Retired,-,out,0,Serie A,2009,2009/2010
+SSC Napoli,Fabio Quagliarella,26,Centre-Forward,Udinese,£16.20m,in,16.2,Serie A,2009,2009/2010
+SSC Napoli,Luca Cigarini,23,Defensive Midfield,Atalanta,£9.90m,in,9.9,Serie A,2009,2009/2010
+SSC Napoli,Camilo Zúñiga,23,Right-Back,Siena,£7.65m,in,7.65,Serie A,2009,2009/2010
+SSC Napoli,Hugo Campagnaro,29,Centre-Back,Sampdoria,£6.30m,in,6.3,Serie A,2009,2009/2010
+SSC Napoli,Erwin Hoffer,22,Centre-Forward,Rapid Vienna,£4.50m,in,4.5,Serie A,2009,2009/2010
+SSC Napoli,Andrea Dossena,28,Left Midfield,Liverpool,£3.38m,in,3.38,Serie A,2009,2009/2010
+SSC Napoli,Morgan De Sanctis,32,Goalkeeper,Sevilla FC,£1.71m,in,1.71,Serie A,2009,2009/2010
+SSC Napoli,Luca Borrelli,21,Forward,AC Scafatese,?,in,NA,Serie A,2009,2009/2010
+SSC Napoli,Samuele Dalla Bona,28,Central Midfield,Without Club,-,in,0,Serie A,2009,2009/2010
+SSC Napoli,Cosmo Palumbo,20,Central Midfield,Lecco,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+SSC Napoli,Lorenzo Insigne,18,Left Winger,Napoli U19,-,in,0,Serie A,2009,2009/2010
+SSC Napoli,Samuele Dalla Bona,28,Central Midfield,Iraklis,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+SSC Napoli,Erminio Rullo,25,Centre-Back,Triestina,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SSC Napoli,Mario D'Urso,19,Defender,Real Giulianova,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SSC Napoli,Roberto De Zerbi,30,Attacking Midfield,Avellino,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SSC Napoli,Cosmo Palumbo,20,Central Midfield,Cesena,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SSC Napoli,Cristian Bucchi,32,Centre-Forward,Ascoli,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SSC Napoli,Carmine Biagio Gatti,21,Goalkeeper,Matera,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SSC Napoli,Daniele Mannini,25,Right Midfield,Sampdoria,£3.15m,out,3.15,Serie A,2009,2009/2010
+SSC Napoli,Jesús Dátolo,25,Left Midfield,Olympiacos,Loan fee:£540k,out,0.54,Serie A,2009,2009/2010
+SSC Napoli,Matteo Contini,29,Centre-Back,Real Zaragoza,Loan fee:£450k,out,0.45,Serie A,2009,2009/2010
+SSC Napoli,Samuele Dalla Bona,28,Central Midfield,Iraklis,Loan fee:£135k,out,0.135,Serie A,2009,2009/2010
+SSC Napoli,Marcelo Zalayeta,30,Centre-Forward,Bologna,Loan,out,0,Serie A,2009,2009/2010
+SSC Napoli,Nicolás Amodio,26,Defensive Midfield,Piacenza,Loan,out,0,Serie A,2009,2009/2010
+SSC Napoli,Nicolás Navarro,24,Goalkeeper,River Plate,Loan,out,0,Serie A,2009,2009/2010
+SSC Napoli,Carmine Biagio Gatti,21,Goalkeeper,VF Colligiana,Loan,out,0,Serie A,2009,2009/2010
+SSC Napoli,Francesco Montervino,31,Central Midfield,Salernitana,?,out,NA,Serie A,2009,2009/2010
+SSC Napoli,Lorenzo Insigne,18,Left Winger,Cavese,Loan,out,0,Serie A,2009,2009/2010
+SSC Napoli,Cristian Bucchi,32,Centre-Forward,Cesena,Loan,out,0,Serie A,2009,2009/2010
+SSC Napoli,Mario D'Urso,19,Defender,Lecco,?,out,NA,Serie A,2009,2009/2010
+SSC Napoli,Piá,27,Left Winger,Torino,Loan,out,0,Serie A,2009,2009/2010
+SSC Napoli,Samuele Dalla Bona,28,Central Midfield,Hellas Verona,Loan,out,0,Serie A,2009,2009/2010
+SSC Napoli,Manuele Blasi,29,Central Midfield,US Palermo,Loan,out,0,Serie A,2009,2009/2010
+SSC Napoli,Roberto De Zerbi,30,Attacking Midfield,CFR Cluj,Loan,out,0,Serie A,2009,2009/2010
+SSC Napoli,Camillo Ciano,19,Right Winger,Lecco,Loan,out,0,Serie A,2009,2009/2010
+SSC Napoli,Luigi Vitale,21,Left-Back,AS Livorno,Loan,out,0,Serie A,2009,2009/2010
+SSC Napoli,Cosmo Palumbo,20,Central Midfield,Aversa Norm.,Loan,out,0,Serie A,2009,2009/2010
+SSC Napoli,Cosmo Palumbo,20,Central Midfield,Lecco,Loan,out,0,Serie A,2009,2009/2010
+SSC Napoli,Luca Bucci,40,Goalkeeper,Retired,-,out,0,Serie A,2009,2009/2010
+SSC Napoli,Andrea Russotto,21,Attacking Midfield,AC Bellinzona,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Juventus FC,Diego,24,Attacking Midfield,Werder Bremen,£24.30m,in,24.3,Serie A,2009,2009/2010
+Juventus FC,Felipe Melo,26,Defensive Midfield,Fiorentina,£22.50m,in,22.5,Serie A,2009,2009/2010
+Juventus FC,Michele Paolucci,23,Centre-Forward,Udinese,£2.97m,in,2.97,Serie A,2009,2009/2010
+Juventus FC,Fabio Grosso,31,Left-Back,Olympique Lyon,£1.80m,in,1.8,Serie A,2009,2009/2010
+Juventus FC,Antonio Candreva,22,Right Winger,Udinese,Loan fee:£900k,in,0.9,Serie A,2009,2009/2010
+Juventus FC,Martín Cáceres,22,Centre-Back,FC Barcelona,Loan fee:£450k,in,0.45,Serie A,2009,2009/2010
+Juventus FC,Michele Paolucci,23,Centre-Forward,Siena,Loan fee:£450k,in,0.45,Serie A,2009,2009/2010
+Juventus FC,Fabio Cannavaro,35,Centre-Back,Real Madrid,Free Transfer,in,0,Serie A,2009,2009/2010
+Juventus FC,Alessandro D'Antoni,21,Second Striker,Figline,?,in,NA,Serie A,2009,2009/2010
+Juventus FC,Ayub Daud,19,Second Striker,Crotone,"End of loanJan 31, 2010",in,0,Serie A,2009,2009/2010
+Juventus FC,Cristian Pasquato,20,Attacking Midfield,FC Empoli,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+Juventus FC,Ayub Daud,19,Second Striker,Juventus U19,-,in,0,Serie A,2009,2009/2010
+Juventus FC,Marco Duravia,19,Right Midfield,Juventus U19,-,in,0,Serie A,2009,2009/2010
+Juventus FC,Carlo Vecchione,21,Attacking Midfield,Juventus U19,-,in,0,Serie A,2009,2009/2010
+Juventus FC,Salvatore D'Elia,20,Left-Back,Juventus U19,-,in,0,Serie A,2009,2009/2010
+Juventus FC,Luca Castiglia,20,Central Midfield,Cesena,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+Juventus FC,Alessio Curcio,19,Right Winger,Juventus U19,-,in,0,Serie A,2009,2009/2010
+Juventus FC,Luca Castiglia,20,Central Midfield,Juventus U19,-,in,0,Serie A,2009,2009/2010
+Juventus FC,Oussama Essabr,20,Centre-Forward,Vicenza,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Juventus FC,Dario Venitucci,22,Right Winger,Avellino,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Juventus FC,Andrea Pisani,22,Centre-Back,Pro Patria,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Juventus FC,Andrea Torta,19,Centre-Back,Rovigo Calcio,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Juventus FC,Nicola Cosentini,21,Defensive Midfield,Pro Patria,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Juventus FC,Raffaele Bianco,21,Central Midfield,Bari,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Juventus FC,Donato Bottone,21,Centre-Forward,Pro Sesto,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Juventus FC,Stefano Di Berardino,22,Centre-Back,Pistoiese,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Juventus FC,Rubén Olivera,26,Central Midfield,Genoa,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Juventus FC,Alessandro D'Antoni,20,Second Striker,Real Giulianova,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Juventus FC,Mario Kirev,19,Goalkeeper,Grasshoppers,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Juventus FC,Giorgio Merlano,20,Goalkeeper,Melfi,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Juventus FC,Samon Reider Rodríguez,20,Second Striker,US Poggibonsi,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Juventus FC,Sergio Almirón,28,Central Midfield,Fiorentina,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Juventus FC,Tullio Maio,20,Midfielder,Melfi,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Juventus FC,Marco Marchionni,28,Right Midfield,Fiorentina,£4.05m,out,4.05,Serie A,2009,2009/2010
+Juventus FC,Michele Paolucci,23,Centre-Forward,Siena,£3.15m,out,3.15,Serie A,2009,2009/2010
+Juventus FC,Olof Mellberg,31,Centre-Back,Olympiacos,£2.25m,out,2.25,Serie A,2009,2009/2010
+Juventus FC,Cristiano Zanetti,32,Defensive Midfield,Fiorentina,£1.80m,out,1.8,Serie A,2009,2009/2010
+Juventus FC,Tiago,28,Central Midfield,Atlético Madrid,Loan fee:£900k,out,0.9,Serie A,2009,2009/2010
+Juventus FC,Cristian Molinaro,26,Left-Back,VfB Stuttgart,Loan fee:£450k,out,0.45,Serie A,2009,2009/2010
+Juventus FC,Lorenzo Ariaudo,20,Centre-Back,Cagliari Calcio,Loan fee:£270k,out,0.27,Serie A,2009,2009/2010
+Juventus FC,Albin Ekdal,19,Defensive Midfield,Siena,Loan,out,0,Serie A,2009,2009/2010
+Juventus FC,Andrea Torta,19,Centre-Back,Foggia,Free Transfer,out,0,Serie A,2009,2009/2010
+Juventus FC,Rubén Olivera,26,Central Midfield,Peñarol,Loan,out,0,Serie A,2009,2009/2010
+Juventus FC,Dario Venitucci,22,Right Winger,Arezzo,Loan,out,0,Serie A,2009,2009/2010
+Juventus FC,Salvatore D'Elia,20,Left-Back,Figline,Loan,out,0,Serie A,2009,2009/2010
+Juventus FC,Andrea Pisani,22,Centre-Back,Cittadella,Loan,out,0,Serie A,2009,2009/2010
+Juventus FC,Ayub Daud,19,Second Striker,Lumezzane,Loan,out,0,Serie A,2009,2009/2010
+Juventus FC,Carlo Vecchione,21,Attacking Midfield,Clermont Foot,Loan,out,0,Serie A,2009,2009/2010
+Juventus FC,Ayub Daud,19,Second Striker,Crotone,Loan,out,0,Serie A,2009,2009/2010
+Juventus FC,Sergio Almirón,28,Central Midfield,Bari,Loan,out,0,Serie A,2009,2009/2010
+Juventus FC,Oussama Essabr,20,Centre-Forward,Arezzo,Loan,out,0,Serie A,2009,2009/2010
+Juventus FC,Stefano Di Berardino,22,Centre-Back,AS Pescina,?,out,NA,Serie A,2009,2009/2010
+Juventus FC,Luca Castiglia,20,Central Midfield,Reggiana,Loan,out,0,Serie A,2009,2009/2010
+Juventus FC,Raffaele Bianco,21,Central Midfield,Modena,Loan,out,0,Serie A,2009,2009/2010
+Juventus FC,Alessio Curcio,19,Right Winger,FC Canavese,Loan,out,0,Serie A,2009,2009/2010
+Juventus FC,Alessandro D'Antoni,20,Second Striker,Figline,?,out,NA,Serie A,2009,2009/2010
+Juventus FC,Samon Reider Rodríguez,20,Second Striker,Alessandria,Loan,out,0,Serie A,2009,2009/2010
+Juventus FC,Cristian Pasquato,20,Attacking Midfield,Triestina,Loan,out,0,Serie A,2009,2009/2010
+Juventus FC,Luca Castiglia,20,Central Midfield,Cesena,Loan,out,0,Serie A,2009,2009/2010
+Juventus FC,Mario Kirev,20,Goalkeeper,FC Thun,Loan,out,0,Serie A,2009,2009/2010
+Juventus FC,Marco Duravia,19,Right Midfield,Figline,Loan,out,0,Serie A,2009,2009/2010
+Juventus FC,Pavel Nedved,36,Left Midfield,Retired,-,out,0,Serie A,2009,2009/2010
+Juventus FC,Dario Knezevic,27,Centre-Back,AS Livorno,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Parma FC,Daniele Galloppa,24,Central Midfield,Siena,£9.00m,in,9,Serie A,2009,2009/2010
+Parma FC,Pablo Fontanello,24,Centre-Back,Tigre,£3.60m,in,3.6,Serie A,2009,2009/2010
+Parma FC,Antonio Mirante,25,Goalkeeper,Sampdoria,£3.24m,in,3.24,Serie A,2009,2009/2010
+Parma FC,Francesco Valiani,29,Central Midfield,Bologna,£2.52m,in,2.52,Serie A,2009,2009/2010
+Parma FC,Jonathan Biabiany,21,Right Winger,Inter,£2.25m,in,2.25,Serie A,2009,2009/2010
+Parma FC,Cristian Zaccardo,27,Centre-Back,VfL Wolfsburg,£1.80m,in,1.8,Serie A,2009,2009/2010
+Parma FC,Manuel Coppola,27,Central Midfield,Siena,£1.08m,in,1.08,Serie A,2009,2009/2010
+Parma FC,Blerim Dzemaili,23,Central Midfield,Torino,Loan fee:£900k,in,0.9,Serie A,2009,2009/2010
+Parma FC,Paolo Dellafiore,24,Centre-Back,US Palermo,Loan fee:£225k,in,0.225,Serie A,2009,2009/2010
+Parma FC,Christian Panucci,36,Right-Back,AS Roma,Free Transfer,in,0,Serie A,2009,2009/2010
+Parma FC,Nicolás Córdova,30,Central Midfield,Grosseto,Free Transfer,in,0,Serie A,2009,2009/2010
+Parma FC,Riccardo Capogna,22,Centre-Forward,AC Carpenedolo,?,in,NA,Serie A,2009,2009/2010
+Parma FC,Valeri Bojinov,23,Centre-Forward,Man City,Loan,in,0,Serie A,2009,2009/2010
+Parma FC,Alessio Tombesi,28,Left-Back,Novara,?,in,NA,Serie A,2009,2009/2010
+Parma FC,Jonathan Biabiany,21,Right Winger,Inter,Loan,in,0,Serie A,2009,2009/2010
+Parma FC,Fabio Lebran,22,Centre-Back,Unione Venezia,?,in,NA,Serie A,2009,2009/2010
+Parma FC,Luis Jiménez,25,Attacking Midfield,Inter,Loan,in,0,Serie A,2009,2009/2010
+Parma FC,Simone Malatesta,28,Centre-Forward,Mantova,?,in,NA,Serie A,2009,2009/2010
+Parma FC,Mohamed Traoré,17,Right-Back,Carpi,?,in,NA,Serie A,2009,2009/2010
+Parma FC,Nicola Amoruso,34,Centre-Forward,Torino,?,in,NA,Serie A,2009,2009/2010
+Parma FC,Pietro Baccolo,19,Central Midfield,Padova,?,in,NA,Serie A,2009,2009/2010
+Parma FC,Federico Moretti,20,Central Midfield,Varese,?,in,NA,Serie A,2009,2009/2010
+Parma FC,Davide Lanzafame,22,Centre-Forward,US Palermo,Loan,in,0,Serie A,2009,2009/2010
+Parma FC,Ronny Valerio,20,Right Winger,AC Carpenedolo,?,in,NA,Serie A,2009,2009/2010
+Parma FC,Stefano Russo,20,Goalkeeper,Brindisi,?,in,NA,Serie A,2009,2009/2010
+Parma FC,Luca Tedeschi,23,Centre-Back,Ternana,?,in,NA,Serie A,2009,2009/2010
+Parma FC,Abdou Doumbia,19,Left Winger,Pescara U19,?,in,NA,Serie A,2009,2009/2010
+Parma FC,Mattia Ferrato,20,Centre-Back,Pro Vercelli,?,in,NA,Serie A,2009,2009/2010
+Parma FC,Hernán Crespo,34,Centre-Forward,Genoa,?,in,NA,Serie A,2009,2009/2010
+Parma FC,Stefano Crisci,19,Right Winger,Parma U19,-,in,0,Serie A,2009,2009/2010
+Parma FC,Leandro Martínez,20,Left Winger,Südtirol,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+Parma FC,Daniele Vantaggiato,25,Centre-Forward,Torino,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+Parma FC,Daniele Paponi,21,Centre-Forward,Rimini,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Parma FC,Mattia Ferrato,19,Centre-Back,Nuorese,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Parma FC,Mattia Pin,21,Forward,Castellarano,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Parma FC,Ivan Cacchioli,18,Goalkeeper,Sestri Levante,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Parma FC,Alberto Galuppo,23,Centre-Back,Treviso,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Parma FC,Matteo Mandorlini,20,Central Midfield,Foligno,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Parma FC,Fabio Virgili,23,Goalkeeper,AC Carpenedolo,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Parma FC,Francesco Parravicini,27,Defensive Midfield,Atalanta,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Parma FC,Filippo Savi,22,Central Midfield,SPAL,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Parma FC,Giacomo Chiazzolino,23,Central Midfield,Legnano,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Parma FC,McDonald Mariga,22,Defensive Midfield,Inter,£9.00m,out,9,Serie A,2009,2009/2010
+Parma FC,Daniele Vantaggiato,25,Centre-Forward,Padova,£4.50m,out,4.5,Serie A,2009,2009/2010
+Parma FC,Alessandro Budel,28,Defensive Midfield,Brescia,£4.50m,out,4.5,Serie A,2009,2009/2010
+Parma FC,Andrea Pisanu,28,Right Midfield,Bologna,£4.50m,out,4.5,Serie A,2009,2009/2010
+Parma FC,Reginaldo,25,Second Striker,Siena,£4.05m,out,4.05,Serie A,2009,2009/2010
+Parma FC,Nicola Amoruso,35,Centre-Forward,Atalanta,£900k,out,0.9,Serie A,2009,2009/2010
+Parma FC,Francesco Parravicini,27,Defensive Midfield,Siena,£900k,out,0.9,Serie A,2009,2009/2010
+Parma FC,Nicolás Córdova,30,Central Midfield,Brescia,£900k,out,0.9,Serie A,2009,2009/2010
+Parma FC,Magnus Troest,22,Centre-Back,Genoa,£810k,out,0.81,Serie A,2009,2009/2010
+Parma FC,Christian Anelli,20,Centre-Back,AC Carpenedolo,£58k,out,0.058,Serie A,2009,2009/2010
+Parma FC,Fabio Virgili,23,Goalkeeper,Sporting Terni,Free Transfer,out,0,Serie A,2009,2009/2010
+Parma FC,Federico Moretti,20,Central Midfield,Catania,Free Transfer,out,0,Serie A,2009,2009/2010
+Parma FC,Cristiano Lucarelli,33,Centre-Forward,AS Livorno,Loan,out,0,Serie A,2009,2009/2010
+Parma FC,Pablo Fontanello,25,Centre-Back,Tigre,Loan,out,0,Serie A,2009,2009/2010
+Parma FC,Leandro Martínez,19,Left Winger,Südtirol,Loan,out,0,Serie A,2009,2009/2010
+Parma FC,Alberto Galuppo,23,Centre-Back,Cremonese,Loan,out,0,Serie A,2009,2009/2010
+Parma FC,Stefano Crisci,19,Right Winger,Bellaria IM,Loan,out,0,Serie A,2009,2009/2010
+Parma FC,Alessio Manzoni,22,Central Midfield,Brescia,Loan,out,0,Serie A,2009,2009/2010
+Parma FC,Mattia Pin,21,Forward,Crociati Noceto,Loan,out,0,Serie A,2009,2009/2010
+Parma FC,Ivan Cacchioli,18,Goalkeeper,Sansepolcro,Loan,out,0,Serie A,2009,2009/2010
+Parma FC,Manuel Coppola,27,Central Midfield,Torino,Loan,out,0,Serie A,2009,2009/2010
+Parma FC,Daniele Paponi,21,Centre-Forward,Perugia,Loan,out,0,Serie A,2009,2009/2010
+Parma FC,Marco Rossi,21,Centre-Back,Sampdoria,Loan,out,0,Serie A,2009,2009/2010
+Parma FC,Matteo Mandorlini,20,Central Midfield,Viareggio,Loan,out,0,Serie A,2009,2009/2010
+Parma FC,Mattia Ferrato,19,Centre-Back,Pro Vercelli,?,out,NA,Serie A,2009,2009/2010
+Parma FC,Francesco Pambianchi,20,Centre-Back,Pergolettese,?,out,NA,Serie A,2009,2009/2010
+Parma FC,Daniele Vantaggiato,24,Centre-Forward,Torino,Loan,out,0,Serie A,2009,2009/2010
+Parma FC,Filippo Savi,22,Central Midfield,AC Carpenedolo,Loan,out,0,Serie A,2009,2009/2010
+Parma FC,Mattia Ferrato,20,Centre-Back,AC Carpenedolo,Loan,out,0,Serie A,2009,2009/2010
+Parma FC,Andrea Gasparri,20,Goalkeeper,Real Giulianova,Loan,out,0,Serie A,2009,2009/2010
+Parma FC,Abdou Doumbia,19,Left Winger,Santegidiese,Loan,out,0,Serie A,2009,2009/2010
+Parma FC,Giacomo Chiazzolino,23,Central Midfield,Alessandria,Loan,out,0,Serie A,2009,2009/2010
+Parma FC,Leandro Martínez,20,Left Winger,GC Biaschesi,Loan,out,0,Serie A,2009,2009/2010
+Parma FC,Fabio Lebran,22,Centre-Back,Rimini,?,out,NA,Serie A,2009,2009/2010
+Parma FC,Julio de León,29,Attacking Midfield,Torino,Loan,out,0,Serie A,2009,2009/2010
+Parma FC,Christian Panucci,36,Right-Back,Retired,-,out,0,Serie A,2009,2009/2010
+Parma FC,Giulio Falcone,35,Centre-Back,Retired,-,out,0,Serie A,2009,2009/2010
+Parma FC,Jonathan Biabiany,21,Right Winger,Inter,"End of loanDec 31, 2009",out,0,Serie A,2009,2009/2010
+Parma FC,Paolo Ginestra,30,Goalkeeper,Ternana,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Parma FC,Antonino D'Agostino,30,Right Midfield,Atalanta,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Parma FC,Gianluca Pegolo,28,Goalkeeper,Genoa,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Genoa CFC,Robert Acquafresca,21,Centre-Forward,Inter,£13.50m,in,13.5,Serie A,2009,2009/2010
+Genoa CFC,Sergio Floccari,27,Centre-Forward,Atalanta,£9.45m,in,9.45,Serie A,2009,2009/2010
+Genoa CFC,Houssine Kharja,26,Central Midfield,Siena,£4.68m,in,4.68,Serie A,2009,2009/2010
+Genoa CFC,Marco Amelia,27,Goalkeeper,US Palermo,£4.50m,in,4.5,Serie A,2009,2009/2010
+Genoa CFC,Riccardo Meggiorini,23,Second Striker,Inter,£4.50m,in,4.5,Serie A,2009,2009/2010
+Genoa CFC,Rodrigo Palacio,27,Centre-Forward,Boca Juniors,£4.41m,in,4.41,Serie A,2009,2009/2010
+Genoa CFC,Alberto Zapater,24,Defensive Midfield,Real Zaragoza,£4.05m,in,4.05,Serie A,2009,2009/2010
+Genoa CFC,Leonardo Bonucci,22,Centre-Back,Inter,£3.60m,in,3.6,Serie A,2009,2009/2010
+Genoa CFC,Emiliano Moretti,28,Centre-Back,Valencia,£3.33m,in,3.33,Serie A,2009,2009/2010
+Genoa CFC,Boško Janković,25,Right Winger,US Palermo,£3.15m,in,3.15,Serie A,2009,2009/2010
+Genoa CFC,Francesco Bolzoni,20,Central Midfield,Inter,£2.70m,in,2.7,Serie A,2009,2009/2010
+Genoa CFC,Dario Dainelli,30,Centre-Back,Fiorentina,£2.25m,in,2.25,Serie A,2009,2009/2010
+Genoa CFC,Danijel Aleksic,18,Right Winger,Vojvodina,£2.03m,in,2.03,Serie A,2009,2009/2010
+Genoa CFC,Nenad Tomović,21,Centre-Back,Red Star,£1.98m,in,1.98,Serie A,2009,2009/2010
+Genoa CFC,Andrea Esposito,23,Centre-Back,Lecce,£1.89m,in,1.89,Serie A,2009,2009/2010
+Genoa CFC,Riccardo Meggiorini,24,Second Striker,Bari,£1.61m,in,1.61,Serie A,2009,2009/2010
+Genoa CFC,Robert Gucher,18,Defensive Midfield,Frosinone,£1.53m,in,1.53,Serie A,2009,2009/2010
+Genoa CFC,Ivan Fatic,20,Centre-Back,Inter,£900k,in,0.9,Serie A,2009,2009/2010
+Genoa CFC,Magnus Troest,22,Centre-Back,Parma,£810k,in,0.81,Serie A,2009,2009/2010
+Genoa CFC,David Suazo,30,Centre-Forward,Inter,Loan,in,0,Serie A,2009,2009/2010
+Genoa CFC,Hernán Crespo,34,Centre-Forward,Inter,Free Transfer,in,0,Serie A,2009,2009/2010
+Genoa CFC,Paolo Facchinetti,25,Defensive Midfield,Pergolettese,?,in,NA,Serie A,2009,2009/2010
+Genoa CFC,Alberto Frison,21,Goalkeeper,Vicenza,Loan,in,0,Serie A,2009,2009/2010
+Genoa CFC,Andrea Signorini,19,Centre-Back,Genoa U19,-,in,0,Serie A,2009,2009/2010
+Genoa CFC,Umberto Eusepi,20,Centre-Forward,Reggiana,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Carlo Polli,20,Right Midfield,Genoa U19,-,in,0,Serie A,2009,2009/2010
+Genoa CFC,Giuseppe Greco,26,Centre-Forward,Bari,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Eugenio Lamanna,19,Goalkeeper,Genoa U19,-,in,0,Serie A,2009,2009/2010
+Genoa CFC,Fabrizio Rondinara,19,Left-Back,Genoa U19,-,in,0,Serie A,2009,2009/2010
+Genoa CFC,Giorgio Parodi,19,Centre-Forward,Genoa U19,-,in,0,Serie A,2009,2009/2010
+Genoa CFC,Robert Acquafresca,22,Centre-Forward,Atalanta,"End of loanJan 29, 2010",in,0,Serie A,2009,2009/2010
+Genoa CFC,Dejan Lazarevic,19,Left Winger,Genoa U19,-,in,0,Serie A,2009,2009/2010
+Genoa CFC,Mattia Perin,17,Goalkeeper,Genoa U19,-,in,0,Serie A,2009,2009/2010
+Genoa CFC,Matteo Paro,26,Central Midfield,Bari,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Isaac Cofie,17,Central Midfield,Genoa U19,-,in,0,Serie A,2009,2009/2010
+Genoa CFC,Steve Pinau,21,Attacking Midfield,FC Lugano,"End of loanJan 31, 2010",in,0,Serie A,2009,2009/2010
+Genoa CFC,Louise Parfait,18,Defensive Midfield,Genoa U19,-,in,0,Serie A,2009,2009/2010
+Genoa CFC,Fabiano,30,Left-Back,Vicenza,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Loris Damonte,18,Central Midfield,Genoa U19,-,in,0,Serie A,2009,2009/2010
+Genoa CFC,Luigi Scotto,18,Centre-Forward,Genoa U19,-,in,0,Serie A,2009,2009/2010
+Genoa CFC,Fernando Forestieri,19,Second Striker,Vicenza,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Stefano Botta,22,Central Midfield,Vicenza,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Fabiano,30,Left-Back,Celta de Vigo,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Danilo Russo,21,Goalkeeper,Pergolettese,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Silvano Raggio Garibaldi,20,Defensive Midfield,AC Pisa,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Nicolò Antonelli,19,Centre-Back,Virtus Entella,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Marco Di Vaio,32,Centre-Forward,Bologna,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Vincenzo Rennella,20,Centre-Forward,FC Lugano,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Emmanuel Ledesma,21,Centre-Forward,Salernitana,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Umberto Eusepi,20,Centre-Forward,Ancona,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Giuseppe Greco,25,Centre-Forward,AC Pisa,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Jacopo Sbravati,19,Right Winger,ProVercelli U19,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Steve Pinau,21,Attacking Midfield,Hibernian FC,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Davide Di Gennaro,21,Defensive Midfield,Reggina,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Marcel Román,21,Defensive Midfield,Frosinone,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Mariano Stendardo,26,Centre-Back,Grosseto,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Matías Masiero,21,Second Striker,AC Pisa,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Wilson,24,Centre-Forward,Sport Recife,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Gianluca Pegolo,28,Goalkeeper,Parma,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Tiago Pires,22,Centre-Back,Potenza  Youth,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Luciano Figueroa,28,Centre-Forward,Boca Juniors,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Genoa CFC,Diego Milito,30,Centre-Forward,Inter,£22.50m,out,22.5,Serie A,2009,2009/2010
+Genoa CFC,Leonardo Bonucci,22,Centre-Back,Bari,£9.45m,out,9.45,Serie A,2009,2009/2010
+Genoa CFC,Thiago Motta,26,Defensive Midfield,Inter,£9.18m,out,9.18,Serie A,2009,2009/2010
+Genoa CFC,Matteo Ferrari,29,Centre-Back,Besiktas,£4.50m,out,4.5,Serie A,2009,2009/2010
+Genoa CFC,Rubinho,27,Goalkeeper,US Palermo,£4.50m,out,4.5,Serie A,2009,2009/2010
+Genoa CFC,Riccardo Meggiorini,23,Second Striker,Bari,£2.25m,out,2.25,Serie A,2009,2009/2010
+Genoa CFC,Davide Di Gennaro,21,Defensive Midfield,AC Milan,£2.25m,out,2.25,Serie A,2009,2009/2010
+Genoa CFC,Robert Acquafresca,21,Centre-Forward,Atalanta,Loan fee:£900k,out,0.9,Serie A,2009,2009/2010
+Genoa CFC,Gianluca Pegolo,28,Goalkeeper,Siena,£720k,out,0.72,Serie A,2009,2009/2010
+Genoa CFC,Sergio Floccari,28,Centre-Forward,Lazio,Loan fee:£495k,out,0.495,Serie A,2009,2009/2010
+Genoa CFC,Giuseppe Biava,32,Centre-Back,Lazio,£450k,out,0.45,Serie A,2009,2009/2010
+Genoa CFC,Francesco Modesto,27,Left-Back,Bologna,Loan fee:£450k,out,0.45,Serie A,2009,2009/2010
+Genoa CFC,Stefano Botta,22,Central Midfield,Vicenza,£180k,out,0.18,Serie A,2009,2009/2010
+Genoa CFC,Francesco Bolzoni,20,Central Midfield,Frosinone,Loan fee:£180k,out,0.18,Serie A,2009,2009/2010
+Genoa CFC,Marcel Román,21,Defensive Midfield,Peñarol,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Andrea Esposito,23,Centre-Back,AS Livorno,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Luciano Figueroa,28,Centre-Forward,CA Rosario,Free Transfer,out,0,Serie A,2009,2009/2010
+Genoa CFC,Steve Pinau,21,Attacking Midfield,FC Lugano,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Marco Di Vaio,32,Centre-Forward,Bologna,Free Transfer,out,0,Serie A,2009,2009/2010
+Genoa CFC,Selim Ben Djemia,20,Centre-Back,Padova,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Steve Pinau,21,Attacking Midfield,AC Arles,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Matteo D'Alessandro,20,Central Midfield,Reggiana,?,out,NA,Serie A,2009,2009/2010
+Genoa CFC,Jacopo Sbravati,19,Right Winger,Cecina,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Giorgio Parodi,19,Centre-Forward,Lecco,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Giuseppe Greco,26,Centre-Forward,Cesena,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Giuseppe Greco,25,Centre-Forward,Bari,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Andrea Signorini,19,Centre-Back,Alessandria,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Umberto Eusepi,20,Centre-Forward,Reggiana,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Magnus Troest,22,Centre-Back,Recr. Huelva,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Silvano Raggio Garibaldi,20,Defensive Midfield,Sorrento,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Mariano Stendardo,26,Centre-Back,Salernitana,?,out,NA,Serie A,2009,2009/2010
+Genoa CFC,Loris Damonte,18,Central Midfield,Alessandria,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Vincenzo Rennella,20,Centre-Forward,Grasshoppers,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Wilson,24,Centre-Forward,Sport Recife,?,out,NA,Serie A,2009,2009/2010
+Genoa CFC,Tiago Pires,22,Centre-Back,Operário,?,out,NA,Serie A,2009,2009/2010
+Genoa CFC,Matteo Paro,26,Central Midfield,Piacenza,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Matteo Paro,26,Central Midfield,Bari,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Carlo Polli,20,Right Midfield,FC Locarno,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Matías Masiero,21,Second Striker,Española,?,out,NA,Serie A,2009,2009/2010
+Genoa CFC,Fabiano,30,Left-Back,Vicenza,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Salvatore Aurelio,23,Left Winger,Frosinone,?,out,NA,Serie A,2009,2009/2010
+Genoa CFC,Fabrizio Rondinara,19,Left-Back,AS Gubbio,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Danilo Russo,22,Goalkeeper,Vicenza,?,out,NA,Serie A,2009,2009/2010
+Genoa CFC,Nicolò Antonelli,19,Centre-Back,Savona,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Luigi Scotto,18,Centre-Forward,Cosenza,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Umberto Eusepi,20,Centre-Forward,Viareggio,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Louise Parfait,19,Defensive Midfield,Piacenza,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Hernán Crespo,34,Centre-Forward,Parma,?,out,NA,Serie A,2009,2009/2010
+Genoa CFC,Emmanuel Ledesma,21,Centre-Forward,Novara,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Eugenio Lamanna,19,Goalkeeper,AS Gubbio,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Fernando Forestieri,19,Second Striker,Málaga CF,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Anthony Vanden Borre,21,Right-Back,Portsmouth,Loan,out,0,Serie A,2009,2009/2010
+Genoa CFC,Armando Padula,23,Defender,Without Club,-,out,0,Serie A,2009,2009/2010
+Genoa CFC,Fabiano,30,Left-Back,Without Club,-,out,0,Serie A,2009,2009/2010
+Genoa CFC,Rubén Olivera,26,Central Midfield,Juventus,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Genoa CFC,Boško Janković,25,Right Winger,US Palermo,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+AS Bari,Leonardo Bonucci,22,Centre-Back,Genoa,£9.45m,in,9.45,Serie A,2009,2009/2010
+AS Bari,Riccardo Meggiorini,23,Second Striker,Genoa,£2.25m,in,2.25,Serie A,2009,2009/2010
+AS Bari,Nicola Belmonte,22,Centre-Back,Siena,£1.35m,in,1.35,Serie A,2009,2009/2010
+AS Bari,Massimo Donati,28,Defensive Midfield,Celtic,£1.08m,in,1.08,Serie A,2009,2009/2010
+AS Bari,Antonio Langella,32,Left Winger,Udinese,£900k,in,0.9,Serie A,2009,2009/2010
+AS Bari,José Castillo,34,Centre-Forward,Fiorentina,£720k,in,0.72,Serie A,2009,2009/2010
+AS Bari,Édgar Álvarez,29,Right Midfield,AS Roma,£405k,in,0.405,Serie A,2009,2009/2010
+AS Bari,Ferdinando Sforzini,24,Centre-Forward,Udinese,Loan fee:£315k,in,0.315,Serie A,2009,2009/2010
+AS Bari,Riccardo Allegretti,31,Central Midfield,Triestina,£270k,in,0.27,Serie A,2009,2009/2010
+AS Bari,Vladimir Koman,20,Attacking Midfield,Sampdoria,Loan fee:£270k,in,0.27,Serie A,2009,2009/2010
+AS Bari,András Gosztonyi,19,Right Winger,MTK Budapest,Loan fee:£90k,in,0.09,Serie A,2009,2009/2010
+AS Bari,Ilario Lamberti,21,Goalkeeper,Sapri Calcio,£68k,in,0.068,Serie A,2009,2009/2010
+AS Bari,Alessandro Marotta,23,Centre-Forward,AS Gubbio,£54k,in,0.054,Serie A,2009,2009/2010
+AS Bari,Filippo Antonelli Agomeri,30,Right Winger,Triestina,Free Transfer,in,0,Serie A,2009,2009/2010
+AS Bari,Armando Visconti,19,Centre-Forward,Avellino,Free Transfer,in,0,Serie A,2009,2009/2010
+AS Bari,Filippo Carobbio,29,Central Midfield,UC AlbinoLeffe,Free Transfer,in,0,Serie A,2009,2009/2010
+AS Bari,Iago Falque,19,Right Winger,Juventus U19,Loan,in,0,Serie A,2009,2009/2010
+AS Bari,Alessio Sestu,26,Right Winger,Vicenza,Loan,in,0,Serie A,2009,2009/2010
+AS Bari,Sergio Almirón,28,Central Midfield,Juventus,Loan,in,0,Serie A,2009,2009/2010
+AS Bari,Ivan Loseto,21,Left-Back,Hellas Verona,?,in,NA,Serie A,2009,2009/2010
+AS Bari,Souleymane Diamoutene,26,Centre-Back,Lecce,Loan,in,0,Serie A,2009,2009/2010
+AS Bari,Giuseppe Greco,25,Centre-Forward,Genoa,Loan,in,0,Serie A,2009,2009/2010
+AS Bari,Marco Pisano,28,Left-Back,Torino,Loan,in,0,Serie A,2009,2009/2010
+AS Bari,Daniele Padelli,23,Goalkeeper,Sampdoria,Loan,in,0,Serie A,2009,2009/2010
+AS Bari,Matteo Paro,26,Central Midfield,Genoa,Loan,in,0,Serie A,2009,2009/2010
+AS Bari,Giuseppe Statella,21,Right Midfield,Salernitana,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+AS Bari,Daniele Fiorentino,21,Defensive Midfield,Noicattaro,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+AS Bari,Nicola Strambelli,21,Left Winger,Taranto,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+AS Bari,Christian Conti,22,Centre-Back,Without Club,-,in,0,Serie A,2009,2009/2010
+AS Bari,Mauro Boerchio,19,Goalkeeper,Bari,-,in,0,Serie A,2009,2009/2010
+AS Bari,Mauro Boerchio,20,Goalkeeper,Lecco,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+AS Bari,Luigi Rana,23,Centre-Forward,Paganese,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+AS Bari,Vincenzo Pisani,18,Second Striker,Viribus Unitis,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Bari,Rey Volpato,22,Centre-Forward,Piacenza,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Bari,Vitangelo Spadavecchia,26,Goalkeeper,Sorrento,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Bari,Marco Piccinni,22,Central Midfield,Noicattaro,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Bari,Giacinto Allegrini,19,Centre-Back,Noicattaro,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Bari,Mijat Maric,25,Centre-Back,KAS Eupen,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Bari,Ivan Rajcic,28,Central Midfield,Frosinone,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Bari,Daniele Cilli,21,Goalkeeper,Noicattaro,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Bari,Nicola Strambelli,20,Left Winger,Andria,"End of loanJun 1, 2009",in,0,Serie A,2009,2009/2010
+AS Bari,Domenico Aliperta,18,Defensive Midfield,Noicattaro,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Bari,Antonino Bonvissuto,23,Centre-Forward,Cittadella,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Bari,Simone Cavalli,30,Centre-Forward,Frosinone,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Bari,Giuseppe Statella,21,Right Midfield,Benevento,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Bari,Federico Groppioni,25,Goalkeeper,Potenza,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Bari,Riccardo Meggiorini,24,Second Striker,Genoa,£1.61m,out,1.61,Serie A,2009,2009/2010
+AS Bari,Stefano Guberti,24,Left Winger,AS Roma,Free Transfer,out,0,Serie A,2009,2009/2010
+AS Bari,Vitangelo Spadavecchia,27,Goalkeeper,Andria,Free Transfer,out,0,Serie A,2009,2009/2010
+AS Bari,Alessandro Marotta,22,Centre-Forward,AS Gubbio,£450,out,NA,Serie A,2009,2009/2010
+AS Bari,Nicola Strambelli,21,Left Winger,Noicattaro,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Daniele Cilli,21,Goalkeeper,Igea Virtus,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Daniele Fiorentino,21,Defensive Midfield,Andria,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Federico Groppioni,25,Goalkeeper,Manfredonia,?,out,NA,Serie A,2009,2009/2010
+AS Bari,Gianluca Galasso,25,Right-Back,Salernitana,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Vincenzo Pisani,18,Second Striker,Internapoli,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Giuseppe Statella,21,Right Midfield,Salernitana,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Mauro Boerchio,19,Goalkeeper,Lecco,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Christian Conti,22,Centre-Back,Como,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Antonino Bonvissuto,23,Centre-Forward,Crotone,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Simone Bonomi,28,Left-Back,Perugia,?,out,NA,Serie A,2009,2009/2010
+AS Bari,Rey Volpato,23,Centre-Forward,Gallipoli,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Giuseppe Statella,21,Right Midfield,Torino,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Marco Piccinni,22,Central Midfield,Brindisi,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Francesco Caputo,21,Centre-Forward,Salernitana,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Ivan Rajcic,28,Central Midfield,Taranto,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Giacinto Allegrini,19,Centre-Back,AS Gubbio,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Simone Cavalli,30,Centre-Forward,Mantova,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Filippo Antonelli Agomeri,31,Right Winger,Torino,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Ivan Loseto,21,Left-Back,Noicattaro,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Mauro Boerchio,20,Goalkeeper,Pro Sesto,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Luigi Rana,22,Centre-Forward,Paganese,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Daniele Fiorentino,20,Defensive Midfield,Noicattaro,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Marco Esposito,29,Centre-Back,Mantova,?,out,NA,Serie A,2009,2009/2010
+AS Bari,Mijat Maric,25,Centre-Back,KAS Eupen,?,out,NA,Serie A,2009,2009/2010
+AS Bari,Almamy Doumbia,26,Left Winger,Andria,?,out,NA,Serie A,2009,2009/2010
+AS Bari,Corrado Colombo,29,Centre-Forward,Hellas Verona,?,out,NA,Serie A,2009,2009/2010
+AS Bari,Luigi Rana,23,Centre-Forward,Nocerina,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Nicola Strambelli,20,Left Winger,Taranto,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Filippo Carobbio,29,Central Midfield,Grosseto,Loan,out,0,Serie A,2009,2009/2010
+AS Bari,Giuseppe Greco,26,Centre-Forward,Genoa,"End of loanDec 1, 2009",out,0,Serie A,2009,2009/2010
+AS Bari,Iago Falque,20,Right Winger,Juventus U19,"End of loanJan 15, 2010",out,0,Serie A,2009,2009/2010
+AS Bari,Mark Edusei,32,Defensive Midfield,Without Club,-,out,0,Serie A,2009,2009/2010
+AS Bari,Matteo Paro,26,Central Midfield,Genoa,"End of loanDec 1, 2009",out,0,Serie A,2009,2009/2010
+AS Bari,Nicola Santoni,30,Goalkeeper,Retired,-,out,0,Serie A,2009,2009/2010
+AS Bari,Mauro Boerchio,19,Goalkeeper,Bari,-,out,0,Serie A,2009,2009/2010
+AS Bari,Raffaele Bianco,21,Central Midfield,Juventus,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+AS Bari,Davide Lanzafame,22,Centre-Forward,US Palermo,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+ACF Fiorentina,Adem Ljajic,18,Attacking Midfield,Partizan,£6.12m,in,6.12,Serie A,2009,2009/2010
+ACF Fiorentina,Savio Nsereko,20,Right Winger,West Ham,£5.58m,in,5.58,Serie A,2009,2009/2010
+ACF Fiorentina,Lorenzo De Silvestri,21,Right-Back,Lazio,£4.95m,in,4.95,Serie A,2009,2009/2010
+ACF Fiorentina,Marco Marchionni,28,Right Midfield,Juventus,£4.05m,in,4.05,Serie A,2009,2009/2010
+ACF Fiorentina,Mario Bolatti,24,Defensive Midfield,FC Porto,£3.15m,in,3.15,Serie A,2009,2009/2010
+ACF Fiorentina,Felipe,25,Centre-Back,Udinese,Loan fee:£2.70m,in,2.7,Serie A,2009,2009/2010
+ACF Fiorentina,Cesare Natali,30,Centre-Back,Torino,£2.52m,in,2.52,Serie A,2009,2009/2010
+ACF Fiorentina,Cristiano Zanetti,32,Defensive Midfield,Juventus,£1.80m,in,1.8,Serie A,2009,2009/2010
+ACF Fiorentina,Francesco Di Tacchio,19,Defensive Midfield,Ascoli,£1.62m,in,1.62,Serie A,2009,2009/2010
+ACF Fiorentina,Haris Seferovic,17,Centre-Forward,Grasshoppers,£1.22m,in,1.22,Serie A,2009,2009/2010
+ACF Fiorentina,José Castillo,33,Centre-Forward,Lecce,£900k,in,0.9,Serie A,2009,2009/2010
+ACF Fiorentina,Lorenzo Morelli,22,Centre-Forward,Reggiana,?,in,NA,Serie A,2009,2009/2010
+ACF Fiorentina,Keirrison,21,Centre-Forward,FC Barcelona,Loan,in,0,Serie A,2009,2009/2010
+ACF Fiorentina,Marco Romizi,20,Central Midfield,Reggiana,?,in,NA,Serie A,2009,2009/2010
+ACF Fiorentina,Jefferson,21,Centre-Forward,Frosinone,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+ACF Fiorentina,Khouma Babacar,16,Centre-Forward,Fiorentina U19,-,in,0,Serie A,2009,2009/2010
+ACF Fiorentina,Jan Hable,20,Central Midfield,Banik Ostrava,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+ACF Fiorentina,Samuele Bettoni,20,Centre-Back,Fiorentina U19,-,in,0,Serie A,2009,2009/2010
+ACF Fiorentina,Piergiuseppe Maritato,20,Centre-Forward,Gallipoli,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+ACF Fiorentina,Edoardo Pazzagli,20,Goalkeeper,Andria,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+ACF Fiorentina,Piergiuseppe Maritato,20,Centre-Forward,Fiorentina U19,-,in,0,Serie A,2009,2009/2010
+ACF Fiorentina,Nikola Gulan,20,Left-Back,1860 Munich,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+ACF Fiorentina,N'Diaye Papa Waigo,25,Right Winger,Lecce,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+ACF Fiorentina,Luca Petri,20,Centre-Back,Montevarchi Calcio Aquila 1902,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+ACF Fiorentina,Davide Carcuro,22,Central Midfield,Crotone,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+ACF Fiorentina,Edoardo Pazzagli,20,Goalkeeper,Prato,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+ACF Fiorentina,Manuel da Costa,23,Centre-Back,Sampdoria,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+ACF Fiorentina,Giacomo Casoli,20,Right Winger,Cassino,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+ACF Fiorentina,Manuel Nocciolini,20,Centre-Forward,Cappiano Romano,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+ACF Fiorentina,Samuel Di Carmine,20,Centre-Forward,QPR,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+ACF Fiorentina,Andrea Paolucci,22,Central Midfield,Taranto,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+ACF Fiorentina,Lorenzo Morelli,21,Centre-Forward,SSC Venezia,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+ACF Fiorentina,Felipe Melo,26,Defensive Midfield,Juventus,£22.50m,out,22.5,Serie A,2009,2009/2010
+ACF Fiorentina,Zdravko Kuzmanović,21,Central Midfield,VfB Stuttgart,£7.20m,out,7.2,Serie A,2009,2009/2010
+ACF Fiorentina,Franco Semioli,29,Right Winger,Sampdoria,£4.50m,out,4.5,Serie A,2009,2009/2010
+ACF Fiorentina,Manuel da Costa,23,Centre-Back,West Ham,£2.43m,out,2.43,Serie A,2009,2009/2010
+ACF Fiorentina,Dario Dainelli,30,Centre-Back,Genoa,£2.25m,out,2.25,Serie A,2009,2009/2010
+ACF Fiorentina,Arturo Lupoli,22,Centre-Forward,Ascoli,£900k,out,0.9,Serie A,2009,2009/2010
+ACF Fiorentina,José Castillo,34,Centre-Forward,Bari,£720k,out,0.72,Serie A,2009,2009/2010
+ACF Fiorentina,Jan Hable,20,Central Midfield,Ascoli,Free Transfer,out,0,Serie A,2009,2009/2010
+ACF Fiorentina,Ondrej Mazuch,20,Centre-Back,RSC Anderlecht,Loan,out,0,Serie A,2009,2009/2010
+ACF Fiorentina,Pape Diakhatè,20,Defensive Midfield,KAS Eupen,Loan,out,0,Serie A,2009,2009/2010
+ACF Fiorentina,Martin Jörgensen,34,Central Midfield,Aarhus GF,Free Transfer,out,0,Serie A,2009,2009/2010
+ACF Fiorentina,Piergiuseppe Maritato,20,Centre-Forward,Real Giulianova,Loan,out,0,Serie A,2009,2009/2010
+ACF Fiorentina,Andrea Paolucci,22,Central Midfield,Andria,Loan,out,0,Serie A,2009,2009/2010
+ACF Fiorentina,Edoardo Pazzagli,20,Goalkeeper,Prato,?,out,NA,Serie A,2009,2009/2010
+ACF Fiorentina,Samuel Di Carmine,20,Centre-Forward,Gallipoli,Loan,out,0,Serie A,2009,2009/2010
+ACF Fiorentina,Davide Carcuro,22,Central Midfield,Salernitana,?,out,NA,Serie A,2009,2009/2010
+ACF Fiorentina,N'Diaye Papa Waigo,25,Right Winger,Southampton,Loan,out,0,Serie A,2009,2009/2010
+ACF Fiorentina,Lorenzo Morelli,21,Centre-Forward,Reggiana,?,out,NA,Serie A,2009,2009/2010
+ACF Fiorentina,Jefferson,22,Centre-Forward,Cassino,Loan,out,0,Serie A,2009,2009/2010
+ACF Fiorentina,Luca Petri,20,Centre-Back,Lucchese,?,out,NA,Serie A,2009,2009/2010
+ACF Fiorentina,Savio Nsereko,20,Right Winger,Bologna,Loan,out,0,Serie A,2009,2009/2010
+ACF Fiorentina,Edoardo Pazzagli,20,Goalkeeper,Andria,Loan,out,0,Serie A,2009,2009/2010
+ACF Fiorentina,Samuele Bettoni,20,Centre-Back,Olbia,Loan,out,0,Serie A,2009,2009/2010
+ACF Fiorentina,Nikola Gulan,20,Left-Back,FC Empoli,Loan,out,0,Serie A,2009,2009/2010
+ACF Fiorentina,Giacomo Casoli,20,Right Winger,AS Gubbio,Loan,out,0,Serie A,2009,2009/2010
+ACF Fiorentina,Manuel Nocciolini,20,Centre-Forward,AC Pisa,Loan,out,0,Serie A,2009,2009/2010
+ACF Fiorentina,Piergiuseppe Maritato,20,Centre-Forward,Gallipoli,Loan,out,0,Serie A,2009,2009/2010
+ACF Fiorentina,Luciano Zauri,31,Right-Back,Lazio,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+ACF Fiorentina,Marco Storari,32,Goalkeeper,AC Milan,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+ACF Fiorentina,Sergio Almirón,28,Central Midfield,Juventus,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+ACF Fiorentina,Emiliano Bonazzoli,30,Centre-Forward,Sampdoria,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Atalanta BC,Édgar Barreto,24,Central Midfield,Reggina,£4.05m,in,4.05,Serie A,2009,2009/2010
+Atalanta BC,Simone Tiribocchi,31,Centre-Forward,Lecce,£2.43m,in,2.43,Serie A,2009,2009/2010
+Atalanta BC,Robert Acquafresca,21,Centre-Forward,Genoa,Loan fee:£900k,in,0.9,Serie A,2009,2009/2010
+Atalanta BC,Nicola Amoruso,35,Centre-Forward,Parma,£900k,in,0.9,Serie A,2009,2009/2010
+Atalanta BC,Miguel Layún,21,Right-Back,Tiburones Rojos,£810k,in,0.81,Serie A,2009,2009/2010
+Atalanta BC,Fabio Caserta,30,Central Midfield,Lecce,£720k,in,0.72,Serie A,2009,2009/2010
+Atalanta BC,Nicola Madonna,22,Right-Back,UC AlbinoLeffe,£540k,in,0.54,Serie A,2009,2009/2010
+Atalanta BC,Javier Chevantón,29,Centre-Forward,Sevilla FC,Loan,in,0,Serie A,2009,2009/2010
+Atalanta BC,Sergio Volpi,35,Central Midfield,Reggina,Loan,in,0,Serie A,2009,2009/2010
+Atalanta BC,Andrea Arrigoni,21,Defensive Midfield,Lecco,?,in,NA,Serie A,2009,2009/2010
+Atalanta BC,Fabio Ceravolo,22,Centre-Forward,Reggina,Loan,in,0,Serie A,2009,2009/2010
+Atalanta BC,Ezequiel Schelotto,21,Right-Back,Cesena,?,in,NA,Serie A,2009,2009/2010
+Atalanta BC,Paolo Bianco,31,Centre-Back,Cagliari Calcio,?,in,NA,Serie A,2009,2009/2010
+Atalanta BC,Paolo Zanetti,27,Defensive Midfield,Torino,Loan,in,0,Serie A,2009,2009/2010
+Atalanta BC,Fabio Adobati,22,Right-Back,Como,?,in,NA,Serie A,2009,2009/2010
+Atalanta BC,Francesco Rossi,18,Goalkeeper,Atalanta U19,-,in,0,Serie A,2009,2009/2010
+Atalanta BC,Daniele Capelli,23,Centre-Back,Reggina,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+Atalanta BC,Michele Marconi,20,Centre-Forward,Lumezzane,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+Atalanta BC,Cristian Tissone,21,Defensive Midfield,Pro Sesto,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+Atalanta BC,Christian Trovò,19,Left-Back,Atalanta U19,-,in,0,Serie A,2009,2009/2010
+Atalanta BC,Diego De Ascentis,33,Defensive Midfield,Without Club,-,in,0,Serie A,2009,2009/2010
+Atalanta BC,Matteo Andreoletti,20,Goalkeeper,Pro Sesto,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+Atalanta BC,Michele Marconi,20,Centre-Forward,Grosseto,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Atalanta BC,Nicolò Crotti,20,Attacking Midfield,Prato,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Atalanta BC,Christian Tiboni,21,Centre-Forward,Hellas Verona,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Atalanta BC,Giacomo Bonaventura,19,Central Midfield,Pergolettese,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Atalanta BC,Stefano Mauri,21,Left Midfield,Ternana,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Atalanta BC,Matteo Gentili,19,Centre-Back,Pergolettese,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Atalanta BC,Alberto Filippini,22,Attacking Midfield,Padova,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Atalanta BC,Ivan Radovanovic,20,Defensive Midfield,AC Pisa,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Atalanta BC,Daniele Gasparetto,21,Centre-Back,Modena,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Atalanta BC,Andrea Arrigoni,20,Defensive Midfield,AC Mezzocorona,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Atalanta BC,Nicola Barbetti,20,Centre-Back,AS Pizzighettone,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Atalanta BC,Matteo Andreoletti,20,Goalkeeper,Lecco,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Atalanta BC,Antonino D'Agostino,30,Right Midfield,Parma,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Atalanta BC,Luca Cigarini,23,Defensive Midfield,SSC Napoli,£9.90m,out,9.9,Serie A,2009,2009/2010
+Atalanta BC,Sergio Floccari,27,Centre-Forward,Genoa,£9.45m,out,9.45,Serie A,2009,2009/2010
+Atalanta BC,Dario Bergamelli,22,Centre-Back,UC AlbinoLeffe,£135k,out,0.135,Serie A,2009,2009/2010
+Atalanta BC,Marino Defendi,23,Central Midfield,Lecce,Loan fee:£135k,out,0.135,Serie A,2009,2009/2010
+Atalanta BC,Alberto Filippini,22,Attacking Midfield,Padova,Free Transfer,out,0,Serie A,2009,2009/2010
+Atalanta BC,Cristian Tissone,21,Defensive Midfield,Pro Sesto,Loan,out,0,Serie A,2009,2009/2010
+Atalanta BC,Michele Marconi,20,Centre-Forward,Lumezzane,Loan fee:£18k,out,0.018,Serie A,2009,2009/2010
+Atalanta BC,Michael Girasole,20,Central Midfield,UC AlbinoLeffe,?,out,NA,Serie A,2009,2009/2010
+Atalanta BC,Miguel Layún,21,Right-Back,América,Loan,out,0,Serie A,2009,2009/2010
+Atalanta BC,Matteo Gentili,19,Centre-Back,Varese,Loan,out,0,Serie A,2009,2009/2010
+Atalanta BC,Nicola Madonna,23,Right-Back,Vicenza,Loan,out,0,Serie A,2009,2009/2010
+Atalanta BC,Daniele Gasparetto,21,Centre-Back,Padova,Loan,out,0,Serie A,2009,2009/2010
+Atalanta BC,Christian Trovò,19,Left-Back,Pergolettese,?,out,NA,Serie A,2009,2009/2010
+Atalanta BC,Nicola Barbetti,20,Centre-Back,Sambonifacese,?,out,NA,Serie A,2009,2009/2010
+Atalanta BC,Michele Marconi,20,Centre-Forward,Lecco,Loan,out,0,Serie A,2009,2009/2010
+Atalanta BC,Matteo Andreoletti,20,Goalkeeper,Pro Sesto,Loan,out,0,Serie A,2009,2009/2010
+Atalanta BC,Giacomo Bonaventura,20,Central Midfield,Padova,Loan,out,0,Serie A,2009,2009/2010
+Atalanta BC,Daniele Capelli,23,Centre-Back,Reggina,Loan,out,0,Serie A,2009,2009/2010
+Atalanta BC,Stefano Mauri,21,Left Midfield,Cremonese,?,out,NA,Serie A,2009,2009/2010
+Atalanta BC,Christian Tiboni,21,Centre-Forward,Ascoli,Loan,out,0,Serie A,2009,2009/2010
+Atalanta BC,Andrea Arrigoni,20,Defensive Midfield,Lecco,?,out,NA,Serie A,2009,2009/2010
+Atalanta BC,Matteo Andreoletti,20,Goalkeeper,Lecco,Loan,out,0,Serie A,2009,2009/2010
+Atalanta BC,Nicolò Crotti,20,Attacking Midfield,US Caravaggese,Loan,out,0,Serie A,2009,2009/2010
+Atalanta BC,Simone Colombi,18,Goalkeeper,Pergolettese,Loan,out,0,Serie A,2009,2009/2010
+Atalanta BC,Costinha,35,Defensive Midfield,Retired,-,out,0,Serie A,2009,2009/2010
+Atalanta BC,Robert Acquafresca,22,Centre-Forward,Genoa,"End of loanJan 29, 2010",out,0,Serie A,2009,2009/2010
+Atalanta BC,Antonino D'Agostino,30,Right Midfield,Without Club,-,out,0,Serie A,2009,2009/2010
+Atalanta BC,Diego De Ascentis,32,Defensive Midfield,Without Club,-,out,0,Serie A,2009,2009/2010
+Atalanta BC,Francesco Parravicini,27,Defensive Midfield,Parma,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Atalanta BC,Alessio Cerci,21,Right Winger,AS Roma,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Atalanta BC,Gianvito Plasmati,26,Centre-Forward,Catania,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+SS Lazio,Mauro Zárate,22,Second Striker,Al Sadd,£18.18m,in,18.18,Serie A,2009,2009/2010
+SS Lazio,Matuzalém,29,Defensive Midfield,Real Zaragoza,£5.40m,in,5.4,Serie A,2009,2009/2010
+SS Lazio,André Dias,30,Centre-Back,São Paulo,£2.25m,in,2.25,Serie A,2009,2009/2010
+SS Lazio,Eliseu,25,Left-Back,Málaga CF,£810k,in,0.81,Serie A,2009,2009/2010
+SS Lazio,Sergio Floccari,28,Centre-Forward,Genoa,Loan fee:£495k,in,0.495,Serie A,2009,2009/2010
+SS Lazio,Thomas Hitzlsperger,27,Central Midfield,VfB Stuttgart,£495k,in,0.495,Serie A,2009,2009/2010
+SS Lazio,Giuseppe Biava,32,Centre-Back,Genoa,£450k,in,0.45,Serie A,2009,2009/2010
+SS Lazio,Albano Bizzarri,31,Goalkeeper,Catania,Free Transfer,in,0,Serie A,2009,2009/2010
+SS Lazio,Julio Cruz,34,Centre-Forward,Inter,Free Transfer,in,0,Serie A,2009,2009/2010
+SS Lazio,Francesco Mancini,19,Right Winger,Lazio U19,-,in,0,Serie A,2009,2009/2010
+SS Lazio,Lucas Correa,25,Defensive Midfield,Taranto,"End of loanJan 1, 2010",in,0,Serie A,2009,2009/2010
+SS Lazio,Alessio Luciani,19,Right-Back,Lazio U19,-,in,0,Serie A,2009,2009/2010
+SS Lazio,Andrea Spuntarelli,18,Forward,Rieti,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+SS Lazio,Riccardo Perpetuini,18,Central Midfield,Lazio U19,-,in,0,Serie A,2009,2009/2010
+SS Lazio,Andrea Spuntarelli,18,Forward,Lazio U19,-,in,0,Serie A,2009,2009/2010
+SS Lazio,Federico Chirico,20,Centre-Back,Aversa Norm.,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SS Lazio,Lionel Scaloni,31,Right-Back,RCD Mallorca,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SS Lazio,Roberto Baronio,31,Defensive Midfield,Brescia,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SS Lazio,Tommaso Berni,26,Goalkeeper,Salernitana,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SS Lazio,Matteo Merini,21,Centre-Forward,Melfi,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SS Lazio,Simone Santarelli,20,Goalkeeper,Sangiorgese,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SS Lazio,Riccardo Capogna,21,Centre-Forward,AC Mezzocorona,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SS Lazio,Riccardo Bonetto,30,Left-Back,AS Livorno,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SS Lazio,Stephen Makinwa,25,Centre-Forward,Chievo Verona,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SS Lazio,Fabio Zaccardi,22,Defender,Celano,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SS Lazio,Lucas Correa,25,Defensive Midfield,Pro Patria,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SS Lazio,Ivan Artipoli,23,Centre-Back,Modena,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SS Lazio,Luciano Zauri,31,Right-Back,Fiorentina,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SS Lazio,Guglielmo Stendardo,28,Centre-Back,Lecce,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SS Lazio,Fabio Firmani,31,Central Midfield,Al-Wasl,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SS Lazio,Alberto Quadri,26,Defensive Midfield,Monza,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+SS Lazio,David Rozehnal,29,Centre-Back,Hamburger SV,£5.40m,out,5.4,Serie A,2009,2009/2010
+SS Lazio,Lorenzo De Silvestri,21,Right-Back,Fiorentina,£4.95m,out,4.95,Serie A,2009,2009/2010
+SS Lazio,Juan Pablo Carrizo,25,Goalkeeper,Real Zaragoza,Loan fee:£900k,out,0.9,Serie A,2009,2009/2010
+SS Lazio,Eliseu,26,Left-Back,Real Zaragoza,Loan fee:£360k,out,0.36,Serie A,2009,2009/2010
+SS Lazio,Cribari,29,Centre-Back,Siena,Loan fee:£270k,out,0.27,Serie A,2009,2009/2010
+SS Lazio,Riccardo Perpetuini,19,Central Midfield,Crotone,Loan,out,0,Serie A,2009,2009/2010
+SS Lazio,Fabio Zaccardi,22,Defender,Celano,Free Transfer,out,0,Serie A,2009,2009/2010
+SS Lazio,Goran Pandev,26,Second Striker,Inter,Free Transfer,out,0,Serie A,2009,2009/2010
+SS Lazio,Libor Kozak,20,Centre-Forward,Brescia,Loan,out,0,Serie A,2009,2009/2010
+SS Lazio,Lucas Correa,25,Defensive Midfield,Ravenna,Loan,out,0,Serie A,2009,2009/2010
+SS Lazio,Andrea Spuntarelli,18,Forward,Rieti,Loan,out,0,Serie A,2009,2009/2010
+SS Lazio,Alberto Quadri,26,Defensive Midfield,Taranto,Loan,out,0,Serie A,2009,2009/2010
+SS Lazio,Matteo Merini,21,Centre-Forward,Chievo Verona,?,out,NA,Serie A,2009,2009/2010
+SS Lazio,Francesco Mancini,19,Right Winger,Varese,Loan,out,0,Serie A,2009,2009/2010
+SS Lazio,Andrea Spuntarelli,19,Forward,Figline,Loan,out,0,Serie A,2009,2009/2010
+SS Lazio,Ettore Mendicino,19,Second Striker,Crotone,Loan,out,0,Serie A,2009,2009/2010
+SS Lazio,Luciano Zauri,31,Right-Back,Sampdoria,Loan,out,0,Serie A,2009,2009/2010
+SS Lazio,Lucas Correa,25,Defensive Midfield,Taranto,Loan,out,0,Serie A,2009,2009/2010
+SS Lazio,Simone Sannibale,23,Centre-Back,Nocerina,?,out,NA,Serie A,2009,2009/2010
+SS Lazio,Ivan Artipoli,23,Centre-Back,Foggia,Loan,out,0,Serie A,2009,2009/2010
+SS Lazio,Alessandro Tuia,19,Centre-Back,Monza,Loan,out,0,Serie A,2009,2009/2010
+SS Lazio,Federico Chirico,20,Centre-Back,Cavese,Loan,out,0,Serie A,2009,2009/2010
+SS Lazio,Riccardo Capogna,21,Centre-Forward,AC Carpenedolo,?,out,NA,Serie A,2009,2009/2010
+SS Lazio,Vincent Degre,20,Goalkeeper,Without Club,-,out,0,Serie A,2009,2009/2010
+SS Lazio,Mauro Zárate,22,Second Striker,Al Sadd,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+SS Lazio,Matuzalém,29,Defensive Midfield,Real Zaragoza,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+AC Siena,Reginaldo,25,Second Striker,Parma,£4.05m,in,4.05,Serie A,2009,2009/2010
+AC Siena,Michele Paolucci,23,Centre-Forward,Juventus,£3.15m,in,3.15,Serie A,2009,2009/2010
+AC Siena,Mato Jajalo,21,Central Midfield,Slaven Belupo,£1.80m,in,1.8,Serie A,2009,2009/2010
+AC Siena,Aleandro Rosi,22,Right-Back,AS Roma,£1.08m,in,1.08,Serie A,2009,2009/2010
+AC Siena,Alexandros Tziolis,24,Defensive Midfield,Panathinaikos,£1.08m,in,1.08,Serie A,2009,2009/2010
+AC Siena,Francesco Parravicini,27,Defensive Midfield,Parma,£900k,in,0.9,Serie A,2009,2009/2010
+AC Siena,Gianluca Pegolo,28,Goalkeeper,Genoa,£720k,in,0.72,Serie A,2009,2009/2010
+AC Siena,Gael Genevier,27,Defensive Midfield,AC Pisa,£360k,in,0.36,Serie A,2009,2009/2010
+AC Siena,Cribari,29,Centre-Back,Lazio,Loan fee:£270k,in,0.27,Serie A,2009,2009/2010
+AC Siena,Filipe,22,Defensive Midfield,AS Roma,Free Transfer,in,0,Serie A,2009,2009/2010
+AC Siena,Albin Ekdal,19,Defensive Midfield,Juventus,Loan,in,0,Serie A,2009,2009/2010
+AC Siena,Marco Malagò,31,Centre-Back,Chievo Verona,Loan,in,0,Serie A,2009,2009/2010
+AC Siena,Francesco Pratali,31,Centre-Back,Torino,Loan,in,0,Serie A,2009,2009/2010
+AC Siena,Marcelo Larrondo,20,Centre-Forward,River Plate,?,in,NA,Serie A,2009,2009/2010
+AC Siena,Antonio Ghomsi,23,Left-Back,Avellino,?,in,NA,Serie A,2009,2009/2010
+AC Siena,Agostino Garofalo,24,Left-Back,Grosseto,?,in,NA,Serie A,2009,2009/2010
+AC Siena,Michael Odibe,21,Centre-Back,Saint Gilloise,?,in,NA,Serie A,2009,2009/2010
+AC Siena,Claudio Terzi,25,Centre-Back,Bologna,?,in,NA,Serie A,2009,2009/2010
+AC Siena,Michele Fini,35,Central Midfield,Cagliari Calcio,?,in,NA,Serie A,2009,2009/2010
+AC Siena,Mihail Ivanov,19,Goalkeeper,Siena U19,-,in,0,Serie A,2009,2009/2010
+AC Siena,Mariano Romano,20,Central Midfield,Sassuolo,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+AC Siena,Leonardo Blanchard,21,Centre-Back,AS Pescina,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+AC Siena,Antonio Ghomsi,23,Left-Back,KV Mechelen,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+AC Siena,Matteo Prandelli,21,Centre-Forward,VF Colligiana,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+AC Siena,Filippo Bigeschi,20,Central Midfield,Siena U19,-,in,0,Serie A,2009,2009/2010
+AC Siena,Filippo Bigeschi,20,Central Midfield,Novara,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+AC Siena,Maximiliano Re,22,Attacking Midfield,VF Colligiana,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Siena,Gennaro Esposito,24,Defensive Midfield,Gallipoli,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Siena,Matteo Prandelli,20,Centre-Forward,AS Pescina,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Siena,Federico Re,19,Central Midfield,VF Colligiana,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Siena,Daniele Corvia,24,Centre-Forward,FC Empoli,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Siena,Anssi Jaakkola,22,Goalkeeper,VF Colligiana,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Siena,Leonardo Blanchard,21,Centre-Back,AS Pescina,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Siena,Luca Pietrobattista,21,Attacking Midfield,AS Pescina,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Siena,Pasquale Iadaresta,23,Centre-Forward,Vibonese,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Siena,Alessandro Bettega,22,Central Midfield,Ravenna,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Siena,Rodrigo Lazzari,28,Centre-Back,VF Colligiana,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Siena,Thomas Albanese,21,Centre-Forward,Legnano,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Siena,Richard Porta,25,Centre-Forward,Belenenses SAD,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Siena,Giovanni Bartolucci,25,Right-Back,Pistoiese,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Siena,Gianluca Sansone,22,Centre-Forward,Gallipoli,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AC Siena,Daniele Galloppa,24,Central Midfield,Parma,£9.00m,out,9,Serie A,2009,2009/2010
+AC Siena,Camilo Zúñiga,23,Right-Back,SSC Napoli,£7.65m,out,7.65,Serie A,2009,2009/2010
+AC Siena,Houssine Kharja,26,Central Midfield,Genoa,£4.68m,out,4.68,Serie A,2009,2009/2010
+AC Siena,Nicola Belmonte,22,Centre-Back,Bari,£1.35m,out,1.35,Serie A,2009,2009/2010
+AC Siena,Manuel Coppola,27,Central Midfield,Parma,£1.08m,out,1.08,Serie A,2009,2009/2010
+AC Siena,Michele Paolucci,23,Centre-Forward,Juventus,Loan fee:£450k,out,0.45,Serie A,2009,2009/2010
+AC Siena,Gael Genevier,27,Defensive Midfield,Torino,Loan fee:£270k,out,0.27,Serie A,2009,2009/2010
+AC Siena,Mario Frick,34,Centre-Forward,FC St. Gallen,Free Transfer,out,0,Serie A,2009,2009/2010
+AC Siena,Dimitrios Eleftheropoulos,32,Goalkeeper,PAS Giannina,Free Transfer,out,0,Serie A,2009,2009/2010
+AC Siena,Pasquale Iadaresta,23,Centre-Forward,Pro Sesto,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Antonio Ghomsi,23,Left-Back,KV Mechelen,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Lorenzo Del Prete,23,Right-Back,Frosinone,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Alessandro Bettega,22,Central Midfield,AS Pescina,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Mariano Romano,20,Central Midfield,Pergolettese,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Douglas Packer,22,Attacking Midfield,Ravenna,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Richard Porta,26,Centre-Forward,River Plate,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Leonardo Blanchard,21,Centre-Back,Pergolettese,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Gennaro Esposito,24,Defensive Midfield,Hellas Verona,?,out,NA,Serie A,2009,2009/2010
+AC Siena,Matteo Prandelli,20,Centre-Forward,VF Colligiana,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Antonio Ghomsi,23,Left-Back,KV Mechelen,?,out,NA,Serie A,2009,2009/2010
+AC Siena,Leonardo Blanchard,21,Centre-Back,AS Pescina,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Mirko Guadalupi,22,Attacking Midfield,Viareggio,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Antonio Zito,23,Left Midfield,Crotone,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Daniele Corvia,24,Centre-Forward,Lecce,?,out,NA,Serie A,2009,2009/2010
+AC Siena,Filippo Bigeschi,20,Central Midfield,Südtirol,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Gianluca Sansone,22,Centre-Forward,Virtus Lanciano,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Filippo Bigeschi,20,Central Midfield,Novara,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Marco Di Crescenzo,20,Centre-Forward,Sangiovannese,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Federico Re,19,Central Midfield,Sangiovannese,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Giovanni Bartolucci,25,Right-Back,Lecco,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Agostino Garofalo,25,Left-Back,Torino,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Mariano Romano,19,Central Midfield,Sassuolo,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Daniele Portanova,30,Centre-Back,Bologna,?,out,NA,Serie A,2009,2009/2010
+AC Siena,Thomas Albanese,21,Centre-Forward,Südtirol,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Manuel Mancini,25,Central Midfield,Gallipoli,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Matteo Prandelli,21,Centre-Forward,Como,?,out,NA,Serie A,2009,2009/2010
+AC Siena,Luca Pietrobattista,21,Attacking Midfield,VF Colligiana,Loan,out,0,Serie A,2009,2009/2010
+AC Siena,Rodrigo Lazzari,28,Centre-Back,Without Club,-,out,0,Serie A,2009,2009/2010
+AC Siena,Emanuele Manitta,32,Goalkeeper,Retired,-,out,0,Serie A,2009,2009/2010
+AC Siena,Nicola Amoruso,34,Centre-Forward,Torino,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+AC Siena,Marcelo Larrondo,20,Centre-Forward,River Plate,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+AC Siena,Ahmed Barusso,24,Defensive Midfield,AS Roma,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Calcio Catania,Pablo Barrientos,24,Right Winger,FK Moskau,£3.60m,in,3.6,Serie A,2009,2009/2010
+Calcio Catania,Maxi López,25,Centre-Forward,FK Moskau,£2.70m,in,2.7,Serie A,2009,2009/2010
+Calcio Catania,Ciro Capuano,27,Centre-Back,US Palermo,£2.70m,in,2.7,Serie A,2009,2009/2010
+Calcio Catania,Giuseppe Bellusci,19,Centre-Back,Ascoli,£2.70m,in,2.7,Serie A,2009,2009/2010
+Calcio Catania,Adrián Ricchiuti,31,Second Striker,Rimini,£2.52m,in,2.52,Serie A,2009,2009/2010
+Calcio Catania,Mariano Andújar,25,Goalkeeper,Estudiantes,£1.98m,in,1.98,Serie A,2009,2009/2010
+Calcio Catania,Gennaro Delvecchio,31,Central Midfield,Sampdoria,£1.80m,in,1.8,Serie A,2009,2009/2010
+Calcio Catania,Nicolás Spolli,26,Centre-Back,Newell's,£900k,in,0.9,Serie A,2009,2009/2010
+Calcio Catania,Blazej Augustyn,21,Centre-Back,Legia Warszawa,£450k,in,0.45,Serie A,2009,2009/2010
+Calcio Catania,Andrea Campagnolo,31,Goalkeeper,Reggina,Free Transfer,in,0,Serie A,2009,2009/2010
+Calcio Catania,Giovanni Ricciardo,23,Centre-Forward,Villacidrese,Free Transfer,in,0,Serie A,2009,2009/2010
+Calcio Catania,Federico Moretti,20,Central Midfield,Parma,Free Transfer,in,0,Serie A,2009,2009/2010
+Calcio Catania,Orazio Russo,36,Right Winger,Gela,Free Transfer,in,0,Serie A,2009,2009/2010
+Calcio Catania,Simone Pesce,27,Central Midfield,Ascoli,£450,in,NA,Serie A,2009,2009/2010
+Calcio Catania,Cristian Suarino,20,Defensive Midfield,Cassino,?,in,NA,Serie A,2009,2009/2010
+Calcio Catania,Giovanni Longobardi,26,Centre-Forward,Pavia,?,in,NA,Serie A,2009,2009/2010
+Calcio Catania,Marco Di Fatta,22,Centre-Back,Potenza,?,in,NA,Serie A,2009,2009/2010
+Calcio Catania,Giovanni Marchese,24,Centre-Back,Chievo Verona,?,in,NA,Serie A,2009,2009/2010
+Calcio Catania,Christian Iannelli,23,Forward,Nocerina,?,in,NA,Serie A,2009,2009/2010
+Calcio Catania,Giuseppe Di Pasquale,21,Right-Back,Manfredonia,?,in,NA,Serie A,2009,2009/2010
+Calcio Catania,Rosario Bucolo,21,Central Midfield,Celano,?,in,NA,Serie A,2009,2009/2010
+Calcio Catania,Rosario Bucolo,20,Central Midfield,Reggiana,?,in,NA,Serie A,2009,2009/2010
+Calcio Catania,Christian Iannelli,23,Forward,Catanzaro,?,in,NA,Serie A,2009,2009/2010
+Calcio Catania,Antonino Profeta,21,Central Midfield,Potenza,?,in,NA,Serie A,2009,2009/2010
+Calcio Catania,Christian Iannelli,24,Forward,VF Colligiana,?,in,NA,Serie A,2009,2009/2010
+Calcio Catania,Nicolae Dica,29,Second Striker,Iraklis,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+Calcio Catania,Andrea D'Amico,20,Central Midfield,Reggiana,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+Calcio Catania,Julián di Cosmo,24,Centre-Forward,VF Colligiana,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+Calcio Catania,Marcello Gazzola,24,Right-Back,Avellino,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Calcio Catania,Ciro Polito,30,Goalkeeper,Grosseto,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Calcio Catania,Gianvito Plasmati,26,Centre-Forward,Atalanta,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Calcio Catania,Gennaro Sardo,30,Right-Back,Chievo Verona,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Calcio Catania,Raffaele Ioime,21,Goalkeeper,Legnano,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Calcio Catania,Julián di Cosmo,24,Centre-Forward,Andria,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Calcio Catania,Antonino Profeta,21,Central Midfield,Cosenza,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Calcio Catania,Babù,28,Right Winger,Avellino,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Calcio Catania,Pablo Álvarez,25,Right-Back,CA Rosario,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Calcio Catania,Mirco Antenucci,24,Centre-Forward,AC Pisa,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Calcio Catania,Ciro Polito,30,Goalkeeper,Salernitana,£360k,out,0.36,Serie A,2009,2009/2010
+Calcio Catania,Giacomo Tedesco,33,Central Midfield,Bologna,£360k,out,0.36,Serie A,2009,2009/2010
+Calcio Catania,Nicolae Dica,29,Second Striker,Iraklis,Loan fee:£225k,out,0.225,Serie A,2009,2009/2010
+Calcio Catania,Raffaele Ioime,21,Goalkeeper,SPAL,Loan fee:£90k,out,0.09,Serie A,2009,2009/2010
+Calcio Catania,Albano Bizzarri,31,Goalkeeper,Lazio,Free Transfer,out,0,Serie A,2009,2009/2010
+Calcio Catania,Francesco Millesi,29,Left Winger,Salernitana,Free Transfer,out,0,Serie A,2009,2009/2010
+Calcio Catania,Davide Baiocco,34,Defensive Midfield,Brescia,Free Transfer,out,0,Serie A,2009,2009/2010
+Calcio Catania,Andrea D'Amico,20,Central Midfield,Reggiana,Loan,out,0,Serie A,2009,2009/2010
+Calcio Catania,Christian Iannelli,23,Forward,VF Colligiana,?,out,NA,Serie A,2009,2009/2010
+Calcio Catania,Andrea Catellani,21,Centre-Forward,Modena,Loan,out,0,Serie A,2009,2009/2010
+Calcio Catania,Mirco Antenucci,24,Centre-Forward,Ascoli,Loan,out,0,Serie A,2009,2009/2010
+Calcio Catania,Julián di Cosmo,24,Centre-Forward,VF Colligiana,Loan,out,0,Serie A,2009,2009/2010
+Calcio Catania,Marcello Gazzola,24,Right-Back,Ascoli,?,out,NA,Serie A,2009,2009/2010
+Calcio Catania,Simone Pesce,27,Central Midfield,Ascoli,Loan,out,0,Serie A,2009,2009/2010
+Calcio Catania,Nicolae Dica,29,Second Striker,CFR Cluj,Loan,out,0,Serie A,2009,2009/2010
+Calcio Catania,Antonino Profeta,21,Central Midfield,Potenza,?,out,NA,Serie A,2009,2009/2010
+Calcio Catania,Andrea D'Amico,20,Central Midfield,VF Colligiana,Loan,out,0,Serie A,2009,2009/2010
+Calcio Catania,Christian Iannelli,23,Forward,Nocerina,?,out,NA,Serie A,2009,2009/2010
+Calcio Catania,Gennaro Sardo,30,Right-Back,Chievo Verona,Loan,out,0,Serie A,2009,2009/2010
+Calcio Catania,Milan Bortel,22,Centre-Back,SPAL,?,out,NA,Serie A,2009,2009/2010
+Calcio Catania,Julián di Cosmo,25,Centre-Forward,The Strongest,?,out,NA,Serie A,2009,2009/2010
+Calcio Catania,Cristian Silvestri,34,Centre-Back,Ascoli,?,out,NA,Serie A,2009,2009/2010
+Calcio Catania,Rosario Bucolo,20,Central Midfield,Celano,?,out,NA,Serie A,2009,2009/2010
+Calcio Catania,Babù,28,Right Winger,Cisco Roma,?,out,NA,Serie A,2009,2009/2010
+Calcio Catania,Vito Falconieri,23,Centre-Forward,Ascoli,?,out,NA,Serie A,2009,2009/2010
+Calcio Catania,Giovanni Longobardi,27,Centre-Forward,Turris,?,out,NA,Serie A,2009,2009/2010
+Calcio Catania,Gionatha Spinesi,31,Centre-Forward,Without Club,-,out,0,Serie A,2009,2009/2010
+Calcio Catania,Lorenzo Stovini,32,Centre-Back,Without Club,-,out,0,Serie A,2009,2009/2010
+Calcio Catania,Paolo Acerbis,28,Goalkeeper,Grosseto,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Calcio Catania,Michele Paolucci,23,Centre-Forward,Udinese,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Calcio Catania,Ciro Capuano,27,Centre-Back,US Palermo,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Chievo Verona,Angelo Antonazzo,27,Right-Back,Frosinone,£720k,in,0.72,Serie A,2009,2009/2010
+Chievo Verona,Stefano Sorrentino,30,Goalkeeper,AEK Athens,£540k,in,0.54,Serie A,2009,2009/2010
+Chievo Verona,Manuel Iori,27,Defensive Midfield,Cittadella,£360k,in,0.36,Serie A,2009,2009/2010
+Chievo Verona,Luca Ariatti,30,Central Midfield,Lecce,£90k,in,0.09,Serie A,2009,2009/2010
+Chievo Verona,Marco Parolo,24,Central Midfield,Hellas Verona,Free Transfer,in,0,Serie A,2009,2009/2010
+Chievo Verona,Tommaso Bianchi,21,Central Midfield,Piacenza,Loan,in,0,Serie A,2009,2009/2010
+Chievo Verona,Amedeo Calliari,22,Central Midfield,Triestina,?,in,NA,Serie A,2009,2009/2010
+Chievo Verona,Gennaro Sardo,30,Right-Back,Catania,Loan,in,0,Serie A,2009,2009/2010
+Chievo Verona,Domenico Girardi,24,Centre-Forward,Hellas Verona,?,in,NA,Serie A,2009,2009/2010
+Chievo Verona,Roberto Cortese,25,Centre-Forward,Nissa FC,?,in,NA,Serie A,2009,2009/2010
+Chievo Verona,Matteo Merini,21,Centre-Forward,Lazio,?,in,NA,Serie A,2009,2009/2010
+Chievo Verona,Bojan Jokic,23,Left-Back,FC Sochaux,Loan,in,0,Serie A,2009,2009/2010
+Chievo Verona,Giovanni Madiotto,18,Second Striker,Treviso U19,?,in,NA,Serie A,2009,2009/2010
+Chievo Verona,Giovanni Madiotto,18,Second Striker,Giacomense,?,in,NA,Serie A,2009,2009/2010
+Chievo Verona,Elvis Abbruscato,28,Centre-Forward,Torino,Loan,in,0,Serie A,2009,2009/2010
+Chievo Verona,Michal Miskiewicz,20,Goalkeeper,Milan U19,Loan,in,0,Serie A,2009,2009/2010
+Chievo Verona,Dimas,24,Left Winger,Sambonifacese,?,in,NA,Serie A,2009,2009/2010
+Chievo Verona,Leonardo Moracci,21,Centre-Back,Hellas Verona,?,in,NA,Serie A,2009,2009/2010
+Chievo Verona,Rinaldo Lispi,23,Centre-Back,Foligno,?,in,NA,Serie A,2009,2009/2010
+Chievo Verona,Felice Piccolo,25,Centre-Back,FC Empoli,Loan,in,0,Serie A,2009,2009/2010
+Chievo Verona,Daniele Piro,20,Right Winger,Tor Tre Teste,?,in,NA,Serie A,2009,2009/2010
+Chievo Verona,Dimas,25,Left Winger,Monza,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+Chievo Verona,Valerio Anastasi,19,Centre-Forward,Pergolettese,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+Chievo Verona,Daniele Piro,20,Right Winger,Cosenza,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+Chievo Verona,Yonese Hanine,19,Second Striker,Chievo U19,-,in,0,Serie A,2009,2009/2010
+Chievo Verona,Pablo Granoche,25,Centre-Forward,Triestina,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Chievo Verona,Andrea Mengoni,25,Centre-Back,Piacenza,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Chievo Verona,Giovanni Marchese,24,Centre-Back,Salernitana,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Chievo Verona,César,30,Centre-Back,Padova,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Chievo Verona,Simone Grippo,20,Centre-Back,Piacenza,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Chievo Verona,Marcos De Paula,25,Centre-Forward,Foligno,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Chievo Verona,Mahamet Diagouraga,25,Centre-Back,Modena,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Chievo Verona,Mirco Gasparetto,29,Centre-Forward,AC Pisa,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Chievo Verona,Emanuele D'Anna,27,Defender,AC Pisa,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Chievo Verona,Cesare Rickler,22,Centre-Back,Piacenza,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Chievo Verona,Tommaso Chiecchi,29,Centre-Back,Lumezzane,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Chievo Verona,Antimo Iunco,25,Second Striker,Salernitana,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Chievo Verona,Marco Parolo,24,Central Midfield,Cesena,£3.15m,out,3.15,Serie A,2009,2009/2010
+Chievo Verona,César,30,Centre-Back,Padova,£180k,out,0.18,Serie A,2009,2009/2010
+Chievo Verona,Vincenzo Italiano,31,Defensive Midfield,Padova,£180k,out,0.18,Serie A,2009,2009/2010
+Chievo Verona,Marco Malagò,31,Centre-Back,Siena,Loan,out,0,Serie A,2009,2009/2010
+Chievo Verona,Daniele Piro,20,Right Winger,Vastese,Loan,out,0,Serie A,2009,2009/2010
+Chievo Verona,Tommaso Chiecchi,29,Centre-Back,Pro Patria,Loan,out,0,Serie A,2009,2009/2010
+Chievo Verona,Valerio Anastasi,19,Centre-Forward,Pergolettese,Loan,out,0,Serie A,2009,2009/2010
+Chievo Verona,Domenico Girardi,24,Centre-Forward,Modena,Loan,out,0,Serie A,2009,2009/2010
+Chievo Verona,Antimo Iunco,25,Second Striker,Cittadella,Loan,out,0,Serie A,2009,2009/2010
+Chievo Verona,Diego Farias,19,Second Striker,Hellas Verona,Loan,out,0,Serie A,2009,2009/2010
+Chievo Verona,Matteo Merini,21,Centre-Forward,Sangiovannese,?,out,NA,Serie A,2009,2009/2010
+Chievo Verona,Roberto Cortese,25,Centre-Forward,Taranto,?,out,NA,Serie A,2009,2009/2010
+Chievo Verona,Emanuele D'Anna,27,Defender,Benevento,?,out,NA,Serie A,2009,2009/2010
+Chievo Verona,Valerio Anastasi,19,Centre-Forward,Villacidrese,Loan,out,0,Serie A,2009,2009/2010
+Chievo Verona,Andrea Burato,18,Defensive Midfield,Hellas Verona,Loan,out,0,Serie A,2009,2009/2010
+Chievo Verona,Angelo Antonazzo,27,Right-Back,FC Empoli,Loan,out,0,Serie A,2009,2009/2010
+Chievo Verona,Simone Grippo,20,Centre-Back,Lumezzane,Loan,out,0,Serie A,2009,2009/2010
+Chievo Verona,Mahamet Diagouraga,25,Centre-Back,Modena,?,out,NA,Serie A,2009,2009/2010
+Chievo Verona,Giovanni Madiotto,18,Second Striker,Giacomense,?,out,NA,Serie A,2009,2009/2010
+Chievo Verona,Leonardo Moracci,22,Centre-Back,Alessandria,Loan,out,0,Serie A,2009,2009/2010
+Chievo Verona,Dimas,25,Left Winger,Sambonifacese,Loan,out,0,Serie A,2009,2009/2010
+Chievo Verona,Cesare Rickler,22,Centre-Back,Modena,Loan,out,0,Serie A,2009,2009/2010
+Chievo Verona,Kerlon,21,Attacking Midfield,Inter,?,out,NA,Serie A,2009,2009/2010
+Chievo Verona,Dimas,24,Left Winger,Monza,Loan,out,0,Serie A,2009,2009/2010
+Chievo Verona,Andrea Mengoni,25,Centre-Back,Pescara,Loan,out,0,Serie A,2009,2009/2010
+Chievo Verona,Giovanni Marchese,24,Centre-Back,Catania,?,out,NA,Serie A,2009,2009/2010
+Chievo Verona,Daniele Piro,20,Right Winger,Cosenza,Loan,out,0,Serie A,2009,2009/2010
+Chievo Verona,Mirco Gasparetto,29,Centre-Forward,Padova,Loan,out,0,Serie A,2009,2009/2010
+Chievo Verona,Nicolò Brighenti,19,Centre-Back,Pergolettese,Loan,out,0,Serie A,2009,2009/2010
+Chievo Verona,Gabriele Aldegani,33,Goalkeeper,Without Club,-,out,0,Serie A,2009,2009/2010
+Chievo Verona,Stefano Olivieri,26,Centre-Back,Retired,-,out,0,Serie A,2009,2009/2010
+Chievo Verona,Felice Piccolo,26,Centre-Back,FC Empoli,"End of loanDec 31, 2009",out,0,Serie A,2009,2009/2010
+Chievo Verona,Giuseppe Colucci,28,Central Midfield,Without Club,-,out,0,Serie A,2009,2009/2010
+Chievo Verona,Stefano Sorrentino,30,Goalkeeper,AEK Athens,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Chievo Verona,Stephen Makinwa,25,Centre-Forward,Lazio,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Chievo Verona,Mauro Esposito,30,Right Winger,AS Roma,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Chievo Verona,Antonio Langella,32,Left Winger,Udinese,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Chievo Verona,Gennaro Sardo,30,Right-Back,Catania,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Udinese Calcio,Leandro Caruso,27,Centre-Forward,Godoy Cruz,£3.60m,in,3.6,Serie A,2009,2009/2010
+Udinese Calcio,Fabián Orellana,23,Right Winger,Audax Italiano,£3.15m,in,3.15,Serie A,2009,2009/2010
+Udinese Calcio,Álex Geijo,27,Centre-Forward,Racing,£2.25m,in,2.25,Serie A,2009,2009/2010
+Udinese Calcio,Ritchie Kitoko,21,Central Midfield,Albacete,£1.80m,in,1.8,Serie A,2009,2009/2010
+Udinese Calcio,Jaime Romero,18,Right Winger,Albacete,£1.62m,in,1.62,Serie A,2009,2009/2010
+Udinese Calcio,Piermario Morosini,22,Central Midfield,Vicenza,£1.35m,in,1.35,Serie A,2009,2009/2010
+Udinese Calcio,Kwadwo Asamoah,20,Left-Back,AC Bellinzona,£900k,in,0.9,Serie A,2009,2009/2010
+Udinese Calcio,Ergün Berisa,21,Defensive Midfield,GC Zürich U21,£480k,in,0.48,Serie A,2009,2009/2010
+Udinese Calcio,Dani Benítez,22,Left Winger,RCD Mallorca,£450k,in,0.45,Serie A,2009,2009/2010
+Udinese Calcio,Emmanuel Badu,19,Central Midfield,Berekum,£450k,in,0.45,Serie A,2009,2009/2010
+Udinese Calcio,Jonathan Mensah,19,Centre-Back,FS Stars,£450k,in,0.45,Serie A,2009,2009/2010
+Udinese Calcio,Bernardo Corradi,33,Centre-Forward,Reggina,Free Transfer,in,0,Serie A,2009,2009/2010
+Udinese Calcio,Felipe Sanchón,27,Centre-Forward,Aris Saloniki,Free Transfer,in,0,Serie A,2009,2009/2010
+Udinese Calcio,Rubén Párraga,24,Left-Back,Córdoba CF,Free Transfer,in,0,Serie A,2009,2009/2010
+Udinese Calcio,Zdenek Zlámal,23,Goalkeeper,Slovan Liberec,?,in,NA,Serie A,2009,2009/2010
+Udinese Calcio,Tariq Spezie,29,Centre-Forward,CD Puertollano,?,in,NA,Serie A,2009,2009/2010
+Udinese Calcio,Francesco Lodi,25,Defensive Midfield,FC Empoli,Loan,in,0,Serie A,2009,2009/2010
+Udinese Calcio,Juan Cuadrado,21,Right Winger,Indep. Medellín,?,in,NA,Serie A,2009,2009/2010
+Udinese Calcio,Allan Nyom,21,Right-Back,AC Arles,?,in,NA,Serie A,2009,2009/2010
+Udinese Calcio,Paolo Sammarco,26,Central Midfield,Sampdoria,Loan,in,0,Serie A,2009,2009/2010
+Udinese Calcio,Rafael Romo,19,Goalkeeper,Llaneros EF,?,in,NA,Serie A,2009,2009/2010
+Udinese Calcio,Antonio Candreva,22,Right Winger,AS Livorno,"End of loanJan 20, 2010",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Piermario Morosini,23,Central Midfield,Reggina,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Felipe Sodinha,21,Left Winger,Portogruaro,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Ricardo Villar,20,Right Winger,Udinese U19,-,in,0,Serie A,2009,2009/2010
+Udinese Calcio,Gaetano Calà,20,Centre-Back,Pro Patria,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Igor Djuric,21,Centre-Back,KAS Eupen,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Gaetano Calà,20,Centre-Back,Udinese U19,-,in,0,Serie A,2009,2009/2010
+Udinese Calcio,Alemão,20,Centre-Forward,Without Club,-,in,0,Serie A,2009,2009/2010
+Udinese Calcio,Viktor Budyanskiy,25,Central Midfield,Khimki,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Ricardo Chará,19,Centre-Back,Udinese U19,-,in,0,Serie A,2009,2009/2010
+Udinese Calcio,Flavio Lazzari,23,Left Winger,Padova,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Federico Laurito,19,Centre-Forward,SSC Venezia,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Igor Djuric,20,Centre-Back,Arezzo,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Dusan Basta,24,Right-Back,Lecce,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Abel Aguilar,24,Defensive Midfield,Hércules CF,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Cristoforo Correale,21,Midfielder,AC Scafatese,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Schumacher,22,Centre-Forward,Austria Kärnten,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Abdul-Aziz Tetteh,19,Defensive Midfield,Xerez CD,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Alain Nef,27,Centre-Back,Recr. Huelva,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Marco Motta,23,Right-Back,AS Roma,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Antonio Marino,20,Centre-Back,Juve Stabia,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Kelvin Matute,20,Defensive Midfield,Arezzo,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Facundo Zampa,20,Central Midfield,Gallipoli,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Antonio Langella,32,Left Winger,Chievo Verona,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Federico Gerardi,21,Centre-Forward,Cittadella,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Guilherme Siqueira,23,Left-Back,Ancona,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Moreno,26,Left-Back,KAS Eupen,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Flavio Lazzari,22,Left Winger,Grosseto,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Michele Paolucci,23,Centre-Forward,Catania,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Ferdinando Sforzini,24,Centre-Forward,Avellino,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Roman Eremenko,22,Attacking Midfield,Dynamo Kyiv,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Felipe Sodinha,20,Left Winger,Paganese,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Nicolás Crovetto,23,Left-Back,Albacete,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Matteo Piccinni,23,Centre-Back,AC Pisa,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Udinese Calcio,Fabio Quagliarella,26,Centre-Forward,SSC Napoli,£16.20m,out,16.2,Serie A,2009,2009/2010
+Udinese Calcio,Roman Eremenko,22,Attacking Midfield,Dynamo Kyiv,£4.50m,out,4.5,Serie A,2009,2009/2010
+Udinese Calcio,Marco Motta,23,Right-Back,AS Roma,£3.15m,out,3.15,Serie A,2009,2009/2010
+Udinese Calcio,Michele Paolucci,23,Centre-Forward,Juventus,£2.97m,out,2.97,Serie A,2009,2009/2010
+Udinese Calcio,Felipe,25,Centre-Back,Fiorentina,Loan fee:£2.70m,out,2.7,Serie A,2009,2009/2010
+Udinese Calcio,Abel Aguilar,24,Defensive Midfield,Real Zaragoza,Loan fee:£900k,out,0.9,Serie A,2009,2009/2010
+Udinese Calcio,Antonio Candreva,22,Right Winger,Juventus,Loan fee:£900k,out,0.9,Serie A,2009,2009/2010
+Udinese Calcio,Antonio Langella,32,Left Winger,Bari,£900k,out,0.9,Serie A,2009,2009/2010
+Udinese Calcio,Ferdinando Sforzini,24,Centre-Forward,Bari,Loan fee:£315k,out,0.315,Serie A,2009,2009/2010
+Udinese Calcio,Matteo Piccinni,23,Centre-Back,UC AlbinoLeffe,£135k,out,0.135,Serie A,2009,2009/2010
+Udinese Calcio,Jonathan Mensah,19,Centre-Back,Granada CF,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Luigi Sala,35,Centre-Back,UC AlbinoLeffe,Free Transfer,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Felipe Sodinha,20,Left Winger,Portogruaro,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Mohamadou Sissoko,20,Centre-Back,KAS Eupen,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Ritchie Kitoko,21,Central Midfield,Granada CF,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Allan Nyom,21,Right-Back,Granada CF,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Facundo Zampa,20,Central Midfield,Portogruaro,Free Transfer,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Abdul-Aziz Tetteh,19,Defensive Midfield,Granada CF,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Nikola Vujadinovic,23,Centre-Back,Alba Iulia,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Felipe Sodinha,21,Left Winger,Triestina,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Rubén Párraga,24,Left-Back,Granada CF,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Igor Djuric,21,Centre-Back,AC Bellinzona,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Antonio Marino,20,Centre-Back,Ascoli,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Dani Benítez,22,Left Winger,Granada CF,?,out,NA,Serie A,2009,2009/2010
+Udinese Calcio,Gaetano Calà,20,Centre-Back,Alghero,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Jan Koprivec,21,Goalkeeper,Gallipoli,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Piermario Morosini,23,Central Midfield,Padova,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Fernando Tissone,22,Central Midfield,Sampdoria,?,out,NA,Serie A,2009,2009/2010
+Udinese Calcio,Kelvin Matute,20,Defensive Midfield,Cesena,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Piermario Morosini,23,Central Midfield,Reggina,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Igor Djuric,20,Centre-Back,KAS Eupen,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Cristoforo Correale,21,Midfielder,Alghero,?,out,NA,Serie A,2009,2009/2010
+Udinese Calcio,Felipe Sanchón,27,Centre-Forward,Granada CF,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Federico Gerardi,21,Centre-Forward,Ancona,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Gaetano Calà,20,Centre-Back,Pro Patria,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Flavio Lazzari,23,Left Winger,Gallipoli,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Ricardo Villar,21,Right Winger,Cremonese,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Federico Laurito,19,Centre-Forward,Huracán,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Odion Ighalo,20,Centre-Forward,Granada CF,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Schumacher,23,Centre-Forward,Austria Vienna,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Tariq Spezie,29,Centre-Forward,Granada CF,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Sakari Mattila,19,Defensive Midfield,Ascoli,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Ergün Berisa,21,Defensive Midfield,Büyüksehir Bld.,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Alain Nef,27,Centre-Back,Triestina,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Leandro Caruso,28,Centre-Forward,Vélez Sarsfield,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Nicolás Crovetto,23,Left-Back,Triestina,?,out,NA,Serie A,2009,2009/2010
+Udinese Calcio,Fabián Orellana,23,Right Winger,Xerez CD,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Flavio Lazzari,22,Left Winger,Padova,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Zdenek Zlámal,23,Goalkeeper,Cádiz CF,Loan,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Moreno,26,Left-Back,Without Club,-,out,0,Serie A,2009,2009/2010
+Udinese Calcio,Kwadwo Asamoah,20,Left-Back,AC Bellinzona,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Cagliari Calcio,Nenê,25,Centre-Forward,Nacional,£4.05m,in,4.05,Serie A,2009,2009/2010
+Cagliari Calcio,Lino Marzorati,22,Centre-Back,FC Empoli,£1.35m,in,1.35,Serie A,2009,2009/2010
+Cagliari Calcio,Radja Nainggolan,21,Attacking Midfield,Piacenza,£1.17m,in,1.17,Serie A,2009,2009/2010
+Cagliari Calcio,Simone Barone,31,Central Midfield,Torino,£900k,in,0.9,Serie A,2009,2009/2010
+Cagliari Calcio,Lorenzo Ariaudo,20,Centre-Back,Juventus,Loan fee:£270k,in,0.27,Serie A,2009,2009/2010
+Cagliari Calcio,Mario Brkljaca,24,Defensive Midfield,Hajduk Split,Loan fee:£135k,in,0.135,Serie A,2009,2009/2010
+Cagliari Calcio,Marco Sau,22,Centre-Forward,Lecco,?,in,NA,Serie A,2009,2009/2010
+Cagliari Calcio,Daniele Dessena,22,Central Midfield,Sampdoria,?,in,NA,Serie A,2009,2009/2010
+Cagliari Calcio,Andrea Cocco,24,Centre-Forward,Alghero,?,in,NA,Serie A,2009,2009/2010
+Cagliari Calcio,Michael Agazzi,25,Goalkeeper,Triestina,?,in,NA,Serie A,2009,2009/2010
+Cagliari Calcio,Mauro Vigorito,19,Goalkeeper,Cagliari U19,-,in,0,Serie A,2009,2009/2010
+Cagliari Calcio,Alberto Usai,20,Midfielder,Villacidrese,"End of loanNov 1, 2009",in,0,Serie A,2009,2009/2010
+Cagliari Calcio,Enrico Cotza,20,Central Midfield,Foligno,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Cagliari Calcio,Salvatore Burrai,22,Defensive Midfield,Ternana,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Cagliari Calcio,Marco Sau,21,Centre-Forward,UC AlbinoLeffe,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Cagliari Calcio,Joaquín Larrivey,24,Centre-Forward,Vélez Sarsfield,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Cagliari Calcio,Carlos Matheu,24,Centre-Back,Independiente,£945k,out,0.945,Serie A,2009,2009/2010
+Cagliari Calcio,Rafael Acosta,20,Central Midfield,Diagoras,Loan,out,0,Serie A,2009,2009/2010
+Cagliari Calcio,Mikhail Sivakov,21,Centre-Back,Piacenza,Loan,out,0,Serie A,2009,2009/2010
+Cagliari Calcio,Paolo Bianco,31,Centre-Back,Atalanta,?,out,NA,Serie A,2009,2009/2010
+Cagliari Calcio,Simone Aresti,23,Goalkeeper,Alghero,?,out,NA,Serie A,2009,2009/2010
+Cagliari Calcio,Alberto Usai,19,Midfielder,Villacidrese,Loan,out,0,Serie A,2009,2009/2010
+Cagliari Calcio,Alberto Usai,20,Midfielder,Selargius,?,out,NA,Serie A,2009,2009/2010
+Cagliari Calcio,Enrico Cotza,21,Central Midfield,Alghero,Loan,out,0,Serie A,2009,2009/2010
+Cagliari Calcio,Michele Fini,35,Central Midfield,Siena,?,out,NA,Serie A,2009,2009/2010
+Cagliari Calcio,Marco Sau,21,Centre-Forward,Lecco,?,out,NA,Serie A,2009,2009/2010
+Cagliari Calcio,Daniele Magliocchetti,23,Centre-Back,Triestina,Loan,out,0,Serie A,2009,2009/2010
+Cagliari Calcio,Marco Mancosu,20,Attacking Midfield,FC Empoli,Loan,out,0,Serie A,2009,2009/2010
+Cagliari Calcio,Salvatore Burrai,22,Defensive Midfield,Cremonese,Loan,out,0,Serie A,2009,2009/2010
+Cagliari Calcio,Robert Acquafresca,21,Centre-Forward,Inter,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Bologna FC 1909,Andrea Pisanu,28,Right Midfield,Parma,£4.50m,in,4.5,Serie A,2009,2009/2010
+Bologna FC 1909,Emiliano Viviano,23,Goalkeeper,Inter,£3.15m,in,3.15,Serie A,2009,2009/2010
+Bologna FC 1909,Francesco Modesto,27,Left-Back,Genoa,Loan fee:£450k,in,0.45,Serie A,2009,2009/2010
+Bologna FC 1909,Roberto Guana,28,Central Midfield,US Palermo,Loan fee:£432k,in,0.432,Serie A,2009,2009/2010
+Bologna FC 1909,Giacomo Tedesco,33,Central Midfield,Catania,£360k,in,0.36,Serie A,2009,2009/2010
+Bologna FC 1909,Rafael Santos,24,Centre-Back,Atlético-PR,Loan fee:£270k,in,0.27,Serie A,2009,2009/2010
+Bologna FC 1909,Andrea Raggi,25,Centre-Back,US Palermo,Loan fee:£126k,in,0.126,Serie A,2009,2009/2010
+Bologna FC 1909,Henry Giménez,23,Centre-Forward,River Plate,Loan fee:£90k,in,0.09,Serie A,2009,2009/2010
+Bologna FC 1909,Filippo Spitoni,25,Goalkeeper,Andria,£45k,in,0.045,Serie A,2009,2009/2010
+Bologna FC 1909,Luca Vigiani,32,Right Midfield,Reggina,Free Transfer,in,0,Serie A,2009,2009/2010
+Bologna FC 1909,Marcelo Zalayeta,30,Centre-Forward,SSC Napoli,Loan,in,0,Serie A,2009,2009/2010
+Bologna FC 1909,Davide Succi,28,Centre-Forward,US Palermo,Loan,in,0,Serie A,2009,2009/2010
+Bologna FC 1909,Marco Di Vaio,32,Centre-Forward,Genoa,Free Transfer,in,0,Serie A,2009,2009/2010
+Bologna FC 1909,Giuseppe Nazzani,19,Defensive Midfield,Bellaria IM,£450,in,NA,Serie A,2009,2009/2010
+Bologna FC 1909,Savio Nsereko,20,Right Winger,Fiorentina,Loan,in,0,Serie A,2009,2009/2010
+Bologna FC 1909,Antonio Buscè,34,Right Midfield,Reggina,?,in,NA,Serie A,2009,2009/2010
+Bologna FC 1909,Daniele Portanova,30,Centre-Back,Siena,?,in,NA,Serie A,2009,2009/2010
+Bologna FC 1909,Francesco Della Rocca,22,Central Midfield,Brescia,"End of loanDec 31, 2009",in,0,Serie A,2009,2009/2010
+Bologna FC 1909,Leonardo Cisterni,18,Centre-Forward,Bologna U19,-,in,0,Serie A,2009,2009/2010
+Bologna FC 1909,Stephen Appiah,28,Central Midfield,Without Club,-,in,0,Serie A,2009,2009/2010
+Bologna FC 1909,Alessandro Bassoli,19,Centre-Back,Bologna U19,-,in,0,Serie A,2009,2009/2010
+Bologna FC 1909,Francesco Della Rocca,21,Central Midfield,Sassuolo,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Bologna FC 1909,Davide Carrus,30,Defensive Midfield,FC Empoli,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Bologna FC 1909,Andrej Galabinov,20,Centre-Forward,Giacomense,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+Bologna FC 1909,Francesco Valiani,29,Central Midfield,Parma,£2.52m,out,2.52,Serie A,2009,2009/2010
+Bologna FC 1909,Daniel Osvaldo,23,Centre-Forward,Espanyol,Loan fee:£450k,out,0.45,Serie A,2009,2009/2010
+Bologna FC 1909,Sergio Volpi,35,Central Midfield,Reggina,£270k,out,0.27,Serie A,2009,2009/2010
+Bologna FC 1909,Davide Carrus,30,Defensive Midfield,Mantova,£90k,out,0.09,Serie A,2009,2009/2010
+Bologna FC 1909,Francesco Antonioli,39,Goalkeeper,Cesena,Free Transfer,out,0,Serie A,2009,2009/2010
+Bologna FC 1909,Manuel Belleri,31,Right-Back,Lecce,Free Transfer,out,0,Serie A,2009,2009/2010
+Bologna FC 1909,Davide Bombardini,35,Left Midfield,UC AlbinoLeffe,Free Transfer,out,0,Serie A,2009,2009/2010
+Bologna FC 1909,Christian Amoroso,32,Central Midfield,Ascoli,Free Transfer,out,0,Serie A,2009,2009/2010
+Bologna FC 1909,Leonardo Cisterni,18,Centre-Forward,Bellaria IM,Loan,out,0,Serie A,2009,2009/2010
+Bologna FC 1909,Marco Bernacci,25,Centre-Forward,Ascoli,Loan,out,0,Serie A,2009,2009/2010
+Bologna FC 1909,Luca Vigiani,33,Right Midfield,Reggina,?,out,NA,Serie A,2009,2009/2010
+Bologna FC 1909,Gabriele Paonessa,22,Attacking Midfield,Vicenza,Loan,out,0,Serie A,2009,2009/2010
+Bologna FC 1909,Giacomo Tedesco,33,Central Midfield,Reggina,?,out,NA,Serie A,2009,2009/2010
+Bologna FC 1909,Claudio Terzi,25,Centre-Back,Siena,?,out,NA,Serie A,2009,2009/2010
+Bologna FC 1909,Francesco Della Rocca,22,Central Midfield,Perugia,Loan,out,0,Serie A,2009,2009/2010
+Bologna FC 1909,Francesco Della Rocca,21,Central Midfield,Brescia,Loan,out,0,Serie A,2009,2009/2010
+Bologna FC 1909,Andrej Galabinov,20,Centre-Forward,Lumezzane,?,out,NA,Serie A,2009,2009/2010
+Bologna FC 1909,César,34,Left Midfield,Without Club,-,out,0,Serie A,2009,2009/2010
+Bologna FC 1909,Simone Confalone,35,Central Midfield,Without Club,-,out,0,Serie A,2009,2009/2010
+Bologna FC 1909,Marcello Castellini,36,Centre-Back,Retired,-,out,0,Serie A,2009,2009/2010
+Bologna FC 1909,Diego Rodríguez,22,Left-Back,Peñarol,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Bologna FC 1909,Coelho,26,Right-Back,Corinthians,"End of loanJun 1, 2009",out,0,Serie A,2009,2009/2010
+Bologna FC 1909,Davide Marchini,28,Right Midfield,Triestina,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+Bologna FC 1909,Marco Di Vaio,32,Centre-Forward,Genoa,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+AS Livorno,Rubinho,27,Goalkeeper,US Palermo,Loan fee:£360k,in,0.36,Serie A,2009,2009/2010
+AS Livorno,Federico Dionisi,22,Centre-Forward,Celano,£360k,in,0.36,Serie A,2009,2009/2010
+AS Livorno,Mozart,29,Defensive Midfield,Palmeiras,£333k,in,0.333,Serie A,2009,2009/2010
+AS Livorno,Jürgen Prutsch,20,Central Midfield,Sturm Graz,£270k,in,0.27,Serie A,2009,2009/2010
+AS Livorno,Davide Moro,27,Central Midfield,FC Empoli,Loan fee:£225k,in,0.225,Serie A,2009,2009/2010
+AS Livorno,Davide Marchini,28,Right Midfield,Triestina,£180k,in,0.18,Serie A,2009,2009/2010
+AS Livorno,Mirko Pieri,30,Left-Back,Sampdoria,£180k,in,0.18,Serie A,2009,2009/2010
+AS Livorno,Marcus Diniz,21,Centre-Back,AC Milan,Loan fee:£135k,in,0.135,Serie A,2009,2009/2010
+AS Livorno,Andrea Esposito,23,Centre-Back,Genoa,Loan,in,0,Serie A,2009,2009/2010
+AS Livorno,Cristian Raimondi,28,Right Midfield,Vicenza,Free Transfer,in,0,Serie A,2009,2009/2010
+AS Livorno,Cristiano Lucarelli,33,Centre-Forward,Parma,Loan,in,0,Serie A,2009,2009/2010
+AS Livorno,Francesco Benussi,26,Goalkeeper,Lecce,Loan,in,0,Serie A,2009,2009/2010
+AS Livorno,Nelson Rivas,26,Centre-Back,Inter,Loan,in,0,Serie A,2009,2009/2010
+AS Livorno,Claudio Bellucci,34,Centre-Forward,Sampdoria,Free Transfer,in,0,Serie A,2009,2009/2010
+AS Livorno,Davide Di Gennaro,21,Defensive Midfield,AC Milan,Loan,in,0,Serie A,2009,2009/2010
+AS Livorno,Andrea Conti,20,Goalkeeper,Mendrisio,?,in,NA,Serie A,2009,2009/2010
+AS Livorno,Alessandro Bernardini,22,Centre-Back,Varese,?,in,NA,Serie A,2009,2009/2010
+AS Livorno,Elia Pellegrini,20,Centre-Forward,VF Colligiana,?,in,NA,Serie A,2009,2009/2010
+AS Livorno,Leonardo Migliónico,29,Centre-Back,Sampdoria,?,in,NA,Serie A,2009,2009/2010
+AS Livorno,Luigi Vitale,21,Left-Back,SSC Napoli,Loan,in,0,Serie A,2009,2009/2010
+AS Livorno,Mirko Bigazzi,21,Right Winger,Carrarese,?,in,NA,Serie A,2009,2009/2010
+AS Livorno,Fabrizio Di Bella,21,Centre-Back,Potenza,?,in,NA,Serie A,2009,2009/2010
+AS Livorno,Sidny,28,Right-Back,Náutico,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+AS Livorno,Francesco Bardi,17,Goalkeeper,Livorno U19,-,in,0,Serie A,2009,2009/2010
+AS Livorno,Fabrizio Di Bella,21,Centre-Back,Pergolettese,"End of loanDec 1, 2009",in,0,Serie A,2009,2009/2010
+AS Livorno,Dario Knezevic,27,Centre-Back,Juventus,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Livorno,Andrea Migliorini,21,Defensive Midfield,Pro Patria,"End of loanJun 30, 2009",in,0,Serie A,2009,2009/2010
+AS Livorno,Alessandro Diamanti,26,Second Striker,West Ham,£6.12m,out,6.12,Serie A,2009,2009/2010
+AS Livorno,Gastón Cellerino,23,Centre-Forward,Celta de Vigo,Loan,out,0,Serie A,2009,2009/2010
+AS Livorno,Sidny,28,Right-Back,Brasiliense-DF,Free Transfer,out,0,Serie A,2009,2009/2010
+AS Livorno,Alessandro Grandoni,32,Centre-Back,Gallipoli,?,out,NA,Serie A,2009,2009/2010
+AS Livorno,Fabrizio Di Bella,21,Centre-Back,AS Pescina,Loan,out,0,Serie A,2009,2009/2010
+AS Livorno,Luca Mazzoni,25,Goalkeeper,Arezzo,?,out,NA,Serie A,2009,2009/2010
+AS Livorno,Andrea Migliorini,21,Defensive Midfield,SPAL,Loan,out,0,Serie A,2009,2009/2010
+AS Livorno,Emanuele Terranova,22,Centre-Back,US Palermo,?,out,NA,Serie A,2009,2009/2010
+AS Livorno,Paulinho,23,Centre-Forward,Sorrento,Loan,out,0,Serie A,2009,2009/2010
+AS Livorno,Massimo Loviso,25,Defensive Midfield,Torino,?,out,NA,Serie A,2009,2009/2010
+AS Livorno,Federico Dionisi,22,Centre-Forward,Salernitana,Loan,out,0,Serie A,2009,2009/2010
+AS Livorno,Fabrizio Di Bella,21,Centre-Back,Pergolettese,Loan,out,0,Serie A,2009,2009/2010
+AS Livorno,Francesco Volpe,23,Right Winger,Triestina,Loan,out,0,Serie A,2009,2009/2010
+AS Livorno,Giuseppe Rizza,22,Left Midfield,Arezzo,Loan,out,0,Serie A,2009,2009/2010
+AS Livorno,Antonio Candreva,22,Right Winger,Udinese,"End of loanJan 20, 2010",out,0,Serie A,2009,2009/2010
+AS Livorno,Fausto Rossini,31,Centre-Forward,Without Club,-,out,0,Serie A,2009,2009/2010
+AS Livorno,Francesco Benussi,28,Goalkeeper,Lecce,"End of loanDec 31, 2009",out,0,Serie A,2009,2009/2010
+AS Livorno,Emanuele Filippini,35,Central Midfield,Retired,-,out,0,Serie A,2009,2009/2010
+AS Livorno,Alessandro Vono,21,Goalkeeper,Catanzaro,,out,NA,Serie A,2009,2009/2010
+AS Livorno,Leonardo Migliónico,29,Centre-Back,Sampdoria,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+AS Livorno,Riccardo Bonetto,30,Left-Back,Lazio,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010
+AS Livorno,Aleandro Rosi,22,Right-Back,AS Roma,"End of loanJun 30, 2009",out,0,Serie A,2009,2009/2010

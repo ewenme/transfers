@@ -1,0 +1,560 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Ajax Amsterdam,Niklas Moisander,26,Centre-Back,AZ Alkmaar,£3.60m,in,3.6,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Lucas Andersen,17,Second Striker,Aalborg BK,£1.26m,in,1.26,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Tobias Sana,23,Second Striker,IFK Göteborg,£288k,in,0.288,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Christian Poulsen,32,Defensive Midfield,Évian,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Ryan Babel,25,Left Winger,TSG Hoffenheim,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Lasse Schöne,26,Defensive Midfield,NEC Nijmegen,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Isaac Cuenca,21,Right Midfield,FC Barcelona,Loan,in,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Stefano Denswil,19,Centre-Back,Ajax U19,-,in,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Joël Veltman,20,Right-Back,Ajax U21,-,in,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Mitchell Dijks,19,Left-Back,Ajax U19,-,in,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Mickey van der Hart,18,Goalkeeper,Ajax U19,-,in,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Dico Koppers,20,Left-Back,Ajax U21,-,in,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Viktor Fischer,18,Left Winger,Ajax U19,-,in,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Davy Klaassen,19,Attacking Midfield,Ajax U19,-,in,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Jody Lukoki,19,Right Winger,Ajax U21,-,in,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Darío Cvitanich,28,Centre-Forward,Boca Juniors,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Florian Jozefzoon,21,Right Winger,NAC Breda,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Jan Vertonghen,25,Centre-Back,Spurs,£11.25m,out,11.25,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Vurnon Anita,23,Defensive Midfield,Newcastle,£7.65m,out,7.65,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Gregory van der Wiel,24,Right-Back,Paris SG,£5.40m,out,5.4,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Aras Özbiliz,22,Right Winger,Kuban Krasnodar,£2.70m,out,2.7,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Darío Cvitanich,28,Centre-Forward,OGC Nice,£1.35m,out,1.35,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Ismail Aissati,24,Attacking Midfield,Antalyaspor,£540k,out,0.54,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Theo Janssen,31,Central Midfield,Vitesse,£495k,out,0.495,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Lorenzo Ebecilio,21,Attacking Midfield,Metalurh D.,£90k,out,0.09,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Nicolás Lodeiro,23,Attacking Midfield,Botafogo,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Eyong Enoh,26,Defensive Midfield,Fulham,Loan,out,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Florian Jozefzoon,21,Right Winger,RKC Waalwijk,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Dmitri Bulykin,32,Centre-Forward,FC Twente,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Dico Koppers,21,Left-Back,ADO Den Haag,Loan,out,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Bruno Silva,32,Right-Back,Without Club,-,out,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,André Ooijer,37,Centre-Back,Retired,-,out,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Mats Rits,18,Central Midfield,Ajax U21,-,out,0,Eredivisie,2012,2012/2013
+Ajax Amsterdam,Jeroen Verhoeven,32,Goalkeeper,Without Club,-,out,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Lex Immers,26,Attacking Midfield,ADO Den Haag,£720k,in,0.72,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Harmeet Singh,21,Central Midfield,Vålerenga,£540k,in,0.54,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,John Goossens,23,Attacking Midfield,NEC Nijmegen,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Omar Elabdellaoui,20,Right-Back,Man City U21,Loan,in,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Ruud Vormer,24,Central Midfield,Roda JC,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Mitchell te Vrede,20,Centre-Forward,Excelsior,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Daryl Janmaat,22,Right-Back,Heerenveen,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Joris Mathijsen,32,Centre-Back,Málaga CF,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Wesley Verhoek,25,Right Winger,FC Twente,?,in,NA,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Graziano Pellè,27,Centre-Forward,Parma,Loan,in,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Kaj Ramsteijn,23,Centre-Back,VVV-Venlo,?,in,NA,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Jean-Paul Boëtius,18,Attacking Midfield,Feyenoord U19,-,in,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Terence Kongolo,18,Centre-Back,Feyenoord U19,-,in,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Tonny Vilhena,17,Central Midfield,Feyenoord U19,-,in,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Matthew Steenvoorden,19,Centre-Back,Feyenoord U19,-,in,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Anass Achahbar,18,Attacking Midfield,Feyenoord U19,-,in,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Shabir Isoufi,20,Attacking Midfield,FC Dordrecht,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Bart Schenkeveld,20,Centre-Back,Excelsior,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Adil Auassar,25,Central Midfield,RKC Waalwijk,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Ron Vlaar,27,Centre-Back,Aston Villa,£3.42m,out,3.42,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Karim El Ahmadi,27,Central Midfield,Aston Villa,£2.52m,out,2.52,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Bart Schenkeveld,20,Centre-Back,Heracles Almelo,£90k,out,0.09,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Dani Fernández,29,Right-Back,KRC Genk,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Adil Auassar,25,Central Midfield,De Graafschap,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Darley,22,Goalkeeper,Náutico,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Matthew Steenvoorden,19,Centre-Back,Excelsior,Loan,out,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Lucas Woudenberg,19,Left-Back,Excelsior,Loan,out,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Ricky van Haaren,21,Central Midfield,VVV-Venlo,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Jerson Cabral,21,Left Winger,FC Twente,?,out,NA,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Kaj Ramsteijn,23,Centre-Back,VVV-Venlo,?,out,NA,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Shabir Isoufi,20,Attacking Midfield,Telstar,Loan,out,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Omar Elabdellaoui,21,Right-Back,Man City U21,"End of loanJan 14, 2013",out,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Gill Swerts,29,Right-Back,Without Club,-,out,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,Otman Bakkal,27,Attacking Midfield,PSV Eindhoven,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+Feyenoord Rotterdam,John Guidetti,20,Centre-Forward,Man City,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Luciano Narsingh,21,Right Winger,Heerenveen,£3.69m,in,3.69,Eredivisie,2012,2012/2013
+PSV Eindhoven,Przemyslaw Tyton,25,Goalkeeper,Roda JC,£2.25m,in,2.25,Eredivisie,2012,2012/2013
+PSV Eindhoven,Oscar Hiljemark,20,Central Midfield,Elfsborg,£1.98m,in,1.98,Eredivisie,2012,2012/2013
+PSV Eindhoven,Mark van Bommel,35,Defensive Midfield,AC Milan,Free Transfer,in,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Zanka,22,Centre-Back,FC Copenhagen,Free Transfer,in,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Ruud Swinkels,25,Goalkeeper,FC Eindhoven,Free Transfer,in,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Boy Waterman,28,Goalkeeper,Alem. Aachen,Free Transfer,in,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Jürgen Locadia,18,Centre-Forward,PSV U21,-,in,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Peter van Ooijen,20,Central Midfield,PSV U21,-,in,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Nigel Bertrams,19,Goalkeeper,PSV U21,-,in,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Stef Nijland,23,Attacking Midfield,NEC Nijmegen,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Género Zeefuik,22,Centre-Forward,NEC Nijmegen,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Otman Bakkal,27,Attacking Midfield,Feyenoord,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Jagos Vukovic,24,Centre-Back,Roda JC,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Zakaria Labyad,19,Attacking Midfield,Sporting CP,£810k,out,0.81,Eredivisie,2012,2012/2013
+PSV Eindhoven,Género Zeefuik,22,Centre-Forward,FC Groningen,£495k,out,0.495,Eredivisie,2012,2012/2013
+PSV Eindhoven,Stijn Wuytens,22,Centre-Back,Beerschot AC,Free Transfer,out,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Andreas Isaksson,30,Goalkeeper,Kasimpasa,Free Transfer,out,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Khalid Sinouh,37,Goalkeeper,NEC Nijmegen,Free Transfer,out,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Funso Ojo,20,Central Midfield,Beerschot AC,Free Transfer,out,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Otman Bakkal,27,Attacking Midfield,Dinamo Moscow,Free Transfer,out,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Abel Tamata,21,Left-Back,Roda JC,Loan,out,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Stanislav Manolev,27,Right-Back,Fulham,Loan,out,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Jan Vennegoor of Hesselink,33,Centre-Forward,Retired,-,out,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Ruud Swinkels,25,Goalkeeper,Without Club,-,out,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Stef Nijland,23,Attacking Midfield,PSV U21,-,out,0,Eredivisie,2012,2012/2013
+PSV Eindhoven,Przemyslaw Tyton,25,Goalkeeper,Roda JC,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+AZ Alkmaar,Markus Henriksen,20,Central Midfield,Rosenborg BK,£1.80m,in,1.8,Eredivisie,2012,2012/2013
+AZ Alkmaar,Aron Jóhannsson,22,Centre-Forward,Aarhus GF,£1.44m,in,1.44,Eredivisie,2012,2012/2013
+AZ Alkmaar,Steven Berghuis,20,Right Winger,FC Twente,£450k,in,0.45,Eredivisie,2012,2012/2013
+AZ Alkmaar,Donny Gorter,24,Central Midfield,NAC Breda,£315k,in,0.315,Eredivisie,2012,2012/2013
+AZ Alkmaar,Willie Overtoom,26,Attacking Midfield,Heracles Almelo,£270k,in,0.27,Eredivisie,2012,2012/2013
+AZ Alkmaar,Yves De Winter,25,Goalkeeper,De Graafschap,£180k,in,0.18,Eredivisie,2012,2012/2013
+AZ Alkmaar,Mikhail Rosheuvel,21,Right Winger,Almere City,Free Transfer,in,0,Eredivisie,2012,2012/2013
+AZ Alkmaar,Viktor Elm,26,Centre-Back,Heerenveen,Free Transfer,in,0,Eredivisie,2012,2012/2013
+AZ Alkmaar,Jonas Heymans,19,Left-Back,Lierse SK,?,in,NA,Eredivisie,2012,2012/2013
+AZ Alkmaar,Ridgeciano Haps,19,Left-Back,AZ Alkmaar U19,-,in,0,Eredivisie,2012,2012/2013
+AZ Alkmaar,Thom Haye,17,Attacking Midfield,AZ Alkmaar U19,-,in,0,Eredivisie,2012,2012/2013
+AZ Alkmaar,Jeffrey Ket,19,Centre-Back,AZ Alkmaar U21,-,in,0,Eredivisie,2012,2012/2013
+AZ Alkmaar,Thomas Lam,18,Centre-Back,AZ Alkmaar U19,-,in,0,Eredivisie,2012,2012/2013
+AZ Alkmaar,Terell Ondaan,18,Right Winger,AZ Alkmaar U19,-,in,0,Eredivisie,2012,2012/2013
+AZ Alkmaar,Robert Klaasen,18,Defensive Midfield,AZ Alkmaar U19,-,in,0,Eredivisie,2012,2012/2013
+AZ Alkmaar,Milan Hoek,20,Central Midfield,AZ Alkmaar U21,-,in,0,Eredivisie,2012,2012/2013
+AZ Alkmaar,Milano Koenders,25,Centre-Back,NAC Breda,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+AZ Alkmaar,Rasmus Elm,24,Defensive Midfield,CSKA Moscow,£5.40m,out,5.4,Eredivisie,2012,2012/2013
+AZ Alkmaar,Niklas Moisander,26,Centre-Back,Ajax,£3.60m,out,3.6,Eredivisie,2012,2012/2013
+AZ Alkmaar,Charlison Benschop,22,Centre-Forward,Stade Brest 29,£1.13m,out,1.13,Eredivisie,2012,2012/2013
+AZ Alkmaar,Ragnar Klavan,26,Centre-Back,FC Augsburg,£225k,out,0.225,Eredivisie,2012,2012/2013
+AZ Alkmaar,Milano Koenders,25,Centre-Back,Heracles Almelo,Free Transfer,out,0,Eredivisie,2012,2012/2013
+AZ Alkmaar,Simon Poulsen,27,Left-Back,Sampdoria,Free Transfer,out,0,Eredivisie,2012,2012/2013
+AZ Alkmaar,Brett Holman,28,Attacking Midfield,Aston Villa,Free Transfer,out,0,Eredivisie,2012,2012/2013
+AZ Alkmaar,Niki Mäenpää,27,Goalkeeper,VVV-Venlo,Free Transfer,out,0,Eredivisie,2012,2012/2013
+AZ Alkmaar,Erik Schouten,20,Centre-Back,FC Volendam,Free Transfer,out,0,Eredivisie,2012,2012/2013
+AZ Alkmaar,Erik Falkenburg,24,Attacking Midfield,NEC Nijmegen,Loan,out,0,Eredivisie,2012,2012/2013
+AZ Alkmaar,Ruud Boymans,23,Centre-Forward,NEC Nijmegen,Loan,out,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Jukka Raitala,23,Left-Back,TSG Hoffenheim,£720k,in,0.72,Eredivisie,2012,2012/2013
+SC Heerenveen,Marco Pappa,24,Left Winger,Chicago Fire,£630k,in,0.63,Eredivisie,2012,2012/2013
+SC Heerenveen,Alfred Finnbogason,23,Centre-Forward,KSC Lokeren,£450k,in,0.45,Eredivisie,2012,2012/2013
+SC Heerenveen,Mark Uth,20,Centre-Forward,1. FC Köln,Free Transfer,in,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Christian Kum,26,Centre-Back,ADO Den Haag,Free Transfer,in,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Marten de Roon,21,Central Midfield,Sparta R.,Free Transfer,in,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Daniël de Ridder,28,Left Winger,Grasshoppers,Free Transfer,in,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Gianni Zuiverloon,25,Centre-Back,RCD Mallorca,Loan,in,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Lukas Marecek,22,Defensive Midfield,RSC Anderlecht,Loan,in,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Yassine El Ghanassy,22,Left Winger,KAA Gent,Loan,in,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Matthew Amoah,31,Centre-Forward,Mersin IY,?,in,NA,Eredivisie,2012,2012/2013
+SC Heerenveen,Joey van den Berg,26,Defensive Midfield,PEC Zwolle,?,in,NA,Eredivisie,2012,2012/2013
+SC Heerenveen,Quentin Martinus,21,Left Winger,Sparta R.,"End of loanFeb 8, 2013",in,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Hakim Ziyech,19,Right Winger,Heerenveen U19,-,in,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Oussama Tannane,18,Right Winger,H'veen/Emmen II,-,in,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Kenny Otigba,19,Centre-Back,H'veen/Emmen II,-,in,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Richard Stolte,22,Left Midfield,Fortuna Sittard,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+SC Heerenveen,René Oosterhof,22,Goalkeeper,AGOVV Apeldoorn,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Youssef El-Akchaoui,31,Left-Back,NAC Breda,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Bas Dost,23,Centre-Forward,VfL Wolfsburg,£6.30m,out,6.3,Eredivisie,2012,2012/2013
+SC Heerenveen,Luciano Narsingh,21,Right Winger,PSV Eindhoven,£3.69m,out,3.69,Eredivisie,2012,2012/2013
+SC Heerenveen,Oussama Assaidi,24,Left Winger,Liverpool,£3.60m,out,3.6,Eredivisie,2012,2012/2013
+SC Heerenveen,Tobias Kainz,19,Right-Back,Sturm Graz,Free Transfer,out,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Daryl Janmaat,22,Right-Back,Feyenoord,Free Transfer,out,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Geert Arend Roorda,24,Attacking Midfield,NEC Nijmegen,Free Transfer,out,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Viktor Elm,26,Centre-Back,AZ Alkmaar,Free Transfer,out,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Quentin Martinus,21,Left Winger,Ferencváros,Free Transfer,out,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Michel Breuer,32,Centre-Back,NEC Nijmegen,Free Transfer,out,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Milan Kopic,26,Centre-Back,Slo. Bratislava,Free Transfer,out,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Richard Stolte,22,Left Midfield,Excelsior,Free Transfer,out,0,Eredivisie,2012,2012/2013
+SC Heerenveen,René Oosterhof,22,Goalkeeper,AGOVV Apeldoorn,?,out,NA,Eredivisie,2012,2012/2013
+SC Heerenveen,Michal Svec,25,Centre-Back,ETO FC Győr,?,out,NA,Eredivisie,2012,2012/2013
+SC Heerenveen,Samir Fazli,21,Centre-Forward,Helmond Sport,Loan,out,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Quentin Martinus,21,Left Winger,Sparta R.,Loan,out,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Arsenio Valpoort,20,Right Winger,PEC Zwolle,Loan,out,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Gerald Sibon,38,Centre-Forward,Retired,-,out,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Youssef El-Akchaoui,31,Left-Back,Without Club,-,out,0,Eredivisie,2012,2012/2013
+SC Heerenveen,Mitja Resek,21,Left-Back,NK Maribor,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+FC Twente Enschede,Luc Castaignos,19,Centre-Forward,Inter,£5.40m,in,5.4,Eredivisie,2012,2012/2013
+FC Twente Enschede,Dusan Tadic,23,Left Winger,FC Groningen,£4.95m,in,4.95,Eredivisie,2012,2012/2013
+FC Twente Enschede,Felipe Gutiérrez,21,Central Midfield,CDUC,£2.52m,in,2.52,Eredivisie,2012,2012/2013
+FC Twente Enschede,Andreas Bjelland,23,Centre-Back,Nordsjaelland,£2.52m,in,2.52,Eredivisie,2012,2012/2013
+FC Twente Enschede,Robbert Schilder,26,Centre-Back,NAC Breda,£810k,in,0.81,Eredivisie,2012,2012/2013
+FC Twente Enschede,Tim Breukers,24,Right-Back,Heracles Almelo,Free Transfer,in,0,Eredivisie,2012,2012/2013
+FC Twente Enschede,Edson Braafheid,29,Left-Back,TSG Hoffenheim,Loan,in,0,Eredivisie,2012,2012/2013
+FC Twente Enschede,Dmitri Bulykin,32,Centre-Forward,Ajax,Free Transfer,in,0,Eredivisie,2012,2012/2013
+FC Twente Enschede,Dedryck Boyata,21,Centre-Back,Man City,Loan,in,0,Eredivisie,2012,2012/2013
+FC Twente Enschede,Jerson Cabral,21,Left Winger,Feyenoord,?,in,NA,Eredivisie,2012,2012/2013
+FC Twente Enschede,Nils Röseler,20,Centre-Back,FC Twente U21,-,in,0,Eredivisie,2012,2012/2013
+FC Twente Enschede,Steven Berghuis,20,Right Winger,VVV-Venlo,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+FC Twente Enschede,Alexander Bannink,22,Attacking Midfield,FC Zwolle,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+FC Twente Enschede,Ola John,20,Left Winger,Benfica,£10.80m,out,10.8,Eredivisie,2012,2012/2013
+FC Twente Enschede,Luuk de Jong,21,Centre-Forward,Bor. M'gladbach,£10.80m,out,10.8,Eredivisie,2012,2012/2013
+FC Twente Enschede,Steven Berghuis,20,Right Winger,AZ Alkmaar,£450k,out,0.45,Eredivisie,2012,2012/2013
+FC Twente Enschede,Bart Buysse,25,Left-Back,Club Brugge,Free Transfer,out,0,Eredivisie,2012,2012/2013
+FC Twente Enschede,Nick Marsman,21,Goalkeeper,Go Ahead Eagles,Loan,out,0,Eredivisie,2012,2012/2013
+FC Twente Enschede,Emir Bajrami,24,Right Winger,Monaco,Loan,out,0,Eredivisie,2012,2012/2013
+FC Twente Enschede,Alexander Bannink,22,Attacking Midfield,FC Emmen,Free Transfer,out,0,Eredivisie,2012,2012/2013
+FC Twente Enschede,Nicky Kuiper,23,Left-Back,Panathinaikos,Loan,out,0,Eredivisie,2012,2012/2013
+FC Twente Enschede,Joshua John,23,Left Winger,Nordsjaelland,Loan,out,0,Eredivisie,2012,2012/2013
+FC Twente Enschede,Wesley Verhoek,25,Right Winger,Feyenoord,?,out,NA,Eredivisie,2012,2012/2013
+FC Twente Enschede,Tim Cornelisse,34,Right-Back,Willem II,Loan,out,0,Eredivisie,2012,2012/2013
+FC Twente Enschede,Thilo Leugers,21,Defensive Midfield,NAC Breda,Loan,out,0,Eredivisie,2012,2012/2013
+FC Twente Enschede,Nils Röseler,20,Centre-Back,VVV-Venlo,Loan,out,0,Eredivisie,2012,2012/2013
+FC Twente Enschede,Glynor Plet,25,Centre-Forward,KRC Genk,Loan,out,0,Eredivisie,2012,2012/2013
+FC Twente Enschede,Dwight Tiendalli,26,Right-Back,Without Club,-,out,0,Eredivisie,2012,2012/2013
+FC Twente Enschede,Dedryck Boyata,22,Centre-Back,Man City,"End of loanJan 8, 2013",out,0,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Nikola Aksentijevic,19,Right-Back,Partizan,£1.80m,in,1.8,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Theo Janssen,31,Central Midfield,Ajax,£495k,in,0.495,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Simon Cziommer,31,Central Midfield,RB Salzburg,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Dan Mori,23,Centre-Back,Bnei Yehuda,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Gaël Kakuta,21,Left Winger,Chelsea,Loan,in,0,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Brahim Darri,18,Left Winger,VIT/AGOVV U19,-,in,0,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Marcus Pedersen,22,Centre-Forward,Vålerenga,"End of loanJul 31, 2012",in,0,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Genaro Snijders,22,Right Winger,Willem II,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Alexander Büttner,23,Left-Back,Man Utd,£4.50m,out,4.5,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Mart Lieder,22,Centre-Forward,RKC Waalwijk,£45k,out,0.045,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Kevin van Diermen,23,Centre-Back,Excelsior,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Jeroen Drost,25,Left-Back,De Graafschap,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Giorgi Chanturia,19,Right Winger,Alania,Loan,out,0,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Raio Piiroja,33,Centre-Back,FC Flora,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Genaro Snijders,22,Right Winger,Willem II,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Stanley Aborah,25,Central Midfield,NS Mura,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Marcus Pedersen,22,Centre-Forward,Odense BK,Loan,out,0,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Nicky Hofs,29,Attacking Midfield,Willem II,Loan,out,0,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Marko Meerits,20,Goalkeeper,FC Flora,Loan,out,0,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Julian Jenner,28,Right Winger,Without Club,-,out,0,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Anthony Annan,25,Defensive Midfield,FC Schalke 04,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+Vitesse Arnhem,Ulises Dávila,21,Attacking Midfield,Chelsea,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Sören Rieks,25,Left Midfield,Esbjerg fB,£270k,in,0.27,Eredivisie,2012,2012/2013
+NEC Nijmegen,Karl-Johan Johnsson,22,Goalkeeper,Halmstad,Free Transfer,in,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Geert Arend Roorda,24,Attacking Midfield,Heerenveen,Free Transfer,in,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Khalid Sinouh,37,Goalkeeper,PSV Eindhoven,Free Transfer,in,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Michel Breuer,32,Centre-Back,Heerenveen,Free Transfer,in,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Marcel Stutter,24,Centre-Forward,SV Holzwickede,Free Transfer,in,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Stijn de Looijer,20,Central Midfield,FC Den Bosch,Free Transfer,in,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Evander Sno,25,Defensive Midfield,RKC Waalwijk,Free Transfer,in,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Kelle Roos,20,Goalkeeper,Willem II U21,?,in,NA,Eredivisie,2012,2012/2013
+NEC Nijmegen,Daan Bovenberg,24,Right-Back,FC Utrecht,?,in,NA,Eredivisie,2012,2012/2013
+NEC Nijmegen,Ruud Boymans,23,Centre-Forward,AZ Alkmaar,Loan,in,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Admir Bajrovic,16,Centre-Forward,Trollhättan,?,in,NA,Eredivisie,2012,2012/2013
+NEC Nijmegen,Danny van den Meiracker,23,Centre-Forward,Spakenburg,?,in,NA,Eredivisie,2012,2012/2013
+NEC Nijmegen,Erik Falkenburg,24,Attacking Midfield,AZ Alkmaar,Loan,in,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Victor Pálsson,21,Defensive Midfield,NY Red Bulls,Loan,in,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Jordy Tutuarima,19,Left-Back,NEC/TOP Oss U19,-,in,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Daan Disveld,18,Centre-Back,NEC/TOP Oss U19,-,in,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Kevin Wattamaleo,23,Central Midfield,Without Club,-,in,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Erton Fejzullahu,24,Second Striker,Mjällby,"End of loanJul 31, 2012",in,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Rick ten Voorde,21,Centre-Forward,RKC Waalwijk,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Bram Nuytinck,22,Centre-Back,RSC Anderlecht,£1.58m,out,1.58,Eredivisie,2012,2012/2013
+NEC Nijmegen,Erton Fejzullahu,24,Second Striker,Djurgarden,£315k,out,0.315,Eredivisie,2012,2012/2013
+NEC Nijmegen,Joshua Smits,20,Goalkeeper,FC Oss,Loan,out,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,John Goossens,23,Attacking Midfield,Feyenoord,Free Transfer,out,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Lasse Schöne,26,Defensive Midfield,Ajax,Free Transfer,out,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Marco van Duin,25,Goalkeeper,Sparta R.,Free Transfer,out,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Caifano Latupeirissa,21,Left Winger,FC Oss,Loan,out,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Erwin Stadhouders,20,Right-Back,Achilles '29,Free Transfer,out,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Zoltán Szélesi,30,Right-Back,Újpest FC,Free Transfer,out,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Rick ten Voorde,21,Centre-Forward,NAC Breda,Loan,out,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Niels Wellenberg,29,Right-Back,Retired,-,out,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Cees Paauwe,34,Goalkeeper,Retired,-,out,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Krisztián Vadócz,27,Central Midfield,Without Club,-,out,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Género Zeefuik,22,Centre-Forward,PSV Eindhoven,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+NEC Nijmegen,Stef Nijland,23,Attacking Midfield,PSV Eindhoven,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Teddy Chevalier,25,Centre-Forward,Zulte Waregem,£90k,in,0.09,Eredivisie,2012,2012/2013
+RKC Waalwijk,Mart Lieder,22,Centre-Forward,Vitesse,£45k,in,0.045,Eredivisie,2012,2012/2013
+RKC Waalwijk,Nourdin Boukhari,32,Attacking Midfield,NAC Breda,Free Transfer,in,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Florian Jozefzoon,21,Right Winger,Ajax,Free Transfer,in,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Richard Barroilhet,19,Centre-Forward,Fulham U23,Free Transfer,in,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Imad Najah,21,Central Midfield,PSV U21,Free Transfer,in,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Peter Jungschläger,28,Central Midfield,Gold Coast Utd.,Free Transfer,in,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Theo Lucius,35,Defensive Midfield,FC Eindhoven,Free Transfer,in,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Rodney Sneijder,21,Central Midfield,Ajax U21,?,in,NA,Eredivisie,2012,2012/2013
+RKC Waalwijk,Dennis Lemke,23,Right Midfield,Babelsberg 03,?,in,NA,Eredivisie,2012,2012/2013
+RKC Waalwijk,Denzel Slager,19,Right Winger,FC Utrecht U19,?,in,NA,Eredivisie,2012,2012/2013
+RKC Waalwijk,Michael Lamey,32,Right-Back,Without Club,-,in,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Furhgill Zeldenrust,23,Left Winger,RKC U21,-,in,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Karim Fachtali,24,Centre-Forward,Go Ahead Eagles,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Karim Fachtali,24,Centre-Forward,Kaysar,Free Transfer,out,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Furkan Alakmak,20,Left Winger,FC Eindhoven,Loan,out,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Aaron Meijers,24,Left-Back,ADO Den Haag,Free Transfer,out,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Krisztián Németh,23,Centre-Forward,Roda JC,Free Transfer,out,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Evander Sno,25,Defensive Midfield,NEC Nijmegen,Free Transfer,out,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Mitchell Schet,24,Right Winger,FC Groningen,Free Transfer,out,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Roald van Hout,24,Right Winger,Sparta R.,?,out,NA,Eredivisie,2012,2012/2013
+RKC Waalwijk,Karim Bridji,30,Attacking Midfield,Without Club,-,out,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Theo Lucius,35,Defensive Midfield,Without Club,-,out,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Rick ten Voorde,21,Centre-Forward,NEC Nijmegen,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Geoffrey Castillion,21,Centre-Forward,Ajax U21,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+RKC Waalwijk,Adil Auassar,25,Central Midfield,Feyenoord,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Filip Kurto,21,Goalkeeper,Wisla Kraków,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Krisztián Németh,23,Centre-Forward,RKC Waalwijk,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Tamás Kádár,22,Centre-Back,Newcastle,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Mikolaj Lebedynski,21,Centre-Forward,Pogon Szczecin,£9k,in,0.009,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Roly Bonevacia,21,Central Midfield,Ajax U21,Loan,in,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Abel Tamata,21,Left-Back,PSV Eindhoven,Loan,in,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Amin Affane,18,Attacking Midfield,Chelsea,Loan,in,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Frank Demouge,30,Centre-Forward,Bournemouth,Loan,in,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Danilo Pereira,20,Defensive Midfield,Parma,Loan,in,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Antonio Stankov,21,Right-Back,FC Oss,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Aleksandar Stankov,21,Second Striker,FC Oss,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Przemyslaw Tyton,25,Goalkeeper,PSV Eindhoven,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Przemyslaw Tyton,25,Goalkeeper,PSV Eindhoven,£2.25m,out,2.25,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Kenneth Staelens,21,Left Midfield,KFC Esperanza,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Leon Broekhof,24,Centre-Back,SC Cambuur,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Tamás Kádár,22,Centre-Back,Diósgyőr,Loan,out,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Mads Junker,31,Centre-Forward,KV Mechelen,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Antonio Stankov,21,Right-Back,MVV Maastricht,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Ruud Vormer,24,Central Midfield,Feyenoord,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Wiljan Pluim,23,Central Midfield,PEC Zwolle,Loan,out,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Amin Affane,19,Attacking Midfield,Chelsea,"End of loanMar 18, 2013",out,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Aleksandar Stankov,21,Second Striker,Without Club,-,out,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Jagos Vukovic,24,Centre-Back,PSV Eindhoven,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Mikolaj Lebedynski,21,Centre-Forward,Pogon Szczecin,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+Roda JC Kerkrade,Pawel Kieszek,28,Goalkeeper,FC Porto,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+FC Utrecht,Jens Toornstra,23,Attacking Midfield,ADO Den Haag,£855k,in,0.855,Eredivisie,2012,2012/2013
+FC Utrecht,Robbin Ruiter,25,Goalkeeper,FC Volendam,£450k,in,0.45,Eredivisie,2012,2012/2013
+FC Utrecht,Mark Diemers,18,Attacking Midfield,Gron./Cam. U19,£90k,in,0.09,Eredivisie,2012,2012/2013
+FC Utrecht,Gévero Markiet,21,Centre-Back,Utrecht U21,-,in,0,Eredivisie,2012,2012/2013
+FC Utrecht,Mike van der Hoorn,19,Centre-Back,Utrecht U21,-,in,0,Eredivisie,2012,2012/2013
+FC Utrecht,Jeroen Verhoeven,32,Goalkeeper,Without Club,-,in,0,Eredivisie,2012,2012/2013
+FC Utrecht,Yassin Ayoub,18,Central Midfield,FC Utrecht U19,-,in,0,Eredivisie,2012,2012/2013
+FC Utrecht,Bob Schepers,20,Left Winger,SC Cambuur,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+FC Utrecht,André Krul,25,Goalkeeper,AGOVV Apeldoorn,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+FC Utrecht,Gianluca Nijholt,22,Central Midfield,Almere City,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+FC Utrecht,André Krul,25,Goalkeeper,Valletta,Free Transfer,out,0,Eredivisie,2012,2012/2013
+FC Utrecht,Gianluca Nijholt,22,Central Midfield,Amkar Perm,Free Transfer,out,0,Eredivisie,2012,2012/2013
+FC Utrecht,Alje Schut,31,Centre-Back,Sundowns,Free Transfer,out,0,Eredivisie,2012,2012/2013
+FC Utrecht,Frank Demouge,30,Centre-Forward,Bournemouth,Free Transfer,out,0,Eredivisie,2012,2012/2013
+FC Utrecht,Mark Diemers,18,Attacking Midfield,SC Cambuur,Loan,out,0,Eredivisie,2012,2012/2013
+FC Utrecht,Daan Bovenberg,24,Right-Back,NEC Nijmegen,?,out,NA,Eredivisie,2012,2012/2013
+FC Utrecht,Alexander Gerndt,26,Centre-Forward,BSC Young Boys,?,out,NA,Eredivisie,2012,2012/2013
+FC Utrecht,Rob van Dijk,43,Goalkeeper,Retired,-,out,0,Eredivisie,2012,2012/2013
+FC Utrecht,Mihai Nesu,29,Left-Back,Retired,-,out,0,Eredivisie,2012,2012/2013
+FC Utrecht,Gévero Markiet,21,Centre-Back,Utrecht U21,-,out,0,Eredivisie,2012,2012/2013
+FC Utrecht,Roberto Fernández,24,Goalkeeper,Cerro Porteño,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+FC Utrecht,Rodney Sneijder,21,Central Midfield,Ajax U21,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Jeroen Veldmate,23,Centre-Back,Sparta R.,£198k,in,0.198,Eredivisie,2012,2012/2013
+Heracles Almelo,Bart Schenkeveld,20,Centre-Back,Feyenoord,£90k,in,0.09,Eredivisie,2012,2012/2013
+Heracles Almelo,Milano Koenders,25,Centre-Back,AZ Alkmaar,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Renze Fij,19,Goalkeeper,Gron./Cam. U21,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Brian van Loo,37,Goalkeeper,FC Groningen,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Dragan Paljic,29,Left Midfield,Wisla Kraków,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Christian Dorda,23,Left-Back,Greuther Fürth,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Jaroslav Navrátil,21,Right Winger,Breclav,Loan,in,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Geoffrey Castillion,21,Centre-Forward,Ajax U21,Loan,in,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Mathias Schamp,24,Left Winger,KSV Oudenaarde,?,in,NA,Eredivisie,2012,2012/2013
+Heracles Almelo,Dario Vujicevic,22,Defensive Midfield,Without Club,-,in,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Samuel Armenteros,22,Centre-Forward,RSC Anderlecht,£450k,out,0.45,Eredivisie,2012,2012/2013
+Heracles Almelo,Willie Overtoom,26,Attacking Midfield,AZ Alkmaar,£270k,out,0.27,Eredivisie,2012,2012/2013
+Heracles Almelo,Nick Hengelman,22,Goalkeeper,AGOVV Apeldoorn,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Olivier ter Horst,23,Centre-Back,Helmond Sport,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Gaby Jallo,23,Left-Back,Willem II,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Tim Breukers,24,Right-Back,FC Twente,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Anmar Almubaraki,21,Attacking Midfield,FC Emmen,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Luis Pedro,22,Right Winger,Botev Plovdiv,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Darl Douglas,32,Right Winger,Retired,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Antoine van der Linden,36,Centre-Back,FC Emmen,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Mark Looms,31,Left-Back,NAC Breda,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Heracles Almelo,Dennis Telgenkamp,25,Goalkeeper,SC Cambuur,Loan,out,0,Eredivisie,2012,2012/2013
+NAC Breda,Wilko de Vogt,36,Goalkeeper,VVV-Venlo,Free Transfer,in,0,Eredivisie,2012,2012/2013
+NAC Breda,Anouar Hadouir,29,Attacking Midfield,Alem. Aachen,Free Transfer,in,0,Eredivisie,2012,2012/2013
+NAC Breda,Mark Looms,31,Left-Back,Heracles Almelo,Free Transfer,in,0,Eredivisie,2012,2012/2013
+NAC Breda,Nadir Ciftci,20,Left Winger,Kayserispor,Free Transfer,in,0,Eredivisie,2012,2012/2013
+NAC Breda,Thilo Leugers,21,Defensive Midfield,FC Twente,Loan,in,0,Eredivisie,2012,2012/2013
+NAC Breda,Rick ten Voorde,21,Centre-Forward,NEC Nijmegen,Loan,in,0,Eredivisie,2012,2012/2013
+NAC Breda,Sepp De Roover,27,Right-Back,KSC Lokeren,Loan,in,0,Eredivisie,2012,2012/2013
+NAC Breda,Danny Verbeek,22,Central Midfield,Standard Liège,Loan,in,0,Eredivisie,2012,2012/2013
+NAC Breda,Peter Gommeren,20,Defensive Midfield,NAC Breda U21,-,in,0,Eredivisie,2012,2012/2013
+NAC Breda,Steven Edwards,21,Defensive Midfield,NAC Breda U21,-,in,0,Eredivisie,2012,2012/2013
+NAC Breda,Tim Coremans,21,Goalkeeper,NAC Breda U21,-,in,0,Eredivisie,2012,2012/2013
+NAC Breda,Kenny van der Weg,21,Left-Back,NAC Breda U21,-,in,0,Eredivisie,2012,2012/2013
+NAC Breda,Elson Hooi,20,Right Winger,NAC Breda U21,-,in,0,Eredivisie,2012,2012/2013
+NAC Breda,Leonardo,29,Second Striker,RB Salzburg,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+NAC Breda,Robbert Schilder,26,Centre-Back,FC Twente,£810k,out,0.81,Eredivisie,2012,2012/2013
+NAC Breda,Ömer Bayram,20,Left-Back,Kayserispor,£315k,out,0.315,Eredivisie,2012,2012/2013
+NAC Breda,Donny Gorter,24,Central Midfield,AZ Alkmaar,£315k,out,0.315,Eredivisie,2012,2012/2013
+NAC Breda,Leonardo,29,Second Striker,RB Salzburg,£90k,out,0.09,Eredivisie,2012,2012/2013
+NAC Breda,Jordelino Nzita,18,Forward,VV UNA U19,Free Transfer,out,0,Eredivisie,2012,2012/2013
+NAC Breda,Nourdin Boukhari,32,Attacking Midfield,RKC Waalwijk,Free Transfer,out,0,Eredivisie,2012,2012/2013
+NAC Breda,Mike Zonneveld,32,Left-Back,Retired,-,out,0,Eredivisie,2012,2012/2013
+NAC Breda,Jimmy van Fessem,36,Goalkeeper,Retired,-,out,0,Eredivisie,2012,2012/2013
+NAC Breda,Stefano Seedorf,30,Central Midfield,Without Club,-,out,0,Eredivisie,2012,2012/2013
+NAC Breda,Andreas Lasnik,29,Attacking Midfield,Without Club,-,out,0,Eredivisie,2012,2012/2013
+NAC Breda,Florian Jozefzoon,21,Right Winger,Ajax,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+NAC Breda,Jeffrey Sarpong,23,Left Winger,Real Sociedad,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+NAC Breda,Milano Koenders,25,Centre-Back,AZ Alkmaar,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+NAC Breda,Santi Kolk,30,Right Winger,Union Berlin,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+NAC Breda,Roly Bonevacia,20,Central Midfield,Ajax U21,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+NAC Breda,Youssef El-Akchaoui,31,Left-Back,Heerenveen,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+FC Groningen,Filip Kostic,19,Left Midfield,Radnicki 1923,£1.13m,in,1.13,Eredivisie,2012,2012/2013
+FC Groningen,Género Zeefuik,22,Centre-Forward,PSV Eindhoven,£495k,in,0.495,Eredivisie,2012,2012/2013
+FC Groningen,Stefano Magnasco,19,Right-Back,CDUC,£432k,in,0.432,Eredivisie,2012,2012/2013
+FC Groningen,Andraz Kirm,27,Left Midfield,Wisla Kraków,£270k,in,0.27,Eredivisie,2012,2012/2013
+FC Groningen,Marco Bizot,21,Goalkeeper,Ajax U21,£113k,in,0.113,Eredivisie,2012,2012/2013
+FC Groningen,Michael de Leeuw,25,Attacking Midfield,De Graafschap,£113k,in,0.113,Eredivisie,2012,2012/2013
+FC Groningen,Mitchell Schet,24,Right Winger,RKC Waalwijk,Free Transfer,in,0,Eredivisie,2012,2012/2013
+FC Groningen,Joey Potveer,19,Goalkeeper,AZ Alkmaar U19,Free Transfer,in,0,Eredivisie,2012,2012/2013
+FC Groningen,Paco van Moorsel,22,Attacking Midfield,FC Den Bosch,Free Transfer,in,0,Eredivisie,2012,2012/2013
+FC Groningen,Timo Letschert,19,Centre-Back,H'veen/Emmen II,Free Transfer,in,0,Eredivisie,2012,2012/2013
+FC Groningen,Tim Keurntjes,21,Left-Back,Gron./Cam. U21,-,in,0,Eredivisie,2012,2012/2013
+FC Groningen,Luis Pedro,20,Centre-Back,Gron./Cam. U21,Loan,in,0,Eredivisie,2012,2012/2013
+FC Groningen,Rasmus Lindgren,28,Defensive Midfield,Without Club,-,in,0,Eredivisie,2012,2012/2013
+FC Groningen,Nick Bakker,19,Centre-Back,Gron./Cam. U21,-,in,0,Eredivisie,2012,2012/2013
+FC Groningen,Jesse Renken,19,Right-Back,Gron./Cam. U19,-,in,0,Eredivisie,2012,2012/2013
+FC Groningen,Henk Bos,19,Central Midfield,Gron./Cam. U21,-,in,0,Eredivisie,2012,2012/2013
+FC Groningen,Yoëll van Nieff,19,Central Midfield,Gron./Cam. U19,-,in,0,Eredivisie,2012,2012/2013
+FC Groningen,Hilal Ben Moussa,20,Central Midfield,Gron./Cam. U21,-,in,0,Eredivisie,2012,2012/2013
+FC Groningen,Robby Holder,19,Left Winger,Gron./Cam. U19,-,in,0,Eredivisie,2012,2012/2013
+FC Groningen,Alexander Christovao,19,Centre-Forward,Gron./Cam. U19,-,in,0,Eredivisie,2012,2012/2013
+FC Groningen,Stefan van der Lei,19,Goalkeeper,Gron./Cam. U19,-,in,0,Eredivisie,2012,2012/2013
+FC Groningen,Atilay Batbay,20,Right-Back,Gron./Cam. U21,-,in,0,Eredivisie,2012,2012/2013
+FC Groningen,Paulo Francisco,19,Right-Back,Gron./Cam. U19,-,in,0,Eredivisie,2012,2012/2013
+FC Groningen,Shkodran Metaj,24,Defensive Midfield,FC Emmen,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+FC Groningen,Femi,27,Defensive Midfield,Bröndby IF,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+FC Groningen,Dusan Tadic,23,Left Winger,FC Twente,£4.95m,out,4.95,Eredivisie,2012,2012/2013
+FC Groningen,Nicklas Pedersen,24,Centre-Forward,KV Mechelen,£315k,out,0.315,Eredivisie,2012,2012/2013
+FC Groningen,Thomas Enevoldsen,24,Left Winger,KV Mechelen,£248k,out,0.248,Eredivisie,2012,2012/2013
+FC Groningen,Danny Holla,24,Central Midfield,ADO Den Haag,£151k,out,0.151,Eredivisie,2012,2012/2013
+FC Groningen,Jonas Ivens,28,Centre-Back,Waasl.-Beveren,Loan,out,0,Eredivisie,2012,2012/2013
+FC Groningen,Luis Pedro,20,Centre-Back,Veendam,Loan,out,0,Eredivisie,2012,2012/2013
+FC Groningen,Jesse Renken,19,Right-Back,Veendam,Loan,out,0,Eredivisie,2012,2012/2013
+FC Groningen,Brian van Loo,37,Goalkeeper,Heracles Almelo,Free Transfer,out,0,Eredivisie,2012,2012/2013
+FC Groningen,Shkodran Metaj,24,Defensive Midfield,FC Emmen,Free Transfer,out,0,Eredivisie,2012,2012/2013
+FC Groningen,Koen van de Laak,29,Attacking Midfield,Ajax Cape Town,Free Transfer,out,0,Eredivisie,2012,2012/2013
+FC Groningen,Petter Andersson,27,Central Midfield,FC Midtjylland,Free Transfer,out,0,Eredivisie,2012,2012/2013
+FC Groningen,Tim Keurntjes,21,Left-Back,SC Cambuur,Loan,out,0,Eredivisie,2012,2012/2013
+FC Groningen,Hyun-jun Suk,21,Centre-Forward,Marítimo,?,out,NA,Eredivisie,2012,2012/2013
+FC Groningen,Matías Jones,21,Left Winger,FC Emmen,Loan,out,0,Eredivisie,2012,2012/2013
+FC Groningen,Robby Holder,19,Left Winger,Veendam,Loan,out,0,Eredivisie,2012,2012/2013
+FC Groningen,Tom Hiariej,24,Defensive Midfield,FC Emmen,Loan,out,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Rydell Poepon,24,Centre-Forward,De Graafschap,£270k,in,0.27,Eredivisie,2012,2012/2013
+ADO Den Haag,Danny Holla,24,Central Midfield,FC Groningen,£151k,in,0.151,Eredivisie,2012,2012/2013
+ADO Den Haag,Dion Malone,23,Defensive Midfield,Almere City,Free Transfer,in,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Aaron Meijers,24,Left-Back,RKC Waalwijk,Free Transfer,in,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Garry Rodrigues,21,Left Winger,FC Boshuizen,Free Transfer,in,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Kevin Jansen,20,Central Midfield,Feyenoord U21,Free Transfer,in,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Dico Koppers,21,Left-Back,Ajax,Loan,in,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Vito Wormgoor,23,Centre-Back,De Graafschap,?,in,NA,Eredivisie,2012,2012/2013
+ADO Den Haag,Santi Kolk,31,Right Winger,Without Club,-,in,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Danny Bakker,18,Central Midfield,ADO U19,-,in,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Giovanni Korte,18,Right Winger,ADO U19,-,in,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Garry Rodrigues,22,Left Winger,FC Dordrecht,"End of loanFeb 9, 2013",in,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Tom Broekhuizen,20,Defensive Midfield,ADO U21,-,in,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Giorgio Achterberg,22,Attacking Midfield,FC Dordrecht,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Donny van der Dussen,20,Defensive Midfield,FC Dordrecht,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Tom Beugelsdijk,21,Centre-Back,FC Dordrecht,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Wouter de Vogel,21,Attacking Midfield,FC Dordrecht,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Kevin Tano,19,Right Winger,FC Dordrecht,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Marc Höcher,27,Right Winger,Willem II,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Jens Toornstra,23,Attacking Midfield,FC Utrecht,£855k,out,0.855,Eredivisie,2012,2012/2013
+ADO Den Haag,Lex Immers,26,Attacking Midfield,Feyenoord,£720k,out,0.72,Eredivisie,2012,2012/2013
+ADO Den Haag,Garry Rodrigues,22,Left Winger,Levski Sofia,£270k,out,0.27,Eredivisie,2012,2012/2013
+ADO Den Haag,Giorgio Achterberg,22,Attacking Midfield,Scheveningen,Free Transfer,out,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Christian Kum,26,Centre-Back,Heerenveen,Free Transfer,out,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Tim de Rijk,20,Central Midfield,Alphense Boys,Free Transfer,out,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Paul Mulders,32,Attacking Midfield,Chiangrai Utd.,Free Transfer,out,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Aleksandar Radosavljevic,33,Defensive Midfield,VVV-Venlo,Loan,out,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Donny van der Dussen,20,Defensive Midfield,RKAVV,Free Transfer,out,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Garry Rodrigues,21,Left Winger,FC Dordrecht,Loan,out,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Ahmed Ammi,31,Right-Back,VVV-Venlo,Loan,out,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Kevin Tano,20,Right Winger,FC Dordrecht,Loan,out,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Ali Boussaboun,33,Left Winger,Quick DH,Free Transfer,out,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Ebi Smolarek,31,Centre-Forward,Jagiellonia,Free Transfer,out,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Marc Höcher,27,Right Winger,Willem II,Free Transfer,out,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Wouter de Vogel,21,Attacking Midfield,FC Den Bosch,Loan,out,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Filip Luksik,27,Centre-Back,Slo. Bratislava,Loan,out,0,Eredivisie,2012,2012/2013
+ADO Den Haag,Chiró N'Toko,24,Centre-Back,Without Club,-,out,0,Eredivisie,2012,2012/2013
+ADO Den Haag,John Verhoek,23,Centre-Forward,Stade Rennais,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Yuki Otsu,22,Attacking Midfield,Bor. M'gladbach,£360k,in,0.36,Eredivisie,2012,2012/2013
+VVV-Venlo,Oguzhan Türk,26,Attacking Midfield,SC Cambuur,Free Transfer,in,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Roland Bergkamp,21,Centre-Forward,Brighton,Loan,in,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Niki Mäenpää,27,Goalkeeper,AZ Alkmaar,Free Transfer,in,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Aleksandar Radosavljevic,33,Defensive Midfield,ADO Den Haag,Loan,in,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Marcel Seip,30,Centre-Back,Bradford,Free Transfer,in,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Ricky van Haaren,21,Central Midfield,Feyenoord,Free Transfer,in,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Jules Reimerink,22,Left Winger,Energie Cottbus,Free Transfer,in,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Ahmed Ammi,31,Right-Back,ADO Den Haag,Loan,in,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Niclas Heimann,21,Goalkeeper,RB Salzburg,Free Transfer,in,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Matheus,18,Centre-Back,Coritiba FC B,Loan,in,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Kaj Ramsteijn,23,Centre-Back,Feyenoord,?,in,NA,Eredivisie,2012,2012/2013
+VVV-Venlo,Nils Röseler,20,Centre-Back,FC Twente,Loan,in,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Jeffrey Altheer,25,Defensive Midfield,Helmond Sport,?,in,NA,Eredivisie,2012,2012/2013
+VVV-Venlo,Travis Cooper,18,Right Winger,C. Coast U21,?,in,NA,Eredivisie,2012,2012/2013
+VVV-Venlo,Guus Joppen,22,Right-Back,Helmond Sport,?,in,NA,Eredivisie,2012,2012/2013
+VVV-Venlo,Aaron Gielen,19,Central Midfield,VVV/Hel U19,-,in,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Roy Heesen,19,Centre-Back,VVV-Venlo U21,-,in,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Maya Yoshida,24,Centre-Back,Southampton,£2.52m,out,2.52,Eredivisie,2012,2012/2013
+VVV-Venlo,Wilko de Vogt,36,Goalkeeper,NAC Breda,Free Transfer,out,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Roy Heesen,20,Centre-Back,Helmond Sport,Loan,out,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Rogier Molhoek,31,Defensive Midfield,FC Dordrecht,Free Transfer,out,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Ken Leemans,29,Defensive Midfield,Hansa Rostock,Free Transfer,out,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Rick Verbeek,23,Central Midfield,De Treffers,Free Transfer,out,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Michael Uchebo,21,Centre-Forward,Cercle Brugge,Free Transfer,out,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Dennis Gentenaar,36,Goalkeeper,Almere City,Free Transfer,out,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Ferry de Regt,23,Centre-Back,Helmond Sport,Loan,out,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Quin Kruijsen,21,Central Midfield,Fortuna Sittard,Loan,out,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Kaj Ramsteijn,23,Centre-Back,Feyenoord,?,out,NA,Eredivisie,2012,2012/2013
+VVV-Venlo,Marcel Meeuwis,32,Defensive Midfield,Without Club,-,out,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Michael Timisela,26,Right-Back,Without Club,-,out,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Matheus,18,Centre-Back,Coritiba FC B,"End of loanDec 31, 2012",out,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Alex Nkume,23,Left-Back,Without Club,-,out,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Andrea Mei,23,Centre-Back,Inter,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+VVV-Venlo,Steven Berghuis,20,Right Winger,FC Twente,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Mateusz Klich,22,Central Midfield,VfL Wolfsburg,Loan fee:£90k,in,0.09,Eredivisie,2012,2012/2013
+PEC Zwolle,Youness Mokhtar,20,Left Winger,PSV U21,£68k,in,0.068,Eredivisie,2012,2012/2013
+PEC Zwolle,Danny Wintjens,28,Goalkeeper,Fortuna Sittard,Free Transfer,in,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Mimoun Eloisghiri,22,Centre-Forward,FC Presikhaaf,Free Transfer,in,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Norichio Nieveld,23,Centre-Back,Excelsior,Free Transfer,in,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Ronnie Reniers,24,Right Winger,FC Den Bosch,Free Transfer,in,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Denni Avdic,23,Centre-Forward,Werder Bremen,Loan,in,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Sherwin Grot,21,Centre-Forward,FC Presikhaaf,Free Transfer,in,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Mike Koenders,20,Centre-Back,FC Emmen,Free Transfer,in,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Joost Broerse,33,Centre-Back,Excelsior,Free Transfer,in,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Wiljan Pluim,23,Central Midfield,Roda JC,Loan,in,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Giovanni Gravenbeek,24,Central Midfield,Willem II,?,in,NA,Eredivisie,2012,2012/2013
+PEC Zwolle,Maikel van der Werff,23,Centre-Back,FC Volendam,?,in,NA,Eredivisie,2012,2012/2013
+PEC Zwolle,Arsenio Valpoort,20,Right Winger,Heerenveen,Loan,in,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Rúnar Már Sigurjónsson,22,Defensive Midfield,Valur,?,in,NA,Eredivisie,2012,2012/2013
+PEC Zwolle,Ricardo Malaihollo,18,Right-Back,PEC Zwolle U19,-,in,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Ricardo Talu,18,Centre-Back,PEC Zwolle U19,-,in,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Ibrahim Ikililou,19,Right Winger,PEC Zwolle U19,-,in,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Haico Epe,17,Right-Back,PEC Zwolle U19,-,in,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Djeremy Zandvliet,19,Right Winger,PEC Zwolle U19,-,in,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Fred Benson,28,Centre-Forward,Without Club,-,in,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Stanley Mailoa,20,Forward,Sportlust '46,Free Transfer,out,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Norair Aslanyan,21,Right Winger,FC Emmen,Loan,out,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Delano van Crooij,21,Goalkeeper,Quick Boys '31,Free Transfer,out,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Rúnar Már Sigurjónsson,22,Defensive Midfield,Valur,Free Transfer,out,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Said Bakkati,30,Right-Back,FC Emmen,Free Transfer,out,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Joran Pot,23,Defensive Midfield,Go Ahead Eagles,Free Transfer,out,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Nassir Maachi,26,Right Winger,AEK Larnaca,Free Transfer,out,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Joey van den Berg,26,Defensive Midfield,Heerenveen,?,out,NA,Eredivisie,2012,2012/2013
+PEC Zwolle,Gieljan Tissingh,22,Centre-Back,AGOVV Apeldoorn,?,out,NA,Eredivisie,2012,2012/2013
+PEC Zwolle,Giovanni Hiwat,19,Right Winger,SC Cambuur,Loan,out,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Jeroen Ketting,31,Centre-Forward,Without Club,-,out,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Ruud ter Heide,29,Centre-Forward,FC Emmen,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+PEC Zwolle,Alexander Bannink,22,Attacking Midfield,FC Twente,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Gaby Jallo,23,Left-Back,Heracles Almelo,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Kees van Buuren,25,Right-Back,FC Den Bosch,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Genaro Snijders,22,Right Winger,Vitesse,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Jordens Peters,25,Centre-Back,FC Den Bosch,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Sanny Monteiro,22,Right-Back,Zwaluwen,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Marc Höcher,27,Right Winger,ADO Den Haag,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Philipp Haastrup,30,Centre-Back,Helmond Sport,Free Transfer,in,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Kevin Brands,24,Attacking Midfield,Telstar,£23k,in,0.023,Eredivisie,2012,2012/2013
+Willem II Tilburg,Tim Cornelisse,34,Right-Back,FC Twente,Loan,in,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Aurélien Joachim,26,Centre-Forward,F91 Dudelange,Loan,in,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Alexander Maes,20,Defensive Midfield,Standard Res.,?,in,NA,Eredivisie,2012,2012/2013
+Willem II Tilburg,Nicky Hofs,29,Attacking Midfield,Vitesse,Loan,in,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Larbi El Harouchi,18,Attacking Midfield,Feyenoord U19,?,in,NA,Eredivisie,2012,2012/2013
+Willem II Tilburg,Simon van Zeelst,19,Central Midfield,Willem II/RKC-19,-,in,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Jonas Van Kerckhoven,18,Left-Back,Willem II U21,-,in,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Mattijs Branderhorst,18,Goalkeeper,Willem II/RKC-19,-,in,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Danny Schreurs,24,Right Winger,Fortuna Sittard,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Lars Hutten,22,Attacking Midfield,Veendam,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Rangelo Janga,20,Centre-Forward,Excelsior,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Rowin van Zaanen,27,Left Winger,Fortuna Sittard,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Junior Livramento,24,Left Midfield,AGOVV Apeldoorn,"End of loanJun 30, 2012",in,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Lars Hutten,22,Attacking Midfield,Veendam,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Pawel Wojciechowski,22,Second Striker,FK Minsk,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Arjan Swinkels,27,Centre-Back,Lierse SK,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Rowin van Zaanen,27,Left Winger,Almere City,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Danny Schreurs,24,Right Winger,MVV Maastricht,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Rangelo Janga,20,Centre-Forward,Excelsior,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Istvan Bakx,26,Attacking Midfield,AGOVV Apeldoorn,Free Transfer,out,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Jeffrey van Nuland,21,Centre-Back,Helmond Sport,Loan,out,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Giovanni Gravenbeek,24,Central Midfield,PEC Zwolle,?,out,NA,Eredivisie,2012,2012/2013
+Willem II Tilburg,Marlon Pereira,25,Right-Back,Without Club,-,out,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Alexander Maes,20,Defensive Midfield,Without Club,-,out,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Stephan Keller,33,Centre-Back,Retired,-,out,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Donny de Groot,33,Centre-Forward,Without Club,-,out,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Junior Livramento,24,Left Midfield,Without Club,-,out,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Marc Höcher,27,Right Winger,ADO Den Haag,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013
+Willem II Tilburg,Genaro Snijders,22,Right Winger,Vitesse,"End of loanJun 30, 2012",out,0,Eredivisie,2012,2012/2013

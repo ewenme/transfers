@@ -1,0 +1,424 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Milan AC,Roberto Baggio,28,Second Striker,Juventus,£6.75m,in,6.75,Serie A,1995,1995/1996
+Milan AC,George Weah,28,Centre-Forward,Paris SG,£6.21m,in,6.21,Serie A,1995,1995/1996
+Milan AC,Massimo Ambrosini,18,Central Midfield,Cesena,£1.72m,in,1.72,Serie A,1995,1995/1996
+Milan AC,Paulo Futre,29,Left Winger,Reggiana,£675k,in,0.675,Serie A,1995,1995/1996
+Milan AC,Patrick Vieira,19,Defensive Midfield,Cannes,?,in,NA,Serie A,1995,1995/1996
+Milan AC,Tomas Locatelli,19,Attacking Midfield,Atalanta,?,in,NA,Serie A,1995,1995/1996
+Milan AC,Mario Stancanelli,18,Left-Back,Milan U19,-,in,0,Serie A,1995,1995/1996
+Milan AC,Francesco Cozza,21,Attacking Midfield,Vicenza,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+Milan AC,Giuseppe Cardone,21,Right-Back,SC Leffe,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+Milan AC,Enzo Gambaro,29,Left-Back,Reggiana,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+Milan AC,Enzo Gambaro,29,Left-Back,Bolton,Free Transfer,out,0,Serie A,1995,1995/1996
+Milan AC,Cristian Brocchi,19,Central Midfield,Pro Sesto,Loan,out,0,Serie A,1995,1995/1996
+Milan AC,Carlo Cudicini,21,Goalkeeper,Prato,Free Transfer,out,0,Serie A,1995,1995/1996
+Milan AC,Massimo Oddo,19,Right-Back,Fiorenzuola,Loan fee:£23k,out,0.023,Serie A,1995,1995/1996
+Milan AC,Daniele Massaro,34,Centre-Forward,Shimizu S-Pulse,?,out,NA,Serie A,1995,1995/1996
+Milan AC,Giovanni Stroppa,27,Attacking Midfield,Udinese,?,out,NA,Serie A,1995,1995/1996
+Milan AC,Angelo Carbone,27,Right Midfield,Piacenza,?,out,NA,Serie A,1995,1995/1996
+Milan AC,Francesco Cozza,21,Attacking Midfield,Lucchese,Loan,out,0,Serie A,1995,1995/1996
+Milan AC,Massimo Orlando,24,Forward,Fiorentina,?,out,NA,Serie A,1995,1995/1996
+Milan AC,Giuseppe Cardone,21,Right-Back,Lucchese,Loan,out,0,Serie A,1995,1995/1996
+Milan AC,Roberto Colombo,19,Goalkeeper,Valdagno,Loan,out,0,Serie A,1995,1995/1996
+Milan AC,Stefano Nava,26,Centre-Back,Padova,?,out,NA,Serie A,1995,1995/1996
+Milan AC,Alessandro Melli,25,Centre-Forward,AC Parma,?,out,NA,Serie A,1995,1995/1996
+Milan AC,Francesco De Francesco,17,Second Striker,Prato,Loan,out,0,Serie A,1995,1995/1996
+Milan AC,Marco van Basten,30,Centre-Forward,Retired,-,out,0,Serie A,1995,1995/1996
+AS Roma,Marco Delvecchio,22,Centre-Forward,Inter,£4.50m,in,4.5,Serie A,1995,1995/1996
+AS Roma,Luigi Di Biagio,24,Defensive Midfield,Foggia,Free Transfer,in,0,Serie A,1995,1995/1996
+AS Roma,Franco Florio,19,Central Midfield,Cosenza,?,in,NA,Serie A,1995,1995/1996
+AS Roma,Enrico Annoni,28,Right-Back,Torino,?,in,NA,Serie A,1995,1995/1996
+AS Roma,Gianluca Cherubini,21,Right-Back,Reggiana,?,in,NA,Serie A,1995,1995/1996
+AS Roma,Gabriele Grossi,23,Left-Back,Vicenza,?,in,NA,Serie A,1995,1995/1996
+AS Roma,Giorgio Sterchele,25,Goalkeeper,Vicenza,?,in,NA,Serie A,1995,1995/1996
+AS Roma,Alessio Scarchilli,22,Attacking Midfield,Udinese,?,in,NA,Serie A,1995,1995/1996
+AS Roma,Alessio Scarchilli,22,Attacking Midfield,Udinese,?,in,NA,Serie A,1995,1995/1996
+AS Roma,Lampros Choutos,15,Centre-Forward,Roma U19,-,in,0,Serie A,1995,1995/1996
+AS Roma,Daniele Berretta,23,Defensive Midfield,Cagliari Calcio,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+AS Roma,Giampiero Maini,23,Defensive Midfield,Vicenza,Free Transfer,out,0,Serie A,1995,1995/1996
+AS Roma,Silvano Benedetti,29,Defender,Alessandria,?,out,NA,Serie A,1995,1995/1996
+AS Roma,Michele Scapicchi,18,Midfielder,Unknown,?,out,NA,Serie A,1995,1995/1996
+AS Roma,Fabrizio Lorieri,31,Goalkeeper,Lecce,?,out,NA,Serie A,1995,1995/1996
+AS Roma,Giovanni Piacentini,27,Defensive Midfield,Fiorentina,?,out,NA,Serie A,1995,1995/1996
+AS Roma,Marco Branca,30,Centre-Forward,Inter,?,out,NA,Serie A,1995,1995/1996
+AS Roma,Andrea Borsa,23,Centre-Back,SPAL,?,out,NA,Serie A,1995,1995/1996
+AS Roma,Francesco Colonnese,23,Centre-Back,SSC Napoli,?,out,NA,Serie A,1995,1995/1996
+AS Roma,Sandro Mazzoni,21,Midfielder,Retired,-,out,0,Serie A,1995,1995/1996
+FC Internazionale,Paul Ince,27,Defensive Midfield,Man Utd,£9.45m,in,9.45,Serie A,1995,1995/1996
+FC Internazionale,Caio,19,Centre-Forward,São Paulo,£6.75m,in,6.75,Serie A,1995,1995/1996
+FC Internazionale,Javier Zanetti,21,Right-Back,CA Banfield,£5.85m,in,5.85,Serie A,1995,1995/1996
+FC Internazionale,Roberto Carlos,22,Left-Back,Palmeiras,£3.15m,in,3.15,Serie A,1995,1995/1996
+FC Internazionale,Maurizio Ganz,26,Centre-Forward,Atalanta,£1.08m,in,1.08,Serie A,1995,1995/1996
+FC Internazionale,Sebastián Rambert,21,Centre-Forward,Independiente,Free Transfer,in,0,Serie A,1995,1995/1996
+FC Internazionale,Alessandro Pedroni,24,Left-Back,Cremonese,?,in,NA,Serie A,1995,1995/1996
+FC Internazionale,Alessandro Pistone,19,Left-Back,Vicenza,?,in,NA,Serie A,1995,1995/1996
+FC Internazionale,Benny Carbone,23,Second Striker,SSC Napoli,?,in,NA,Serie A,1995,1995/1996
+FC Internazionale,Marco Branca,30,Centre-Forward,AS Roma,?,in,NA,Serie A,1995,1995/1996
+FC Internazionale,Fabio Cinetti,21,Central Midfield,Calcio Monza,?,in,NA,Serie A,1995,1995/1996
+FC Internazionale,Marco Landucci,31,Goalkeeper,Avellino,?,in,NA,Serie A,1995,1995/1996
+FC Internazionale,Felice Centofanti,26,Left-Back,Ancona,?,in,NA,Serie A,1995,1995/1996
+FC Internazionale,Salvatore Fresi,22,Centre-Back,Salernitana,?,in,NA,Serie A,1995,1995/1996
+FC Internazionale,Antonio Manicone,28,Defensive Midfield,Genoa,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+FC Internazionale,Paolo Orlandoni,22,Goalkeeper,Pro Sesto,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+FC Internazionale,Dennis Bergkamp,26,Second Striker,Arsenal,£10.13m,out,10.13,Serie A,1995,1995/1996
+FC Internazionale,Marco Delvecchio,22,Centre-Forward,AS Roma,£4.50m,out,4.5,Serie A,1995,1995/1996
+FC Internazionale,Wim Jonk,28,Defensive Midfield,PSV Eindhoven,£2.05m,out,2.05,Serie A,1995,1995/1996
+FC Internazionale,Rubén Sosa,29,Centre-Forward,Bor. Dortmund,£1.26m,out,1.26,Serie A,1995,1995/1996
+FC Internazionale,Darko Pancev,29,Centre-Forward,F. Düsseldorf,£450k,out,0.45,Serie A,1995,1995/1996
+FC Internazionale,Angelo Orlando,29,Defender,Cremonese,?,out,NA,Serie A,1995,1995/1996
+FC Internazionale,Paolo Orlandoni,22,Goalkeeper,Ancona,Loan,out,0,Serie A,1995,1995/1996
+FC Internazionale,Antonio Paganin,29,Right-Back,Atalanta,?,out,NA,Serie A,1995,1995/1996
+FC Internazionale,Luca Mondini,25,Goalkeeper,Vicenza,?,out,NA,Serie A,1995,1995/1996
+FC Internazionale,Marco Fortin,20,Goalkeeper,Pro Sesto,?,out,NA,Serie A,1995,1995/1996
+FC Internazionale,Andrea Zanchetta,20,Central Midfield,Foggia,?,out,NA,Serie A,1995,1995/1996
+FC Internazionale,Giovanni Bia,26,Centre-Back,Udinese,?,out,NA,Serie A,1995,1995/1996
+FC Internazionale,Marco Nichetti,19,Midfielder,Gualdo,?,out,NA,Serie A,1995,1995/1996
+FC Internazionale,Mirko Conte,20,Centre-Back,Piacenza,?,out,NA,Serie A,1995,1995/1996
+AS Bari,Roberto Ripa,28,Centre-Back,Udinese,£338k,in,0.338,Serie A,1995,1995/1996
+AS Bari,Kennet Andersson,27,Centre-Forward,SM Caen,?,in,NA,Serie A,1995,1995/1996
+AS Bari,Klas Ingesson,27,Defensive Midfield,Sheff Wed,?,in,NA,Serie A,1995,1995/1996
+AS Bari,Luigi Sala,21,Centre-Back,Como,?,in,NA,Serie A,1995,1995/1996
+AS Bari,Fabrizio Ficini,21,Defensive Midfield,FC Empoli,?,in,NA,Serie A,1995,1995/1996
+AS Bari,Abel Xavier,22,Right-Back,Benfica,?,in,NA,Serie A,1995,1995/1996
+AS Bari,Carlo Tafuni,18,Defender,Altamura,?,in,NA,Serie A,1995,1995/1996
+AS Bari,Nicola Ventola,17,Centre-Forward,Bari U19,-,in,0,Serie A,1995,1995/1996
+AS Bari,Pietro Parente,23,Midfielder,Como,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+AS Bari,Luca Gentili,23,Goalkeeper,Barletta,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+AS Bari,Lorenzo Amoruso,24,Centre-Back,Fiorentina,Free Transfer,out,0,Serie A,1995,1995/1996
+AS Bari,Miguel Ángel Guerrero,28,Second Striker,Mérida UD,Loan,out,0,Serie A,1995,1995/1996
+AS Bari,Angelo Alessio,30,Right Winger,Cosenza,?,out,NA,Serie A,1995,1995/1996
+AS Bari,Roberto Cau,19,Right Midfield,Novara,Loan,out,0,Serie A,1995,1995/1996
+AS Bari,Emiliano Bigica,21,Defensive Midfield,Fiorentina,?,out,NA,Serie A,1995,1995/1996
+AS Bari,Sandro Tovalieri,30,Centre-Forward,Atalanta,?,out,NA,Serie A,1995,1995/1996
+AS Bari,Onofrio Barone,30,Midfielder,Hellas Verona,?,out,NA,Serie A,1995,1995/1996
+SS Lazio,Massimiliano Esposito,23,Right Midfield,Reggiana,?,in,NA,Serie A,1995,1995/1996
+SS Lazio,Francesco Mancini,27,Goalkeeper,Foggia,?,in,NA,Serie A,1995,1995/1996
+SS Lazio,Alessandro Grandoni,17,Centre-Back,Ternana,?,in,NA,Serie A,1995,1995/1996
+SS Lazio,Dario Marcolin,23,Defensive Midfield,Genoa,?,in,NA,Serie A,1995,1995/1996
+SS Lazio,Alessandro Romano,25,Defensive Midfield,Cesena,?,in,NA,Serie A,1995,1995/1996
+SS Lazio,Guerino Gottardi,24,Defensive Midfield,Neuchâtel Xamax,?,in,NA,Serie A,1995,1995/1996
+SS Lazio,Marco Piovanelli,21,Midfielder,Brescia,?,in,NA,Serie A,1995,1995/1996
+SS Lazio,Daniele Franceschini,19,Left Midfield,Lazio U19,-,in,0,Serie A,1995,1995/1996
+SS Lazio,Ivano Della Morte,20,Central Midfield,Lecce,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+SS Lazio,Paul Gascoigne,28,Attacking Midfield,Rangers,£5.40m,out,5.4,Serie A,1995,1995/1996
+SS Lazio,Flavio Roma,21,Goalkeeper,AC Venezia 1907,Free Transfer,out,0,Serie A,1995,1995/1996
+SS Lazio,Giorgio Venturin,26,Central Midfield,Cagliari Calcio,Loan,out,0,Serie A,1995,1995/1996
+SS Lazio,Mauro Bonomi,22,Centre-Back,Cagliari Calcio,?,out,NA,Serie A,1995,1995/1996
+SS Lazio,Ivano Della Morte,21,Central Midfield,Avellino,?,out,NA,Serie A,1995,1995/1996
+SS Lazio,Stefano Bellè,18,Left Winger,AS Lodigiani,Loan,out,0,Serie A,1995,1995/1996
+SS Lazio,Marco Di Vaio,19,Centre-Forward,Hellas Verona,Loan,out,0,Serie A,1995,1995/1996
+SS Lazio,Simone Tiribocchi,17,Centre-Forward,Pistoiese,?,out,NA,Serie A,1995,1995/1996
+SS Lazio,Roberto Bacci,28,Centre-Back,Torino,?,out,NA,Serie A,1995,1995/1996
+SS Lazio,Vincenzo De Sio,22,Midfielder,Trapani,?,out,NA,Serie A,1995,1995/1996
+SS Lazio,Roberto Cravero,31,Sweeper,Torino,,out,NA,Serie A,1995,1995/1996
+Udinese Calcio,Oliver Bierhoff,27,Centre-Forward,Ascoli,£1.04m,in,1.04,Serie A,1995,1995/1996
+Udinese Calcio,Giuliano Giannichedda,20,Defensive Midfield,AS Sora Calcio,Free Transfer,in,0,Serie A,1995,1995/1996
+Udinese Calcio,Giovanni Bia,26,Centre-Back,Inter,?,in,NA,Serie A,1995,1995/1996
+Udinese Calcio,Raffaele Sergio,28,Left-Back,Ancona,?,in,NA,Serie A,1995,1995/1996
+Udinese Calcio,Igor Shalimov,26,Attacking Midfield,FC Lugano,?,in,NA,Serie A,1995,1995/1996
+Udinese Calcio,David Stefani,20,Central Midfield,Siena,?,in,NA,Serie A,1995,1995/1996
+Udinese Calcio,Salvatore Matrecano,25,Centre-Back,SSC Napoli,?,in,NA,Serie A,1995,1995/1996
+Udinese Calcio,Mohammed Gargo,20,Centre-Back,Stoke City,?,in,NA,Serie A,1995,1995/1996
+Udinese Calcio,Giovanni Stroppa,27,Attacking Midfield,Milan,?,in,NA,Serie A,1995,1995/1996
+Udinese Calcio,Vincenzo Montalbano,26,Centre-Back,Hellas Verona,?,in,NA,Serie A,1995,1995/1996
+Udinese Calcio,Alessandro Manni,21,Attacking Midfield,Andria,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+Udinese Calcio,Stefano Borgonovo,31,Forward,Brescia,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+Udinese Calcio,Cristian Mauro,20,Left Midfield,Alessandria,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+Udinese Calcio,Roberto Ripa,28,Centre-Back,Bari,£338k,out,0.338,Serie A,1995,1995/1996
+Udinese Calcio,Alessandro Pierini,22,Centre-Back,Andria,Loan,out,0,Serie A,1995,1995/1996
+Udinese Calcio,Massimiliano Caniato,27,Goalkeeper,Torino,?,out,NA,Serie A,1995,1995/1996
+Udinese Calcio,Alessio Scarchilli,22,Attacking Midfield,AS Roma,?,out,NA,Serie A,1995,1995/1996
+Udinese Calcio,Luca Compagnon,22,Right-Back,Savoia,?,out,NA,Serie A,1995,1995/1996
+Udinese Calcio,Andrea Carnevale,34,Centre-Forward,Pescara,?,out,NA,Serie A,1995,1995/1996
+Udinese Calcio,Tiziano Zampieri,18,Forward,Unknown,?,out,NA,Serie A,1995,1995/1996
+Udinese Calcio,David Stefani,20,Central Midfield,Avellino,Loan,out,0,Serie A,1995,1995/1996
+Udinese Calcio,Denis Godeas,19,Centre-Forward,AS Sora Calcio,?,out,NA,Serie A,1995,1995/1996
+Udinese Calcio,Fausto Pizzi,27,Attacking Midfield,SSC Napoli,?,out,NA,Serie A,1995,1995/1996
+Udinese Calcio,Alessio Scarchilli,22,Attacking Midfield,AS Roma,?,out,NA,Serie A,1995,1995/1996
+Udinese Calcio,Vito Lasalandra,20,Right Midfield,Nocerina,?,out,NA,Serie A,1995,1995/1996
+Udinese Calcio,Alessandro Manni,21,Attacking Midfield,Without Club,-,out,0,Serie A,1995,1995/1996
+Udinese Calcio,Sergio Marcon,24,Goalkeeper,Andria,"End of loanJun 30, 1995",out,0,Serie A,1995,1995/1996
+Udinese Calcio,Giacomo Banchelli,22,Centre-Forward,Fiorentina,"End of loanJun 30, 1995",out,0,Serie A,1995,1995/1996
+Torino Calcio,Fabio Moro,19,Right-Back,Ravenna,?,in,NA,Serie A,1995,1995/1996
+Torino Calcio,Alessandro Dal Canto,20,Left-Back,Vicenza,?,in,NA,Serie A,1995,1995/1996
+Torino Calcio,Davide Dionigi,21,Centre-Forward,Como,?,in,NA,Serie A,1995,1995/1996
+Torino Calcio,Massimiliano Caniato,27,Goalkeeper,Udinese,?,in,NA,Serie A,1995,1995/1996
+Torino Calcio,Roberto Bacci,28,Centre-Back,Lazio,?,in,NA,Serie A,1995,1995/1996
+Torino Calcio,Mauro Milanese,23,Left-Back,Cremonese,?,in,NA,Serie A,1995,1995/1996
+Torino Calcio,Giuseppe Minaudo,28,Midfielder,Atalanta,?,in,NA,Serie A,1995,1995/1996
+Torino Calcio,Enzo Biato,31,Goalkeeper,Cesena,?,in,NA,Serie A,1995,1995/1996
+Torino Calcio,Hakan Sükür,23,Centre-Forward,Galatasaray,Loan,in,0,Serie A,1995,1995/1996
+Torino Calcio,Augustine Simo,16,Attacking Midfield,Unknown,?,in,NA,Serie A,1995,1995/1996
+Torino Calcio,Domenico Doardo,20,Goalkeeper,Ravenna,?,in,NA,Serie A,1995,1995/1996
+Torino Calcio,Veldin Karic,22,Centre-Forward,NK Marsonia,?,in,NA,Serie A,1995,1995/1996
+Torino Calcio,Valeriano Fiorin,28,Defensive Midfield,US Palermo,?,in,NA,Serie A,1995,1995/1996
+Torino Calcio,Daniele Di Donato,18,Central Midfield,Torino U19,-,in,0,Serie A,1995,1995/1996
+Torino Calcio,Luca Antonino Mezzano,17,Centre-Back,Torino U19,-,in,0,Serie A,1995,1995/1996
+Torino Calcio,Alberto Bernardi,18,Right Winger,Torino  Youth,-,in,0,Serie A,1995,1995/1996
+Torino Calcio,Roberto Cravero,31,Sweeper,Lazio,,in,NA,Serie A,1995,1995/1996
+Torino Calcio,Pasquale Luiso,25,Centre-Forward,Pescara,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+Torino Calcio,Marcão,22,Centre-Forward,Neuchâtel Xamax,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+Torino Calcio,Davide Possanzini,19,Centre-Forward,Lecco,?,out,NA,Serie A,1995,1995/1996
+Torino Calcio,Pasquale Luiso,25,Centre-Forward,Chievo Verona,?,out,NA,Serie A,1995,1995/1996
+Torino Calcio,Giuseppe Scienza,28,Midfielder,AC Venezia 1907,?,out,NA,Serie A,1995,1995/1996
+Torino Calcio,Luigi Simoni,30,Goalkeeper,Piacenza,?,out,NA,Serie A,1995,1995/1996
+Torino Calcio,Gianluca Pessotto,24,Left-Back,Juventus,?,out,NA,Serie A,1995,1995/1996
+Torino Calcio,Mauro Briano,20,Defensive Midfield,Gualdo,?,out,NA,Serie A,1995,1995/1996
+Torino Calcio,Andrea Silenzi,29,Centre-Forward,Nottm Forest,?,out,NA,Serie A,1995,1995/1996
+Torino Calcio,Luca Pastine,24,Goalkeeper,Genoa,?,out,NA,Serie A,1995,1995/1996
+Torino Calcio,Marco Sinigaglia,27,Midfielder,Chievo Verona,?,out,NA,Serie A,1995,1995/1996
+Torino Calcio,Stefano Torrisi,24,Centre-Back,Bologna,?,out,NA,Serie A,1995,1995/1996
+Torino Calcio,Valeriano Fiorin,29,Defensive Midfield,AC Venezia 1907,?,out,NA,Serie A,1995,1995/1996
+Torino Calcio,Marcão,22,Centre-Forward,Mogi Mirim,?,out,NA,Serie A,1995,1995/1996
+Torino Calcio,Enrico Annoni,28,Right-Back,AS Roma,?,out,NA,Serie A,1995,1995/1996
+Torino Calcio,Roberto Lorenzini,28,Left-Back,Piacenza,?,out,NA,Serie A,1995,1995/1996
+Torino Calcio,Pietro Sportillo,16,Centre-Back,Casarano,?,out,NA,Serie A,1995,1995/1996
+Torino Calcio,Hakan Sükür,24,Centre-Forward,Galatasaray,"End of loanOct 12, 1995",out,0,Serie A,1995,1995/1996
+Torino Calcio,Jean-Pierre Cyprien,26,Centre-Back,Stade Rennais,"End of loanJul 1, 1995",out,0,Serie A,1995,1995/1996
+AC Fiorentina,Stefan Schwarz,26,Central Midfield,Arsenal,£1.98m,in,1.98,Serie A,1995,1995/1996
+AC Fiorentina,Michele Serena,25,Right-Back,Sampdoria,£1.80m,in,1.8,Serie A,1995,1995/1996
+AC Fiorentina,Lorenzo Amoruso,24,Centre-Back,Bari,Free Transfer,in,0,Serie A,1995,1995/1996
+AC Fiorentina,Mirko Benin,17,Attacking Midfield,Varese U19,?,in,NA,Serie A,1995,1995/1996
+AC Fiorentina,Pasquale Padalino,22,Centre-Back,Foggia,?,in,NA,Serie A,1995,1995/1996
+AC Fiorentina,Emiliano Bigica,21,Defensive Midfield,Bari,?,in,NA,Serie A,1995,1995/1996
+AC Fiorentina,Giovanni Piacentini,27,Defensive Midfield,AS Roma,?,in,NA,Serie A,1995,1995/1996
+AC Fiorentina,Alessandro Orlando,25,Left-Back,Juventus,?,in,NA,Serie A,1995,1995/1996
+AC Fiorentina,Federico Bettoni,23,Midfielder,AS Lodigiani,?,in,NA,Serie A,1995,1995/1996
+AC Fiorentina,Massimo Orlando,24,Forward,Milan,?,in,NA,Serie A,1995,1995/1996
+AC Fiorentina,Stefan Effenberg,26,Central Midfield,Bor. M'gladbach,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+AC Fiorentina,Daniele Beltrammi,21,Second Striker,AS Lodigiani,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+AC Fiorentina,Giacomo Banchelli,22,Centre-Forward,Udinese,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+AC Fiorentina,Stefan Effenberg,26,Central Midfield,Bor. M'gladbach,£3.42m,out,3.42,Serie A,1995,1995/1996
+AC Fiorentina,Giovanni Tedesco,23,Right Midfield,Foggia,?,out,NA,Serie A,1995,1995/1996
+AC Fiorentina,Márcio Santos,25,Centre-Back,Ajax,?,out,NA,Serie A,1995,1995/1996
+AC Fiorentina,Daniele Beltrammi,21,Second Striker,Montevarchi Calcio Aquila 1902,Loan,out,0,Serie A,1995,1995/1996
+AC Fiorentina,Stefano Pioli,29,Centre-Back,Padova,?,out,NA,Serie A,1995,1995/1996
+AC Fiorentina,Fabrizio Di Mauro,30,Defensive Midfield,Reggiana,?,out,NA,Serie A,1995,1995/1996
+AC Fiorentina,Alessandro Gola,20,Midfielder,Modena,?,out,NA,Serie A,1995,1995/1996
+AC Fiorentina,Daniele Amerini,20,Central Midfield,Vicenza,?,out,NA,Serie A,1995,1995/1996
+AC Fiorentina,Gianluca Luppi,28,Right-Back,Atalanta,?,out,NA,Serie A,1995,1995/1996
+AC Fiorentina,Christian Cimarelli,19,Midfielder,Prato,?,out,NA,Serie A,1995,1995/1996
+Juventus FC,Vladimir Jugovic,25,Left Midfield,Sampdoria,£5.40m,in,5.4,Serie A,1995,1995/1996
+Juventus FC,Pietro Vierchowod,36,Centre-Back,Sampdoria,£225k,in,0.225,Serie A,1995,1995/1996
+Juventus FC,Gianluca Pessotto,24,Left-Back,Torino,?,in,NA,Serie A,1995,1995/1996
+Juventus FC,Juan Pablo Sorín,19,Left-Back,Argentinos Jrs.,?,in,NA,Serie A,1995,1995/1996
+Juventus FC,Michele Padovano,28,Centre-Forward,Reggiana,?,in,NA,Serie A,1995,1995/1996
+Juventus FC,Attilio Lombardo,29,Right Winger,Sampdoria,?,in,NA,Serie A,1995,1995/1996
+Juventus FC,Tommaso Rocchi,17,Centre-Forward,Juventus U19,-,in,0,Serie A,1995,1995/1996
+Juventus FC,Federico Giampaolo,25,Attacking Midfield,Pescara,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+Juventus FC,Christian Manfredini,20,Left Winger,Pistoiese,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+Juventus FC,Roberto Baggio,28,Second Striker,Milan,£6.75m,out,6.75,Serie A,1995,1995/1996
+Juventus FC,Jürgen Kohler,29,Centre-Back,Bor. Dortmund,£2.34m,out,2.34,Serie A,1995,1995/1996
+Juventus FC,Lorenzo Squizzi,21,Goalkeeper,SPAL,?,out,NA,Serie A,1995,1995/1996
+Juventus FC,Enrico Fantini,19,Centre-Forward,Cremonese,?,out,NA,Serie A,1995,1995/1996
+Juventus FC,Alessandro Orlando,25,Left-Back,Fiorentina,?,out,NA,Serie A,1995,1995/1996
+Juventus FC,Simone Tognon,20,Midfielder,SPAL,?,out,NA,Serie A,1995,1995/1996
+Juventus FC,Robert Jarni,26,Left-Back,Real Betis,?,out,NA,Serie A,1995,1995/1996
+Juventus FC,Christian Manfredini,20,Left Winger,Viterbese,Loan,out,0,Serie A,1995,1995/1996
+Juventus FC,Federico Giampaolo,25,Attacking Midfield,Pescara,?,out,NA,Serie A,1995,1995/1996
+Juventus FC,Andrea Fortunato,23,Left-Back,Retired,-,out,0,Serie A,1995,1995/1996
+Atalanta BC,Gianluca Luppi,28,Right-Back,Fiorentina,?,in,NA,Serie A,1995,1995/1996
+Atalanta BC,Filippo Zani,20,Goalkeeper,Torres,?,in,NA,Serie A,1995,1995/1996
+Atalanta BC,Christian Vieri,21,Centre-Forward,AC Venezia 1907,?,in,NA,Serie A,1995,1995/1996
+Atalanta BC,Marco Ambrosio,22,Goalkeeper,Prato,?,in,NA,Serie A,1995,1995/1996
+Atalanta BC,José Herrera,30,Right-Back,Cagliari Calcio,?,in,NA,Serie A,1995,1995/1996
+Atalanta BC,Kewullay Conteh,18,Centre-Back,Cafe Opera,?,in,NA,Serie A,1995,1995/1996
+Atalanta BC,Fabio Gallo,24,Defensive Midfield,Brescia,?,in,NA,Serie A,1995,1995/1996
+Atalanta BC,Antonio Paganin,29,Right-Back,Inter,?,in,NA,Serie A,1995,1995/1996
+Atalanta BC,Sandro Tovalieri,30,Centre-Forward,Bari,?,in,NA,Serie A,1995,1995/1996
+Atalanta BC,Fausto Rossini,17,Centre-Forward,Atalanta U19,-,in,0,Serie A,1995,1995/1996
+Atalanta BC,Damiano Zenoni,18,Right-Back,Atalanta U19,-,in,0,Serie A,1995,1995/1996
+Atalanta BC,Vincenzo Chianese,20,Centre-Forward,Casarano,"End of loanJun 30, 1996",in,0,Serie A,1995,1995/1996
+Atalanta BC,William Viali,21,Centre-Back,Cesena,"End of loanDec 31, 1995",in,0,Serie A,1995,1995/1996
+Atalanta BC,Massimo Mutarelli,17,Central Midfield,Atalanta U19,-,in,0,Serie A,1995,1995/1996
+Atalanta BC,Marco Sgrò,25,Attacking Midfield,Ancona,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+Atalanta BC,Maurizio Ganz,26,Centre-Forward,Inter,£1.08m,out,1.08,Serie A,1995,1995/1996
+Atalanta BC,Sebastiano Vecchiola,25,Right Winger,AC Venezia 1907,?,out,NA,Serie A,1995,1995/1996
+Atalanta BC,Sandro Tovalieri,30,Centre-Forward,Reggiana,?,out,NA,Serie A,1995,1995/1996
+Atalanta BC,Gianluca Gibellini,19,Centre-Back,SC Leffe,?,out,NA,Serie A,1995,1995/1996
+Atalanta BC,Simone Pavan,21,Centre-Back,AC Venezia 1907,?,out,NA,Serie A,1995,1995/1996
+Atalanta BC,William Viali,20,Centre-Back,Cesena,Loan,out,0,Serie A,1995,1995/1996
+Atalanta BC,Cristiano Scapolo,24,Attacking Midfield,Bologna,?,out,NA,Serie A,1995,1995/1996
+Atalanta BC,Giampaolo Saurini,26,Centre-Forward,Brescia,?,out,NA,Serie A,1995,1995/1996
+Atalanta BC,Vladimiro Carraro,19,Midfielder,Unknown,?,out,NA,Serie A,1995,1995/1996
+Atalanta BC,Vincenzo Chianese,19,Centre-Forward,Casarano,Loan,out,0,Serie A,1995,1995/1996
+Atalanta BC,Tebaldo Bigliardi,32,Centre-Back,SC Leffe,?,out,NA,Serie A,1995,1995/1996
+Atalanta BC,Oscar Magoni,27,Defensive Midfield,Genoa,?,out,NA,Serie A,1995,1995/1996
+Atalanta BC,Emanuele Tresoldi,21,Left-Back,Pistoiese,?,out,NA,Serie A,1995,1995/1996
+Atalanta BC,William Viali,21,Centre-Back,Calcio Monza,Loan,out,0,Serie A,1995,1995/1996
+Atalanta BC,Marco Ambrosio,22,Goalkeeper,Ravenna,?,out,NA,Serie A,1995,1995/1996
+Atalanta BC,Tomas Locatelli,19,Attacking Midfield,Milan,?,out,NA,Serie A,1995,1995/1996
+Atalanta BC,Leonardo Rodríguez,28,Attacking Midfield,U. de Chile,?,out,NA,Serie A,1995,1995/1996
+Atalanta BC,Giuseppe Minaudo,28,Midfielder,Torino,?,out,NA,Serie A,1995,1995/1996
+UC Sampdoria,Clarence Seedorf,19,Central Midfield,Ajax,£3.25m,in,3.25,Serie A,1995,1995/1996
+UC Sampdoria,Enrico Chiesa,24,Centre-Forward,Cremonese,£180k,in,0.18,Serie A,1995,1995/1996
+UC Sampdoria,Christian Karembeu,24,Defensive Midfield,FC Nantes,Free Transfer,in,0,Serie A,1995,1995/1996
+UC Sampdoria,David Balleri,26,Right-Back,Padova,?,in,NA,Serie A,1995,1995/1996
+UC Sampdoria,Filippo Maniero,22,Centre-Forward,Padova,?,in,NA,Serie A,1995,1995/1996
+UC Sampdoria,Alessandro Lamonica,22,Defender,Prato,?,in,NA,Serie A,1995,1995/1996
+UC Sampdoria,Marco Franceschetti,28,Midfielder,Padova,?,in,NA,Serie A,1995,1995/1996
+UC Sampdoria,Emanuele Pesaresi,18,Left-Back,Ancona,?,in,NA,Serie A,1995,1995/1996
+UC Sampdoria,Angelo Pagotto,21,Goalkeeper,SSC Napoli,?,in,NA,Serie A,1995,1995/1996
+UC Sampdoria,Matteo Sereni,20,Goalkeeper,AC Crevalcore,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+UC Sampdoria,David Platt,29,Attacking Midfield,Arsenal,£6.39m,out,6.39,Serie A,1995,1995/1996
+UC Sampdoria,Vladimir Jugovic,25,Left Midfield,Juventus,£5.40m,out,5.4,Serie A,1995,1995/1996
+UC Sampdoria,Michele Serena,25,Right-Back,Fiorentina,£1.80m,out,1.8,Serie A,1995,1995/1996
+UC Sampdoria,Pietro Vierchowod,36,Centre-Back,Juventus,£225k,out,0.225,Serie A,1995,1995/1996
+UC Sampdoria,Ruud Gullit,32,Second Striker,Chelsea,Free Transfer,out,0,Serie A,1995,1995/1996
+UC Sampdoria,Alessandro Doga,19,Left Midfield,Prato,Free Transfer,out,0,Serie A,1995,1995/1996
+UC Sampdoria,Marco Rossi,30,Central Midfield,América-RN,?,out,NA,Serie A,1995,1995/1996
+UC Sampdoria,Attilio Lombardo,29,Right Winger,Juventus,?,out,NA,Serie A,1995,1995/1996
+UC Sampdoria,Matteo Gianello,19,Goalkeeper,Chievo Verona,"End of loanJun 30, 1995",out,0,Serie A,1995,1995/1996
+Cagliari Calcio,Beniamino Abate,33,Goalkeeper,Andria,?,in,NA,Serie A,1995,1995/1996
+Cagliari Calcio,Simone Veronese,21,Right-Back,Reggina,?,in,NA,Serie A,1995,1995/1996
+Cagliari Calcio,Giorgio Venturin,26,Central Midfield,Lazio,Loan,in,0,Serie A,1995,1995/1996
+Cagliari Calcio,Mauro Bressan,24,Defensive Midfield,Foggia,?,in,NA,Serie A,1995,1995/1996
+Cagliari Calcio,Fabián O'Neill,22,Attacking Midfield,Nacional,?,in,NA,Serie A,1995,1995/1996
+Cagliari Calcio,Massimo Perra,19,Right Midfield,Selargius,?,in,NA,Serie A,1995,1995/1996
+Cagliari Calcio,Mauro Bonomi,22,Centre-Back,Lazio,?,in,NA,Serie A,1995,1995/1996
+Cagliari Calcio,Marco De Laurentis,19,Goalkeeper,US Palermo,?,in,NA,Serie A,1995,1995/1996
+Cagliari Calcio,Darío Silva,22,Centre-Forward,Peñarol,?,in,NA,Serie A,1995,1995/1996
+Cagliari Calcio,Alessio Scarpi,22,Goalkeeper,Cagliari U19,-,in,0,Serie A,1995,1995/1996
+Cagliari Calcio,Giovanni Sulcis,20,Midfielder,Cagliari U19,-,in,0,Serie A,1995,1995/1996
+Cagliari Calcio,Massimiliano Allegri,27,Central Midfield,Perugia,?,out,NA,Serie A,1995,1995/1996
+Cagliari Calcio,Andrea Benassi,19,Right-Back,Turris,?,out,NA,Serie A,1995,1995/1996
+Cagliari Calcio,Julio Dely Valdés,28,Centre-Forward,Paris SG,?,out,NA,Serie A,1995,1995/1996
+Cagliari Calcio,José Herrera,30,Right-Back,Atalanta,?,out,NA,Serie A,1995,1995/1996
+Cagliari Calcio,Francesco Bellucci,22,Centre-Back,Avellino,?,out,NA,Serie A,1995,1995/1996
+Cagliari Calcio,Mauro Bonomi,22,Centre-Back,Cesena,?,out,NA,Serie A,1995,1995/1996
+Cagliari Calcio,Simone Veronese,20,Right-Back,Reggina,?,out,NA,Serie A,1995,1995/1996
+Cagliari Calcio,Alessio Scarpi,22,Goalkeeper,Reggina,Loan,out,0,Serie A,1995,1995/1996
+Cagliari Calcio,Daniele Berretta,23,Defensive Midfield,AS Roma,"End of loanJun 30, 1995",out,0,Serie A,1995,1995/1996
+Piacenza FC,Nicola Caccia,25,Centre-Forward,Ancona,Free Transfer,in,0,Serie A,1995,1995/1996
+Piacenza FC,Massimiliano Cappellini,24,Centre-Forward,Foggia,?,in,NA,Serie A,1995,1995/1996
+Piacenza FC,Eusebio Di Francesco,25,Central Midfield,Lucchese,?,in,NA,Serie A,1995,1995/1996
+Piacenza FC,Roberto Lorenzini,28,Left-Back,Torino,?,in,NA,Serie A,1995,1995/1996
+Piacenza FC,Angelo Carbone,27,Right Midfield,Milan,?,in,NA,Serie A,1995,1995/1996
+Piacenza FC,Cristian Trapella,23,Defender,Fiorenzuola,?,in,NA,Serie A,1995,1995/1996
+Piacenza FC,Eugenio Corini,24,Defensive Midfield,Brescia,?,in,NA,Serie A,1995,1995/1996
+Piacenza FC,Mirko Conte,20,Centre-Back,Inter,?,in,NA,Serie A,1995,1995/1996
+Piacenza FC,Luigi Simoni,30,Goalkeeper,Torino,?,in,NA,Serie A,1995,1995/1996
+Piacenza FC,Giuseppe Ferazzoli,29,Midfielder,Pescara,"End of loanJun 1, 1995",in,0,Serie A,1995,1995/1996
+Piacenza FC,Simone Inzaghi,19,Centre-Forward,Carpi,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+Piacenza FC,Filippo Inzaghi,21,Centre-Forward,AC Parma,£2.74m,out,2.74,Serie A,1995,1995/1996
+Piacenza FC,Simone Inzaghi,19,Centre-Forward,Novara,Loan,out,0,Serie A,1995,1995/1996
+Piacenza FC,Antonio De Vitis,31,Centre-Forward,Hellas Verona,?,out,NA,Serie A,1995,1995/1996
+Piacenza FC,Giorgio Papais,34,Midfielder,Novara,?,out,NA,Serie A,1995,1995/1996
+Piacenza FC,Massimo Colombotti,18,Defender,Triestina,?,out,NA,Serie A,1995,1995/1996
+Piacenza FC,Giuseppe Ferazzoli,29,Midfielder,Pontedera,?,out,NA,Serie A,1995,1995/1996
+Piacenza FC,Luis Fernando Centi,18,Central Midfield,Carpi,?,out,NA,Serie A,1995,1995/1996
+Piacenza FC,Damiano Cesari,21,Defender,Pro Sesto,?,out,NA,Serie A,1995,1995/1996
+Piacenza FC,Andrea Di Cintio,23,Defender,Fiorenzuola,?,out,NA,Serie A,1995,1995/1996
+Piacenza FC,Agostino Iacobelli,31,Midfielder,Ancona,?,out,NA,Serie A,1995,1995/1996
+Piacenza FC,Pasquale Suppa,27,Right Winger,Lucchese,?,out,NA,Serie A,1995,1995/1996
+Piacenza FC,Fabio Manganiello,22,Left-Back,Chieti,?,out,NA,Serie A,1995,1995/1996
+US Cremonese,John Aloisi,19,Centre-Forward,Royal Antwerp,Free Transfer,in,0,Serie A,1995,1995/1996
+US Cremonese,Fabio Di Sauro,19,Left-Back,Gualdo,?,in,NA,Serie A,1995,1995/1996
+US Cremonese,Gianluca Petrachi,26,Midfielder,US Palermo,?,in,NA,Serie A,1995,1995/1996
+US Cremonese,Angelo Orlando,29,Defender,Inter,?,in,NA,Serie A,1995,1995/1996
+US Cremonese,Enrico Fantini,19,Centre-Forward,Juventus,?,in,NA,Serie A,1995,1995/1996
+US Cremonese,Marko Perović,23,Attacking Midfield,Red Star,?,in,NA,Serie A,1995,1995/1996
+US Cremonese,Giovanni Parmesani,18,Midfielder,AS Pizzighettone,?,in,NA,Serie A,1995,1995/1996
+US Cremonese,Marco Steffani,21,Centre-Back,Pavia,?,in,NA,Serie A,1995,1995/1996
+US Cremonese,Simone Guarneri,19,Midfielder,Cremonese U19,-,in,0,Serie A,1995,1995/1996
+US Cremonese,Alfredo Bassani,24,Defender,Como,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+US Cremonese,Enrico Chiesa,24,Centre-Forward,Sampdoria,£180k,out,0.18,Serie A,1995,1995/1996
+US Cremonese,Alessio Pirri,19,Attacking Midfield,Salernitana,?,out,NA,Serie A,1995,1995/1996
+US Cremonese,Vanni Pessotto,21,Central Midfield,Massese,?,out,NA,Serie A,1995,1995/1996
+US Cremonese,Mauro Milanese,23,Left-Back,Torino,?,out,NA,Serie A,1995,1995/1996
+US Cremonese,Davide Lucarelli,32,Left-Back,AC Pisa,?,out,NA,Serie A,1995,1995/1996
+US Cremonese,Alessandro Pedroni,24,Left-Back,Inter,?,out,NA,Serie A,1995,1995/1996
+US Cremonese,Fabio Di Sauro,19,Left-Back,Reggina,?,out,NA,Serie A,1995,1995/1996
+US Cremonese,Jose Pirri,22,Midfielder,CPR Ospitaletto,Loan,out,0,Serie A,1995,1995/1996
+US Cremonese,Claudio Sclosa,34,Midfielder,Pistoiese,?,out,NA,Serie A,1995,1995/1996
+US Cremonese,Eligio Nicolini,34,Right Winger,Reggina,?,out,NA,Serie A,1995,1995/1996
+US Cremonese,Riccardo Castagna,23,Centre-Back,AC Venezia 1907,Loan,out,0,Serie A,1995,1995/1996
+Vicenza Calcio,Giampiero Maini,23,Defensive Midfield,AS Roma,Free Transfer,in,0,Serie A,1995,1995/1996
+Vicenza Calcio,Gustavo Méndez,24,Right-Back,Nacional,?,in,NA,Serie A,1995,1995/1996
+Vicenza Calcio,Marcelo Otero,24,Centre-Forward,Peñarol,?,in,NA,Serie A,1995,1995/1996
+Vicenza Calcio,Daniele Amerini,20,Central Midfield,Fiorentina,?,in,NA,Serie A,1995,1995/1996
+Vicenza Calcio,Willi Pittana,23,Midfielder,AC Venezia 1907,?,in,NA,Serie A,1995,1995/1996
+Vicenza Calcio,Luca Mondini,25,Goalkeeper,Inter,?,in,NA,Serie A,1995,1995/1996
+Vicenza Calcio,Davide Belotti,23,Centre-Back,Unknown,?,in,NA,Serie A,1995,1995/1996
+Vicenza Calcio,Joachim Björklund,24,Centre-Back,IFK Göteborg,?,in,NA,Serie A,1995,1995/1996
+Vicenza Calcio,Gabriele Grossi,23,Left-Back,SSC Napoli,?,in,NA,Serie A,1995,1995/1996
+Vicenza Calcio,Cristiano Masitto,23,Centre-Forward,Carpi,?,out,NA,Serie A,1995,1995/1996
+Vicenza Calcio,Antonino Praticò,29,Defender,Pescara,?,out,NA,Serie A,1995,1995/1996
+Vicenza Calcio,Ferdinando Gasparini,26,Forward,Andria,Loan,out,0,Serie A,1995,1995/1996
+Vicenza Calcio,Gabriele Grossi,23,Left-Back,AS Roma,?,out,NA,Serie A,1995,1995/1996
+Vicenza Calcio,Alessandro Dal Canto,20,Left-Back,Torino,?,out,NA,Serie A,1995,1995/1996
+Vicenza Calcio,Diego Ficarra,26,Midfielder,Nissa FC,?,out,NA,Serie A,1995,1995/1996
+Vicenza Calcio,Matteo Capecchi,20,Midfielder,Spezia,?,out,NA,Serie A,1995,1995/1996
+Vicenza Calcio,Giorgio Sterchele,25,Goalkeeper,AS Roma,?,out,NA,Serie A,1995,1995/1996
+Vicenza Calcio,Alberto Briaschi,31,Centre-Forward,Perugia,?,out,NA,Serie A,1995,1995/1996
+Vicenza Calcio,Gaetano Perrella,21,Midfielder,Nola,?,out,NA,Serie A,1995,1995/1996
+Vicenza Calcio,Alessandro Pistone,19,Left-Back,Inter,?,out,NA,Serie A,1995,1995/1996
+Vicenza Calcio,Francesco Cozza,21,Attacking Midfield,Milan,"End of loanJun 30, 1995",out,0,Serie A,1995,1995/1996
+Calcio Padova,Stefano Fiore,20,Attacking Midfield,AC Parma,£1.35m,in,1.35,Serie A,1995,1995/1996
+Calcio Padova,Stefano Nava,26,Centre-Back,Milan,?,in,NA,Serie A,1995,1995/1996
+Calcio Padova,Massimo Ciocci,27,Centre-Forward,Genoa,?,in,NA,Serie A,1995,1995/1996
+Calcio Padova,Nicola Amoruso,20,Centre-Forward,Andria,?,in,NA,Serie A,1995,1995/1996
+Calcio Padova,Leonard van Utrecht,26,Right Winger,Cambuur L.,?,in,NA,Serie A,1995,1995/1996
+Calcio Padova,Antonio Sconziano,23,Right-Back,Acireale,?,in,NA,Serie A,1995,1995/1996
+Calcio Padova,Stefano Pioli,29,Centre-Back,Fiorentina,?,in,NA,Serie A,1995,1995/1996
+Calcio Padova,Silvio Vittorio Giampietro,28,Sweeper,Andria,?,in,NA,Serie A,1995,1995/1996
+Calcio Padova,Giovanni Serao,18,Centre-Back,Padova U19,-,in,0,Serie A,1995,1995/1996
+Calcio Padova,David Balleri,26,Right-Back,Sampdoria,?,out,NA,Serie A,1995,1995/1996
+Calcio Padova,Gianluca Zattarin,21,Centre-Back,Chievo Verona,?,out,NA,Serie A,1995,1995/1996
+Calcio Padova,Alberto Gallo,20,Second Striker,Calcio Monza,?,out,NA,Serie A,1995,1995/1996
+Calcio Padova,Alexi Lalas,25,Centre-Back,Revolution,?,out,NA,Serie A,1995,1995/1996
+Calcio Padova,Filippo Maniero,22,Centre-Forward,Sampdoria,?,out,NA,Serie A,1995,1995/1996
+Calcio Padova,Emanuele Pellizzaro,24,Right Midfield,Andria,?,out,NA,Serie A,1995,1995/1996
+Calcio Padova,Giuseppe Galderisi,32,Second Striker,Revolution,?,out,NA,Serie A,1995,1995/1996
+Calcio Padova,Gaetano Fontana,25,Central Midfield,Alessandria,?,out,NA,Serie A,1995,1995/1996
+Calcio Padova,Marco Franceschetti,28,Midfielder,Sampdoria,?,out,NA,Serie A,1995,1995/1996
+Calcio Padova,Gianni Cavezzi,25,Right Midfield,Ancona,?,out,NA,Serie A,1995,1995/1996
+Calcio Padova,Daniele Zoratto,33,Central Midfield,Retired,-,out,0,Serie A,1995,1995/1996
+Calcio Padova,Carlo Perrone,34,Right Winger,Retired,-,out,0,Serie A,1995,1995/1996
+Calcio Padova,Cristian Servidei,22,Centre-Back,AC Venezia 1907,"End of loanJun 30, 1995",out,0,Serie A,1995,1995/1996
+SSC Napoli,Roberto Ayala,22,Centre-Back,River Plate,£2.88m,in,2.88,Serie A,1995,1995/1996
+SSC Napoli,Francesco Baldini,21,Centre-Back,Lucchese,£225k,in,0.225,Serie A,1995,1995/1996
+SSC Napoli,Arturo Di Napoli,21,Centre-Forward,Gualdo,?,in,NA,Serie A,1995,1995/1996
+SSC Napoli,Fausto Pizzi,27,Attacking Midfield,Udinese,?,in,NA,Serie A,1995,1995/1996
+SSC Napoli,Francesco Colonnese,23,Centre-Back,AS Roma,?,in,NA,Serie A,1995,1995/1996
+SSC Napoli,Mirko Taccola,24,Centre-Back,US Palermo,?,in,NA,Serie A,1995,1995/1996
+SSC Napoli,Raffaele Longo,17,Central Midfield,Napoli U19,-,in,0,Serie A,1995,1995/1996
+SSC Napoli,Ernesto Verolino,20,Forward,Napoli U19,-,in,0,Serie A,1995,1995/1996
+SSC Napoli,Angelo Pagotto,21,Goalkeeper,Pistoiese,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+SSC Napoli,Ciro Caruso,21,Centre-Back,Ischia,"End of loanJun 30, 1995",in,0,Serie A,1995,1995/1996
+SSC Napoli,Fabio Cannavaro,21,Centre-Back,AC Parma,£6.03m,out,6.03,Serie A,1995,1995/1996
+SSC Napoli,Gabriele Grossi,23,Left-Back,Vicenza,?,out,NA,Serie A,1995,1995/1996
+SSC Napoli,Salvatore D'Angelo,20,Centre-Back,Castel di Sangr,?,out,NA,Serie A,1995,1995/1996
+SSC Napoli,Benny Carbone,23,Second Striker,Inter,?,out,NA,Serie A,1995,1995/1996
+SSC Napoli,Angelo Pagotto,21,Goalkeeper,Sampdoria,?,out,NA,Serie A,1995,1995/1996
+SSC Napoli,Ernesto Verolino,20,Forward,Castel di Sangr,?,out,NA,Serie A,1995,1995/1996
+SSC Napoli,Franco Lerda,27,Centre-Forward,Brescia,?,out,NA,Serie A,1995,1995/1996
+SSC Napoli,Luca Luzardi,25,Centre-Back,Brescia,?,out,NA,Serie A,1995,1995/1996
+SSC Napoli,Salvatore Matrecano,25,Centre-Back,Udinese,?,out,NA,Serie A,1995,1995/1996
+SSC Napoli,Freddy Rincón,28,Central Midfield,Real Madrid,?,out,NA,Serie A,1995,1995/1996
+SSC Napoli,Eduardo Mark Scalzi,20,Goalkeeper,Retired,-,out,0,Serie A,1995,1995/1996
+AC Parma,Hristo Stoichkov,29,Left Winger,FC Barcelona,£9.90m,in,9.9,Serie A,1995,1995/1996
+AC Parma,Fabio Cannavaro,21,Centre-Back,SSC Napoli,£6.03m,in,6.03,Serie A,1995,1995/1996
+AC Parma,Filippo Inzaghi,21,Centre-Forward,Piacenza,£2.74m,in,2.74,Serie A,1995,1995/1996
+AC Parma,Vasile Miriuta,27,Attacking Midfield,ETO FC Győr,£117k,in,0.117,Serie A,1995,1995/1996
+AC Parma,Monye Precious Onyabor,20,Midfielder,Reggiana,?,in,NA,Serie A,1995,1995/1996
+AC Parma,Massimo Brambilla,22,Central Midfield,Calcio Monza,?,in,NA,Serie A,1995,1995/1996
+AC Parma,Alessandro Nista,29,Goalkeeper,Ancona,?,in,NA,Serie A,1995,1995/1996
+AC Parma,Ferdinando Piro,18,Forward,Nocerina,?,in,NA,Serie A,1995,1995/1996
+AC Parma,Alberto Mantelli,23,Defender,AC Crevalcore,?,in,NA,Serie A,1995,1995/1996
+AC Parma,Alessandro Melli,25,Centre-Forward,Milan,?,in,NA,Serie A,1995,1995/1996
+AC Parma,Tarcisio Catanese,27,Midfielder,Ancona,?,in,NA,Serie A,1995,1995/1996
+AC Parma,Mario Massimo Caruso,26,Attacking Midfield,Modena,"End of loanJun 30, 1996",in,0,Serie A,1995,1995/1996
+AC Parma,Simone Barone,17,Central Midfield,Parma U19,-,in,0,Serie A,1995,1995/1996
+AC Parma,Stefano Fiore,20,Attacking Midfield,Padova,£1.35m,out,1.35,Serie A,1995,1995/1996
+AC Parma,Gianluca Falsini,19,Left-Back,Gualdo,?,out,NA,Serie A,1995,1995/1996
+AC Parma,Gianluca Franchini,22,Defensive Midfield,Ancona,?,out,NA,Serie A,1995,1995/1996
+AC Parma,Monye Precious Onyabor,20,Midfielder,Fehérvár FC,Loan,out,0,Serie A,1995,1995/1996
+AC Parma,Tomas Brolin,25,Centre-Forward,Leeds,?,out,NA,Serie A,1995,1995/1996
+AC Parma,Vasile Miriuta,27,Attacking Midfield,Fehérvár FC,Loan,out,0,Serie A,1995,1995/1996
+AC Parma,Mario Massimo Caruso,25,Attacking Midfield,Modena,Loan,out,0,Serie A,1995,1995/1996
+AC Parma,Diego Pellegrini,24,Centre-Back,Ancona,?,out,NA,Serie A,1995,1995/1996
+AC Parma,Giovanni Galli,37,Goalkeeper,Lucchese,?,out,NA,Serie A,1995,1995/1996
+AC Parma,Tony Meola,26,Goalkeeper,Long Island RR,?,out,NA,Serie A,1995,1995/1996
+AC Parma,Rocco Bacchini,21,Goalkeeper,Palazzolo,?,out,NA,Serie A,1995,1995/1996
+AC Parma,Alberto Mantelli,23,Defender,Modena,?,out,NA,Serie A,1995,1995/1996

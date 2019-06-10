@@ -65,12 +65,30 @@ premier_liga_transfers <- map_dfr(
 
 # export ------------------------------------------------------------------
 
-write_csv(epl_transfers, path = file.path(".", "data", "english-premier-league-transfers.csv"))
-write_csv(laliga_transfers, path = file.path(".", "data", "spanish-primera-division-transfers.csv"))
-write_csv(bundes_transfers, path = file.path(".", "data", "german-bundesliga-transfers.csv"))
-write_csv(seriea_transfers, path = file.path(".", "data", "italian-serie-a-transfers.csv"))
-write_csv(ligue1_transfers, path = file.path(".", "data", "french-ligue-1-transfers.csv"))
-write_csv(championship_transfers, path = file.path(".", "data", "english-championship-transfers.csv"))
-write_csv(liga_nos_transfers, path = file.path(".", "data", "portugese-liga-nos-transfers.csv"))
-write_csv(eredivisie_transfers, path = file.path(".", "data", "dutch-eredivisie-transfers.csv"))
-write_csv(premier_liga_transfers, path = file.path(".", "data", "russian-premier-liga-transfers.csv"))
+# create directory tree
+fs::dir_create(path = file.path("data", seasons))
+
+# export data function
+export_data <- function(data, filename) {
+  
+  data <- split(data, data$year)
+  
+  invisible(
+    lapply(names(data), 
+           function(x) {
+             write_csv(data[[x]], path = glue("data/{x}/{filename}.csv"))
+           } 
+           )
+  )
+}
+
+# export data
+export_data(epl_transfers, filename = "english_premier_league")
+export_data(laliga_transfers, filename = "spanish_primera_division")
+export_data(bundes_transfers, filename = "german_bundesliga_1")
+export_data(seriea_transfers, filename = "italian_serie_a")
+export_data(ligue1_transfers, filename = "french_ligue_1")
+export_data(championship_transfers, filename = "english_championship")
+export_data(liga_nos_transfers, filename = "portugese_liga_nos")
+export_data(eredivisie_transfers, filename = "dutch_eredivisie")
+export_data(premier_liga_transfers, filename = "russian_premier_liga")

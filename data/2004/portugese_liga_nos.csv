@@ -1,0 +1,671 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Sporting CP,Mauricio Pinilla,20,Centre-Forward,Inter,£1.35m,in,1.35,Liga Nos,2004,2004/2005
+Sporting CP,Douala,25,Left Winger,Leiria,£900k,in,0.9,Liga Nos,2004,2004/2005
+Sporting CP,Joseph Enakarhire,21,Centre-Back,Standard Liège,£675k,in,0.675,Liga Nos,2004,2004/2005
+Sporting CP,Hugo Viana,21,Central Midfield,Newcastle,Loan,in,0,Liga Nos,2004,2004/2005
+Sporting CP,Mota,24,Centre-Forward,Chunnam Dragons,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Sporting CP,Rogério,28,Right-Back,Corinthians,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Sporting CP,João Moutinho,17,Central Midfield,Sporting U19,-,in,0,Liga Nos,2004,2004/2005
+Sporting CP,Christopher,19,Goalkeeper,Sporting B,-,in,0,Liga Nos,2004,2004/2005
+Sporting CP,Hugo Machado,21,Attacking Midfield,Sporting B,-,in,0,Liga Nos,2004,2004/2005
+Sporting CP,Emídio Rafael,19,Left-Back,Sporting U19,-,in,0,Liga Nos,2004,2004/2005
+Sporting CP,Paulo Sérgio,20,Attacking Midfield,Sporting B,-,in,0,Liga Nos,2004,2004/2005
+Sporting CP,Edgar Marcelino,19,Right Winger,Sporting B,-,in,0,Liga Nos,2004,2004/2005
+Sporting CP,Carlos Saleiro,18,Centre-Forward,Sporting U19,-,in,0,Liga Nos,2004,2004/2005
+Sporting CP,Miguel Ângelo,19,Centre-Back,Sporting B,-,in,0,Liga Nos,2004,2004/2005
+Sporting CP,Mário Felgueiras,18,Goalkeeper,Sporting U19,-,in,0,Liga Nos,2004,2004/2005
+Sporting CP,Hugo Moutinho,22,Attacking Midfield,Sporting B,-,in,0,Liga Nos,2004,2004/2005
+Sporting CP,Silvestre Varela,19,Left Winger,Sporting U19,-,in,0,Liga Nos,2004,2004/2005
+Sporting CP,Gisvi,22,Centre-Forward,Sporting B,-,in,0,Liga Nos,2004,2004/2005
+Sporting CP,Pedro Araújo,19,Left-Back,Sporting U19,-,in,0,Liga Nos,2004,2004/2005
+Sporting CP,Luís Filipe,25,Right-Back,Leiria,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+Sporting CP,Danny,20,Attacking Midfield,Marítimo,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+Sporting CP,Diogo,28,Defensive Midfield,Alverca,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+Sporting CP,Danny,21,Attacking Midfield,Dinamo Moscow,£2.70m,out,2.7,Liga Nos,2004,2004/2005
+Sporting CP,Facundo Quiroga,26,Centre-Back,VfL Wolfsburg,£1.35m,out,1.35,Liga Nos,2004,2004/2005
+Sporting CP,Tinga,26,Central Midfield,Internacional,£270k,out,0.27,Liga Nos,2004,2004/2005
+Sporting CP,Diogo,28,Defensive Midfield,Alverca,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Sporting CP,Santamaria,22,Centre-Back,Estrela Amadora,Loan,out,0,Liga Nos,2004,2004/2005
+Sporting CP,Elpídio Silva,28,Centre-Forward,Vit. Guimarães,Loan,out,0,Liga Nos,2004,2004/2005
+Sporting CP,Rui Bento,32,Defensive Midfield,Académico Viseu,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Sporting CP,Beto,22,Goalkeeper,Chaves,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Sporting CP,Hugo Machado,22,Attacking Midfield,Estrela Amadora,Loan,out,0,Liga Nos,2004,2004/2005
+Sporting CP,Toñito,27,Right Midfield,Boavista,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Sporting CP,João Pinto,32,Second Striker,Boavista,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Sporting CP,José Semedo,19,Defensive Midfield,Casa Pia,Loan,out,0,Liga Nos,2004,2004/2005
+Sporting CP,Edgar Marcelino,19,Right Winger,Penafiel,Loan,out,0,Liga Nos,2004,2004/2005
+Sporting CP,Silvestre Varela,19,Left Winger,Casa Pia,Loan,out,0,Liga Nos,2004,2004/2005
+Sporting CP,Chiquinho Delgado,23,Centre-Forward,Chaves,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Sporting CP,Luís Filipe,25,Right-Back,Marítimo,?,out,NA,Liga Nos,2004,2004/2005
+Sporting CP,Christopher,19,Goalkeeper,Torreense,?,out,NA,Liga Nos,2004,2004/2005
+Sporting CP,Pedro Araújo,19,Left-Back,Olivais,?,out,NA,Liga Nos,2004,2004/2005
+Sporting CP,Paulo Sérgio,20,Attacking Midfield,Belenenses SAD,Loan,out,0,Liga Nos,2004,2004/2005
+Sporting CP,Gisvi,22,Centre-Forward,Fátima,?,out,NA,Liga Nos,2004,2004/2005
+Sporting CP,Clayton,28,Left Winger,Penafiel,Loan,out,0,Liga Nos,2004,2004/2005
+Sporting CP,Miguel Ângelo,19,Centre-Back,Casa Pia,Loan,out,0,Liga Nos,2004,2004/2005
+Sporting CP,Lourenço,21,Centre-Forward,Belenenses SAD,Loan,out,0,Liga Nos,2004,2004/2005
+Sporting CP,Paulo Bento,35,Defensive Midfield,Retired,-,out,0,Liga Nos,2004,2004/2005
+SL Benfica,Azar Karadas,22,Centre-Back,Rosenborg BK,£1.58m,in,1.58,Liga Nos,2004,2004/2005
+SL Benfica,Quim,28,Goalkeeper,Braga,£1.26m,in,1.26,Liga Nos,2004,2004/2005
+SL Benfica,Everson,28,Defensive Midfield,OGC Nice,£1.08m,in,1.08,Liga Nos,2004,2004/2005
+SL Benfica,Nuno Assis,27,Attacking Midfield,Vit. Guimarães,£540k,in,0.54,Liga Nos,2004,2004/2005
+SL Benfica,Carlitos,21,Left Midfield,Estoril,£450k,in,0.45,Liga Nos,2004,2004/2005
+SL Benfica,André Luis,25,Centre-Back,Santos FC,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SL Benfica,Paulo Almeida,23,Defensive Midfield,Santos FC,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SL Benfica,Alcides,19,Centre-Back,Chelsea,Loan,in,0,Liga Nos,2004,2004/2005
+SL Benfica,Andrija Delibasic,23,Centre-Forward,RCD Mallorca,Loan,in,0,Liga Nos,2004,2004/2005
+SL Benfica,Amoreirinha,19,Centre-Back,Alverca,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SL Benfica,Manuel dos Santos,30,Left-Back,Marseille,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SL Benfica,Yannick Quesnel,30,Goalkeeper,Alverca,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SL Benfica,Manú,21,Right Winger,Alverca,?,in,NA,Liga Nos,2004,2004/2005
+SL Benfica,Rodolfo Lima,24,Centre-Forward,Alverca,?,in,NA,Liga Nos,2004,2004/2005
+SL Benfica,Zé Rui,21,Left Winger,Alverca,?,in,NA,Liga Nos,2004,2004/2005
+SL Benfica,Manú,22,Right Winger,Modena,"End of loanDec 31, 2004",in,0,Liga Nos,2004,2004/2005
+SL Benfica,Manuel Fernandes,18,Attacking Midfield,Benfica B,-,in,0,Liga Nos,2004,2004/2005
+SL Benfica,Roger,26,Attacking Midfield,Fluminense,"End of loanDec 1, 2004",in,0,Liga Nos,2004,2004/2005
+SL Benfica,Emilio Peixe,31,Defensive Midfield,Leiria,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+SL Benfica,Ednilson,21,Defensive Midfield,Vit. Guimarães,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+SL Benfica,Toni Lopes,24,Right-Back,Beira-Mar,"End of loanJun 1, 2004",in,0,Liga Nos,2004,2004/2005
+SL Benfica,Eduardo Simões,22,Centre-Back,Amora FC,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+SL Benfica,Diogo Luís,23,Left-Back,Beira-Mar,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+SL Benfica,Luís Andrade,30,Defensive Midfield,CD Tenerife,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+SL Benfica,Tiago,23,Central Midfield,Chelsea,£13.50m,out,13.5,Liga Nos,2004,2004/2005
+SL Benfica,Roger,26,Attacking Midfield,Corinthians,£2.07m,out,2.07,Liga Nos,2004,2004/2005
+SL Benfica,Armando Sá,28,Right-Back,Villarreal,£900k,out,0.9,Liga Nos,2004,2004/2005
+SL Benfica,Ednilson,21,Defensive Midfield,Gil Vicente,Loan fee:£90k,out,0.09,Liga Nos,2004,2004/2005
+SL Benfica,Alex Costa,24,Right-Back,Vit. Guimarães,Loan,out,0,Liga Nos,2004,2004/2005
+SL Benfica,Cabral,32,Right-Back,Belenenses SAD,Free Transfer,out,0,Liga Nos,2004,2004/2005
+SL Benfica,Amoreirinha,20,Centre-Back,Estoril,Loan,out,0,Liga Nos,2004,2004/2005
+SL Benfica,Zach Thornton,30,Goalkeeper,Chicago Fire,Free Transfer,out,0,Liga Nos,2004,2004/2005
+SL Benfica,Hélder Cristóvão,33,Centre-Back,Paris SG,Free Transfer,out,0,Liga Nos,2004,2004/2005
+SL Benfica,Argel Fucks,30,Centre-Back,Racing,Free Transfer,out,0,Liga Nos,2004,2004/2005
+SL Benfica,Toni Lopes,25,Right-Back,Servette FC,Free Transfer,out,0,Liga Nos,2004,2004/2005
+SL Benfica,Fernando Aguiar,32,Defensive Midfield,Landskrona,Free Transfer,out,0,Liga Nos,2004,2004/2005
+SL Benfica,Cristiano,27,Left-Back,Belenenses SAD,Loan,out,0,Liga Nos,2004,2004/2005
+SL Benfica,Hélio Pinto,20,Central Midfield,Sevilla B,Free Transfer,out,0,Liga Nos,2004,2004/2005
+SL Benfica,Carlos Bossio,30,Goalkeeper,Lanús,Free Transfer,out,0,Liga Nos,2004,2004/2005
+SL Benfica,Rodolfo Lima,24,Centre-Forward,Belenenses SAD,Loan,out,0,Liga Nos,2004,2004/2005
+SL Benfica,Manú,22,Right Winger,AC Carpenedolo,Loan,out,0,Liga Nos,2004,2004/2005
+SL Benfica,Manú,21,Right Winger,Modena,Loan,out,0,Liga Nos,2004,2004/2005
+SL Benfica,Ivan Dudic,27,Right-Back,RAEC Mons,?,out,NA,Liga Nos,2004,2004/2005
+SL Benfica,Yannick Quesnel,30,Goalkeeper,Estoril,Loan,out,0,Liga Nos,2004,2004/2005
+SL Benfica,Luís Andrade,30,Defensive Midfield,Without Club,-,out,0,Liga Nos,2004,2004/2005
+SL Benfica,Diogo Luís,23,Left-Back,Without Club,-,out,0,Liga Nos,2004,2004/2005
+SL Benfica,Zlatko Zahovic,33,Attacking Midfield,Retired,-,out,0,Liga Nos,2004,2004/2005
+SL Benfica,Emilio Peixe,31,Defensive Midfield,Retired,-,out,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Marcel,23,Centre-Forward,Suwon Bluewings,£1.62m,in,1.62,Liga Nos,2004,2004/2005
+Académica Coimbra,Roberto Brum,26,Defensive Midfield,Coritiba FC,£720k,in,0.72,Liga Nos,2004,2004/2005
+Académica Coimbra,Kenny Cooper Jr.,20,Centre-Forward,Man Utd U23,Loan,in,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Vasco Faísca,23,Centre-Back,Vicenza,Loan,in,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Hugo Leal,24,Central Midfield,FC Porto,Loan,in,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Lira,21,Left-Back,Coritiba FC,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Clément Beaud,23,Central Midfield,Vetra Vilnius,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Bruno Leite,22,Right-Back,RCD Mallorca B,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Ricardo Fernandes,26,Attacking Midfield,FC Porto,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Rafael Ledesma,21,Attacking Midfield,Flamengo,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Kenedy,30,Left-Back,Braga,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Luciano Fonseca,25,Right Winger,Metropolitano,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Académica Coimbra,William,19,Centre-Back,EC São José,?,in,NA,Liga Nos,2004,2004/2005
+Académica Coimbra,Fabien Valeri,29,Left Midfield,Cannes,?,in,NA,Liga Nos,2004,2004/2005
+Académica Coimbra,Dário,27,Centre-Forward,Al-Jazira,Loan,in,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Danilo Moreira,23,Centre-Back,Coritiba FC,?,in,NA,Liga Nos,2004,2004/2005
+Académica Coimbra,Dani,30,Goalkeeper,Naval,?,in,NA,Liga Nos,2004,2004/2005
+Académica Coimbra,Nuno Piloto,22,Central Midfield,Coimbra B,-,in,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Luís Andrade,31,Defensive Midfield,Without Club,-,in,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Luciano Fonseca,25,Right Winger,CS Sergipe-SE,"End of loanMay 1, 2005",in,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Sarmento,19,Right-Back,Académica U19,-,in,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Vítor Vinha,18,Left-Back,Académica U19,-,in,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Raul Oliveira,32,Defender,Lusitânia,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Académica Coimbra,João Lucas,24,Attacking Midfield,Boavista,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Vincent Dyduch,30,Centre-Back,Dragões,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Lucian Marinescu,32,Attacking Midfield,Chaves,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Zuela,20,Centre-Back,Santa Clara,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Jorginho,28,Left Winger,Académico Viseu,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Cédrick Fiston,23,Centre-Forward,Juventus SA,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Fábio Felicio,22,Central Midfield,Leiria,?,out,NA,Liga Nos,2004,2004/2005
+Académica Coimbra,William,19,Centre-Back,Fátima,Loan,out,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Luciano Fonseca,25,Right Winger,CS Sergipe-SE,Loan,out,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Filipe Alvim,25,Right-Back,Corinthians,Loan,out,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Fabien Valeri,30,Left Midfield,AS Choisy-le-Roi,?,out,NA,Liga Nos,2004,2004/2005
+Académica Coimbra,Eduardo,25,Goalkeeper,Sporting Pombal,Loan,out,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Marcelo,34,Centre-Forward,Retired,-,out,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Rocha,36,Defensive Midfield,Retired,-,out,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Clément Beaud,24,Central Midfield,Without Club,-,out,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Paulo Sérgio,20,Attacking Midfield,Sporting B,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Cacá,25,Centre-Forward,Albacete,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+Académica Coimbra,Ákos Buzsáky,22,Central Midfield,FC Porto,"End of loanJun 1, 2004",out,0,Liga Nos,2004,2004/2005
+FC Porto,Anderson,16,Central Midfield,Grêmio,£7.20m,in,7.2,Liga Nos,2004,2004/2005
+FC Porto,Hélder Postiga,21,Centre-Forward,Spurs,£6.75m,in,6.75,Liga Nos,2004,2004/2005
+FC Porto,Diego,19,Attacking Midfield,Santos FC,£6.30m,in,6.3,Liga Nos,2004,2004/2005
+FC Porto,Ricardo Quaresma,20,Right Winger,FC Barcelona,£5.40m,in,5.4,Liga Nos,2004,2004/2005
+FC Porto,Luís Fabiano,23,Centre-Forward,São Paulo,£3.15m,in,3.15,Liga Nos,2004,2004/2005
+FC Porto,Georgios Seitaridis,23,Right-Back,Panathinaikos,£2.70m,in,2.7,Liga Nos,2004,2004/2005
+FC Porto,Thiago Silva,20,Centre-Back,Juventude,£2.25m,in,2.25,Liga Nos,2004,2004/2005
+FC Porto,Leandro,25,Left-Back,Cruzeiro,£1.80m,in,1.8,Liga Nos,2004,2004/2005
+FC Porto,Léo Lima,22,Attacking Midfield,Marítimo,£1.80m,in,1.8,Liga Nos,2004,2004/2005
+FC Porto,Paulo Assunção,24,Defensive Midfield,Nacional,£1.80m,in,1.8,Liga Nos,2004,2004/2005
+FC Porto,Pepe,21,Centre-Back,Marítimo,£1.80m,in,1.8,Liga Nos,2004,2004/2005
+FC Porto,Ibson,21,Central Midfield,Flamengo,£1.62m,in,1.62,Liga Nos,2004,2004/2005
+FC Porto,Areias,27,Left-Back,Beira-Mar,£450k,in,0.45,Liga Nos,2004,2004/2005
+FC Porto,Cláudio Pitbull,22,Centre-Forward,Grêmio,£270k,in,0.27,Liga Nos,2004,2004/2005
+FC Porto,Hugo Leal,24,Central Midfield,Paris SG,Free Transfer,in,0,Liga Nos,2004,2004/2005
+FC Porto,Raúl Meireles,21,Central Midfield,Boavista,Free Transfer,in,0,Liga Nos,2004,2004/2005
+FC Porto,Leandro Bonfim,20,Attacking Midfield,PSV Eindhoven,?,in,NA,Liga Nos,2004,2004/2005
+FC Porto,Ivanildo,18,Right Winger,FC Porto U19,-,in,0,Liga Nos,2004,2004/2005
+FC Porto,Pena,30,Centre-Forward,Braga,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+FC Porto,Hugo Luz,22,Left-Back,Gil Vicente,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+FC Porto,Bruno Fernandes,30,Central Midfield,Moreirense,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+FC Porto,Tiago,29,Defensive Midfield,Leiria,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+FC Porto,Bruno Alves,22,Centre-Back,Vit. Guimarães,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+FC Porto,Paulo Costa,24,Attacking Midfield,G. Bordeaux,"End of loanJun 1, 2004",in,0,Liga Nos,2004,2004/2005
+FC Porto,Hugo Ibarra,30,Right-Back,Monaco,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+FC Porto,Hugo Almeida,20,Centre-Forward,Leiria,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+FC Porto,Ákos Buzsáky,22,Central Midfield,Coimbra,"End of loanJun 1, 2004",in,0,Liga Nos,2004,2004/2005
+FC Porto,Rubens Júnior,29,Left-Back,Vit. Guimarães,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+FC Porto,Candido Costa,23,Right Midfield,Derby,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+FC Porto,Ricardo Carvalho,26,Centre-Back,Chelsea,£27.00m,out,27,Liga Nos,2004,2004/2005
+FC Porto,Deco,26,Attacking Midfield,FC Barcelona,£18.90m,out,18.9,Liga Nos,2004,2004/2005
+FC Porto,Paulo Ferreira,25,Right-Back,Chelsea,£18.00m,out,18,Liga Nos,2004,2004/2005
+FC Porto,Carlos Alberto,20,Attacking Midfield,Corinthians,£9.00m,out,9,Liga Nos,2004,2004/2005
+FC Porto,Derlei,29,Centre-Forward,Dinamo Moscow,£6.75m,out,6.75,Liga Nos,2004,2004/2005
+FC Porto,Pedro Mendes,25,Defensive Midfield,Spurs,£2.70m,out,2.7,Liga Nos,2004,2004/2005
+FC Porto,Fabiano Rossato,26,Left-Back,Real Sociedad,£900k,out,0.9,Liga Nos,2004,2004/2005
+FC Porto,Dmitri Alenichev,31,Central Midfield,Spartak Moscow,£900k,out,0.9,Liga Nos,2004,2004/2005
+FC Porto,Edgaras Jankauskas,29,Centre-Forward,OGC Nice,Loan fee:£675k,out,0.675,Liga Nos,2004,2004/2005
+FC Porto,Maciel,26,Right Winger,Atlético-PR,Loan fee:£450k,out,0.45,Liga Nos,2004,2004/2005
+FC Porto,Ákos Buzsáky,22,Central Midfield,Plymouth,£360k,out,0.36,Liga Nos,2004,2004/2005
+FC Porto,César Peixoto,24,Central Midfield,Vit. Guimarães,Loan fee:£90k,out,0.09,Liga Nos,2004,2004/2005
+FC Porto,Rubens Júnior,29,Left-Back,Coritiba FC,Free Transfer,out,0,Liga Nos,2004,2004/2005
+FC Porto,Bruno Alves,22,Centre-Back,AEK Athens,Loan,out,0,Liga Nos,2004,2004/2005
+FC Porto,Paulo Costa,24,Attacking Midfield,Gil Vicente,Loan,out,0,Liga Nos,2004,2004/2005
+FC Porto,Tonel,24,Centre-Back,Marítimo,Free Transfer,out,0,Liga Nos,2004,2004/2005
+FC Porto,Pena,30,Centre-Forward,Marítimo,Free Transfer,out,0,Liga Nos,2004,2004/2005
+FC Porto,Tiago,29,Defensive Midfield,Boavista,Free Transfer,out,0,Liga Nos,2004,2004/2005
+FC Porto,Paulo Santos,31,Goalkeeper,Braga,Free Transfer,out,0,Liga Nos,2004,2004/2005
+FC Porto,Secretário,34,Right-Back,Maia,Free Transfer,out,0,Liga Nos,2004,2004/2005
+FC Porto,Ricardo Fernandes,26,Attacking Midfield,Coimbra,Free Transfer,out,0,Liga Nos,2004,2004/2005
+FC Porto,Hugo Leal,24,Central Midfield,Coimbra,Loan,out,0,Liga Nos,2004,2004/2005
+FC Porto,Sérgio Conceição,29,Right Winger,Standard Liège,Free Transfer,out,0,Liga Nos,2004,2004/2005
+FC Porto,Marco Ferreira,26,Right Winger,Vit. Guimarães,Loan,out,0,Liga Nos,2004,2004/2005
+FC Porto,Bruno Fernandes,30,Central Midfield,Nacional,Free Transfer,out,0,Liga Nos,2004,2004/2005
+FC Porto,Candido Costa,23,Right Midfield,Braga,Free Transfer,out,0,Liga Nos,2004,2004/2005
+FC Porto,Hugo Almeida,20,Centre-Forward,Boavista,Loan,out,0,Liga Nos,2004,2004/2005
+FC Porto,Sérgio Organista,19,Defensive Midfield,Santa Clara,Loan,out,0,Liga Nos,2004,2004/2005
+FC Porto,Mário Silva,27,Left-Back,Recr. Huelva,Loan,out,0,Liga Nos,2004,2004/2005
+FC Porto,Bruno Moraes,19,Centre-Forward,Vitória Setúbal,Loan,out,0,Liga Nos,2004,2004/2005
+FC Porto,Evaldo,22,Left-Back,Marítimo,?,out,NA,Liga Nos,2004,2004/2005
+FC Porto,Hugo Ibarra,30,Right-Back,Espanyol,?,out,NA,Liga Nos,2004,2004/2005
+FC Porto,André Queirós,18,Goalkeeper,Espinho,?,out,NA,Liga Nos,2004,2004/2005
+FC Porto,Paulo Assunção,24,Defensive Midfield,AEK Athens,Loan,out,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,César Peixoto,24,Central Midfield,FC Porto,Loan fee:£90k,in,0.09,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Zé Nando,28,Left-Back,Paços Ferreira,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Turra,30,Centre-Back,Boavista,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Alex Costa,24,Right-Back,Benfica,Loan,in,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Sanibal Orahovac,25,Centre-Forward,Red Star,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,William Kwabena Tiero,23,Attacking Midfield,Asante Kotoko,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Elpídio Silva,28,Centre-Forward,Sporting CP,Loan,in,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Marco Ferreira,26,Right Winger,FC Porto,Loan,in,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Braulio Leal,22,Central Midfield,Colo Colo,Loan,in,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Jaílton,22,Defensive Midfield,Ipatinga FC,?,in,NA,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Attila Dragóner,29,Centre-Back,Ferencváros,?,in,NA,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Pedro Freitas,17,Goalkeeper,Guimarães U19,-,in,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Tiago Targino,18,Right Winger,Guimarães U19,-,in,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Moreno,22,Centre-Back,Caçadores,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Evando,27,Centre-Forward,Estrela Amadora,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Tomas Tomic,27,Goalkeeper,Estrela Amadora,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Nuno Assis,27,Attacking Midfield,Benfica,£540k,out,0.54,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Guga,27,Right Winger,Boavista,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Evando,27,Centre-Forward,Avaí FC,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Marco Couto,30,Centre-Back,Al Ahli,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Fangueiro,27,Right Winger,Leiria,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Carlos Carneiro,30,Centre-Forward,Gil Vicente,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Abel Ferreira,25,Right-Back,Braga,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Afonso Martins,31,Attacking Midfield,Moreirense,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Rui Ferreira,31,Defensive Midfield,Belenenses SAD,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Jaílton,22,Defensive Midfield,Estrela Amadora,?,out,NA,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Hugo Cunha,27,Attacking Midfield,Leiria,?,out,NA,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Vinicius,30,Centre-Forward,Paysandu,?,out,NA,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Braulio Leal,23,Central Midfield,Colo Colo,"End of loanDec 31, 2004",out,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Ednilson,21,Defensive Midfield,Benfica,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Bruno Alves,22,Centre-Back,FC Porto,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Jaílson,22,Centre-Forward,Atlético-MG,"End of loanJun 1, 2004",out,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,João Tomás,29,Centre-Forward,Real Betis,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+Vitória Guimarães SC,Rubens Júnior,29,Left-Back,FC Porto,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+CD Nacional,Wendel,22,Defensive Midfield,Cruzeiro,Free Transfer,in,0,Liga Nos,2004,2004/2005
+CD Nacional,Geufer,23,Centre-Forward,Juventude,Free Transfer,in,0,Liga Nos,2004,2004/2005
+CD Nacional,Bruno Fernandes,30,Central Midfield,FC Porto,Free Transfer,in,0,Liga Nos,2004,2004/2005
+CD Nacional,Alonso,24,Left-Back,Paysandu,?,in,NA,Liga Nos,2004,2004/2005
+CD Nacional,Ferreira,25,Centre-Forward,Gil Vicente,?,in,NA,Liga Nos,2004,2004/2005
+CD Nacional,Marcelo Costa,23,Attacking Midfield,Juventude,?,in,NA,Liga Nos,2004,2004/2005
+CD Nacional,Fábio Santos,23,Defensive Midfield,São Caetano,?,in,NA,Liga Nos,2004,2004/2005
+CD Nacional,Julio Marchant,24,Right Midfield,Unión (SF),?,in,NA,Liga Nos,2004,2004/2005
+CD Nacional,Carlos Manuel,18,Right-Back,Nacional U19,-,in,0,Liga Nos,2004,2004/2005
+CD Nacional,André Pinto,25,Centre-Forward,Santa Clara,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+CD Nacional,Rogerinho,24,Forward,Camacha,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+CD Nacional,Serginho Cunha,31,Forward,Juventude,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+CD Nacional,Nuno Viveiros,21,Right Winger,Camacha,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+CD Nacional,Paulo Assunção,24,Defensive Midfield,FC Porto,£1.80m,out,1.8,Liga Nos,2004,2004/2005
+CD Nacional,Adriano,25,Centre-Forward,Cruzeiro,£270k,out,0.27,Liga Nos,2004,2004/2005
+CD Nacional,Rondinelli,26,Left-Back,Figueirense FC,Free Transfer,out,0,Liga Nos,2004,2004/2005
+CD Nacional,Rómulo,27,Centre-Forward,Estrela Amadora,Free Transfer,out,0,Liga Nos,2004,2004/2005
+CD Nacional,Rogerinho,24,Forward,Juventude,Loan,out,0,Liga Nos,2004,2004/2005
+CD Nacional,Michel Neves,23,Centre-Forward,Juventude,Free Transfer,out,0,Liga Nos,2004,2004/2005
+CD Nacional,Serginho Baiano,26,Left Winger,Chunnam Dragons,Free Transfer,out,0,Liga Nos,2004,2004/2005
+CD Nacional,Geufer,24,Centre-Forward,Leiria,Loan,out,0,Liga Nos,2004,2004/2005
+CD Nacional,Fábio Santos,24,Defensive Midfield,Cruzeiro,?,out,NA,Liga Nos,2004,2004/2005
+CD Nacional,Mário Carlos,21,Right Winger,Leiria,?,out,NA,Liga Nos,2004,2004/2005
+CD Nacional,Ferreira,25,Centre-Forward,Leiria,?,out,NA,Liga Nos,2004,2004/2005
+CD Nacional,Carlos Pérez,32,Attacking Midfield,CD Ourense,?,out,NA,Liga Nos,2004,2004/2005
+CD Nacional,Serginho Cunha,31,Forward,União Madeira,?,out,NA,Liga Nos,2004,2004/2005
+CD Nacional,Ivo Vieira,28,Right-Back,Retired,-,out,0,Liga Nos,2004,2004/2005
+CD Nacional,Diego Clementino,20,Centre-Forward,Cruzeiro,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Juninho Petrolina,29,Attacking Midfield,Beira-Mar,£108k,in,0.108,Liga Nos,2004,2004/2005
+Belenenses SAD,Renato Silva,20,Centre-Back,Goiás EC,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Catanha,32,Centre-Forward,Celta de Vigo,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Cristiano,27,Left-Back,Benfica,Loan,in,0,Liga Nos,2004,2004/2005
+Belenenses SAD,José Pedro,25,Central Midfield,Boavista,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Rui Ferreira,31,Defensive Midfield,Vit. Guimarães,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Cabral,32,Right-Back,Benfica,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Rodolfo Lima,24,Centre-Forward,Benfica,Loan,in,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Paulo Sérgio,20,Attacking Midfield,Sporting CP,Loan,in,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Sandro,30,Centre-Back,Botafogo,?,in,NA,Liga Nos,2004,2004/2005
+Belenenses SAD,Amaral,26,Right-Back,Leixões,?,in,NA,Liga Nos,2004,2004/2005
+Belenenses SAD,Jorginho,29,Defensive Midfield,Brasiliense-DF,?,in,NA,Liga Nos,2004,2004/2005
+Belenenses SAD,Lourenço,21,Centre-Forward,Sporting CP,Loan,in,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Rolando,18,Centre-Back,Belenenses U19,-,in,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Émerson,29,Centre-Back,São Paulo,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Verona,30,Attacking Midfield,Estrela Amadora,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Cristiano Brasília,27,Centre-Forward,Sport Recife,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Hugo Henrique,29,Centre-Forward,TJ Teda,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Rui Borges,30,Right Winger,Estrela Amadora,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Paulo Sérgio,31,Centre-Back,Olhanense,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Sandro,31,Centre-Back,Sport Recife,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Byung-min Jung,20,Forward,Ulsan,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Hélder Rosário,24,Centre-Back,Boavista,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Fábio Rosa,21,Forward,Hapoel Tel Aviv,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Alessandro Mangiarratti,26,Centre-Back,Atlas,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Carlos Fernandes,26,Left-Back,Boavista,?,out,NA,Liga Nos,2004,2004/2005
+Belenenses SAD,Leandro,25,Left Winger,Volta Redonda,?,out,NA,Liga Nos,2004,2004/2005
+Belenenses SAD,Chico Silva,26,Left-Back,Dragões,?,out,NA,Liga Nos,2004,2004/2005
+Belenenses SAD,Mauro,30,Left Winger,Estrela Amadora,Loan,out,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Jorginho,29,Defensive Midfield,Brasiliense-DF,?,out,NA,Liga Nos,2004,2004/2005
+Belenenses SAD,Bruno Simão,19,Left-Back,Benfica B,?,out,NA,Liga Nos,2004,2004/2005
+Belenenses SAD,Filgueira,37,Centre-Back,Retired,-,out,0,Liga Nos,2004,2004/2005
+Belenenses SAD,Juninho Petrolina,30,Attacking Midfield,Without Club,-,out,0,Liga Nos,2004,2004/2005
+União de Leiria,Hugo Faria,21,Defensive Midfield,Louletano,Free Transfer,in,0,Liga Nos,2004,2004/2005
+União de Leiria,Fangueiro,27,Right Winger,Vit. Guimarães,Free Transfer,in,0,Liga Nos,2004,2004/2005
+União de Leiria,Bernardo Vasconcelos,25,Centre-Forward,RKC Waalwijk,Loan,in,0,Liga Nos,2004,2004/2005
+União de Leiria,Modou Sougou,19,Right Winger,AS Douanes,Free Transfer,in,0,Liga Nos,2004,2004/2005
+União de Leiria,Geufer,24,Centre-Forward,Nacional,Loan,in,0,Liga Nos,2004,2004/2005
+União de Leiria,Vargas,25,Right Winger,Alverca,?,in,NA,Liga Nos,2004,2004/2005
+União de Leiria,Fábio Felicio,22,Central Midfield,Coimbra,?,in,NA,Liga Nos,2004,2004/2005
+União de Leiria,Mário Carlos,21,Right Winger,Nacional,?,in,NA,Liga Nos,2004,2004/2005
+União de Leiria,Torrão,27,Defensive Midfield,Alverca,?,in,NA,Liga Nos,2004,2004/2005
+União de Leiria,Hugo Cunha,27,Attacking Midfield,Vit. Guimarães,?,in,NA,Liga Nos,2004,2004/2005
+União de Leiria,Petar Krpan,30,Centre-Forward,Hajduk Split,?,in,NA,Liga Nos,2004,2004/2005
+União de Leiria,Ferreira,25,Centre-Forward,Nacional,?,in,NA,Liga Nos,2004,2004/2005
+União de Leiria,Renato Queirós,26,Right Winger,Paços Ferreira,?,in,NA,Liga Nos,2004,2004/2005
+União de Leiria,Douala,25,Left Winger,Sporting CP,£900k,out,0.9,Liga Nos,2004,2004/2005
+União de Leiria,Eduardo Oliveira,31,Centre-Back,Stade Brest 29,Free Transfer,out,0,Liga Nos,2004,2004/2005
+União de Leiria,Maurito,23,Forward,Al-Jazira,Free Transfer,out,0,Liga Nos,2004,2004/2005
+União de Leiria,Cédric De Cicco,25,Goalkeeper,Bourg-Péronnas,Free Transfer,out,0,Liga Nos,2004,2004/2005
+União de Leiria,Caíco,30,Attacking Midfield,Juventude,Free Transfer,out,0,Liga Nos,2004,2004/2005
+União de Leiria,João Manuel,36,Central Midfield,Moreirense,?,out,NA,Liga Nos,2004,2004/2005
+União de Leiria,Vargas,26,Right Winger,Estoril,Loan,out,0,Liga Nos,2004,2004/2005
+União de Leiria,Claudio,25,Centre-Forward,Unknown,?,out,NA,Liga Nos,2004,2004/2005
+União de Leiria,Sérgio Gameiro,28,Attacking Midfield,Maia,?,out,NA,Liga Nos,2004,2004/2005
+União de Leiria,Cláudio,25,Forward,Paysandu,?,out,NA,Liga Nos,2004,2004/2005
+União de Leiria,Mário Carlos,21,Right Winger,Espinho,Loan,out,0,Liga Nos,2004,2004/2005
+União de Leiria,Bruno Jorge,19,Goalkeeper,Estoril,?,out,NA,Liga Nos,2004,2004/2005
+União de Leiria,Peter,21,Midfielder,Marília,?,out,NA,Liga Nos,2004,2004/2005
+União de Leiria,Paulo Duarte,35,Centre-Back,Retired,-,out,0,Liga Nos,2004,2004/2005
+União de Leiria,Bernardo Vasconcelos,25,Centre-Forward,RKC Waalwijk,"End of loanDec 31, 2004",out,0,Liga Nos,2004,2004/2005
+União de Leiria,Bilro,33,Right-Back,Without Club,-,out,0,Liga Nos,2004,2004/2005
+União de Leiria,Luís Filipe,25,Right-Back,Sporting CP,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+União de Leiria,Filipe Teixeira,23,Right Winger,Paris SG,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+União de Leiria,Emilio Peixe,31,Defensive Midfield,Benfica,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+União de Leiria,Tiago,29,Defensive Midfield,FC Porto,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+União de Leiria,Hugo Almeida,20,Centre-Forward,FC Porto,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+Moreirense FC,Nei,24,Centre-Forward,Ovarense,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Moreirense FC,Maurice Mendy,22,Centre-Back,Raith Rovers,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Moreirense FC,Eriverton,26,Central Midfield,Santa Cruz,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Moreirense FC,Fernando,23,Left Midfield,Varzim,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Moreirense FC,Afonso Martins,31,Attacking Midfield,Vit. Guimarães,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Moreirense FC,João Manuel,36,Central Midfield,Leiria,?,in,NA,Liga Nos,2004,2004/2005
+Moreirense FC,Delfim,27,Central Midfield,Marseille,Loan,in,0,Liga Nos,2004,2004/2005
+Moreirense FC,Luís Carlos,18,Centre-Forward,Moreirense U19,-,in,0,Liga Nos,2004,2004/2005
+Moreirense FC,Cristian Uribe,28,Central Midfield,Huachipato FC,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Moreirense FC,Nuno Mendes,26,Centre-Back,Santa Clara,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Moreirense FC,Sena,27,Right-Back,Falkirk FC,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Moreirense FC,Carlos Lima,26,Right Midfield,Académico Viseu,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Moreirense FC,Rêgo,25,Attacking Midfield,Valenciano,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Moreirense FC,Jorge Brítez,23,Defensive Midfield,Olimpia,?,out,NA,Liga Nos,2004,2004/2005
+Moreirense FC,Émerson,29,Midfielder,Felgueiras,?,out,NA,Liga Nos,2004,2004/2005
+Moreirense FC,Bruno Fernandes,30,Central Midfield,FC Porto,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+CS Marítimo,Abel Lobatón,27,Centre-Forward,César Vallejo,Free Transfer,in,0,Liga Nos,2004,2004/2005
+CS Marítimo,Tonel,24,Centre-Back,FC Porto,Free Transfer,in,0,Liga Nos,2004,2004/2005
+CS Marítimo,Pena,30,Centre-Forward,FC Porto,Free Transfer,in,0,Liga Nos,2004,2004/2005
+CS Marítimo,Krum Bibishkov,21,Centre-Forward,Marek Dupnitsa,Free Transfer,in,0,Liga Nos,2004,2004/2005
+CS Marítimo,Damir Pekic,25,Centre-Forward,LR Ahlen,Free Transfer,in,0,Liga Nos,2004,2004/2005
+CS Marítimo,Marcinho,23,Attacking Midfield,Santos FC,Free Transfer,in,0,Liga Nos,2004,2004/2005
+CS Marítimo,Rui Marques,26,Centre-Back,VfB Stuttgart,Free Transfer,in,0,Liga Nos,2004,2004/2005
+CS Marítimo,Gustavo Manduca,24,Left Winger,Paços Ferreira,Free Transfer,in,0,Liga Nos,2004,2004/2005
+CS Marítimo,Luís Filipe,25,Right-Back,Sporting CP,?,in,NA,Liga Nos,2004,2004/2005
+CS Marítimo,Silas,27,Attacking Midfield,Wolves,Loan,in,0,Liga Nos,2004,2004/2005
+CS Marítimo,Evaldo,22,Left-Back,FC Porto,?,in,NA,Liga Nos,2004,2004/2005
+CS Marítimo,Nélson Sousa,23,Goalkeeper,Caniçal,?,in,NA,Liga Nos,2004,2004/2005
+CS Marítimo,Tiquinho,18,Right Winger,Marítimo U19,-,in,0,Liga Nos,2004,2004/2005
+CS Marítimo,Hugo Morais,26,Central Midfield,União Madeira,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+CS Marítimo,Pedro Moutinho,24,Centre-Forward,Penafiel,"End of loanJun 1, 2004",in,0,Liga Nos,2004,2004/2005
+CS Marítimo,Júnior Bahia,27,Centre-Forward,Penafiel,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+CS Marítimo,Ronaldo,23,Forward,Santa Clara,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+CS Marítimo,Pepe,21,Centre-Back,FC Porto,£1.80m,out,1.8,Liga Nos,2004,2004/2005
+CS Marítimo,Léo Lima,22,Attacking Midfield,FC Porto,£1.80m,out,1.8,Liga Nos,2004,2004/2005
+CS Marítimo,Pedro Moutinho,24,Centre-Forward,Falkirk FC,Free Transfer,out,0,Liga Nos,2004,2004/2005
+CS Marítimo,Albertino,32,Right-Back,Marco,Free Transfer,out,0,Liga Nos,2004,2004/2005
+CS Marítimo,Ezequias,23,Left-Back,Gil Vicente,Loan,out,0,Liga Nos,2004,2004/2005
+CS Marítimo,Zumbi,24,Centre-Forward,Marília,Free Transfer,out,0,Liga Nos,2004,2004/2005
+CS Marítimo,Jaime Bragança,21,Left Winger,Santa Clara,Loan,out,0,Liga Nos,2004,2004/2005
+CS Marítimo,João Paiva,21,Centre-Forward,Espinho,Free Transfer,out,0,Liga Nos,2004,2004/2005
+CS Marítimo,Souza,22,Centre-Forward,Internacional,Loan,out,0,Liga Nos,2004,2004/2005
+CS Marítimo,Márcio Abreu,24,Central Midfield,Camacha,?,out,NA,Liga Nos,2004,2004/2005
+CS Marítimo,Rincón,27,Centre-Forward,Paços Ferreira,Loan,out,0,Liga Nos,2004,2004/2005
+CS Marítimo,Fabio Ramos,24,Attacking Midfield,Nacional,?,out,NA,Liga Nos,2004,2004/2005
+CS Marítimo,Hugo Morais,26,Central Midfield,Desportivo Aves,Loan,out,0,Liga Nos,2004,2004/2005
+CS Marítimo,André Neles,26,Centre-Forward,Figueirense FC,?,out,NA,Liga Nos,2004,2004/2005
+CS Marítimo,Rodrigão,26,Centre-Forward,Botafogo,"End of loanDec 1, 2004",out,0,Liga Nos,2004,2004/2005
+CS Marítimo,Dinda,31,Midfielder,Retired,-,out,0,Liga Nos,2004,2004/2005
+CS Marítimo,Danny,20,Attacking Midfield,Sporting CP,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+SC Braga,Lima,22,Centre-Forward,Cruzeiro,£1.35m,in,1.35,Liga Nos,2004,2004/2005
+SC Braga,Nabil Baha,22,Centre-Forward,Naval,£675k,in,0.675,Liga Nos,2004,2004/2005
+SC Braga,Vandinho,26,Central Midfield,Rio Ave FC,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Braga,João Alves,23,Central Midfield,Chaves,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Braga,Candido Costa,23,Right Midfield,FC Porto,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Braga,Nelsinho,24,Attacking Midfield,Fafe,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Braga,Léo Moura,26,Right-Back,Fluminense,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Braga,José Nunes,27,Centre-Back,Gil Vicente,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Braga,Abel Ferreira,25,Right-Back,Vit. Guimarães,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Braga,Paulo Santos,31,Goalkeeper,FC Porto,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Braga,Césinha,24,Second Striker,Santa Cruz,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Braga,Luís Loureiro,27,Defensive Midfield,Gil Vicente,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Braga,Jaime,25,Attacking Midfield,Rio Ave FC,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Braga,Andrés Madrid,23,Defensive Midfield,Gimnasia,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Braga,Ilan Bachar,29,Defender,FC Ashdod,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Braga,João Tomás,29,Centre-Forward,Real Betis,Loan,in,0,Liga Nos,2004,2004/2005
+SC Braga,Ilan Bakhar,29,Right-Back,FC Ashdod,?,in,NA,Liga Nos,2004,2004/2005
+SC Braga,Edinho,22,Centre-Forward,Braga B,-,in,0,Liga Nos,2004,2004/2005
+SC Braga,Xano,23,Left Midfield,Braga B,-,in,0,Liga Nos,2004,2004/2005
+SC Braga,Filipe Gonçalves,20,Defensive Midfield,Braga B,-,in,0,Liga Nos,2004,2004/2005
+SC Braga,João Pedro,18,Right-Back,Braga U19,-,in,0,Liga Nos,2004,2004/2005
+SC Braga,Zé Roberto,25,Attacking Midfield,Alverca,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+SC Braga,Cícero,18,Centre-Forward,Dinamo Moscow,£3.15m,out,3.15,Liga Nos,2004,2004/2005
+SC Braga,Lima,23,Centre-Forward,Atlético-PR,£2.25m,out,2.25,Liga Nos,2004,2004/2005
+SC Braga,Luís Loureiro,28,Defensive Midfield,Dinamo Moscow,£1.80m,out,1.8,Liga Nos,2004,2004/2005
+SC Braga,Quim,28,Goalkeeper,Benfica,£1.26m,out,1.26,Liga Nos,2004,2004/2005
+SC Braga,Kenedy,30,Left-Back,Coimbra,Free Transfer,out,0,Liga Nos,2004,2004/2005
+SC Braga,Éder Bonfim,23,Right-Back,Vitória Setúbal,Free Transfer,out,0,Liga Nos,2004,2004/2005
+SC Braga,Nelsinho,25,Attacking Midfield,Estrela Amadora,Loan,out,0,Liga Nos,2004,2004/2005
+SC Braga,Artur Jorge,32,Centre-Back,Penafiel,Free Transfer,out,0,Liga Nos,2004,2004/2005
+SC Braga,Igor,24,Centre-Forward,Vitória Setúbal,Loan,out,0,Liga Nos,2004,2004/2005
+SC Braga,Nordin Wooter,26,Right Winger,Anorthosis,Free Transfer,out,0,Liga Nos,2004,2004/2005
+SC Braga,Dominic Foley,27,Centre-Forward,Bohemians,Free Transfer,out,0,Liga Nos,2004,2004/2005
+SC Braga,Henrique,24,Centre-Forward,Estrela Amadora,Loan,out,0,Liga Nos,2004,2004/2005
+SC Braga,Paulo Fonseca,22,Right-Back,Portimonense,?,out,NA,Liga Nos,2004,2004/2005
+SC Braga,Xano,23,Left Midfield,Desportivo Aves,?,out,NA,Liga Nos,2004,2004/2005
+SC Braga,Marco Vanzini,28,Defensive Midfield,Terrassa FC,?,out,NA,Liga Nos,2004,2004/2005
+SC Braga,Telmo,29,Left-Back,Varzim,?,out,NA,Liga Nos,2004,2004/2005
+SC Braga,Narcisse,23,Attacking Midfield,Portimonense,?,out,NA,Liga Nos,2004,2004/2005
+SC Braga,Toni,21,Centre-Back,Santa Clara,?,out,NA,Liga Nos,2004,2004/2005
+SC Braga,Zé Roberto,25,Attacking Midfield,Naval,Loan,out,0,Liga Nos,2004,2004/2005
+SC Braga,Nené,24,Defensive Midfield,Desportivo Aves,Loan,out,0,Liga Nos,2004,2004/2005
+SC Braga,Miguel Soares,22,Central Midfield,Desportivo Aves,Loan,out,0,Liga Nos,2004,2004/2005
+SC Braga,Zé Pedro,22,Right-Back,Oliveirense,?,out,NA,Liga Nos,2004,2004/2005
+SC Braga,Fredrik Söderström,31,Central Midfield,Estrela Amadora,?,out,NA,Liga Nos,2004,2004/2005
+SC Braga,Kiril Nikolov,28,Attacking Midfield,Litex Lovetch,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+SC Braga,Pena,30,Centre-Forward,FC Porto,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+Rio Ave FC,Delson,23,Defensive Midfield,Salgueiros,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Rio Ave FC,Saulo,22,Right Winger,Maia,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Rio Ave FC,Gaúcho,31,Centre-Forward,Pusan I'Park,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Rio Ave FC,Ricardo Nascimento,30,Attacking Midfield,Maia,?,in,NA,Liga Nos,2004,2004/2005
+Rio Ave FC,Amaobi,22,Forward,Nam Dinh FC,?,in,NA,Liga Nos,2004,2004/2005
+Rio Ave FC,Adriano,21,Goalkeeper,Valenciano,?,in,NA,Liga Nos,2004,2004/2005
+Rio Ave FC,Marquinhos,21,Central Midfield,Oliveira Bairro,?,in,NA,Liga Nos,2004,2004/2005
+Rio Ave FC,Flávio,19,Attacking Midfield,Rio Ave FC U19,-,in,0,Liga Nos,2004,2004/2005
+Rio Ave FC,Ricardo Nascimento,30,Attacking Midfield,FC Seoul,£225k,out,0.225,Liga Nos,2004,2004/2005
+Rio Ave FC,Ronny van Es,26,Centre-Forward,Stormvogels,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Rio Ave FC,Pedro Franco,30,Centre-Back,FC Seoul,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Rio Ave FC,Vandinho,26,Central Midfield,Braga,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Rio Ave FC,Cuco,22,Central Midfield,Ovarense,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Rio Ave FC,Jaime,25,Attacking Midfield,Braga,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Rio Ave FC,Cuco,22,Central Midfield,Rio Tinto,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Rio Ave FC,Nuno Sousa,30,Centre-Forward,Paços Ferreira,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Rio Ave FC,Ruben,21,Central Midfield,Unknown,?,out,NA,Liga Nos,2004,2004/2005
+Rio Ave FC,Amaobi,23,Forward,SHB Da Nang,?,out,NA,Liga Nos,2004,2004/2005
+Rio Ave FC,Tiago Carneiro,21,Left Winger,Marco,Loan,out,0,Liga Nos,2004,2004/2005
+Rio Ave FC,Mário Neves,31,Goalkeeper,Retired,-,out,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Hugo Almeida,20,Centre-Forward,FC Porto,Loan,in,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Zé Manuel,29,Right Winger,Paços Ferreira,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Toñito,27,Right Midfield,Sporting CP,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Hélder Rosário,24,Centre-Back,Belenenses SAD,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Cadú,22,Centre-Back,Paços Ferreira,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Nélson,21,Right-Back,Salgueiros,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Carlos Milhazes,23,Left-Back,Varzim,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,João Pinto,32,Second Striker,Sporting CP,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Carlos Fernandes,24,Goalkeeper,Felgueiras,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Ambassa,23,Centre-Back,Canon Yaoundé,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,João Lucas,24,Attacking Midfield,Coimbra,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Guga,27,Right Winger,Vit. Guimarães,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Tiago,29,Defensive Midfield,FC Porto,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,André Barreto,24,Central Midfield,Estoril,?,in,NA,Liga Nos,2004,2004/2005
+Boavista Porto FC,Carlos Fernandes,26,Left-Back,Belenenses SAD,?,in,NA,Liga Nos,2004,2004/2005
+Boavista Porto FC,Felipe Flores,27,Centre-Forward,La Serena,?,in,NA,Liga Nos,2004,2004/2005
+Boavista Porto FC,Joao Pedro,19,Defensive Midfield,Boavista U19,-,in,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Ali El Omari,26,Left Midfield,Estoril,"End of loanDec 1, 2004",in,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Sául,26,Defender,Beira-Mar,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,João Paulo,24,Centre-Forward,Beira-Mar,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Diogo Valente,19,Left Winger,Chaves,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Pedro Santos,28,Central Midfield,Penafiel,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Ricardo Sousa,25,Attacking Midfield,Hannover 96,£675k,out,0.675,Liga Nos,2004,2004/2005
+Boavista Porto FC,Frechaut,27,Right-Back,Dinamo Moscow,£630k,out,0.63,Liga Nos,2004,2004/2005
+Boavista Porto FC,Turra,30,Centre-Back,Vit. Guimarães,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Mário Loja,26,Left-Back,Beira-Mar,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Rui Óscar,28,Right-Back,Beira-Mar,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Hugo Ferreira,20,Goalkeeper,Paredes,Loan,out,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,João Paulo,24,Centre-Forward,Estoril,Loan,out,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,André Macanga,26,Defensive Midfield,Gaziantepspor,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Sául,26,Defender,US Créteil,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Duda,30,Centre-Forward,Internacional,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Ali El Omari,26,Left Midfield,Estoril,Loan,out,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Ali El Omari,26,Left Midfield,Beira-Mar,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,José Pedro,25,Central Midfield,Belenenses SAD,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Raúl Meireles,21,Central Midfield,FC Porto,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Jocivalter,25,Attacking Midfield,Varzim,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Vítor Borges,20,Right-Back,Desportivo Aves,?,out,NA,Liga Nos,2004,2004/2005
+Boavista Porto FC,Jorge Silva,29,Defensive Midfield,Beira-Mar,?,out,NA,Liga Nos,2004,2004/2005
+Boavista Porto FC,Paulo Rangel,19,Centre-Forward,Varzim,Loan,out,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Steven,19,Right-Back,Paredes,Loan,out,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Hélder Calvino,20,Attacking Midfield,Paços Ferreira,Loan,out,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Nelson Santos,19,Midfielder,Paredes,Loan,out,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Pedro Santos,28,Central Midfield,Penafiel,Loan,out,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Luiz Cláudio,26,Centre-Forward,Botafogo,?,out,NA,Liga Nos,2004,2004/2005
+Boavista Porto FC,Ricardo Silva,28,Centre-Back,Without Club,-,out,0,Liga Nos,2004,2004/2005
+Boavista Porto FC,Pedrosa,32,Central Midfield,Retired,-,out,0,Liga Nos,2004,2004/2005
+FC Penafiel,Pascal,23,Centre-Forward,Vitória Setúbal,Free Transfer,in,0,Liga Nos,2004,2004/2005
+FC Penafiel,Fernando Aguiar,32,Defensive Midfield,Landskrona,Free Transfer,in,0,Liga Nos,2004,2004/2005
+FC Penafiel,Sidney Moraes,27,Defensive Midfield,Guarani,Free Transfer,in,0,Liga Nos,2004,2004/2005
+FC Penafiel,Kelly Berville,26,Left-Back,FC Gueugnon,Free Transfer,in,0,Liga Nos,2004,2004/2005
+FC Penafiel,Edgar Marcelino,19,Right Winger,Sporting CP,Loan,in,0,Liga Nos,2004,2004/2005
+FC Penafiel,Rolf Martin Landerl,28,Attacking Midfield,FC Groningen,Free Transfer,in,0,Liga Nos,2004,2004/2005
+FC Penafiel,Ljubinko Drulovic,35,Left Winger,Partizan,Free Transfer,in,0,Liga Nos,2004,2004/2005
+FC Penafiel,Américo,23,Forward,Sanjoanense,Free Transfer,in,0,Liga Nos,2004,2004/2005
+FC Penafiel,Ousmane N'Doye,26,Defensive Midfield,Estoril,Free Transfer,in,0,Liga Nos,2004,2004/2005
+FC Penafiel,Artur Jorge,32,Centre-Back,Braga,Free Transfer,in,0,Liga Nos,2004,2004/2005
+FC Penafiel,Clayton,28,Left Winger,Sporting CP,Loan,in,0,Liga Nos,2004,2004/2005
+FC Penafiel,Nuno Diogo,23,Centre-Back,Salgueiros,?,in,NA,Liga Nos,2004,2004/2005
+FC Penafiel,Pedro Santos,28,Central Midfield,Boavista,Loan,in,0,Liga Nos,2004,2004/2005
+FC Penafiel,Cassiano,29,Midfielder,Botafogo,?,in,NA,Liga Nos,2004,2004/2005
+FC Penafiel,Nílton,25,Central Midfield,Salgueiros,?,in,NA,Liga Nos,2004,2004/2005
+FC Penafiel,Nuno Silva,28,Centre-Back,Leixões,?,in,NA,Liga Nos,2004,2004/2005
+FC Penafiel,Marquinhos,29,Midfielder,Marco,?,in,NA,Liga Nos,2004,2004/2005
+FC Penafiel,Carlos Oliveira,24,Attacking Midfield,Leça,?,in,NA,Liga Nos,2004,2004/2005
+FC Penafiel,Jean Batista,22,Left-Back,Uberaba,?,in,NA,Liga Nos,2004,2004/2005
+FC Penafiel,Vítor Silva,20,Attacking Midfield,Lus. Lourosa,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+FC Penafiel,Nuno Morais,20,Defensive Midfield,Chelsea,Free Transfer,out,0,Liga Nos,2004,2004/2005
+FC Penafiel,Vítor Silva,20,Attacking Midfield,AD Lousada,Loan,out,0,Liga Nos,2004,2004/2005
+FC Penafiel,Américo,24,Forward,Imortal,Free Transfer,out,0,Liga Nos,2004,2004/2005
+FC Penafiel,Carlos Oliveira,25,Attacking Midfield,Ovarense,Free Transfer,out,0,Liga Nos,2004,2004/2005
+FC Penafiel,Marquinhos,30,Midfielder,Ribeira Brava,Free Transfer,out,0,Liga Nos,2004,2004/2005
+FC Penafiel,Quim,30,Centre-Forward,QD Jonoon,Free Transfer,out,0,Liga Nos,2004,2004/2005
+FC Penafiel,Messias,20,Defensive Midfield,Desportivo Aves,Loan,out,0,Liga Nos,2004,2004/2005
+FC Penafiel,Serginho,27,Forward,Chaves,?,out,NA,Liga Nos,2004,2004/2005
+FC Penafiel,Jean Batista,23,Left-Back,Vasco da Gama,?,out,NA,Liga Nos,2004,2004/2005
+FC Penafiel,Ginho,24,Right Winger,Espinho,?,out,NA,Liga Nos,2004,2004/2005
+FC Penafiel,Ferreira,24,Central Midfield,Marco,?,out,NA,Liga Nos,2004,2004/2005
+FC Penafiel,Mauro,20,Centre-Back,Paredes,?,out,NA,Liga Nos,2004,2004/2005
+FC Penafiel,Artur Jorge,33,Centre-Back,Retired,-,out,0,Liga Nos,2004,2004/2005
+FC Penafiel,Ljubinko Drulovic,36,Left Winger,Retired,-,out,0,Liga Nos,2004,2004/2005
+FC Penafiel,Pedro Moutinho,24,Centre-Forward,Marítimo,"End of loanJun 1, 2004",out,0,Liga Nos,2004,2004/2005
+FC Penafiel,Júnior Bahia,27,Centre-Forward,Marítimo,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+FC Penafiel,Pedro Santos,28,Central Midfield,Boavista,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+FC Penafiel,Adriano,22,Centre-Back,Comercial-SP,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Ednilson,21,Defensive Midfield,Benfica,Loan fee:£90k,in,0.09,Liga Nos,2004,2004/2005
+Gil Vicente FC,Paulo Costa,24,Attacking Midfield,FC Porto,Loan,in,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Júlio César,24,Centre-Forward,Estrela Amadora,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Grégory Arnolin,23,Centre-Back,FC Pedras Rubras,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Carlos Carneiro,30,Centre-Forward,Vit. Guimarães,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Carlitos,27,Right Winger,Poli Ejido,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Jorge Ribeiro,22,Left-Back,Varzim,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Rovérsio,20,Centre-Back,Santa Cruz,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Ezequias,23,Left-Back,Marítimo,Loan,in,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Fábio Hempel,23,Centre-Forward,Salgueiros,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Rui Baião,23,Attacking Midfield,Estrela Amadora,?,in,NA,Liga Nos,2004,2004/2005
+Gil Vicente FC,Edson Mendes,26,Right-Back,Santa Cruz,Loan,in,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Tonanha,24,Right Midfield,Leixões,?,in,NA,Liga Nos,2004,2004/2005
+Gil Vicente FC,Bruno Tiago,23,Central Midfield,Dragões,?,in,NA,Liga Nos,2004,2004/2005
+Gil Vicente FC,Sidraílson,22,Centre-Back,Santa Cruz,?,in,NA,Liga Nos,2004,2004/2005
+Gil Vicente FC,Paulo Arantes,17,Right-Back,Gil Vicente FC U19,-,in,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Óscar,17,Attacking Midfield,Gil Vicente FC U19,-,in,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Salgueiro,18,Goalkeeper,Gil Vicente FC U19,-,in,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Luis Tinoco,17,Left-Back,Gil Vicente FC U19,-,in,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Piloto,17,Right Winger,Gil Vicente FC U19,-,in,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Christophe,17,Forward,Gil Vicente FC U19,-,in,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Rui Baião,24,Attacking Midfield,AO Kerkyra,"End of loanDec 31, 2004",in,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Júlio César,24,Centre-Forward,AEK Athens,£486k,out,0.486,Liga Nos,2004,2004/2005
+Gil Vicente FC,Gaspar,29,Centre-Back,AC Ajaccio,£180k,out,0.18,Liga Nos,2004,2004/2005
+Gil Vicente FC,Joca,23,Defensive Midfield,Santa Clara,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Larry,21,Forward,Marco,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Luís Loureiro,27,Defensive Midfield,Braga,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Joca,24,Right-Back,Paços Ferreira,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Emmanuel Duah,27,Left Midfield,Al-Nejmeh,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Antonieliton Ferreira,21,Right-Back,Marítimo B,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Jorge Ribeiro,23,Left-Back,Dinamo Moscow,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,José Nunes,27,Centre-Back,Braga,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Ivo Afonso,28,Centre-Back,Naval,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Yuri,21,Centre-Forward,Estoril,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Edinho,22,Centre-Forward,Jaguaré-ES,?,out,NA,Liga Nos,2004,2004/2005
+Gil Vicente FC,Fábio Hempel,24,Centre-Forward,Estrela Amadora,Loan,out,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Rui Baião,24,Attacking Midfield,AO Kerkyra,Loan,out,0,Liga Nos,2004,2004/2005
+Gil Vicente FC,Rui André,20,Centre-Forward,Santa Maria da Feira,?,out,NA,Liga Nos,2004,2004/2005
+Gil Vicente FC,Ferreira,25,Centre-Forward,Nacional,?,out,NA,Liga Nos,2004,2004/2005
+Gil Vicente FC,Hugo Luz,22,Left-Back,FC Porto,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+GD Estoril,Raphael Roncen,24,Midfielder,RE Virton,Free Transfer,in,0,Liga Nos,2004,2004/2005
+GD Estoril,Yuri,21,Centre-Forward,Gil Vicente,Free Transfer,in,0,Liga Nos,2004,2004/2005
+GD Estoril,Luís Torres,24,Right-Back,Barreirense,Free Transfer,in,0,Liga Nos,2004,2004/2005
+GD Estoril,Dejan Ognjanovic,26,Right-Back,Partizan,Loan,in,0,Liga Nos,2004,2004/2005
+GD Estoril,João Paulo,24,Centre-Forward,Boavista,Loan,in,0,Liga Nos,2004,2004/2005
+GD Estoril,Kalifa Cissé,20,Centre-Back,Toulouse B,Free Transfer,in,0,Liga Nos,2004,2004/2005
+GD Estoril,Jorge Baptista,27,Goalkeeper,Dragões,Free Transfer,in,0,Liga Nos,2004,2004/2005
+GD Estoril,Amoreirinha,20,Centre-Back,Benfica,Loan,in,0,Liga Nos,2004,2004/2005
+GD Estoril,Ousmane N'Doye,26,Defensive Midfield,Toulouse,Free Transfer,in,0,Liga Nos,2004,2004/2005
+GD Estoril,Elias,22,Defensive Midfield,Corinthians,Free Transfer,in,0,Liga Nos,2004,2004/2005
+GD Estoril,Moses Sakyi,23,Centre-Forward,Istanbulspor,Free Transfer,in,0,Liga Nos,2004,2004/2005
+GD Estoril,Ali El Omari,26,Left Midfield,Boavista,Loan,in,0,Liga Nos,2004,2004/2005
+GD Estoril,Bruno Jorge,19,Goalkeeper,Leiria,?,in,NA,Liga Nos,2004,2004/2005
+GD Estoril,Vargas,26,Right Winger,Leiria,Loan,in,0,Liga Nos,2004,2004/2005
+GD Estoril,Filipe,18,Midfielder,Corinthians,?,in,NA,Liga Nos,2004,2004/2005
+GD Estoril,Yannick Quesnel,30,Goalkeeper,Benfica,Loan,in,0,Liga Nos,2004,2004/2005
+GD Estoril,Edmar,23,Goalkeeper,Corinthians,?,in,NA,Liga Nos,2004,2004/2005
+GD Estoril,Ibón Arrieta,27,Centre-Forward,Chaves,?,in,NA,Liga Nos,2004,2004/2005
+GD Estoril,Stéphane Maurel,23,Right-Back,AC Ajaccio,?,in,NA,Liga Nos,2004,2004/2005
+GD Estoril,Milton,26,Central Midfield,Lusitânia,?,in,NA,Liga Nos,2004,2004/2005
+GD Estoril,Luciano Rosa,29,Forward,Corinthians,?,in,NA,Liga Nos,2004,2004/2005
+GD Estoril,Carlitos,21,Left Midfield,Benfica,£450k,out,0.45,Liga Nos,2004,2004/2005
+GD Estoril,Edmar,23,Goalkeeper,Corinthians,Free Transfer,out,0,Liga Nos,2004,2004/2005
+GD Estoril,Ivo,23,Goalkeeper,Pontassolense,Free Transfer,out,0,Liga Nos,2004,2004/2005
+GD Estoril,Milton,26,Central Midfield,Fátima,Free Transfer,out,0,Liga Nos,2004,2004/2005
+GD Estoril,Luciano Rosa,29,Forward,Corinthians,Free Transfer,out,0,Liga Nos,2004,2004/2005
+GD Estoril,Fabrice Catherine,31,Goalkeeper,Stade Laval,Free Transfer,out,0,Liga Nos,2004,2004/2005
+GD Estoril,Dominique Aulanier,30,Attacking Midfield,FC Sion,Free Transfer,out,0,Liga Nos,2004,2004/2005
+GD Estoril,Ousmane N'Doye,26,Defensive Midfield,Penafiel,Free Transfer,out,0,Liga Nos,2004,2004/2005
+GD Estoril,Marco Paulo,28,Centre-Forward,Stade Laval,Free Transfer,out,0,Liga Nos,2004,2004/2005
+GD Estoril,Marcos António,24,Centre-Forward,Sanjoanense,Free Transfer,out,0,Liga Nos,2004,2004/2005
+GD Estoril,Tiago Gomes,18,Central Midfield,Oriental,?,out,NA,Liga Nos,2004,2004/2005
+GD Estoril,Luís Carlos,31,Attacking Midfield,Beira-Mar Alg.,?,out,NA,Liga Nos,2004,2004/2005
+GD Estoril,André Barreto,24,Central Midfield,Boavista,?,out,NA,Liga Nos,2004,2004/2005
+GD Estoril,Dejan Ognjanovic,26,Right-Back,Partizan,"End of loanDec 31, 2004",out,0,Liga Nos,2004,2004/2005
+GD Estoril,Ferenc Horváth,31,Centre-Forward,Without Club,-,out,0,Liga Nos,2004,2004/2005
+GD Estoril,Ali El Omari,26,Left Midfield,Boavista,"End of loanDec 1, 2004",out,0,Liga Nos,2004,2004/2005
+GD Estoril,Nuno Sampaio,29,Goalkeeper,Retired,-,out,0,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,João Paulo Brito,30,Right Winger,CSKA Sofia,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Dione,24,Defender,Anápolis-GO,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Fabien Farnolle,20,Goalkeeper,G. Bordeaux B,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Éder Bonfim,23,Right-Back,Braga,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Binho,26,Defensive Midfield,Naval,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Moretto,26,Goalkeeper,Felgueiras,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Igor,24,Centre-Forward,Braga,Loan,in,0,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Pedro Oliveira,22,Right Winger,Leixões,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Diogo,21,Centre-Forward,Kalmar FF,Free Transfer,in,0,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Ricardo Chaves,26,Defensive Midfield,Chaves,?,in,NA,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Bruno Moraes,19,Centre-Forward,FC Porto,Loan,in,0,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Nélson Veríssimo,27,Centre-Back,Alverca,?,in,NA,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Nandinho,28,Left-Back,Alverca,?,in,NA,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Tiago Sousa,20,Centre-Back,Chaves,?,in,NA,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,João Paulo Brito,30,Right Winger,AGS Kastoria,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Orestes,23,Centre-Back,Maia,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Pascal,23,Centre-Forward,Penafiel,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Roberto Tigrão,25,Goalkeeper,Criciúma EC,Free Transfer,out,0,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,João Costa,30,Defensive Midfield,Chaves,?,out,NA,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Tiago Sousa,19,Centre-Back,Chaves,?,out,NA,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Manuel do Carmo,29,Midfielder,Louletano,?,out,NA,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Nuno Santos,31,Goalkeeper,Santa Clara,?,out,NA,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Sérgio,19,Midfielder,Chaves,?,out,NA,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Nélson,32,Right-Back,Rio Tinto,?,out,NA,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Mário Pessoa,20,Central Midfield,Vendas Novas,Loan,out,0,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,Rui André,29,Left-Back,Maia,?,out,NA,Liga Nos,2004,2004/2005
+Vitória Setúbal FC,João de Deus,27,Right-Back,Retired,-,out,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Beto,27,Central Midfield,Paços Ferreira,£50k,in,0.05,Liga Nos,2004,2004/2005
+SC Beira-Mar,Tininho,23,Left-Back,Micaelense,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Ali El Omari,26,Left Midfield,Boavista,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Stephen McPhee,23,Forward,Port Vale,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Paul Murray,27,Central Midfield,Oldham Athletic,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Santiago Silva,23,Centre-Forward,River Plate,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Pavel Srnicek,36,Goalkeeper,Portsmouth,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Rui Óscar,28,Right-Back,Boavista,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Hassan Ahamada,23,Attacking Midfield,FC Nantes,Loan,in,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Mário Loja,26,Left-Back,Boavista,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Pablo Rodríguez,27,Attacking Midfield,OGC Nice,Free Transfer,in,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Eugene Galekovic,23,Goalkeeper,South Melbourne,?,in,NA,Liga Nos,2004,2004/2005
+SC Beira-Mar,Jorge Silva,29,Defensive Midfield,Boavista,?,in,NA,Liga Nos,2004,2004/2005
+SC Beira-Mar,Heitor,26,Centre-Forward,Salgueiros,?,in,NA,Liga Nos,2004,2004/2005
+SC Beira-Mar,Ricardo,23,Centre-Back,Freamunde,?,in,NA,Liga Nos,2004,2004/2005
+SC Beira-Mar,Bruno Resende,19,Centre-Back,Beira-Mar U19,-,in,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Ricardo Silva,29,Centre-Back,Without Club,-,in,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Artur,20,Attacking Midfield,Gafanha,"End of loanJun 30, 2004",in,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Areias,27,Left-Back,FC Porto,£450k,out,0.45,Liga Nos,2004,2004/2005
+SC Beira-Mar,Juninho Petrolina,29,Attacking Midfield,Belenenses SAD,£108k,out,0.108,Liga Nos,2004,2004/2005
+SC Beira-Mar,Andy Marriott,33,Goalkeeper,Coventry,Free Transfer,out,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Fusco,31,Defensive Midfield,Pinhalnovense,Free Transfer,out,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Maurício Levato,28,Central Midfield,FC Cartagena,Free Transfer,out,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Gamboa,31,Centre-Forward,Maia,Free Transfer,out,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Clyde Wijnhard,30,Centre-Forward,Darlington,Free Transfer,out,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Pablo Rodríguez,27,Attacking Midfield,Wanderers,Free Transfer,out,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Artur,20,Attacking Midfield,Avanca,Loan,out,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Whelliton,31,Forward,Flamengo,?,out,NA,Liga Nos,2004,2004/2005
+SC Beira-Mar,Kata,26,Defensive Midfield,Servette FC,?,out,NA,Liga Nos,2004,2004/2005
+SC Beira-Mar,Alejandro Osorio,27,Central Midfield,CDUC,?,out,NA,Liga Nos,2004,2004/2005
+SC Beira-Mar,Marian Zeman,30,Centre-Back,Retired,-,out,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Sául,26,Defender,Boavista,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,João Paulo,24,Centre-Forward,Boavista,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Toni Lopes,24,Right-Back,Benfica,"End of loanJun 1, 2004",out,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Carlinhos Bala,24,Centre-Forward,Santa Cruz,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005
+SC Beira-Mar,Diogo Luís,23,Left-Back,Benfica,"End of loanJun 30, 2004",out,0,Liga Nos,2004,2004/2005

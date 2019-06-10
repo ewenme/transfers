@@ -1,0 +1,734 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+FC Barcelona,André Gomes,22,Central Midfield,Valencia,£33.30m,in,33.3,Primera Division,2016,2016/2017
+FC Barcelona,Paco Alcácer,23,Centre-Forward,Valencia,£27.00m,in,27,Primera Division,2016,2016/2017
+FC Barcelona,Samuel Umtiti,22,Centre-Back,Olympique Lyon,£22.50m,in,22.5,Primera Division,2016,2016/2017
+FC Barcelona,Lucas Digne,22,Left-Back,Paris SG,£14.85m,in,14.85,Primera Division,2016,2016/2017
+FC Barcelona,Jasper Cillessen,27,Goalkeeper,Ajax,£11.70m,in,11.7,Primera Division,2016,2016/2017
+FC Barcelona,Denis Suárez,22,Central Midfield,Villarreal,£2.93m,in,2.93,Primera Division,2016,2016/2017
+FC Barcelona,Sergi Samper,21,Defensive Midfield,FC Barcelona B,-,in,0,Primera Division,2016,2016/2017
+FC Barcelona,Alex Song,28,Defensive Midfield,West Ham,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+FC Barcelona,Alen Halilovic,20,Attacking Midfield,Sporting Gijón,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+FC Barcelona,Martín Montoya,25,Right-Back,Real Betis,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+FC Barcelona,Cristian Tello,24,Left Winger,Fiorentina,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+FC Barcelona,Claudio Bravo,33,Goalkeeper,Man City,£16.20m,out,16.2,Primera Division,2016,2016/2017
+FC Barcelona,Marc Bartra,25,Centre-Back,Bor. Dortmund,£7.20m,out,7.2,Primera Division,2016,2016/2017
+FC Barcelona,Alen Halilovic,20,Attacking Midfield,Hamburger SV,£4.50m,out,4.5,Primera Division,2016,2016/2017
+FC Barcelona,Adriano,31,Left-Back,Besiktas,£2.07m,out,2.07,Primera Division,2016,2016/2017
+FC Barcelona,Cristian Tello,25,Left Winger,Fiorentina,Loan fee:£450k,out,0.45,Primera Division,2016,2016/2017
+FC Barcelona,Dani Alves,33,Right-Back,Juventus,Free Transfer,out,0,Primera Division,2016,2016/2017
+FC Barcelona,Martín Montoya,25,Right-Back,Valencia,Free Transfer,out,0,Primera Division,2016,2016/2017
+FC Barcelona,Sandro Ramírez,20,Centre-Forward,Málaga CF,Free Transfer,out,0,Primera Division,2016,2016/2017
+FC Barcelona,Douglas,26,Right-Back,Sporting Gijón,Loan,out,0,Primera Division,2016,2016/2017
+FC Barcelona,Alex Song,28,Defensive Midfield,Rubin Kazan,Free Transfer,out,0,Primera Division,2016,2016/2017
+FC Barcelona,Thomas Vermaelen,30,Centre-Back,AS Roma,Loan,out,0,Primera Division,2016,2016/2017
+FC Barcelona,Sergi Samper,21,Defensive Midfield,Granada CF,Loan,out,0,Primera Division,2016,2016/2017
+FC Barcelona,Munir El Haddadi,20,Centre-Forward,Valencia,Loan,out,0,Primera Division,2016,2016/2017
+Real Madrid,Álvaro Morata,23,Centre-Forward,Juventus,£27.00m,in,27,Primera Division,2016,2016/2017
+Real Madrid,Martin Ödegaard,18,Right Winger,RM Castilla,-,in,0,Primera Division,2016,2016/2017
+Real Madrid,Borja Mayoral,19,Centre-Forward,RM Castilla,-,in,0,Primera Division,2016,2016/2017
+Real Madrid,Mariano Díaz,22,Centre-Forward,RM Castilla,-,in,0,Primera Division,2016,2016/2017
+Real Madrid,Marcos Llorente,21,Defensive Midfield,RM Castilla,-,in,0,Primera Division,2016,2016/2017
+Real Madrid,Omar Mascarell,23,Defensive Midfield,Sporting Gijón,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Real Madrid,Lucas Silva,23,Central Midfield,Marseille,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Real Madrid,Álvaro Medrán,22,Central Midfield,Getafe,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Real Madrid,Jesús Vallejo,19,Centre-Back,Real Zaragoza,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Real Madrid,Fábio Coentrão,28,Left-Back,Monaco,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Real Madrid,Diego Llorente,22,Centre-Back,Rayo Vallecano,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Real Madrid,Marco Asensio,20,Left Winger,Espanyol,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Real Madrid,Denis Cheryshev,25,Left Winger,Valencia,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Real Madrid,Burgui,22,Left Winger,Espanyol,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Real Madrid,Jesé,23,Centre-Forward,Paris SG,£22.50m,out,22.5,Primera Division,2016,2016/2017
+Real Madrid,Denis Cheryshev,25,Left Winger,Villarreal,£6.30m,out,6.3,Primera Division,2016,2016/2017
+Real Madrid,Borja Mayoral,19,Centre-Forward,VfL Wolfsburg,Loan fee:£2.70m,out,2.7,Primera Division,2016,2016/2017
+Real Madrid,Álvaro Medrán,22,Central Midfield,Valencia,£1.35m,out,1.35,Primera Division,2016,2016/2017
+Real Madrid,Omar Mascarell,23,Defensive Midfield,E. Frankfurt,£900k,out,0.9,Primera Division,2016,2016/2017
+Real Madrid,Álvaro Arbeloa,33,Right-Back,West Ham,Free Transfer,out,0,Primera Division,2016,2016/2017
+Real Madrid,Diego Llorente,22,Centre-Back,Málaga CF,Loan,out,0,Primera Division,2016,2016/2017
+Real Madrid,Marcos Llorente,21,Defensive Midfield,Alavés,Loan,out,0,Primera Division,2016,2016/2017
+Real Madrid,Lucas Silva,23,Central Midfield,Cruzeiro,Loan,out,0,Primera Division,2016,2016/2017
+Real Madrid,Jesús Vallejo,19,Centre-Back,E. Frankfurt,Loan,out,0,Primera Division,2016,2016/2017
+Real Madrid,Martin Ödegaard,18,Right Winger,Heerenveen,Loan,out,0,Primera Division,2016,2016/2017
+Real Madrid,Burgui,22,Left Winger,Sporting Gijón,Loan,out,0,Primera Division,2016,2016/2017
+Atlético Madrid,Kévin Gameiro,29,Centre-Forward,Sevilla FC,£27.00m,in,27,Primera Division,2016,2016/2017
+Atlético Madrid,Nico Gaitán,28,Left Winger,Benfica,£22.50m,in,22.5,Primera Division,2016,2016/2017
+Atlético Madrid,Sime Vrsaljko,24,Right-Back,Sassuolo,£14.40m,in,14.4,Primera Division,2016,2016/2017
+Atlético Madrid,Diogo Jota,19,Left Winger,Paços Ferreira,£6.48m,in,6.48,Primera Division,2016,2016/2017
+Atlético Madrid,Axel Werner,20,Goalkeeper,Rafaela,£720k,in,0.72,Primera Division,2016,2016/2017
+Atlético Madrid,Fernando Torres,32,Centre-Forward,AC Milan,Free Transfer,in,0,Primera Division,2016,2016/2017
+Atlético Madrid,André Moreira,20,Goalkeeper,Belenenses SAD,"End of loanAug 16, 2016",in,0,Primera Division,2016,2016/2017
+Atlético Madrid,Theo Hernández,18,Left-Back,Atl. Madrid B,-,in,0,Primera Division,2016,2016/2017
+Atlético Madrid,Sílvio,28,Right-Back,Benfica,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Atlético Madrid,Bono,25,Goalkeeper,Real Zaragoza,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Atlético Madrid,Miranda,31,Centre-Back,Inter,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Atlético Madrid,Borja Bastón,23,Centre-Forward,SD Eibar,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Atlético Madrid,Emiliano Velázquez,22,Centre-Back,Getafe,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Atlético Madrid,André Moreira,20,Goalkeeper,União Madeira,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Atlético Madrid,Javier Manquillo,22,Right-Back,Marseille,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Atlético Madrid,Alessio Cerci,28,Right Winger,Genoa,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Atlético Madrid,Josuha Guilavogui,25,Defensive Midfield,VfL Wolfsburg,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Atlético Madrid,Leo Baptistão,23,Right Winger,Villarreal,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Atlético Madrid,Bernard Mensah,21,Central Midfield,Getafe,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Atlético Madrid,Santos Borré,20,Centre-Forward,Deportivo Cali,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Atlético Madrid,Borja Bastón,23,Centre-Forward,Swansea,£16.20m,out,16.2,Primera Division,2016,2016/2017
+Atlético Madrid,Miranda,31,Centre-Back,Inter,£8.10m,out,8.1,Primera Division,2016,2016/2017
+Atlético Madrid,Leo Baptistão,23,Right Winger,Espanyol,£6.30m,out,6.3,Primera Division,2016,2016/2017
+Atlético Madrid,Luciano Vietto,22,Centre-Forward,Sevilla FC,Loan fee:£2.70m,out,2.7,Primera Division,2016,2016/2017
+Atlético Madrid,Josuha Guilavogui,25,Defensive Midfield,VfL Wolfsburg,£2.70m,out,2.7,Primera Division,2016,2016/2017
+Atlético Madrid,Matías Kranevitter,23,Defensive Midfield,Sevilla FC,Loan fee:£1.80m,out,1.8,Primera Division,2016,2016/2017
+Atlético Madrid,Sílvio,28,Right-Back,Wolves,Free Transfer,out,0,Primera Division,2016,2016/2017
+Atlético Madrid,Jesús Gámez,31,Right-Back,Newcastle,Free Transfer,out,0,Primera Division,2016,2016/2017
+Atlético Madrid,Diogo Jota,19,Left Winger,FC Porto,Loan,out,0,Primera Division,2016,2016/2017
+Atlético Madrid,Axel Werner,20,Goalkeeper,Boca Juniors,Loan,out,0,Primera Division,2016,2016/2017
+Atlético Madrid,Bernard Mensah,21,Central Midfield,Vit. Guimarães,Loan,out,0,Primera Division,2016,2016/2017
+Atlético Madrid,Óliver Torres,21,Central Midfield,FC Porto,Loan,out,0,Primera Division,2016,2016/2017
+Atlético Madrid,Theo Hernández,18,Left-Back,Alavés,Loan,out,0,Primera Division,2016,2016/2017
+Atlético Madrid,Santos Borré,20,Centre-Forward,Villarreal,Loan,out,0,Primera Division,2016,2016/2017
+Atlético Madrid,Javier Manquillo,22,Right-Back,Sunderland,Loan,out,0,Primera Division,2016,2016/2017
+Atlético Madrid,Bono,25,Goalkeeper,Girona,?,out,NA,Primera Division,2016,2016/2017
+Atlético Madrid,André Moreira,20,Goalkeeper,Belenenses SAD,Loan,out,0,Primera Division,2016,2016/2017
+Atlético Madrid,Emiliano Velázquez,22,Centre-Back,Braga,Loan,out,0,Primera Division,2016,2016/2017
+Atlético Madrid,Fernando Torres,32,Centre-Forward,AC Milan,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Ager Aketxe,22,Attacking Midfield,Bilbao Athletic,-,in,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Alex Remiro,21,Goalkeeper,Bilbao Athletic,-,in,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Kike Sola,30,Centre-Forward,Getafe,"End of loanJan 29, 2017",in,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Unai López,20,Attacking Midfield,Bilbao Athletic,-,in,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Yeray Álvarez,21,Centre-Back,Bilbao Athletic,-,in,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Alex Remiro,21,Goalkeeper,Levante,"End of loanJan 30, 2017",in,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Enric Saborit,24,Left-Back,Bilbao Athletic,-,in,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Mikel Vesga,23,Defensive Midfield,Bilbao Athletic,-,in,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Iñigo Lekue,23,Right-Back,Bilbao Athletic,-,in,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Kepa,21,Goalkeeper,Real Valladolid,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Guillermo,23,Centre-Forward,CD Leganés,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Kike Sola,30,Centre-Forward,Middlesbrough,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Unai Bustinza,24,Centre-Back,CD Leganés,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Erik Morán,25,Defensive Midfield,Real Zaragoza,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Iñigo Ruiz de Galarreta,22,Central Midfield,CD Leganés,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Jon Aurtenetxe,24,Left-Back,CD Tenerife,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Guillermo,23,Centre-Forward,Elche CF,Free Transfer,out,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Unai Bustinza,24,Centre-Back,CD Leganés,Free Transfer,out,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Jon Aurtenetxe,24,Left-Back,CD Mirandés,Free Transfer,out,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Erik Morán,25,Defensive Midfield,Real Zaragoza,Free Transfer,out,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Ibai Gómez,26,Right Winger,Alavés,Free Transfer,out,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Borja Viguera,29,Centre-Forward,Sporting Gijón,Free Transfer,out,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Unai López,20,Attacking Midfield,CD Leganés,Loan,out,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Iago Herrerín,28,Goalkeeper,CD Leganés,Loan,out,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Mikel Vesga,23,Defensive Midfield,Sporting Gijón,Loan,out,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Kike Sola,30,Centre-Forward,Getafe,Loan,out,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Kike Sola,30,Centre-Forward,CD Numancia,Loan,out,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Ager Aketxe,23,Attacking Midfield,Cádiz CF,Loan,out,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Alex Remiro,21,Goalkeeper,Levante,Loan,out,0,Primera Division,2016,2016/2017
+Athletic Bilbao,Carlos Gurpegi,35,Centre-Back,Retired,-,out,0,Primera Division,2016,2016/2017
+Villarreal CF,Roberto Soriano,25,Central Midfield,Sampdoria,£12.38m,in,12.38,Primera Division,2016,2016/2017
+Villarreal CF,Nicola Sansone,24,Left Winger,Sassuolo,£11.70m,in,11.7,Primera Division,2016,2016/2017
+Villarreal CF,Alfred N'Diaye,26,Defensive Midfield,Real Betis,£7.20m,in,7.2,Primera Division,2016,2016/2017
+Villarreal CF,Cristian Espinoza,21,Right Winger,Huracán,£6.48m,in,6.48,Primera Division,2016,2016/2017
+Villarreal CF,Denis Cheryshev,25,Left Winger,Real Madrid,£6.30m,in,6.3,Primera Division,2016,2016/2017
+Villarreal CF,Álvaro González,26,Centre-Back,Espanyol,£3.60m,in,3.6,Primera Division,2016,2016/2017
+Villarreal CF,Alexandre Pato,26,Centre-Forward,Corinthians,£2.70m,in,2.7,Primera Division,2016,2016/2017
+Villarreal CF,Akram Afif,19,Left Winger,Al Sadd,?,in,NA,Primera Division,2016,2016/2017
+Villarreal CF,José Ángel,26,Left-Back,FC Porto,Loan,in,0,Primera Division,2016,2016/2017
+Villarreal CF,Santos Borré,20,Centre-Forward,Atlético Madrid,Loan,in,0,Primera Division,2016,2016/2017
+Villarreal CF,Andrés Fernández,29,Goalkeeper,FC Porto,Loan,in,0,Primera Division,2016,2016/2017
+Villarreal CF,Adrián López,29,Left Midfield,FC Porto,Loan,in,0,Primera Division,2016,2016/2017
+Villarreal CF,Cristian Espinoza,21,Right Winger,Alavés,"End of loanJan 26, 2017",in,0,Primera Division,2016,2016/2017
+Villarreal CF,Adrián Marín,19,Left-Back,Villarreal CF B,-,in,0,Primera Division,2016,2016/2017
+Villarreal CF,Aleksandar Pantic,24,Centre-Back,Alavés,"End of loanJan 30, 2017",in,0,Primera Division,2016,2016/2017
+Villarreal CF,Alfonso Pedraza,20,Left-Back,CD Lugo,"End of loanJan 30, 2017",in,0,Primera Division,2016,2016/2017
+Villarreal CF,Alfonso Pedraza,20,Left-Back,Villarreal CF B,-,in,0,Primera Division,2016,2016/2017
+Villarreal CF,Rodrigo,20,Defensive Midfield,Villarreal CF B,-,in,0,Primera Division,2016,2016/2017
+Villarreal CF,Sergio Marcos,24,Central Midfield,CD Lugo,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Villarreal CF,Javier Espinosa,23,Attacking Midfield,Elche CF,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Villarreal CF,Aleksandar Pantic,24,Centre-Back,SD Eibar,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Villarreal CF,Moi Gómez,22,Attacking Midfield,Getafe,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Villarreal CF,Bojan Jokic,30,Left-Back,Nottm Forest,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Villarreal CF,Eric Bailly,22,Centre-Back,Man Utd,£34.20m,out,34.2,Primera Division,2016,2016/2017
+Villarreal CF,Alexandre Pato,27,Centre-Forward,TJ Quanjian,£16.20m,out,16.2,Primera Division,2016,2016/2017
+Villarreal CF,Samu García,25,Right Winger,Rubin Kazan,£4.50m,out,4.5,Primera Division,2016,2016/2017
+Villarreal CF,Denis Suárez,22,Central Midfield,FC Barcelona,£2.93m,out,2.93,Primera Division,2016,2016/2017
+Villarreal CF,Tomás Pina,28,Central Midfield,Club Brugge,£2.70m,out,2.7,Primera Division,2016,2016/2017
+Villarreal CF,Javier Espinosa,23,Attacking Midfield,Levante,Free Transfer,out,0,Primera Division,2016,2016/2017
+Villarreal CF,Aleksandar Pantic,24,Centre-Back,Dynamo Kyiv,Free Transfer,out,0,Primera Division,2016,2016/2017
+Villarreal CF,Moi Gómez,22,Attacking Midfield,Sporting Gijón,Free Transfer,out,0,Primera Division,2016,2016/2017
+Villarreal CF,Sergio Marcos,24,Central Midfield,Real Valladolid,Free Transfer,out,0,Primera Division,2016,2016/2017
+Villarreal CF,Bojan Jokic,30,Left-Back,Ufa,Free Transfer,out,0,Primera Division,2016,2016/2017
+Villarreal CF,Adrián Marín,19,Left-Back,CD Leganés,Loan,out,0,Primera Division,2016,2016/2017
+Villarreal CF,Aleksandar Pantic,24,Centre-Back,Alavés,Loan,out,0,Primera Division,2016,2016/2017
+Villarreal CF,Cristian Espinoza,21,Right Winger,Real Valladolid,Loan,out,0,Primera Division,2016,2016/2017
+Villarreal CF,Alfonso Pedraza,20,Left-Back,CD Lugo,Loan,out,0,Primera Division,2016,2016/2017
+Villarreal CF,Alfred N'Diaye,26,Defensive Midfield,Hull City,Loan,out,0,Primera Division,2016,2016/2017
+Villarreal CF,Cristian Espinoza,21,Right Winger,Alavés,Loan,out,0,Primera Division,2016,2016/2017
+Villarreal CF,Alfonso Pedraza,20,Left-Back,Leeds,Loan,out,0,Primera Division,2016,2016/2017
+Villarreal CF,Akram Afif,19,Left Winger,Sporting Gijón,Loan,out,0,Primera Division,2016,2016/2017
+Villarreal CF,Matías Nahuel,19,Left Winger,Real Betis,Loan,out,0,Primera Division,2016,2016/2017
+Villarreal CF,Leo Baptistão,23,Right Winger,Atlético Madrid,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Villarreal CF,Alphonse Areola,23,Goalkeeper,Paris SG,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Villarreal CF,Adrián López,28,Left Midfield,FC Porto,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Antonio Sanabria,20,Centre-Forward,AS Roma,£6.75m,in,6.75,Primera Division,2016,2016/2017
+Real Betis Balompié,Felipe Gutiérrez,25,Central Midfield,FC Twente,£3.15m,in,3.15,Primera Division,2016,2016/2017
+Real Betis Balompié,Aïssa Mandi,24,Centre-Back,Reims,£2.52m,in,2.52,Primera Division,2016,2016/2017
+Real Betis Balompié,Jonas Martin,26,Central Midfield,Montpellier,£2.34m,in,2.34,Primera Division,2016,2016/2017
+Real Betis Balompié,Riza Durmisi,22,Left-Back,Bröndby IF,£1.80m,in,1.8,Primera Division,2016,2016/2017
+Real Betis Balompié,Darko Brasanac,24,Central Midfield,Partizan,£1.35m,in,1.35,Primera Division,2016,2016/2017
+Real Betis Balompié,Alin Tosca,24,Left-Back,Steaua Bukarest,£900k,in,0.9,Primera Division,2016,2016/2017
+Real Betis Balompié,Manu Herrera,34,Goalkeeper,Real Zaragoza,Free Transfer,in,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Ryan Donk,30,Defensive Midfield,Galatasaray,Loan,in,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Roman Zozulia,26,Centre-Forward,Dnipro,Free Transfer,in,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Matías Nahuel,19,Left Winger,Villarreal,Loan,in,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Rubén Pardo,24,Central Midfield,Real Sociedad,Loan,in,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Fabián Ruiz,20,Central Midfield,Betis B,-,in,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Alex Alegría,23,Centre-Forward,Betis B,-,in,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Rafa Navarro,22,Right-Back,Betis B,-,in,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Braian Rodríguez,29,Centre-Forward,Grêmio,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Real Betis Balompié,José Antonio Caro,23,Centre-Back,Elche CF,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Álex Martínez,25,Left-Back,Elche CF,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Vincenzo Rennella,27,Centre-Forward,Real Valladolid,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Dani Pacheco,25,Left Winger,Alavés,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Lorenzo Reyes,25,Defensive Midfield,UD Almería,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Alfred N'Diaye,26,Defensive Midfield,Villarreal,£7.20m,out,7.2,Primera Division,2016,2016/2017
+Real Betis Balompié,Lorenzo Reyes,25,Defensive Midfield,U. de Chile,Free Transfer,out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Francisco Varela,21,Left-Back,Real Oviedo,Free Transfer,out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Rafael van der Vaart,33,Attacking Midfield,FC Midtjylland,Free Transfer,out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Jorge Molina,34,Centre-Forward,Getafe,Free Transfer,out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Braian Rodríguez,29,Centre-Forward,CD Everton,Free Transfer,out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Heiko Westermann,32,Centre-Back,Ajax,Free Transfer,out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Álvaro Vadillo,21,Right Winger,SD Huesca,Free Transfer,out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Foued Kadir,32,Attacking Midfield,Getafe,Free Transfer,out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Francisco Molinero,30,Right-Back,Getafe,Free Transfer,out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,José Antonio Caro,23,Centre-Back,Córdoba CF,Free Transfer,out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Xavi Torres,29,Defensive Midfield,Sporting Gijón,Free Transfer,out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Vincenzo Rennella,27,Centre-Forward,Real Valladolid,Free Transfer,out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Amro Tarek,24,Centre-Back,Enppi,Free Transfer,out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Felipe Gutiérrez,26,Central Midfield,Internacional,Loan,out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Didier Digard,30,Defensive Midfield,CA Osasuna,Loan,out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Fabián Ruiz,20,Central Midfield,Elche CF,Loan,out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Dani Pacheco,25,Left Winger,Getafe,Loan,out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Francisco Portillo,26,Attacking Midfield,Getafe,Loan,out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Juan Manuel Vargas,32,Left-Back,Without Club,-,out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Charly Musonda Jr.,20,Attacking Midfield,Chelsea U23,"End of loanJan 2, 2017",out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Ricky van Wolfswinkel,27,Centre-Forward,Norwich,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Leandro Damião,26,Centre-Forward,Santos FC,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Real Betis Balompié,Martín Montoya,25,Right-Back,FC Barcelona,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Sevilla FC,Joaquín Correa,21,Second Striker,Sampdoria,£16.38m,in,16.38,Primera Division,2016,2016/2017
+Sevilla FC,Franco Vázquez,27,Attacking Midfield,US Palermo,£15.12m,in,15.12,Primera Division,2016,2016/2017
+Sevilla FC,Ganso,26,Attacking Midfield,São Paulo,£8.55m,in,8.55,Primera Division,2016,2016/2017
+Sevilla FC,Wissam Ben Yedder,25,Centre-Forward,Toulouse,£8.55m,in,8.55,Primera Division,2016,2016/2017
+Sevilla FC,Hiroshi Kiyotake,26,Attacking Midfield,Hannover 96,£5.85m,in,5.85,Primera Division,2016,2016/2017
+Sevilla FC,Walter Montoya,23,Right Midfield,CA Rosario,£4.95m,in,4.95,Primera Division,2016,2016/2017
+Sevilla FC,Clément Lenglet,21,Centre-Back,AS Nancy,£4.86m,in,4.86,Primera Division,2016,2016/2017
+Sevilla FC,Luciano Vietto,22,Centre-Forward,Atlético Madrid,Loan fee:£2.70m,in,2.7,Primera Division,2016,2016/2017
+Sevilla FC,Gabriel Mercado,29,Centre-Back,River Plate,£2.25m,in,2.25,Primera Division,2016,2016/2017
+Sevilla FC,Matías Kranevitter,23,Defensive Midfield,Atlético Madrid,Loan fee:£1.80m,in,1.8,Primera Division,2016,2016/2017
+Sevilla FC,Pablo Sarabia,24,Attacking Midfield,Getafe,£900k,in,0.9,Primera Division,2016,2016/2017
+Sevilla FC,Stevan Jovetic,27,Centre-Forward,Inter,Loan,in,0,Primera Division,2016,2016/2017
+Sevilla FC,Samir Nasri,29,Attacking Midfield,Man City,Loan,in,0,Primera Division,2016,2016/2017
+Sevilla FC,Salvatore Sirigu,29,Goalkeeper,Paris SG,Loan,in,0,Primera Division,2016,2016/2017
+Sevilla FC,Juan Muñoz,21,Centre-Forward,Real Zaragoza,"End of loanJan 23, 2017",in,0,Primera Division,2016,2016/2017
+Sevilla FC,Ciro Immobile,26,Centre-Forward,Torino,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Sevilla FC,Kévin Gameiro,29,Centre-Forward,Atlético Madrid,£27.00m,out,27,Primera Division,2016,2016/2017
+Sevilla FC,Grzegorz Krychowiak,26,Defensive Midfield,Paris SG,£24.75m,out,24.75,Primera Division,2016,2016/2017
+Sevilla FC,Ciro Immobile,26,Centre-Forward,Lazio,£8.51m,out,8.51,Primera Division,2016,2016/2017
+Sevilla FC,Timothée Kolodziejczak,25,Centre-Back,Bor. M'gladbach,£6.75m,out,6.75,Primera Division,2016,2016/2017
+Sevilla FC,Fernando Llorente,31,Centre-Forward,Swansea,£5.31m,out,5.31,Primera Division,2016,2016/2017
+Sevilla FC,Hiroshi Kiyotake,27,Attacking Midfield,Cerezo Osaka,£4.59m,out,4.59,Primera Division,2016,2016/2017
+Sevilla FC,Coke,29,Right-Back,FC Schalke 04,£3.60m,out,3.6,Primera Division,2016,2016/2017
+Sevilla FC,Diogo Figueiras,25,Right-Back,Olympiacos,£1.35m,out,1.35,Primera Division,2016,2016/2017
+Sevilla FC,Sebastián Cristóforo,23,Central Midfield,Fiorentina,Loan fee:£450k,out,0.45,Primera Division,2016,2016/2017
+Sevilla FC,José Antonio Reyes,32,Right Winger,Espanyol,Free Transfer,out,0,Primera Division,2016,2016/2017
+Sevilla FC,Luismi,24,Defensive Midfield,Real Valladolid,Free Transfer,out,0,Primera Division,2016,2016/2017
+Sevilla FC,Beto,34,Goalkeeper,Sporting CP,Free Transfer,out,0,Primera Division,2016,2016/2017
+Sevilla FC,Éver Banega,28,Central Midfield,Inter,Free Transfer,out,0,Primera Division,2016,2016/2017
+Sevilla FC,Juan Muñoz,20,Centre-Forward,Real Zaragoza,Loan,out,0,Primera Division,2016,2016/2017
+Sevilla FC,Yevhen Konoplianka,26,Left Winger,FC Schalke 04,Loan,out,0,Primera Division,2016,2016/2017
+Sevilla FC,Juan Muñoz,21,Centre-Forward,Levante,Loan,out,0,Primera Division,2016,2016/2017
+Sevilla FC,Salvatore Sirigu,30,Goalkeeper,Paris SG,"End of loanJan 30, 2017",out,0,Primera Division,2016,2016/2017
+Sevilla FC,Marco Andreolli,30,Centre-Back,Inter,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Sevilla FC,Federico Fazio,29,Centre-Back,Spurs,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Daniel Torres,26,Defensive Midfield,Indep. Medellín,£2.86m,in,2.86,Primera Division,2016,2016/2017
+Deportivo Alavés,Aleksandar Katai,25,Left Winger,Red Star,£1.80m,in,1.8,Primera Division,2016,2016/2017
+Deportivo Alavés,Deyverson,25,Centre-Forward,Levante,Loan fee:£360k,in,0.36,Primera Division,2016,2016/2017
+Deportivo Alavés,Alexis,30,Centre-Back,Besiktas,£360k,in,0.36,Primera Division,2016,2016/2017
+Deportivo Alavés,Víctor Camarasa,22,Central Midfield,Levante,Loan fee:£315k,in,0.315,Primera Division,2016,2016/2017
+Deportivo Alavés,Edgar Méndez,26,Right Winger,Granada CF,Free Transfer,in,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Christian Santos,28,Centre-Forward,NEC Nijmegen,Free Transfer,in,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Ibai Gómez,26,Right Winger,Athletic,Free Transfer,in,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Nenad Krsticic,26,Central Midfield,Sampdoria,Free Transfer,in,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Óscar Romero,24,Attacking Midfield,SH Shenhua,Loan,in,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Zouhair Feddal,26,Centre-Back,Levante,Free Transfer,in,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Theo Hernández,18,Left-Back,Atlético Madrid,Loan,in,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Rubén Sobrino,24,Centre-Forward,Man City,Loan,in,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Marcos Llorente,21,Defensive Midfield,Real Madrid,Loan,in,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Rodrigo Ely,23,Centre-Back,AC Milan,Loan,in,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Cristian Espinoza,21,Right Winger,Villarreal,Loan,in,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Adrián Ortolá,22,Goalkeeper,FC Barcelona B,Loan,in,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Aleksandar Pantic,24,Centre-Back,Villarreal,Loan,in,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Carlos Vigaray,21,Right-Back,Getafe,?,in,NA,Primera Division,2016,2016/2017
+Deportivo Alavés,Javier Carpio,32,Right-Back,Cádiz CF,Free Transfer,out,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Sergio Mora,36,Central Midfield,UCAM Murcia,Free Transfer,out,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Juli,34,Second Striker,Córdoba CF,Free Transfer,out,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Aritz Borda,31,Centre-Back,Western Sydney,Free Transfer,out,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Facundo Guichón,25,Left Midfield,UCAM Murcia,Free Transfer,out,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Dani Abalo,28,Right Winger,Korona Kielce,Free Transfer,out,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Hernán Bernardello,29,Defensive Midfield,Montreal Impact,Free Transfer,out,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Iñaki Sáenz,28,Left-Back,CD Tenerife,Free Transfer,out,0,Primera Division,2016,2016/2017
+Deportivo Alavés,David Torres,30,Centre-Forward,CD Alcoyano,Free Transfer,out,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Manu Barreiro,30,Centre-Forward,Gimnàstic,Free Transfer,out,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Pau Torres,29,Goalkeeper,Real Valladolid,Free Transfer,out,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Sergio Pelegrín,36,Centre-Back,Elche CF,Free Transfer,out,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Daniel Estrada,29,Right-Back,Without Club,-,out,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Cristian Espinoza,21,Right Winger,Villarreal,"End of loanJan 26, 2017",out,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Aleksandar Pantic,24,Centre-Back,Villarreal,"End of loanJan 30, 2017",out,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Sergio Llamas,23,Central Midfield,Depor. Alavés B,-,out,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Jagoba Beobide,29,Central Midfield,Without Club,-,out,0,Primera Division,2016,2016/2017
+Deportivo Alavés,Dani Pacheco,25,Left Winger,Real Betis,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+CD Leganés,Mamadou Koné,24,Centre-Forward,Racing,£1.08m,in,1.08,Primera Division,2016,2016/2017
+CD Leganés,Diego Rico,23,Left-Back,Real Zaragoza,£900k,in,0.9,Primera Division,2016,2016/2017
+CD Leganés,Gabriel,22,Central Midfield,Juventus,£900k,in,0.9,Primera Division,2016,2016/2017
+CD Leganés,Erik Morán,25,Defensive Midfield,Real Zaragoza,£180k,in,0.18,Primera Division,2016,2016/2017
+CD Leganés,Nereo Champagne,31,Goalkeeper,Olimpo,Loan fee:£135k,in,0.135,Primera Division,2016,2016/2017
+CD Leganés,Unai Bustinza,24,Centre-Back,Athletic,Free Transfer,in,0,Primera Division,2016,2016/2017
+CD Leganés,Nabil El Zhar,30,Right Winger,UD Las Palmas,Free Transfer,in,0,Primera Division,2016,2016/2017
+CD Leganés,Miguel Ángel Guerrero,25,Centre-Forward,Sporting Gijón,Free Transfer,in,0,Primera Division,2016,2016/2017
+CD Leganés,Adrián Marín,19,Left-Back,Villarreal,Loan,in,0,Primera Division,2016,2016/2017
+CD Leganés,Carl Medjani,31,Defensive Midfield,Levante,Free Transfer,in,0,Primera Division,2016,2016/2017
+CD Leganés,Dimitrios Siovas,28,Centre-Back,Olympiacos,Loan,in,0,Primera Division,2016,2016/2017
+CD Leganés,Tito,31,Right-Back,Granada CF,Loan,in,0,Primera Division,2016,2016/2017
+CD Leganés,Robert Ibáñez,23,Right Winger,Valencia,Loan,in,0,Primera Division,2016,2016/2017
+CD Leganés,Unai López,20,Attacking Midfield,Athletic,Loan,in,0,Primera Division,2016,2016/2017
+CD Leganés,Darwin Machís,23,Left Winger,Granada CF,Loan,in,0,Primera Division,2016,2016/2017
+CD Leganés,Samu García,26,Right Winger,Rubin Kazan,Loan,in,0,Primera Division,2016,2016/2017
+CD Leganés,Rubén Pérez,27,Defensive Midfield,Granada CF,Loan,in,0,Primera Division,2016,2016/2017
+CD Leganés,Luciano Neves,23,Centre-Forward,Corinthians,Loan,in,0,Primera Division,2016,2016/2017
+CD Leganés,Alberto Bueno,28,Second Striker,FC Porto,Loan,in,0,Primera Division,2016,2016/2017
+CD Leganés,Iago Herrerín,28,Goalkeeper,Athletic,Loan,in,0,Primera Division,2016,2016/2017
+CD Leganés,Alberto Brignoli,24,Goalkeeper,Juventus,Loan,in,0,Primera Division,2016,2016/2017
+CD Leganés,Toni Arranz,22,Central Midfield,R. Majadahonda,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+CD Leganés,Rubén Peña,24,Right-Back,SD Eibar,£180k,out,0.18,Primera Division,2016,2016/2017
+CD Leganés,Toni Arranz,22,Central Midfield,UD Sanse,Free Transfer,out,0,Primera Division,2016,2016/2017
+CD Leganés,Lluis Sastre,30,Central Midfield,SD Huesca,Free Transfer,out,0,Primera Division,2016,2016/2017
+CD Leganés,Toni Dovale,26,Right Winger,Rayo Vallecano,Free Transfer,out,0,Primera Division,2016,2016/2017
+CD Leganés,César Soriano,33,Centre-Back,SD Huesca,Free Transfer,out,0,Primera Division,2016,2016/2017
+CD Leganés,Queco Piña,36,Goalkeeper,SD Huesca,Free Transfer,out,0,Primera Division,2016,2016/2017
+CD Leganés,Alain Eizmendi,26,Right Winger,Real Unión,Free Transfer,out,0,Primera Division,2016,2016/2017
+CD Leganés,Carl Medjani,31,Defensive Midfield,Trabzonspor,Free Transfer,out,0,Primera Division,2016,2016/2017
+CD Leganés,Borja Lázaro,28,Centre-Forward,SD Huesca,Free Transfer,out,0,Primera Division,2016,2016/2017
+CD Leganés,Paco Candela,23,Central Midfield,CF Fuenlabrada,Free Transfer,out,0,Primera Division,2016,2016/2017
+CD Leganés,Luis Ruiz,24,Left-Back,Cádiz CF,Free Transfer,out,0,Primera Division,2016,2016/2017
+CD Leganés,Unai Albizua,27,Centre-Back,UCAM Murcia,Free Transfer,out,0,Primera Division,2016,2016/2017
+CD Leganés,Jorge Miramón,27,Right-Back,Reus Deportiu,Free Transfer,out,0,Primera Division,2016,2016/2017
+CD Leganés,Alberto Brignoli,25,Goalkeeper,Juventus,"End of loanJan 6, 2017",out,0,Primera Division,2016,2016/2017
+CD Leganés,Gabriel,22,Central Midfield,Juventus,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+CD Leganés,Guillermo,23,Centre-Forward,Athletic,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+CD Leganés,Unai Bustinza,24,Centre-Back,Athletic,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+CD Leganés,Iñigo Ruiz de Galarreta,22,Central Midfield,Athletic,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+CD Leganés,Asdrúbal Padrón,25,Centre-Forward,UD Las Palmas,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Leo Baptistão,23,Right Winger,Atlético Madrid,£6.30m,in,6.3,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,David López,26,Centre-Back,SSC Napoli,£3.60m,in,3.6,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Roberto,30,Goalkeeper,Olympiacos,£2.70m,in,2.7,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Álvaro Vázquez,25,Centre-Forward,Getafe,£1.80m,in,1.8,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,José Manuel Jurado,30,Attacking Midfield,Watford,£1.08m,in,1.08,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Javi Fuego,32,Defensive Midfield,Valencia,£900k,in,0.9,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Pablo Piatti,27,Left Winger,Valencia,Loan fee:£180k,in,0.18,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,José Antonio Reyes,32,Right Winger,Sevilla FC,Free Transfer,in,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Martín Demichelis,35,Centre-Back,Man City,Free Transfer,in,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Diego Reyes,23,Centre-Back,FC Porto,Loan,in,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Diego López,34,Goalkeeper,AC Milan,Loan,in,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Marc Navarro,21,Right-Back,RCD Espanyol B,-,in,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Marc Roca,19,Defensive Midfield,RCD Espanyol B,-,in,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Aarón Martín,19,Left-Back,RCD Espanyol B,-,in,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Carlos Clerc,24,Left-Back,Girona,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Germán Parreño,23,Goalkeeper,Girona,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Marc Caballé,25,Attacking Midfield,UE Cornellà,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Álex Fernández,23,Central Midfield,Reading,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Thievy Bifouma,24,Left Winger,Reims,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Jairo Morillas,22,Centre-Forward,Girona,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Antonio Raíllo,24,Centre-Back,Ponferradina,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Álvaro González,26,Centre-Back,Villarreal,£3.60m,out,3.6,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Pau López,21,Goalkeeper,Spurs,Loan fee:£990k,out,0.99,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Anaitz Arbilla,29,Centre-Back,SD Eibar,£630k,out,0.63,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Mamadou Sylla,22,Centre-Forward,KAS Eupen,Loan fee:£180k,out,0.18,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Juan Rafael Fuentes,26,Left-Back,CA Osasuna,Free Transfer,out,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Martín Demichelis,36,Centre-Back,Málaga CF,Free Transfer,out,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Álex Fernández,23,Central Midfield,Elche CF,Free Transfer,out,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Germán Parreño,23,Goalkeeper,Elche CF,Free Transfer,out,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Carlos Clerc,24,Left-Back,CA Osasuna,Free Transfer,out,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Antonio Raíllo,24,Centre-Back,RCD Mallorca,Free Transfer,out,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Marc Caballé,25,Attacking Midfield,UE Cornellà,Free Transfer,out,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,José Alberto Cañas,29,Defensive Midfield,PAOK Salonika,Free Transfer,out,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Thievy Bifouma,24,Left Winger,SC Bastia,Free Transfer,out,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Abraham González,30,Central Midfield,UNAM Pumas,Free Transfer,out,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Joan Jordán,22,Central Midfield,Real Valladolid,Loan,out,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Jairo Morillas,23,Centre-Forward,CD Numancia,Loan,out,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Roberto Correa,23,Right-Back,Elche CF,Loan,out,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Paco Montañés,29,Left Winger,Levante,Loan,out,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Michaël Ciani,32,Centre-Back,Without Club,-,out,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Burgui,22,Left Winger,Real Madrid,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Giedrius Arlauskis,28,Goalkeeper,Watford,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Marco Asensio,20,Left Winger,Real Madrid,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+RCD Espanyol Barcelona,Enzo Roco,23,Centre-Back,O'Higgins,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Granada CF,José Angulo,21,Centre-Forward,Independiente,£3.62m,in,3.62,Primera Division,2016,2016/2017
+Granada CF,Mehdi Carcela-González,27,Right Winger,Benfica,£3.60m,in,3.6,Primera Division,2016,2016/2017
+Granada CF,Sverrir Ingi Ingason,23,Centre-Back,KSC Lokeren,£1.62m,in,1.62,Primera Division,2016,2016/2017
+Granada CF,Rui Silva,22,Goalkeeper,Nacional,£900k,in,0.9,Primera Division,2016,2016/2017
+Granada CF,Omer Atzili,23,Right Winger,B. Jerusalem,£675k,in,0.675,Primera Division,2016,2016/2017
+Granada CF,Ezequiel Ponce,19,Centre-Forward,AS Roma,Loan,in,0,Primera Division,2016,2016/2017
+Granada CF,Sergi Samper,21,Defensive Midfield,FC Barcelona,Loan,in,0,Primera Division,2016,2016/2017
+Granada CF,Franck Tabanou,27,Left-Back,Swansea,Loan,in,0,Primera Division,2016,2016/2017
+Granada CF,Victorien Angban,19,Defensive Midfield,Chelsea U23,Loan,in,0,Primera Division,2016,2016/2017
+Granada CF,Matthieu Saunier,26,Centre-Back,Troyes,Free Transfer,in,0,Primera Division,2016,2016/2017
+Granada CF,Tito,30,Right-Back,Rayo Vallecano,Free Transfer,in,0,Primera Division,2016,2016/2017
+Granada CF,Uche Agbo,20,Defensive Midfield,Watford,Loan,in,0,Primera Division,2016,2016/2017
+Granada CF,Adrián Ramos,31,Centre-Forward,Bor. Dortmund,Loan,in,0,Primera Division,2016,2016/2017
+Granada CF,Mubarak Wakaso,26,Central Midfield,Panathinaikos,Loan,in,0,Primera Division,2016,2016/2017
+Granada CF,Artem Kravets,27,Centre-Forward,Dynamo Kyiv,Loan,in,0,Primera Division,2016,2016/2017
+Granada CF,Jeremie Boga,19,Left Winger,Chelsea U23,Loan,in,0,Primera Division,2016,2016/2017
+Granada CF,Gastón Silva,22,Left-Back,Torino,Loan,in,0,Primera Division,2016,2016/2017
+Granada CF,Rúben Vezo,22,Centre-Back,Valencia,Loan,in,0,Primera Division,2016,2016/2017
+Granada CF,Gabriel Silva,25,Left-Back,Udinese Calcio,Loan,in,0,Primera Division,2016,2016/2017
+Granada CF,Panagiotis Kone,29,Central Midfield,Udinese Calcio,Loan,in,0,Primera Division,2016,2016/2017
+Granada CF,Héctor Hernández,25,Left-Back,Real Sociedad,Loan,in,0,Primera Division,2016,2016/2017
+Granada CF,Andreas Pereira,20,Attacking Midfield,Man Utd,Loan,in,0,Primera Division,2016,2016/2017
+Granada CF,Alberto Bueno,28,Second Striker,FC Porto,Loan,in,0,Primera Division,2016,2016/2017
+Granada CF,Jon Toral,21,Attacking Midfield,Arsenal U23,Loan,in,0,Primera Division,2016,2016/2017
+Granada CF,Guillermo Ochoa,31,Goalkeeper,Málaga CF,Loan,in,0,Primera Division,2016,2016/2017
+Granada CF,Molla Wagué,25,Centre-Back,Udinese Calcio,"End of loanJan 30, 2017",in,0,Primera Division,2016,2016/2017
+Granada CF,Martin Hongla,18,Defensive Midfield,Granada CF B,-,in,0,Primera Division,2016,2016/2017
+Granada CF,Juanpe,25,Centre-Back,Real Valladolid,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Granada CF,Darwin Machís,23,Left Winger,SD Huesca,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Granada CF,Jhon Córdoba,23,Centre-Forward,1.FSV Mainz 05,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Granada CF,Aridane Hernández,27,Centre-Back,Cádiz CF,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Granada CF,Álvaro García,23,Left Winger,Cádiz CF,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Granada CF,Oier Olazábal,26,Goalkeeper,Real Sociedad,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Granada CF,Francisco Sierralta,19,Centre-Back,CDUC,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Granada CF,Ritchie Kitoko,28,Central Midfield,Asteras Tripoli,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Granada CF,Mohammed Fatau,23,Defensive Midfield,UD Almería,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Granada CF,Luís Martins,24,Left-Back,CA Osasuna,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Granada CF,Yrondu Musavu-King,24,Centre-Back,FC Lorient,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Granada CF,Isaac Success,20,Left Winger,Watford,£13.50m,out,13.5,Primera Division,2016,2016/2017
+Granada CF,Rubén Rochina,25,Attacking Midfield,Rubin Kazan,£9.00m,out,9,Primera Division,2016,2016/2017
+Granada CF,Jhon Córdoba,23,Centre-Forward,1.FSV Mainz 05,£5.85m,out,5.85,Primera Division,2016,2016/2017
+Granada CF,Oier Olazábal,27,Goalkeeper,Levante,Loan fee:£90k,out,0.09,Primera Division,2016,2016/2017
+Granada CF,Ricardo Costa,35,Centre-Back,FC Luzern,Free Transfer,out,0,Primera Division,2016,2016/2017
+Granada CF,David Barral,33,Centre-Forward,APOEL Nicosia,Free Transfer,out,0,Primera Division,2016,2016/2017
+Granada CF,Álvaro García,23,Left Winger,Cádiz CF,Free Transfer,out,0,Primera Division,2016,2016/2017
+Granada CF,Javi Márquez,30,Central Midfield,NY Cosmos,Free Transfer,out,0,Primera Division,2016,2016/2017
+Granada CF,Yrondu Musavu-King,24,Centre-Back,Udinese Calcio,Free Transfer,out,0,Primera Division,2016,2016/2017
+Granada CF,Edgar Méndez,26,Right Winger,Alavés,Free Transfer,out,0,Primera Division,2016,2016/2017
+Granada CF,Jean-Sylvain Babin,29,Centre-Back,Sporting Gijón,Free Transfer,out,0,Primera Division,2016,2016/2017
+Granada CF,Jesús Fernández,28,Goalkeeper,Cádiz CF,Free Transfer,out,0,Primera Division,2016,2016/2017
+Granada CF,Mohammed Fatau,23,Defensive Midfield,Gaziantepspor,Free Transfer,out,0,Primera Division,2016,2016/2017
+Granada CF,Juanpe,25,Centre-Back,Girona,Free Transfer,out,0,Primera Division,2016,2016/2017
+Granada CF,Aridane Hernández,27,Centre-Back,Cádiz CF,Free Transfer,out,0,Primera Division,2016,2016/2017
+Granada CF,Ivan Kelava,28,Goalkeeper,Debrecen,Free Transfer,out,0,Primera Division,2016,2016/2017
+Granada CF,Ritchie Kitoko,28,Central Midfield,UCAM Murcia,Free Transfer,out,0,Primera Division,2016,2016/2017
+Granada CF,Molla Wagué,25,Centre-Back,Leicester,Loan,out,0,Primera Division,2016,2016/2017
+Granada CF,Rubén Pérez,27,Defensive Midfield,CD Leganés,Loan,out,0,Primera Division,2016,2016/2017
+Granada CF,Fran Rico,29,Central Midfield,SD Eibar,Loan,out,0,Primera Division,2016,2016/2017
+Granada CF,Tito,31,Right-Back,CD Leganés,Loan,out,0,Primera Division,2016,2016/2017
+Granada CF,Youssef El Arabi,29,Centre-Forward,Lekhwiya,?,out,NA,Primera Division,2016,2016/2017
+Granada CF,Luís Martins,24,Left-Back,Marítimo,Loan,out,0,Primera Division,2016,2016/2017
+Granada CF,Francisco Sierralta,19,Centre-Back,CD Palestino,Loan,out,0,Primera Division,2016,2016/2017
+Granada CF,Darwin Machís,23,Left Winger,CD Leganés,Loan,out,0,Primera Division,2016,2016/2017
+Granada CF,José Angulo,21,Centre-Forward,Ban,?,out,NA,Primera Division,2016,2016/2017
+Granada CF,Gabriel Silva,25,Left-Back,Udinese Calcio,"End of loanJan 30, 2017",out,0,Primera Division,2016,2016/2017
+Granada CF,Diego Maínz,33,Centre-Back,Retired,-,out,0,Primera Division,2016,2016/2017
+Granada CF,Jon Toral,21,Attacking Midfield,Arsenal U23,"End of loanJan 10, 2017",out,0,Primera Division,2016,2016/2017
+Granada CF,Alberto Bueno,28,Second Striker,FC Porto,"End of loanJan 30, 2017",out,0,Primera Division,2016,2016/2017
+Granada CF,Andrés Fernández,29,Goalkeeper,FC Porto,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Granada CF,Dória,21,Centre-Back,Marseille,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Granada CF,Uche Agbo,20,Defensive Midfield,Udinese Calcio,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Granada CF,Salva Ruiz,21,Left-Back,Valencia B,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Granada CF,Cristiano Biraghi,23,Left-Back,Inter,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Granada CF,Adalberto Peñaranda,19,Centre-Forward,Watford,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Granada CF,Robert Ibáñez,23,Right Winger,Valencia,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Granada CF,Miguel Lopes,29,Right-Back,Sporting CP,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Granada CF,Abdoulaye Doucouré,23,Central Midfield,Watford,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+SD Eibar,Nano,21,Centre-Forward,CD Tenerife,£2.88m,in,2.88,Primera Division,2016,2016/2017
+SD Eibar,Bebé,26,Left Winger,Benfica,£1.35m,in,1.35,Primera Division,2016,2016/2017
+SD Eibar,Alejandro Gálvez,27,Centre-Back,Werder Bremen,£1.35m,in,1.35,Primera Division,2016,2016/2017
+SD Eibar,Florian Lejeune,25,Centre-Back,Man City,£1.35m,in,1.35,Primera Division,2016,2016/2017
+SD Eibar,Anaitz Arbilla,29,Centre-Back,Espanyol,£630k,in,0.63,Primera Division,2016,2016/2017
+SD Eibar,Rubén Peña,24,Right-Back,CD Leganés,£180k,in,0.18,Primera Division,2016,2016/2017
+SD Eibar,Juanfran,24,Centre-Forward,Villanovense,Free Transfer,in,0,Primera Division,2016,2016/2017
+SD Eibar,Jon Ander Felipe,21,Goalkeeper,Bilbao Athletic,Free Transfer,in,0,Primera Division,2016,2016/2017
+SD Eibar,Unai Elgezabal,23,Centre-Back,Barakaldo CF,Free Transfer,in,0,Primera Division,2016,2016/2017
+SD Eibar,Roger Escoruela,20,Left-Back,CF Gavà,Free Transfer,in,0,Primera Division,2016,2016/2017
+SD Eibar,Jordi Calavera,20,Right-Back,Gimnàstic,Free Transfer,in,0,Primera Division,2016,2016/2017
+SD Eibar,Pere Milla,23,Left Winger,UD Logroñés,Free Transfer,in,0,Primera Division,2016,2016/2017
+SD Eibar,Jon Ander Amelibia,22,Centre-Back,Bilbao Athletic,Free Transfer,in,0,Primera Division,2016,2016/2017
+SD Eibar,Pedro León,29,Right Winger,Getafe,Free Transfer,in,0,Primera Division,2016,2016/2017
+SD Eibar,Fran Rico,29,Central Midfield,Granada CF,Loan,in,0,Primera Division,2016,2016/2017
+SD Eibar,Christian Rivera,18,Central Midfield,Real Oviedo,?,in,NA,Primera Division,2016,2016/2017
+SD Eibar,Yoel Rodríguez,27,Goalkeeper,Valencia,Loan,in,0,Primera Division,2016,2016/2017
+SD Eibar,Jon Ander Felipe,21,Goalkeeper,UD Logroñés,"End of loanJan 30, 2017",in,0,Primera Division,2016,2016/2017
+SD Eibar,Thaylor,22,Centre-Forward,UD Logroñés,"End of loanJan 12, 2017",in,0,Primera Division,2016,2016/2017
+SD Eibar,Sergio García,26,Left Winger,Real Murcia,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+SD Eibar,Mikel Arruabarrena,33,Second Striker,SD Huesca,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+SD Eibar,Julen Iriarte,24,Centre-Forward,Real Unión,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+SD Eibar,Keko,24,Right Winger,Málaga CF,£4.50m,out,4.5,Primera Division,2016,2016/2017
+SD Eibar,Xabi Irureta,30,Goalkeeper,Real Zaragoza,Free Transfer,out,0,Primera Division,2016,2016/2017
+SD Eibar,Saúl Berjón,30,Left Winger,UNAM Pumas,Free Transfer,out,0,Primera Division,2016,2016/2017
+SD Eibar,Lillo Castellano,27,Right-Back,Sporting Gijón,Free Transfer,out,0,Primera Division,2016,2016/2017
+SD Eibar,Pere Milla,23,Left Winger,UCAM Murcia,Loan,out,0,Primera Division,2016,2016/2017
+SD Eibar,Ion Ansotegi,33,Centre-Back,RCD Mallorca,Free Transfer,out,0,Primera Division,2016,2016/2017
+SD Eibar,Julen Iriarte,24,Centre-Forward,Zamudio SD,Free Transfer,out,0,Primera Division,2016,2016/2017
+SD Eibar,Mikel Arruabarrena,33,Second Striker,AEL Limassol,Free Transfer,out,0,Primera Division,2016,2016/2017
+SD Eibar,Thaylor,22,Centre-Forward,Real Unión,Loan,out,0,Primera Division,2016,2016/2017
+SD Eibar,Jordi Calavera,21,Right-Back,CD Lugo,Loan,out,0,Primera Division,2016,2016/2017
+SD Eibar,Sergio García,26,Left Winger,UD Logroñés,Loan,out,0,Primera Division,2016,2016/2017
+SD Eibar,Roger Escoruela,20,Left-Back,Real Unión,Loan,out,0,Primera Division,2016,2016/2017
+SD Eibar,Jon Ander Felipe,21,Goalkeeper,UE Llagostera,Loan,out,0,Primera Division,2016,2016/2017
+SD Eibar,Unai Elgezabal,23,Centre-Back,Alcorcón,Loan,out,0,Primera Division,2016,2016/2017
+SD Eibar,Jon Ander Felipe,21,Goalkeeper,UD Logroñés,Loan,out,0,Primera Division,2016,2016/2017
+SD Eibar,Jon Ander Amelibia,22,Centre-Back,UD Logroñés,Loan,out,0,Primera Division,2016,2016/2017
+SD Eibar,Jaime Jiménez,35,Goalkeeper,Retired,-,out,0,Primera Division,2016,2016/2017
+SD Eibar,Jota,25,Right Winger,Brentford,"End of loanDec 31, 2016",out,0,Primera Division,2016,2016/2017
+SD Eibar,Borja Ekiza,28,Centre-Back,Without Club,-,out,0,Primera Division,2016,2016/2017
+SD Eibar,Borja Bastón,23,Centre-Forward,Atlético Madrid,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+SD Eibar,Josip Radosevic,22,Defensive Midfield,SSC Napoli,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+SD Eibar,Izet Hajrovic,24,Right Winger,Werder Bremen,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+SD Eibar,Aleksandar Pantic,24,Centre-Back,Villarreal,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Celta de Vigo,Pione Sisto,21,Left Winger,FC Midtjylland,£5.40m,in,5.4,Primera Division,2016,2016/2017
+Celta de Vigo,Andrew Hjulsager,22,Right Winger,Bröndby IF,£1.08m,in,1.08,Primera Division,2016,2016/2017
+Celta de Vigo,José Naranjo,21,Left Winger,Gimnàstic,£900k,in,0.9,Primera Division,2016,2016/2017
+Celta de Vigo,Álvaro Lemos,23,Right-Back,CD Lugo,£180k,in,0.18,Primera Division,2016,2016/2017
+Celta de Vigo,Facundo Roncaglia,29,Centre-Back,Fiorentina,Free Transfer,in,0,Primera Division,2016,2016/2017
+Celta de Vigo,Jozabed Sánchez,25,Central Midfield,Fulham,Loan,in,0,Primera Division,2016,2016/2017
+Celta de Vigo,Giuseppe Rossi,29,Centre-Forward,Fiorentina,Loan,in,0,Primera Division,2016,2016/2017
+Celta de Vigo,Pape Cheikh,18,Central Midfield,Celta Vigo B,-,in,0,Primera Division,2016,2016/2017
+Celta de Vigo,Álex López,28,Central Midfield,Sheff Wed,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Celta de Vigo,Yelko Pino,19,Second Striker,QPR,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Celta de Vigo,David Costas,21,Centre-Back,RCD Mallorca,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Celta de Vigo,Nolito,29,Left Winger,Man City,£16.20m,out,16.2,Primera Division,2016,2016/2017
+Celta de Vigo,José Naranjo,22,Left Winger,KRC Genk,£1.62m,out,1.62,Primera Division,2016,2016/2017
+Celta de Vigo,Yelko Pino,19,Second Striker,CD Lugo,Free Transfer,out,0,Primera Division,2016,2016/2017
+Celta de Vigo,Dejan Drazic,20,Left Winger,Real Valladolid,Loan,out,0,Primera Division,2016,2016/2017
+Celta de Vigo,Fabián Orellana,31,Right Winger,Valencia,Loan,out,0,Primera Division,2016,2016/2017
+Celta de Vigo,Álex López,28,Central Midfield,Real Valladolid,Loan,out,0,Primera Division,2016,2016/2017
+Celta de Vigo,David Costas,21,Centre-Back,Real Oviedo,Loan,out,0,Primera Division,2016,2016/2017
+Sporting Gijón,Duje Cop,26,Centre-Forward,Cagliari Calcio,Loan fee:£450k,in,0.45,Primera Division,2016,2016/2017
+Sporting Gijón,Fernando Amorebieta,31,Centre-Back,Fulham,£270k,in,0.27,Primera Division,2016,2016/2017
+Sporting Gijón,Diego Mariño,26,Goalkeeper,Levante,£180k,in,0.18,Primera Division,2016,2016/2017
+Sporting Gijón,Óscar Whalley,22,Goalkeeper,Real Zaragoza,Free Transfer,in,0,Primera Division,2016,2016/2017
+Sporting Gijón,Borja Viguera,29,Centre-Forward,Athletic,Free Transfer,in,0,Primera Division,2016,2016/2017
+Sporting Gijón,Lillo Castellano,27,Right-Back,SD Eibar,Free Transfer,in,0,Primera Division,2016,2016/2017
+Sporting Gijón,Jean-Sylvain Babin,29,Centre-Back,Granada CF,Free Transfer,in,0,Primera Division,2016,2016/2017
+Sporting Gijón,Douglas,26,Right-Back,FC Barcelona,Loan,in,0,Primera Division,2016,2016/2017
+Sporting Gijón,Xavi Torres,29,Defensive Midfield,Real Betis,Free Transfer,in,0,Primera Division,2016,2016/2017
+Sporting Gijón,Víctor Rodríguez,26,Left Winger,Elche CF,Free Transfer,in,0,Primera Division,2016,2016/2017
+Sporting Gijón,Moi Gómez,22,Attacking Midfield,Villarreal,Free Transfer,in,0,Primera Division,2016,2016/2017
+Sporting Gijón,Elderson,29,Left-Back,Monaco,Loan,in,0,Primera Division,2016,2016/2017
+Sporting Gijón,Lacina Traoré,26,Centre-Forward,Monaco,Loan,in,0,Primera Division,2016,2016/2017
+Sporting Gijón,Burgui,22,Left Winger,Real Madrid,Loan,in,0,Primera Division,2016,2016/2017
+Sporting Gijón,Akram Afif,19,Left Winger,Villarreal,Loan,in,0,Primera Division,2016,2016/2017
+Sporting Gijón,Mikel Vesga,23,Defensive Midfield,Athletic,Loan,in,0,Primera Division,2016,2016/2017
+Sporting Gijón,Alberto García,31,Goalkeeper,Getafe,Free Transfer,out,0,Primera Division,2016,2016/2017
+Sporting Gijón,Luis Hernández,27,Centre-Back,Leicester,Free Transfer,out,0,Primera Division,2016,2016/2017
+Sporting Gijón,Miguel Ángel Guerrero,25,Centre-Forward,CD Leganés,Free Transfer,out,0,Primera Division,2016,2016/2017
+Sporting Gijón,Jony,24,Left Winger,Málaga CF,Free Transfer,out,0,Primera Division,2016,2016/2017
+Sporting Gijón,Álex Menéndez,25,Left-Back,Girona,Free Transfer,out,0,Primera Division,2016,2016/2017
+Sporting Gijón,Ognjen Vranjes,26,Centre-Back,Tom Tomsk,Free Transfer,out,0,Primera Division,2016,2016/2017
+Sporting Gijón,Bernardo Espinosa,26,Centre-Back,Middlesbrough,Free Transfer,out,0,Primera Division,2016,2016/2017
+Sporting Gijón,Álex Barrera,25,Attacking Midfield,Real Zaragoza,Free Transfer,out,0,Primera Division,2016,2016/2017
+Sporting Gijón,Rachid Aït-Atmane,24,Central Midfield,CD Tenerife,Loan,out,0,Primera Division,2016,2016/2017
+Sporting Gijón,Pablo Pérez,23,Attacking Midfield,Alcorcón,Loan,out,0,Primera Division,2016,2016/2017
+Sporting Gijón,Omar Mascarell,23,Defensive Midfield,Real Madrid,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Sporting Gijón,Igor Lichnovsky,22,Centre-Back,FC Porto B,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Sporting Gijón,Alen Halilovic,20,Attacking Midfield,FC Barcelona,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Sporting Gijón,Antonio Sanabria,20,Centre-Forward,AS Roma,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Florin Andone,23,Centre-Forward,Córdoba CF,£4.50m,in,4.5,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Raúl Albentosa,27,Centre-Back,Derby,£720k,in,0.72,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Przemyslaw Tyton,29,Goalkeeper,VfB Stuttgart,£450k,in,0.45,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Federico Cartabia,24,Right Winger,Valencia,Free Transfer,in,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Borja Valle,23,Left Winger,Real Oviedo,Free Transfer,in,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Rubén Martínez,32,Goalkeeper,Levante,Free Transfer,in,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Juanfran,27,Right-Back,Watford,Loan,in,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Ryan Babel,29,Left Winger,Al-Ain FC,Free Transfer,in,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Bruno Gama,28,Right Winger,Dnipro,Free Transfer,in,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Emre Colak,25,Attacking Midfield,Galatasaray,Free Transfer,in,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Fayçal Fajr,27,Attacking Midfield,Elche CF,Free Transfer,in,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Ola John,24,Left Winger,Benfica,Loan,in,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Marlos Moreno,19,Left Winger,Man City,Loan,in,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Carles Gil,23,Attacking Midfield,Aston Villa,Loan,in,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Davy Roef,22,Goalkeeper,RSC Anderlecht,Loan,in,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Guilherme,25,Defensive Midfield,Udinese Calcio,Loan,in,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Gaël Kakuta,25,Left Winger,HB CFFC,Loan,in,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Joselu,26,Centre-Forward,Stoke City,Loan,in,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Saúl García,22,Left-Back,Girona,"End of loanDec 31, 2016",in,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Rober Pier,21,Centre-Back,Deportivo B,-,in,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Luis Fernández,22,Centre-Forward,SD Huesca,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Miguel Cardoso,22,Right Winger,União Madeira,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Saúl García,21,Left-Back,CD Tenerife,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Lucas Pérez,27,Centre-Forward,Arsenal,£18.00m,out,18,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Ryan Babel,30,Left Winger,Besiktas,Free Transfer,out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Manu Fernández,30,Goalkeeper,Machine Sazi,Free Transfer,out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Rober Pier,21,Centre-Back,Levante,Loan,out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Jonás Gutiérrez,33,Central Midfield,Defensa,Free Transfer,out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Fabri,28,Goalkeeper,Besiktas,Free Transfer,out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Alberto Lopo,36,Centre-Back,Gimnàstic,Free Transfer,out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Cani,34,Attacking Midfield,Real Zaragoza,Free Transfer,out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Miguel Cardoso,22,Right Winger,Tondela,Free Transfer,out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Luis Fernández,22,Centre-Forward,Alcorcón,Free Transfer,out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Saúl García,21,Left-Back,Girona,Loan,out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Rubén Martínez,32,Goalkeeper,RSC Anderlecht,Loan,out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Oriol Riera,30,Centre-Forward,CA Osasuna,Loan,out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Borja Valle,24,Left Winger,Elche CF,Loan,out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Juan Domínguez,26,Defensive Midfield,RCD Mallorca,Loan,out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Saúl García,22,Left-Back,RCD Mallorca,Loan,out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Federico Cartabia,24,Right Winger,Braga,Loan,out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Manuel Pablo,40,Right-Back,Retired,-,out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Stipe Pletikosa,37,Goalkeeper,Retired,-,out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Luis Alberto,23,Attacking Midfield,Liverpool,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Fayçal Fajr,27,Attacking Midfield,Elche CF,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Jonathan Rodríguez,22,Centre-Forward,Peñarol,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Federico Cartabia,23,Right Winger,Valencia,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Deportivo de La Coruña,Juanfran,27,Right-Back,Watford,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Real Sociedad,Gerónimo Rulli,24,Goalkeeper,Man City,£6.30m,in,6.3,Primera Division,2016,2016/2017
+Real Sociedad,Willian José,24,Centre-Forward,Maldonado,£5.40m,in,5.4,Primera Division,2016,2016/2017
+Real Sociedad,Juanmi,23,Right Winger,Southampton,£4.50m,in,4.5,Primera Division,2016,2016/2017
+Real Sociedad,Toño,29,Goalkeeper,AEK Larnaca,Free Transfer,in,0,Primera Division,2016,2016/2017
+Real Sociedad,Gerónimo Rulli,24,Goalkeeper,Man City,Loan,in,0,Primera Division,2016,2016/2017
+Real Sociedad,Ander Bardají,21,Goalkeeper,Real Sociedad B,-,in,0,Primera Division,2016,2016/2017
+Real Sociedad,Jon Bautista,21,Centre-Forward,Real Sociedad B,-,in,0,Primera Division,2016,2016/2017
+Real Sociedad,Álvaro Odriozola,21,Right-Back,Real Sociedad B,-,in,0,Primera Division,2016,2016/2017
+Real Sociedad,Pablo Hervías,23,Right Winger,Real Oviedo,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Real Sociedad,Alfred Finnbogason,27,Centre-Forward,FC Augsburg,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Real Sociedad,Jon Gaztañaga,25,Defensive Midfield,CD Numancia,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Real Sociedad,Alain Oyarzun,22,Left Winger,CD Mirandés,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Real Sociedad,David Concha,19,Right Winger,CD Numancia,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Real Sociedad,Jonathas,27,Centre-Forward,Rubin Kazan,£6.30m,out,6.3,Primera Division,2016,2016/2017
+Real Sociedad,Alfred Finnbogason,27,Centre-Forward,FC Augsburg,£3.60m,out,3.6,Primera Division,2016,2016/2017
+Real Sociedad,Pablo Hervías,23,Right Winger,Elche CF,Loan,out,0,Primera Division,2016,2016/2017
+Real Sociedad,Héctor Hernández,25,Left-Back,Granada CF,Loan,out,0,Primera Division,2016,2016/2017
+Real Sociedad,Alain Oyarzun,22,Left Winger,CD Mirandés,Loan,out,0,Primera Division,2016,2016/2017
+Real Sociedad,Rubén Pardo,24,Central Midfield,Real Betis,Loan,out,0,Primera Division,2016,2016/2017
+Real Sociedad,Alberto de la Bella,30,Left-Back,Olympiacos,Loan,out,0,Primera Division,2016,2016/2017
+Real Sociedad,Gerónimo Rulli,24,Goalkeeper,Man City,"End of loanDec 31, 2016",out,0,Primera Division,2016,2016/2017
+Real Sociedad,Diego Reyes,23,Centre-Back,FC Porto,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Real Sociedad,Bruma,21,Left Winger,Galatasaray,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Real Sociedad,Gerónimo Rulli,24,Goalkeeper,Maldonado,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Real Sociedad,Oier Olazábal,26,Goalkeeper,Granada CF,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Málaga CF,Keko,24,Right Winger,SD Eibar,£4.50m,in,4.5,Primera Division,2016,2016/2017
+Málaga CF,Michael Santos,23,Centre-Forward,River Plate,£3.60m,in,3.6,Primera Division,2016,2016/2017
+Málaga CF,Luis Hernández,27,Centre-Back,Leicester,£1.80m,in,1.8,Primera Division,2016,2016/2017
+Málaga CF,Bakary Koné,28,Centre-Back,Olympique Lyon,£720k,in,0.72,Primera Division,2016,2016/2017
+Málaga CF,Denys Boiko,28,Goalkeeper,Besiktas,Loan fee:£392k,in,0.392,Primera Division,2016,2016/2017
+Málaga CF,Mikel Villanueva,23,Centre-Back,Deportivo Lara,£270k,in,0.27,Primera Division,2016,2016/2017
+Málaga CF,Jony,24,Left Winger,Sporting Gijón,Free Transfer,in,0,Primera Division,2016,2016/2017
+Málaga CF,Sandro Ramírez,20,Centre-Forward,FC Barcelona,Free Transfer,in,0,Primera Division,2016,2016/2017
+Málaga CF,Martín Demichelis,36,Centre-Back,Espanyol,Free Transfer,in,0,Primera Division,2016,2016/2017
+Málaga CF,Miguel Cifuentes,25,Right-Back,Elche CF,Free Transfer,in,0,Primera Division,2016,2016/2017
+Málaga CF,Zdravko Kuzmanović,28,Central Midfield,FC Basel,Loan,in,0,Primera Division,2016,2016/2017
+Málaga CF,Adalberto Peñaranda,19,Centre-Forward,Watford,Loan,in,0,Primera Division,2016,2016/2017
+Málaga CF,Diego Llorente,22,Centre-Back,Real Madrid,Loan,in,0,Primera Division,2016,2016/2017
+Málaga CF,José Rodríguez,22,Central Midfield,1.FSV Mainz 05,Loan,in,0,Primera Division,2016,2016/2017
+Málaga CF,Javier Ontiveros,18,Right Winger,A. Malagueño,-,in,0,Primera Division,2016,2016/2017
+Málaga CF,Fernando Tissone,29,Central Midfield,Málaga CF,-,in,0,Primera Division,2016,2016/2017
+Málaga CF,Youssef En-Nesyri,19,Centre-Forward,A. Malagueño,-,in,0,Primera Division,2016,2016/2017
+Málaga CF,Fábio Espinho,30,Attacking Midfield,Moreirense,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Málaga CF,Adnane Tighadouini,23,Left Winger,Kayserispor,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Málaga CF,Ezequiel Rescaldani,24,Centre-Forward,Quilmes,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Málaga CF,Fábio Espinho,30,Attacking Midfield,Boavista,Free Transfer,out,0,Primera Division,2016,2016/2017
+Málaga CF,Arthur Boka,33,Left-Back,FC Sion,Free Transfer,out,0,Primera Division,2016,2016/2017
+Málaga CF,Ricardo Horta,21,Left Midfield,Braga,Loan,out,0,Primera Division,2016,2016/2017
+Málaga CF,Ezequiel Rescaldani,24,Centre-Forward,Atl. Nacional,?,out,NA,Primera Division,2016,2016/2017
+Málaga CF,Miguel Cifuentes,25,Right-Back,Girona,Loan,out,0,Primera Division,2016,2016/2017
+Málaga CF,Adnane Tighadouini,23,Left Winger,Vitesse,Loan,out,0,Primera Division,2016,2016/2017
+Málaga CF,Egor Filipenko,28,Centre-Back,M. Tel Aviv,?,out,NA,Primera Division,2016,2016/2017
+Málaga CF,Guillermo Ochoa,31,Goalkeeper,Granada CF,Loan,out,0,Primera Division,2016,2016/2017
+Málaga CF,Fernando Tissone,29,Central Midfield,Málaga CF,-,out,0,Primera Division,2016,2016/2017
+Málaga CF,Hachim Mastour,18,Attacking Midfield,AC Milan,"End of loanJul 7, 2016",out,0,Primera Division,2016,2016/2017
+Málaga CF,Duje Cop,26,Centre-Forward,Cagliari Calcio,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Málaga CF,Christian Atsu,24,Left Winger,Chelsea,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Málaga CF,Roque Santa Cruz,34,Centre-Forward,CD Cruz Azul,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Málaga CF,Ikechukwu Uche,32,Centre-Forward,Tigres UANL,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Málaga CF,Raúl Albentosa,27,Centre-Back,Derby,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Málaga CF,Miguel Cifuentes,25,Right-Back,Elche CF,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Valencia CF,Ezequiel Garay,29,Centre-Back,Zenit S-Pb,£21.60m,in,21.6,Primera Division,2016,2016/2017
+Valencia CF,Nani,29,Left Winger,Fenerbahce,£7.65m,in,7.65,Primera Division,2016,2016/2017
+Valencia CF,Simone Zaza,25,Centre-Forward,Juventus,Loan fee:£1.80m,in,1.8,Primera Division,2016,2016/2017
+Valencia CF,Álvaro Medrán,22,Central Midfield,Real Madrid,£1.35m,in,1.35,Primera Division,2016,2016/2017
+Valencia CF,Martín Montoya,25,Right-Back,FC Barcelona,Free Transfer,in,0,Primera Division,2016,2016/2017
+Valencia CF,Fabián Orellana,31,Right Winger,Celta de Vigo,Loan,in,0,Primera Division,2016,2016/2017
+Valencia CF,Eliaquim Mangala,25,Centre-Back,Man City,Loan,in,0,Primera Division,2016,2016/2017
+Valencia CF,Munir El Haddadi,20,Centre-Forward,FC Barcelona,Loan,in,0,Primera Division,2016,2016/2017
+Valencia CF,Mario Suárez,29,Defensive Midfield,Watford,Loan,in,0,Primera Division,2016,2016/2017
+Valencia CF,Carlos Soler,19,Right Midfield,Valencia B,-,in,0,Primera Division,2016,2016/2017
+Valencia CF,Vinícius Araújo,23,Centre-Forward,Sport Recife,"End of loanDec 31, 2016",in,0,Primera Division,2016,2016/2017
+Valencia CF,Federico Cartabia,23,Right Winger,Dep. La Coruña,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Valencia CF,Rodrigo de Paul,22,Left Winger,Racing Club,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Valencia CF,Robert Ibáñez,23,Right Winger,Granada CF,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Valencia CF,Lucas Orbán,27,Centre-Back,Levante,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Valencia CF,Yoel Rodríguez,27,Goalkeeper,Rayo Vallecano,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+Valencia CF,Shkodran Mustafi,24,Centre-Back,Arsenal,£36.90m,out,36.9,Primera Division,2016,2016/2017
+Valencia CF,André Gomes,22,Central Midfield,FC Barcelona,£33.30m,out,33.3,Primera Division,2016,2016/2017
+Valencia CF,Paco Alcácer,23,Centre-Forward,FC Barcelona,£27.00m,out,27,Primera Division,2016,2016/2017
+Valencia CF,Rodrigo de Paul,22,Left Winger,Udinese Calcio,£2.70m,out,2.7,Primera Division,2016,2016/2017
+Valencia CF,Antonio Barragán,29,Right-Back,Middlesbrough,£2.43m,out,2.43,Primera Division,2016,2016/2017
+Valencia CF,Javi Fuego,32,Defensive Midfield,Espanyol,£900k,out,0.9,Primera Division,2016,2016/2017
+Valencia CF,Pablo Piatti,27,Left Winger,Espanyol,Loan fee:£180k,out,0.18,Primera Division,2016,2016/2017
+Valencia CF,Sofiane Feghouli,26,Right Winger,West Ham,Free Transfer,out,0,Primera Division,2016,2016/2017
+Valencia CF,Federico Cartabia,24,Right Winger,Dep. La Coruña,Free Transfer,out,0,Primera Division,2016,2016/2017
+Valencia CF,Lucas Orbán,27,Centre-Back,Genoa,Free Transfer,out,0,Primera Division,2016,2016/2017
+Valencia CF,Vinícius Araújo,23,Centre-Forward,SD Huesca,Loan,out,0,Primera Division,2016,2016/2017
+Valencia CF,Robert Ibáñez,23,Right Winger,CD Leganés,Loan,out,0,Primera Division,2016,2016/2017
+Valencia CF,Rúben Vezo,22,Centre-Back,Granada CF,Loan,out,0,Primera Division,2016,2016/2017
+Valencia CF,Mathew Ryan,24,Goalkeeper,KRC Genk,Loan,out,0,Primera Division,2016,2016/2017
+Valencia CF,Yoel Rodríguez,27,Goalkeeper,SD Eibar,Loan,out,0,Primera Division,2016,2016/2017
+Valencia CF,Álvaro Negredo,30,Centre-Forward,Middlesbrough,Loan,out,0,Primera Division,2016,2016/2017
+Valencia CF,Denis Cheryshev,25,Left Winger,Real Madrid,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+Valencia CF,Danilo,20,Defensive Midfield,Braga,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+UD Las Palmas,Mauricio Lemos,20,Centre-Back,Rubin Kazan,£1.80m,in,1.8,Primera Division,2016,2016/2017
+UD Las Palmas,Alen Halilovic,20,Attacking Midfield,Hamburger SV,Loan fee:£450k,in,0.45,Primera Division,2016,2016/2017
+UD Las Palmas,Mateo García,19,Left Winger,Instituto AC,£360k,in,0.36,Primera Division,2016,2016/2017
+UD Las Palmas,Marko Livaja,22,Centre-Forward,Rubin Kazan,Free Transfer,in,0,Primera Division,2016,2016/2017
+UD Las Palmas,Míchel,26,Right-Back,UD Almería,Free Transfer,in,0,Primera Division,2016,2016/2017
+UD Las Palmas,Hélder Lopes,27,Left-Back,Paços Ferreira,Free Transfer,in,0,Primera Division,2016,2016/2017
+UD Las Palmas,Kevin-Prince Boateng,29,Centre-Forward,AC Milan,Free Transfer,in,0,Primera Division,2016,2016/2017
+UD Las Palmas,Jesé,23,Centre-Forward,Paris SG,Loan,in,0,Primera Division,2016,2016/2017
+UD Las Palmas,Tyronne,25,Right Winger,SD Huesca,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+UD Las Palmas,Jesús Valentín,24,Centre-Back,SD Huesca,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+UD Las Palmas,Alfredo Ortuño,25,Centre-Forward,RCD Mallorca,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+UD Las Palmas,Christian Fernández,30,Centre-Back,SD Huesca,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+UD Las Palmas,Asdrúbal Padrón,25,Centre-Forward,CD Leganés,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+UD Las Palmas,Héctor Figueroa,27,Centre-Forward,SD Huesca,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+UD Las Palmas,Carlos Gutiérrez,24,Centre-Back,Burgos CF,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+UD Las Palmas,Sergio Araujo,24,Centre-Forward,AEK Athens,Loan fee:£180k,out,0.18,Primera Division,2016,2016/2017
+UD Las Palmas,Jesús Valentín,24,Centre-Back,SD Huesca,Free Transfer,out,0,Primera Division,2016,2016/2017
+UD Las Palmas,Asdrúbal Padrón,25,Centre-Forward,Port FC,Free Transfer,out,0,Primera Division,2016,2016/2017
+UD Las Palmas,Nabil El Zhar,30,Right Winger,CD Leganés,Free Transfer,out,0,Primera Division,2016,2016/2017
+UD Las Palmas,Carlos Gutiérrez,24,Centre-Back,CD Numancia,Free Transfer,out,0,Primera Division,2016,2016/2017
+UD Las Palmas,Christian Fernández,30,Centre-Back,Real Oviedo,Free Transfer,out,0,Primera Division,2016,2016/2017
+UD Las Palmas,Javier Garrido,31,Left-Back,AEK Larnaca,Free Transfer,out,0,Primera Division,2016,2016/2017
+UD Las Palmas,Héctor Figueroa,27,Centre-Forward,Ponferradina,Loan,out,0,Primera Division,2016,2016/2017
+UD Las Palmas,Alfredo Ortuño,25,Centre-Forward,Cádiz CF,Loan,out,0,Primera Division,2016,2016/2017
+UD Las Palmas,Tyronne,25,Right Winger,CD Tenerife,Loan,out,0,Primera Division,2016,2016/2017
+UD Las Palmas,Nauzet Alemán,31,Right Winger,Without Club,-,out,0,Primera Division,2016,2016/2017
+UD Las Palmas,Ángel López,35,Right-Back,Retired,-,out,0,Primera Division,2016,2016/2017
+UD Las Palmas,Juan Carlos Valerón,41,Attacking Midfield,Retired,-,out,0,Primera Division,2016,2016/2017
+UD Las Palmas,Willian José,24,Centre-Forward,Maldonado,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+UD Las Palmas,Mauricio Lemos,20,Centre-Back,Rubin Kazan,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+UD Las Palmas,Mubarak Wakaso,25,Central Midfield,Rubin Kazan,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+CA Osasuna,Sergio León,27,Centre-Forward,Elche CF,£1.53m,in,1.53,Primera Division,2016,2016/2017
+CA Osasuna,Fran Mérida,26,Central Midfield,SD Huesca,£450k,in,0.45,Primera Division,2016,2016/2017
+CA Osasuna,Juan Rafael Fuentes,26,Left-Back,Espanyol,Free Transfer,in,0,Primera Division,2016,2016/2017
+CA Osasuna,Javi Álamo,28,Right Winger,Real Zaragoza,Free Transfer,in,0,Primera Division,2016,2016/2017
+CA Osasuna,Raoul Loé,27,Defensive Midfield,Al Sailiya,Free Transfer,in,0,Primera Division,2016,2016/2017
+CA Osasuna,Fausto,26,Central Midfield,Alcorcón,Free Transfer,in,0,Primera Division,2016,2016/2017
+CA Osasuna,Carlos Clerc,24,Left-Back,Espanyol,Free Transfer,in,0,Primera Division,2016,2016/2017
+CA Osasuna,Jaime Romero,25,Right Winger,Udinese Calcio,Free Transfer,in,0,Primera Division,2016,2016/2017
+CA Osasuna,Nikola Vujadinovic,30,Centre-Back,BJ BSU,Free Transfer,in,0,Primera Division,2016,2016/2017
+CA Osasuna,Goran Causic,24,Central Midfield,Eskisehirspor,Free Transfer,in,0,Primera Division,2016,2016/2017
+CA Osasuna,Didier Digard,30,Defensive Midfield,Real Betis,Loan,in,0,Primera Division,2016,2016/2017
+CA Osasuna,Salvatore Sirigu,30,Goalkeeper,Paris SG,Loan,in,0,Primera Division,2016,2016/2017
+CA Osasuna,Oriol Riera,30,Centre-Forward,Dep. La Coruña,Loan,in,0,Primera Division,2016,2016/2017
+CA Osasuna,Emmanuel Rivière,26,Centre-Forward,Newcastle,Loan,in,0,Primera Division,2016,2016/2017
+CA Osasuna,Álex Sánchez,27,Centre-Forward,CD Tudelano,"End of loanJun 30, 2016",in,0,Primera Division,2016,2016/2017
+CA Osasuna,Mikel Merino,20,Defensive Midfield,Bor. Dortmund,£3.38m,out,3.38,Primera Division,2016,2016/2017
+CA Osasuna,Nino,36,Centre-Forward,Elche CF,Free Transfer,out,0,Primera Division,2016,2016/2017
+CA Osasuna,Javi Álamo,28,Right Winger,UD Almería,Free Transfer,out,0,Primera Division,2016,2016/2017
+CA Osasuna,Maikel Mesa,25,Attacking Midfield,CD Mirandés,Free Transfer,out,0,Primera Division,2016,2016/2017
+CA Osasuna,Manuel Sánchez,27,Defensive Midfield,Alcorcón,Free Transfer,out,0,Primera Division,2016,2016/2017
+CA Osasuna,Urko Vera,29,Centre-Forward,SD Huesca,Free Transfer,out,0,Primera Division,2016,2016/2017
+CA Osasuna,Álex Sánchez,27,Centre-Forward,CA Osasuna B,-,out,0,Primera Division,2016,2016/2017
+CA Osasuna,Luís Martins,24,Left-Back,Granada CF,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017
+CA Osasuna,Matej Pucko,22,Left Winger,FC Koper,"End of loanJun 30, 2016",out,0,Primera Division,2016,2016/2017

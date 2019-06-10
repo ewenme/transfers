@@ -1,0 +1,695 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+SC Amiens,Saman Ghoddos,24,Centre-Forward,Östersund,£3.60m,in,3.6,Ligue 1,2018,2018/2019
+SC Amiens,Juan Ferney Otero,23,Right Winger,Estudiantes,£1.92m,in,1.92,Ligue 1,2018,2018/2019
+SC Amiens,Rafal Kurzawa,25,Left Midfield,Górnik Zabrze,Free Transfer,in,0,Ligue 1,2018,2018/2019
+SC Amiens,Matthieu Dreyer,29,Goalkeeper,SM Caen,Free Transfer,in,0,Ligue 1,2018,2018/2019
+SC Amiens,Alexis Blin,21,Defensive Midfield,Toulouse,Loan,in,0,Ligue 1,2018,2018/2019
+SC Amiens,Serhou Guirassy,22,Centre-Forward,1. FC Köln,Loan,in,0,Ligue 1,2018,2018/2019
+SC Amiens,Ganso,28,Attacking Midfield,Sevilla FC,Loan,in,0,Ligue 1,2018,2018/2019
+SC Amiens,Jack Lahne,17,Left Winger,Brommapojkarna,Loan,in,0,Ligue 1,2018,2018/2019
+SC Amiens,Eddy Gnahoré,24,Central Midfield,US Palermo,Loan,in,0,Ligue 1,2018,2018/2019
+SC Amiens,Erik Pieters,30,Left-Back,Stoke City,Loan,in,0,Ligue 1,2018,2018/2019
+SC Amiens,Emil Krafth,24,Right-Back,Bologna,Loan,in,0,Ligue 1,2018,2018/2019
+SC Amiens,Valentin Gendrey,18,Right-Back,SC Amiens B,-,in,0,Ligue 1,2018,2018/2019
+SC Amiens,Gauthier Banaziak,21,Goalkeeper,SC Amiens B,-,in,0,Ligue 1,2018,2018/2019
+SC Amiens,Cheick Timite,20,Centre-Forward,SC Amiens B,-,in,0,Ligue 1,2018,2018/2019
+SC Amiens,Jordan Lefort,24,Centre-Back,Quevilly-Rouen,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+SC Amiens,Nathan Dekoke,22,Centre-Back,US Boulogne,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+SC Amiens,Tanguy Ndombélé,21,Central Midfield,Olympique Lyon,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+SC Amiens,Réda Rabeï,23,Attacking Midfield,Daco-Getica,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+SC Amiens,Yannick Mamilonne,26,Centre-Forward,Quevilly-Rouen,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+SC Amiens,Brighton Labeau,22,Centre-Forward,US Créteil,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+SC Amiens,Tanguy Ndombélé,21,Central Midfield,Olympique Lyon,£7.20m,out,7.2,Ligue 1,2018,2018/2019
+SC Amiens,Harisson Manzala,24,Right Midfield,SCO Angers,£900k,out,0.9,Ligue 1,2018,2018/2019
+SC Amiens,Guessouma Fofana,25,Central Midfield,Guingamp,£900k,out,0.9,Ligue 1,2018,2018/2019
+SC Amiens,Yannick Mamilonne,26,Centre-Forward,Paris FC,Loan,out,0,Ligue 1,2018,2018/2019
+SC Amiens,Brighton Labeau,22,Centre-Forward,FC Villefranche,Loan,out,0,Ligue 1,2018,2018/2019
+SC Amiens,Mahdi Talal,21,Central Midfield,Entente SSG,Loan,out,0,Ligue 1,2018,2018/2019
+SC Amiens,Emmanuel Bourgaud,30,Right Midfield,Red Star FC,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SC Amiens,Raphaël Adiceam,28,Goalkeeper,RC France,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SC Amiens,Georges Gope-Fenepej,29,Left Midfield,FC Le Mans,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SC Amiens,Nathan Dekoke,22,Centre-Back,US Avranches,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SC Amiens,Guy N'Gosso,33,Defensive Midfield,Quevilly-Rouen,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SC Amiens,Jean-Christophe Bouet,34,Goalkeeper,Stade Laval,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SC Amiens,Sekou Baradji,34,Defensive Midfield,Istres FC,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SC Amiens,Sanasi Sy,19,Left-Back,AFC Tubize,Loan,out,0,Ligue 1,2018,2018/2019
+SC Amiens,Bachibou Koita,24,Centre-Forward,FC Ashdod,?,out,NA,Ligue 1,2018,2018/2019
+SC Amiens,Réda Rabeï,24,Attacking Midfield,US Avranches,Loan,out,0,Ligue 1,2018,2018/2019
+SC Amiens,Rafal Kurzawa,26,Left Midfield,FC Midtjylland,Loan,out,0,Ligue 1,2018,2018/2019
+SC Amiens,Ivan Bilus,25,Central Midfield,Retired,-,out,0,Ligue 1,2018,2018/2019
+SC Amiens,Charly Charrier,32,Attacking Midfield,Without Club,-,out,0,Ligue 1,2018,2018/2019
+SC Amiens,Issa Cissokho,33,Right-Back,Without Club,-,out,0,Ligue 1,2018,2018/2019
+SC Amiens,Julien Ielsch,35,Left-Back,Retired,-,out,0,Ligue 1,2018,2018/2019
+SC Amiens,Jack Lahne,17,Left Winger,Brommapojkarna,"End of loanApr 3, 2019",out,0,Ligue 1,2018,2018/2019
+SC Amiens,Serge Gakpé,31,Right Winger,Without Club,-,out,0,Ligue 1,2018,2018/2019
+SC Amiens,Ganso,29,Attacking Midfield,Sevilla FC,"End of loanJan 30, 2019",out,0,Ligue 1,2018,2018/2019
+SC Amiens,Jean-Luc Dompé,22,Left Winger,Standard Liège,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+SC Amiens,Danilo Avelar,29,Left-Back,Torino,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+SC Amiens,Lacina Traoré,28,Centre-Forward,Monaco,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+SC Amiens,Gaël Kakuta,27,Left Winger,HB CFFC,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+SCO Angers,Jeff Reine-Adélaïde,20,Central Midfield,Arsenal U23,£1.44m,in,1.44,Ligue 1,2018,2018/2019
+SCO Angers,Vincent Pajot,27,Defensive Midfield,Saint-Étienne,£900k,in,0.9,Ligue 1,2018,2018/2019
+SCO Angers,Harisson Manzala,24,Right Midfield,SC Amiens,£900k,in,0.9,Ligue 1,2018,2018/2019
+SCO Angers,Dorian Bertrand,25,Attacking Midfield,SO Cholet,£720k,in,0.72,Ligue 1,2018,2018/2019
+SCO Angers,Elhadji Pape Diaw,24,Centre-Back,Korona Kielce,£45k,in,0.045,Ligue 1,2018,2018/2019
+SCO Angers,Théo Pellenard,24,Left-Back,G. Bordeaux,Free Transfer,in,0,Ligue 1,2018,2018/2019
+SCO Angers,Stéphane Bahoken,26,Centre-Forward,R. Strasbourg,Free Transfer,in,0,Ligue 1,2018,2018/2019
+SCO Angers,Cristian López,29,Centre-Forward,Lens,Free Transfer,in,0,Ligue 1,2018,2018/2019
+SCO Angers,Ibrahim Cissé,22,Centre-Back,Tours FC,?,in,NA,Ligue 1,2018,2018/2019
+SCO Angers,Farid El Melali,21,Right Winger,Paradou AC,?,in,NA,Ligue 1,2018,2018/2019
+SCO Angers,Zacharie Boucher,26,Goalkeeper,AJ Auxerre,Loan,in,0,Ligue 1,2018,2018/2019
+SCO Angers,Cheikh N'Doye,32,Central Midfield,Birmingham,?,in,NA,Ligue 1,2018,2018/2019
+SCO Angers,Lassana Coulibaly,23,Central Midfield,Rangers,"End of loanMay 20, 2019",in,0,Ligue 1,2018,2018/2019
+SCO Angers,Rayan Aït Nouri,17,Left-Back,SCO Angers U19,-,in,0,Ligue 1,2018,2018/2019
+SCO Angers,Mathias Serin,26,Attacking Midfield,Dunkerque,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+SCO Angers,Mehdi Tahrat,28,Centre-Back,Valenciennes FC,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+SCO Angers,Enzo Crivelli,23,Centre-Forward,SM Caen,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+SCO Angers,Aïssa Laïdouni,21,Central Midfield,FC Chambly,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+SCO Angers,Alexandre Letellier,27,Goalkeeper,BSC Young Boys,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+SCO Angers,Gabriel Mutombo,22,Centre-Back,US Orléans,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+SCO Angers,Saliou Ciss,28,Left-Back,Valenciennes FC,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+SCO Angers,Karl Toko Ekambi,25,Centre-Forward,Villarreal,£16.20m,out,16.2,Ligue 1,2018,2018/2019
+SCO Angers,Enzo Crivelli,23,Centre-Forward,SM Caen,£2.70m,out,2.7,Ligue 1,2018,2018/2019
+SCO Angers,Dorian Bertrand,25,Attacking Midfield,AS Béziers,Loan,out,0,Ligue 1,2018,2018/2019
+SCO Angers,Mathieu Michel,26,Goalkeeper,AJ Auxerre,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SCO Angers,Férébory Doré,30,Centre-Forward,Botev Plovdiv,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SCO Angers,Gilles Sunu,27,Centre-Forward,BB Erzurumspor,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SCO Angers,Saliou Ciss,29,Left-Back,Valenciennes FC,Loan,out,0,Ligue 1,2018,2018/2019
+SCO Angers,Billy Ketkeophomphone,28,Right Midfield,AJ Auxerre,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SCO Angers,Harisson Manzala,24,Right Midfield,M. Petah Tikva,Loan,out,0,Ligue 1,2018,2018/2019
+SCO Angers,Mathias Serin,26,Attacking Midfield,US Boulogne,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SCO Angers,Alexandre Letellier,27,Goalkeeper,Troyes,Loan,out,0,Ligue 1,2018,2018/2019
+SCO Angers,Thomas Touré,25,Left Winger,Paris FC,Loan,out,0,Ligue 1,2018,2018/2019
+SCO Angers,Gabriel Mutombo,22,Centre-Back,US Orléans,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SCO Angers,Mehdi Tahrat,28,Centre-Back,Lens,?,out,NA,Ligue 1,2018,2018/2019
+SCO Angers,Baptiste Guillaume,23,Centre-Forward,Nîmes Olympique,Loan,out,0,Ligue 1,2018,2018/2019
+SCO Angers,Lassana Coulibaly,22,Central Midfield,Rangers,Loan,out,0,Ligue 1,2018,2018/2019
+SCO Angers,Aïssa Laïdouni,21,Central Midfield,FC Voluntari,?,out,NA,Ligue 1,2018,2018/2019
+SCO Angers,Goran Karanovic,30,Centre-Forward,Without Club,-,out,0,Ligue 1,2018,2018/2019
+SCO Angers,Jeff Reine-Adélaïde,20,Central Midfield,Arsenal U23,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+SCO Angers,Prince Oniangué,29,Defensive Midfield,Wolves,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Samuel Kalu,20,Right Winger,KAA Gent,£7.65m,in,7.65,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Yacine Adli,18,Attacking Midfield,Paris SG,£4.95m,in,4.95,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Toma Basic,21,Central Midfield,Hajduk Split,£3.15m,in,3.15,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Josh Maja,20,Centre-Forward,Sunderland,£1.53m,in,1.53,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Raoul Bellanova,18,Right-Back,Milan U19,£900k,in,0.9,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Jimmy Briand,33,Centre-Forward,Guingamp,Free Transfer,in,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Yann Karamoh,20,Right Winger,Inter,Loan,in,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Andreas Cornelius,25,Centre-Forward,Atalanta,Loan,in,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Sergi Palencia,22,Right-Back,FC Barcelona B,Loan,in,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Aaron Boupendza,22,Centre-Forward,G. Ajaccio,"End of loanDec 9, 2018",in,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Aurélien Tchouaméni,18,Central Midfield,G. Bordeaux B,-,in,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Paul Bernardoni,21,Goalkeeper,Clermont Foot,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Daniel Mancini,21,Right Midfield,Tours FC,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Diego Rolán,25,Centre-Forward,Málaga CF,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Aaron Boupendza,21,Centre-Forward,Pau FC,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Vukasin Jovanovic,22,Centre-Back,SD Eibar,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Malcom,21,Right Winger,FC Barcelona,£36.90m,out,36.9,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Diego Rolán,25,Centre-Forward,Dep. La Coruña,£5.40m,out,5.4,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Gaëtan Laborde,24,Centre-Forward,Montpellier,£2.70m,out,2.7,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Jonathan Cafú,27,Right Winger,Red Star,Loan fee:£630k,out,0.63,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Alexandre Mendy,24,Centre-Forward,Guingamp,Loan,out,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Milan Gajic,23,Right-Back,Red Star,Free Transfer,out,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Daniel Mancini,21,Right Midfield,AJ Auxerre,Loan,out,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Aaron Boupendza,21,Centre-Forward,G. Ajaccio,Loan,out,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Aaron Boupendza,22,Centre-Forward,Tours FC,Loan,out,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Olivier Verdon,22,Centre-Back,FC Sochaux,Free Transfer,out,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Théo Pellenard,24,Left-Back,SCO Angers,Free Transfer,out,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Diego Contento,28,Left-Back,F. Düsseldorf,Free Transfer,out,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Paul Bernardoni,21,Goalkeeper,Nîmes Olympique,Loan,out,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Raoul Bellanova,18,Right-Back,Milan U19,Loan,out,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Lukas Lerager,25,Central Midfield,Genoa,Loan,out,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Valentín Vada,22,Central Midfield,Saint-Étienne,Loan,out,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Paul Baysse,30,Centre-Back,SM Caen,Loan,out,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Younés Kaabouni,23,Attacking Midfield,Without Club,-,out,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Soualiho Meïté,24,Central Midfield,Monaco,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+FC Girondins Bordeaux,Martin Braithwaite,27,Centre-Forward,Middlesbrough,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+SM Caen,Enzo Crivelli,23,Centre-Forward,SCO Angers,£2.70m,in,2.7,Ligue 1,2018,2018/2019
+SM Caen,Yacine Bammou,26,Centre-Forward,FC Nantes,£2.25m,in,2.25,Ligue 1,2018,2018/2019
+SM Caen,Casimir Ninga,25,Left Winger,Montpellier,£1.80m,in,1.8,Ligue 1,2018,2018/2019
+SM Caen,Fayçal Fajr,30,Attacking Midfield,Getafe,£1.35m,in,1.35,Ligue 1,2018,2018/2019
+SM Caen,Prince Oniangué,29,Defensive Midfield,Wolves,£450k,in,0.45,Ligue 1,2018,2018/2019
+SM Caen,Malik Tchokounté,29,Centre-Forward,Paris FC,£225k,in,0.225,Ligue 1,2018,2018/2019
+SM Caen,Saîf-Eddine Khaoui,23,Attacking Midfield,Marseille,Loan,in,0,Ligue 1,2018,2018/2019
+SM Caen,Aly Ndom,22,Central Midfield,Reims,Loan,in,0,Ligue 1,2018,2018/2019
+SM Caen,Frédéric Guilbert,24,Right-Back,Aston Villa,Loan,in,0,Ligue 1,2018,2018/2019
+SM Caen,Erwin Zelazny,26,Goalkeeper,Troyes,Free Transfer,in,0,Ligue 1,2018,2018/2019
+SM Caen,Jonathan Gradit,25,Right-Back,Tours FC,Free Transfer,in,0,Ligue 1,2018,2018/2019
+SM Caen,Claudio Beauvue,30,Right Winger,Celta de Vigo,Loan,in,0,Ligue 1,2018,2018/2019
+SM Caen,Paul Baysse,30,Centre-Back,G. Bordeaux,Loan,in,0,Ligue 1,2018,2018/2019
+SM Caen,Issa Marega,20,Centre-Back,SM Caen B,-,in,0,Ligue 1,2018,2018/2019
+SM Caen,Younn Zahary,20,Centre-Back,SM Caen U19,-,in,0,Ligue 1,2018,2018/2019
+SM Caen,Timo Stavitski,19,Right Winger,RoPS,"End of loanApr 20, 2019",in,0,Ligue 1,2018,2018/2019
+SM Caen,Thomas Callens,19,Goalkeeper,SM Caen B,-,in,0,Ligue 1,2018,2018/2019
+SM Caen,Timo Stavitski,19,Right Winger,NK Osijek,"End of loanFeb 3, 2019",in,0,Ligue 1,2018,2018/2019
+SM Caen,Evens Joseph,19,Left Winger,SM Caen U19,-,in,0,Ligue 1,2018,2018/2019
+SM Caen,Pape Sané,26,Centre-Forward,AJ Auxerre,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+SM Caen,Yann Karamoh,19,Right Winger,Inter,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+SM Caen,Jeff Louis,25,Attacking Midfield,Quevilly-Rouen,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+SM Caen,Chaker Alhadhur,26,Left-Back,LB Châteauroux,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+SM Caen,Valentin Voisin,22,Defensive Midfield,US Avranches,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+SM Caen,Paul Reulet,24,Goalkeeper,US Boulogne,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+SM Caen,Emmanuel Imorou,29,Left-Back,Cercle Brugge,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+SM Caen,Yann Karamoh,19,Right Winger,Inter,£5.85m,out,5.85,Ligue 1,2018,2018/2019
+SM Caen,Frédéric Guilbert,24,Right-Back,Aston Villa,£4.50m,out,4.5,Ligue 1,2018,2018/2019
+SM Caen,Ivan Santini,29,Centre-Forward,RSC Anderlecht,£2.70m,out,2.7,Ligue 1,2018,2018/2019
+SM Caen,Hervé Bazile,28,Left Winger,AC Le Havre,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SM Caen,Jordan N'Kololo,25,Left Winger,FC Hermannstadt,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SM Caen,Durel Avounou,20,Central Midfield,US Orléans,Loan,out,0,Ligue 1,2018,2018/2019
+SM Caen,Issa Marega,20,Centre-Back,Cercle Brugge,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SM Caen,Julien Féret,36,Attacking Midfield,AJ Auxerre,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SM Caen,Timo Stavitski,19,Right Winger,RoPS,Loan,out,0,Ligue 1,2018,2018/2019
+SM Caen,Timo Stavitski,19,Right Winger,NK Osijek,Loan,out,0,Ligue 1,2018,2018/2019
+SM Caen,Chaker Alhadhur,27,Left-Back,LB Châteauroux,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SM Caen,Valentin Voisin,22,Defensive Midfield,Dunkerque,Loan,out,0,Ligue 1,2018,2018/2019
+SM Caen,Florian Le Joncour,23,Centre-Back,Concarneau,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SM Caen,Damien Da Silva,30,Centre-Back,Stade Rennais,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SM Caen,Matthieu Dreyer,29,Goalkeeper,SC Amiens,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SM Caen,Pape Sané,26,Centre-Forward,AS Nancy,Loan,out,0,Ligue 1,2018,2018/2019
+SM Caen,Vincent Bessat,32,Left-Back,Anorthosis,Free Transfer,out,0,Ligue 1,2018,2018/2019
+SM Caen,Ronny Rodelin,28,Right Winger,Guingamp,?,out,NA,Ligue 1,2018,2018/2019
+SM Caen,Stef Peeters,26,Central Midfield,Zulte Waregem,Loan,out,0,Ligue 1,2018,2018/2019
+SM Caen,Rémy Vercoutre,38,Goalkeeper,Retired,-,out,0,Ligue 1,2018,2018/2019
+SM Caen,Jordan Leborgne,22,Central Midfield,Without Club,-,out,0,Ligue 1,2018,2018/2019
+SM Caen,Jeff Louis,26,Attacking Midfield,Retired,-,out,0,Ligue 1,2018,2018/2019
+SM Caen,Christian Kouakou,27,Left Winger,Without Club,-,out,0,Ligue 1,2018,2018/2019
+SM Caen,Youssef Aït Bennasser,21,Central Midfield,Monaco,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+SM Caen,Enzo Crivelli,23,Centre-Forward,SCO Angers,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+FCO Dijon,Sory Kaba,23,Centre-Forward,Elche CF,£3.60m,in,3.6,Ligue 1,2018,2018/2019
+FCO Dijon,Naïm Sliti,25,Left Winger,LOSC Lille,£1.80m,in,1.8,Ligue 1,2018,2018/2019
+FCO Dijon,Nayef Aguerd,22,Centre-Back,FUS Rabat,£1.44m,in,1.44,Ligue 1,2018,2018/2019
+FCO Dijon,Rúnar Alex Rúnarsson,23,Goalkeeper,Nordsjaelland,£1.44m,in,1.44,Ligue 1,2018,2018/2019
+FCO Dijon,Mickaël Alphonse,28,Right-Back,FC Sochaux,Free Transfer,in,0,Ligue 1,2018,2018/2019
+FCO Dijon,Senou Coulibaly,23,Centre-Back,Club Mantois 78,Free Transfer,in,0,Ligue 1,2018,2018/2019
+FCO Dijon,Yoann Gourcuff,32,Attacking Midfield,Stade Rennais,Free Transfer,in,0,Ligue 1,2018,2018/2019
+FCO Dijon,Laurent Ciman,33,Centre-Back,Los Angeles FC,?,in,NA,Ligue 1,2018,2018/2019
+FCO Dijon,Enzo Loiodice,17,Central Midfield,Dijon,-,in,0,Ligue 1,2018,2018/2019
+FCO Dijon,Jules Keita,19,Left Winger,Without Club,-,in,0,Ligue 1,2018,2018/2019
+FCO Dijon,Lévi Ntumba,17,Goalkeeper,FCO Dijon U19,-,in,0,Ligue 1,2018,2018/2019
+FCO Dijon,Enzo Basilio,23,Goalkeeper,Rodez AF,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+FCO Dijon,Dylan Bahamboula,23,Attacking Midfield,G. Ajaccio,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+FCO Dijon,Ádám Lang,25,Centre-Back,AS Nancy,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+FCO Dijon,Jessy Benet,23,Central Midfield,Grenoble,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+FCO Dijon,Baptiste Reynet,27,Goalkeeper,Toulouse,£3.60m,out,3.6,Ligue 1,2018,2018/2019
+FCO Dijon,Laurent Ciman,33,Centre-Back,Toronto FC,Free Transfer,out,0,Ligue 1,2018,2018/2019
+FCO Dijon,Jessy Benet,23,Central Midfield,Grenoble,Free Transfer,out,0,Ligue 1,2018,2018/2019
+FCO Dijon,Eden Massouema,21,Defensive Midfield,Valenciennes FC,Loan,out,0,Ligue 1,2018,2018/2019
+FCO Dijon,Erwan Maury,22,Defensive Midfield,Rodez AF,Free Transfer,out,0,Ligue 1,2018,2018/2019
+FCO Dijon,Enzo Basilio,23,Goalkeeper,Concarneau,Free Transfer,out,0,Ligue 1,2018,2018/2019
+FCO Dijon,Ádám Lang,25,Centre-Back,CFR Cluj,Free Transfer,out,0,Ligue 1,2018,2018/2019
+FCO Dijon,Cédric Varrault,38,Centre-Back,JS Beaulieu,Free Transfer,out,0,Ligue 1,2018,2018/2019
+FCO Dijon,Benjamin Leroy,29,Goalkeeper,AC Ajaccio,Free Transfer,out,0,Ligue 1,2018,2018/2019
+FCO Dijon,Vincent Rüfli,30,Right-Back,Paris FC,Free Transfer,out,0,Ligue 1,2018,2018/2019
+FCO Dijon,Dylan Bahamboula,23,Attacking Midfield,Astra Giurgiu,Free Transfer,out,0,Ligue 1,2018,2018/2019
+FCO Dijon,Yoann Gourcuff,32,Attacking Midfield,Without Club,-,out,0,Ligue 1,2018,2018/2019
+FCO Dijon,Naïm Sliti,25,Left Winger,LOSC Lille,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+FCO Dijon,Xeka,23,Defensive Midfield,LOSC Lille,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+FCO Dijon,Papy Djilobodji,29,Centre-Back,Sunderland,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+EA Guingamp,Sikou Niakaté,19,Centre-Back,Valenciennes FC,£2.25m,in,2.25,Ligue 1,2018,2018/2019
+EA Guingamp,Guessouma Fofana,25,Central Midfield,SC Amiens,£900k,in,0.9,Ligue 1,2018,2018/2019
+EA Guingamp,Johan Larsson,28,Right-Back,Bröndby IF,Free Transfer,in,0,Ligue 1,2018,2018/2019
+EA Guingamp,Mehdi Merghem,21,Attacking Midfield,LB Châteauroux,Free Transfer,in,0,Ligue 1,2018,2018/2019
+EA Guingamp,Alexandre Mendy,24,Centre-Forward,G. Bordeaux,Loan,in,0,Ligue 1,2018,2018/2019
+EA Guingamp,Nolan Roux,30,Centre-Forward,FC Metz,Free Transfer,in,0,Ligue 1,2018,2018/2019
+EA Guingamp,Ronny Rodelin,28,Right Winger,SM Caen,?,in,NA,Ligue 1,2018,2018/2019
+EA Guingamp,Papy Djilobodji,30,Centre-Back,Without Club,-,in,0,Ligue 1,2018,2018/2019
+EA Guingamp,Djegui Koita,18,Centre-Back,EA Guingamp U19,-,in,0,Ligue 1,2018,2018/2019
+EA Guingamp,Didier Ndong,24,Central Midfield,Without Club,-,in,0,Ligue 1,2018,2018/2019
+EA Guingamp,Théo Guivarch,22,Goalkeeper,Concarneau,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+EA Guingamp,Karim Achahbar,22,Left Winger,AFC Tubize,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+EA Guingamp,Jérémy Livolant,20,Attacking Midfield,US Boulogne,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+EA Guingamp,Cheik Traoré,23,Right-Back,LB Châteauroux,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+EA Guingamp,Clément Grenier,27,Central Midfield,Stade Rennais,£3.60m,out,3.6,Ligue 1,2018,2018/2019
+EA Guingamp,Jérémy Livolant,20,Attacking Midfield,LB Châteauroux,Loan,out,0,Ligue 1,2018,2018/2019
+EA Guingamp,Sikou Niakaté,19,Centre-Back,Valenciennes FC,Loan,out,0,Ligue 1,2018,2018/2019
+EA Guingamp,Mustapha Diallo,32,Defensive Midfield,Nîmes Olympique,Free Transfer,out,0,Ligue 1,2018,2018/2019
+EA Guingamp,Yannis Salibur,27,Right Winger,Saint-Étienne,Loan,out,0,Ligue 1,2018,2018/2019
+EA Guingamp,Nathaël Julan,22,Centre-Forward,Valenciennes FC,Loan,out,0,Ligue 1,2018,2018/2019
+EA Guingamp,Jonathan Martins Pereira,32,Right-Back,FC Lorient,Free Transfer,out,0,Ligue 1,2018,2018/2019
+EA Guingamp,Jimmy Briand,33,Centre-Forward,G. Bordeaux,Free Transfer,out,0,Ligue 1,2018,2018/2019
+EA Guingamp,Théo Guivarch,22,Goalkeeper,SO Cholet,Loan,out,0,Ligue 1,2018,2018/2019
+EA Guingamp,Karim Achahbar,22,Left Winger,Without Club,-,out,0,Ligue 1,2018,2018/2019
+EA Guingamp,Thibault Giresse,37,Left Midfield,Retired,-,out,0,Ligue 1,2018,2018/2019
+EA Guingamp,Benjamin Angoua,31,Centre-Back,Without Club,-,out,0,Ligue 1,2018,2018/2019
+EA Guingamp,Abdoul Camara,28,Left Winger,Retired,-,out,0,Ligue 1,2018,2018/2019
+LOSC Lille,Jonathan Ikoné,20,Attacking Midfield,Paris SG,£4.50m,in,4.5,Ligue 1,2018,2018/2019
+LOSC Lille,Zeki Celik,21,Right-Back,Istanbulspor,£2.25m,in,2.25,Ligue 1,2018,2018/2019
+LOSC Lille,Loïc Rémy,31,Centre-Forward,UD Las Palmas,£1.26m,in,1.26,Ligue 1,2018,2018/2019
+LOSC Lille,Rafael Leão,19,Centre-Forward,Sporting CP,Free Transfer,in,0,Ligue 1,2018,2018/2019
+LOSC Lille,Jonathan Bamba,22,Left Winger,Saint-Étienne,Free Transfer,in,0,Ligue 1,2018,2018/2019
+LOSC Lille,Jérémy Pied,29,Right-Back,Southampton,Free Transfer,in,0,Ligue 1,2018,2018/2019
+LOSC Lille,José Fonte,34,Centre-Back,DL Yifang,Free Transfer,in,0,Ligue 1,2018,2018/2019
+LOSC Lille,Reinildo Mandava,25,Left-Back,Belenenses SAD,Loan,in,0,Ligue 1,2018,2018/2019
+LOSC Lille,Arton Zekaj,18,Defensive Midfield,Sopot,?,in,NA,Ligue 1,2018,2018/2019
+LOSC Lille,Rui Fonte,28,Centre-Forward,Fulham,Loan,in,0,Ligue 1,2018,2018/2019
+LOSC Lille,Júnior Alonso,25,Centre-Back,Celta de Vigo,"End of loanJan 6, 2019",in,0,Ligue 1,2018,2018/2019
+LOSC Lille,Stoppila Sunzu,29,Centre-Back,Arsenal Tula,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+LOSC Lille,Éder,30,Centre-Forward,Loko Moscow,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+LOSC Lille,Naïm Sliti,25,Left Winger,Dijon,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+LOSC Lille,Jean Butez,23,Goalkeeper,Mouscron,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+LOSC Lille,Xeka,23,Defensive Midfield,Dijon,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+LOSC Lille,Yves Bissouma,21,Central Midfield,Brighton,£15.21m,out,15.21,Ligue 1,2018,2018/2019
+LOSC Lille,Ibrahim Amadou,25,Defensive Midfield,Sevilla FC,£12.96m,out,12.96,Ligue 1,2018,2018/2019
+LOSC Lille,Kévin Malcuit,27,Right-Back,SSC Napoli,£10.80m,out,10.8,Ligue 1,2018,2018/2019
+LOSC Lille,Fodé Ballo-Touré,22,Left-Back,Monaco,£9.90m,out,9.9,Ligue 1,2018,2018/2019
+LOSC Lille,Hamza Mendyl,20,Left-Back,FC Schalke 04,£5.40m,out,5.4,Ligue 1,2018,2018/2019
+LOSC Lille,Lebo Mothiba,22,Centre-Forward,R. Strasbourg,£3.60m,out,3.6,Ligue 1,2018,2018/2019
+LOSC Lille,Naïm Sliti,25,Left Winger,Dijon,£1.80m,out,1.8,Ligue 1,2018,2018/2019
+LOSC Lille,Anwar El Ghazi,23,Right Winger,Aston Villa,Loan fee:£1.80m,out,1.8,Ligue 1,2018,2018/2019
+LOSC Lille,Stoppila Sunzu,29,Centre-Back,FC Metz,£720k,out,0.72,Ligue 1,2018,2018/2019
+LOSC Lille,Éder,30,Centre-Forward,Loko Moscow,£450k,out,0.45,Ligue 1,2018,2018/2019
+LOSC Lille,Jean Butez,23,Goalkeeper,Mouscron,£180k,out,0.18,Ligue 1,2018,2018/2019
+LOSC Lille,Rominigue Kouamé,21,Central Midfield,Paris FC,Loan,out,0,Ligue 1,2018,2018/2019
+LOSC Lille,Júnior Alonso,25,Centre-Back,Boca Juniors,Loan,out,0,Ligue 1,2018,2018/2019
+LOSC Lille,Yassine Benzia,23,Attacking Midfield,Fenerbahce,Loan,out,0,Ligue 1,2018,2018/2019
+LOSC Lille,Júnior Alonso,25,Centre-Back,Celta de Vigo,Loan,out,0,Ligue 1,2018,2018/2019
+LOSC Lille,Edgar Ié,24,Centre-Back,FC Nantes,Loan,out,0,Ligue 1,2018,2018/2019
+LOSC Lille,Imad Faraj,19,Right Winger,LOSC Lille B,-,out,0,Ligue 1,2018,2018/2019
+LOSC Lille,Ezequiel Ponce,21,Centre-Forward,AS Roma,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+Olympique Lyon,Moussa Dembélé,22,Centre-Forward,Celtic,£19.80m,in,19.8,Ligue 1,2018,2018/2019
+Olympique Lyon,Tanguy Ndombélé,21,Central Midfield,SC Amiens,£7.20m,in,7.2,Ligue 1,2018,2018/2019
+Olympique Lyon,Jason Denayer,23,Centre-Back,Man City,£5.85m,in,5.85,Ligue 1,2018,2018/2019
+Olympique Lyon,Lenny Pintor,18,Centre-Forward,Stade Brest 29,£4.50m,in,4.5,Ligue 1,2018,2018/2019
+Olympique Lyon,Oumar Solet,18,Centre-Back,Stade Laval,£495k,in,0.495,Ligue 1,2018,2018/2019
+Olympique Lyon,Léo Dubois,23,Right-Back,FC Nantes,Free Transfer,in,0,Ligue 1,2018,2018/2019
+Olympique Lyon,Anthony Racioppi,19,Goalkeeper,Olymp. Lyon B,-,in,0,Ligue 1,2018,2018/2019
+Olympique Lyon,Maxence Caqueret,18,Central Midfield,Olymp. Lyon B,-,in,0,Ligue 1,2018,2018/2019
+Olympique Lyon,Timothé Cognat,20,Central Midfield,Olymp. Lyon B,-,in,0,Ligue 1,2018,2018/2019
+Olympique Lyon,Sergi Darder,24,Central Midfield,Espanyol,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Olympique Lyon,Martin Terrier,21,Left Winger,R. Strasbourg,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Olympique Lyon,Jean-Philippe Mateta,21,Centre-Forward,AC Le Havre,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Olympique Lyon,Nicolas N'Koulou,28,Centre-Back,Torino,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Olympique Lyon,Christopher Martins Pereira,21,Defensive Midfield,Bourg-en-Bresse,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Olympique Lyon,Aldo Kalulu,22,Right Winger,FC Sochaux,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Olympique Lyon,Romain Del Castillo,22,Right Winger,Nîmes Olympique,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Olympique Lyon,Olivier Kemen,21,Central Midfield,G. Ajaccio,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Olympique Lyon,Mariano Díaz,25,Centre-Forward,Real Madrid,£19.35m,out,19.35,Ligue 1,2018,2018/2019
+Olympique Lyon,Willem Geubbels,16,Left Winger,Monaco,£18.00m,out,18,Ligue 1,2018,2018/2019
+Olympique Lyon,Mouctar Diakhaby,21,Centre-Back,Valencia,£13.50m,out,13.5,Ligue 1,2018,2018/2019
+Olympique Lyon,Myziane Maolida,19,Centre-Forward,OGC Nice,£9.00m,out,9,Ligue 1,2018,2018/2019
+Olympique Lyon,Jean-Philippe Mateta,21,Centre-Forward,1.FSV Mainz 05,£9.00m,out,9,Ligue 1,2018,2018/2019
+Olympique Lyon,Sergi Darder,24,Central Midfield,Espanyol,£7.20m,out,7.2,Ligue 1,2018,2018/2019
+Olympique Lyon,Nicolas N'Koulou,28,Centre-Back,Torino,£3.15m,out,3.15,Ligue 1,2018,2018/2019
+Olympique Lyon,Aldo Kalulu,22,Right Winger,FC Basel,£1.89m,out,1.89,Ligue 1,2018,2018/2019
+Olympique Lyon,Romain Del Castillo,22,Right Winger,Stade Rennais,£1.80m,out,1.8,Ligue 1,2018,2018/2019
+Olympique Lyon,Elisha Owusu,20,Defensive Midfield,FC Sochaux,Loan,out,0,Ligue 1,2018,2018/2019
+Olympique Lyon,Louis Nganioni,23,Left-Back,Levski Sofia,Free Transfer,out,0,Ligue 1,2018,2018/2019
+Olympique Lyon,Christopher Martins Pereira,21,Defensive Midfield,Troyes,Loan,out,0,Ligue 1,2018,2018/2019
+Olympique Lyon,Lucas Mocio,24,Goalkeeper,Annecy FC,Free Transfer,out,0,Ligue 1,2018,2018/2019
+Olympique Lyon,Jordan Ferri,26,Central Midfield,Nîmes Olympique,Loan,out,0,Ligue 1,2018,2018/2019
+Olympique Lyon,Timothé Cognat,20,Central Midfield,Servette FC,Loan,out,0,Ligue 1,2018,2018/2019
+Olympique Lyon,Tanguy Ndombélé,21,Central Midfield,SC Amiens,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+Olympique Lyon,Oumar Solet,18,Centre-Back,Stade Laval,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+Olympique Marseille,Kevin Strootman,28,Central Midfield,AS Roma,£22.50m,in,22.5,Ligue 1,2018,2018/2019
+Olympique Marseille,Duje Caleta-Car,21,Centre-Back,RB Salzburg,£17.10m,in,17.1,Ligue 1,2018,2018/2019
+Olympique Marseille,Nemanja Radonjic,22,Left Winger,Red Star,£10.80m,in,10.8,Ligue 1,2018,2018/2019
+Olympique Marseille,Jordan Amavi,24,Left-Back,Aston Villa,£9.00m,in,9,Ligue 1,2018,2018/2019
+Olympique Marseille,Mario Balotelli,28,Centre-Forward,OGC Nice,Free Transfer,in,0,Ligue 1,2018,2018/2019
+Olympique Marseille,Sacha Marasovic,20,Central Midfield,Marseille B,-,in,0,Ligue 1,2018,2018/2019
+Olympique Marseille,Yusuf Sari,20,Right Winger,Clermont Foot,"End of loanJan 10, 2019",in,0,Ligue 1,2018,2018/2019
+Olympique Marseille,Lucas Perrin,19,Centre-Back,Marseille B,-,in,0,Ligue 1,2018,2018/2019
+Olympique Marseille,Florian Chabrolle,20,Attacking Midfield,Marseille B,-,in,0,Ligue 1,2018,2018/2019
+Olympique Marseille,Saîf-Eddine Khaoui,23,Attacking Midfield,Troyes,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Olympique Marseille,Dória,23,Centre-Back,Y. Malatyaspor,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Olympique Marseille,Tomas Hubocan,32,Centre-Back,Trabzonspor,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Olympique Marseille,Rémy Cabella,28,Attacking Midfield,Saint-Étienne,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Olympique Marseille,André Zambo Anguissa,22,Defensive Midfield,Fulham,£22.37m,out,22.37,Ligue 1,2018,2018/2019
+Olympique Marseille,Rémy Cabella,28,Attacking Midfield,Saint-Étienne,£4.50m,out,4.5,Ligue 1,2018,2018/2019
+Olympique Marseille,Dória,23,Centre-Back,Santos Laguna,£1.80m,out,1.8,Ligue 1,2018,2018/2019
+Olympique Marseille,Saîf-Eddine Khaoui,23,Attacking Midfield,SM Caen,Loan,out,0,Ligue 1,2018,2018/2019
+Olympique Marseille,Konstantinos Mitroglou,30,Centre-Forward,Galatasaray,Loan,out,0,Ligue 1,2018,2018/2019
+Olympique Marseille,Yusuf Sari,19,Right Winger,Clermont Foot,Loan,out,0,Ligue 1,2018,2018/2019
+Olympique Marseille,Christopher Rocchia,20,Left-Back,FC Sochaux,Loan,out,0,Ligue 1,2018,2018/2019
+Olympique Marseille,Grégory Sertic,29,Defensive Midfield,FC Zürich,Loan,out,0,Ligue 1,2018,2018/2019
+Olympique Marseille,Henri Bedimo,34,Left-Back,Without Club,-,out,0,Ligue 1,2018,2018/2019
+Olympique Marseille,Jordan Amavi,24,Left-Back,Aston Villa,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+AS Monaco,Aleksandr Golovin,22,Attacking Midfield,CSKA Moscow,£27.00m,in,27,Ligue 1,2018,2018/2019
+AS Monaco,Benjamin Henrichs,21,Right-Back,Bay. Leverkusen,£18.00m,in,18,Ligue 1,2018,2018/2019
+AS Monaco,Willem Geubbels,16,Left Winger,Olympique Lyon,£18.00m,in,18,Ligue 1,2018,2018/2019
+AS Monaco,Jean-Eudes Aholou,24,Defensive Midfield,R. Strasbourg,£12.60m,in,12.6,Ligue 1,2018,2018/2019
+AS Monaco,Nacer Chadli,29,Left Winger,West Brom,£10.80m,in,10.8,Ligue 1,2018,2018/2019
+AS Monaco,Fodé Ballo-Touré,22,Left-Back,LOSC Lille,£9.90m,in,9.9,Ligue 1,2018,2018/2019
+AS Monaco,Antonio Barreca,23,Left-Back,Torino,£9.00m,in,9,Ligue 1,2018,2018/2019
+AS Monaco,Pelé,26,Defensive Midfield,Rio Ave FC,£6.48m,in,6.48,Ligue 1,2018,2018/2019
+AS Monaco,Ronaël Pierre-Gabriel,20,Right-Back,Saint-Étienne,£5.40m,in,5.4,Ligue 1,2018,2018/2019
+AS Monaco,Jonathan Panzo,17,Centre-Back,Chelsea U18,£2.70m,in,2.7,Ligue 1,2018,2018/2019
+AS Monaco,Samuel Grandsir,21,Right Midfield,Troyes,£2.70m,in,2.7,Ligue 1,2018,2018/2019
+AS Monaco,Naldo,36,Centre-Back,FC Schalke 04,£1.80m,in,1.8,Ligue 1,2018,2018/2019
+AS Monaco,Sofiane Diop,18,Attacking Midfield,Rennes B,Free Transfer,in,0,Ligue 1,2018,2018/2019
+AS Monaco,Cesc Fàbregas,31,Central Midfield,Chelsea,Free Transfer,in,0,Ligue 1,2018,2018/2019
+AS Monaco,Gelson Martins,23,Right Winger,Atlético Madrid,Loan,in,0,Ligue 1,2018,2018/2019
+AS Monaco,Adrien Silva,29,Central Midfield,Leicester,Loan,in,0,Ligue 1,2018,2018/2019
+AS Monaco,William Vainqueur,30,Defensive Midfield,Antalyaspor,Loan,in,0,Ligue 1,2018,2018/2019
+AS Monaco,Georges-Kevin N'Koudou,23,Left Winger,Spurs,Loan,in,0,Ligue 1,2018,2018/2019
+AS Monaco,Carlos Vinícius,23,Centre-Forward,SSC Napoli,Loan,in,0,Ligue 1,2018,2018/2019
+AS Monaco,Moussa Sylla,18,Centre-Forward,Monaco U19,-,in,0,Ligue 1,2018,2018/2019
+AS Monaco,Fouad El Maach,17,Midfielder,Monaco Youth,-,in,0,Ligue 1,2018,2018/2019
+AS Monaco,Benoît Badiashile,17,Centre-Back,Monaco U19,-,in,0,Ligue 1,2018,2018/2019
+AS Monaco,Gil Dias,22,Right Winger,Nottm Forest,"End of loanJan 23, 2019",in,0,Ligue 1,2018,2018/2019
+AS Monaco,Adrien Bongiovanni,18,Centre-Forward,Monaco B,-,in,0,Ligue 1,2018,2018/2019
+AS Monaco,Jorge,22,Left-Back,FC Porto,"End of loanMar 27, 2019",in,0,Ligue 1,2018,2018/2019
+AS Monaco,Ibrahima Diallo,19,Central Midfield,Monaco B,-,in,0,Ligue 1,2018,2018/2019
+AS Monaco,Youssef Aït Bennasser,21,Central Midfield,SM Caen,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+AS Monaco,Soualiho Meïté,24,Central Midfield,G. Bordeaux,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+AS Monaco,Elderson,30,Left-Back,Cercle Brugge,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+AS Monaco,Gil Dias,21,Right Winger,Fiorentina,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+AS Monaco,Kylian Mbappé,19,Centre-Forward,Paris SG,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+AS Monaco,Jonathan Mexique,23,Central Midfield,Tours FC,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+AS Monaco,Rúben Vinagre,19,Left-Back,Wolves,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+AS Monaco,Lacina Traoré,28,Centre-Forward,SC Amiens,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+AS Monaco,Terence Kongolo,24,Centre-Back,Huddersfield,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+AS Monaco,Kylian Mbappé,19,Centre-Forward,Paris SG,£121.50m,out,121.5,Ligue 1,2018,2018/2019
+AS Monaco,Thomas Lemar,22,Left Winger,Atlético Madrid,£63.00m,out,63,Ligue 1,2018,2018/2019
+AS Monaco,Fabinho,24,Defensive Midfield,Liverpool,£40.50m,out,40.5,Ligue 1,2018,2018/2019
+AS Monaco,Terence Kongolo,24,Centre-Back,Huddersfield,£18.00m,out,18,Ligue 1,2018,2018/2019
+AS Monaco,Rachid Ghezzal,26,Right Winger,Leicester,£12.60m,out,12.6,Ligue 1,2018,2018/2019
+AS Monaco,Adama Diakhaby,22,Centre-Forward,Huddersfield,£9.00m,out,9,Ligue 1,2018,2018/2019
+AS Monaco,Soualiho Meïté,24,Central Midfield,Torino,£9.00m,out,9,Ligue 1,2018,2018/2019
+AS Monaco,João Moutinho,31,Central Midfield,Wolves,£5.04m,out,5.04,Ligue 1,2018,2018/2019
+AS Monaco,Keita Baldé,23,Left Winger,Inter,Loan fee:£4.50m,out,4.5,Ligue 1,2018,2018/2019
+AS Monaco,Rúben Vinagre,19,Left-Back,Wolves,£2.03m,out,2.03,Ligue 1,2018,2018/2019
+AS Monaco,Antonio Barreca,23,Left-Back,Newcastle,Loan fee:£1.04m,out,1.04,Ligue 1,2018,2018/2019
+AS Monaco,Almamy Touré,22,Right-Back,E. Frankfurt,£675k,out,0.675,Ligue 1,2018,2018/2019
+AS Monaco,Adama Traoré,23,Central Midfield,Cercle Brugge,Loan,out,0,Ligue 1,2018,2018/2019
+AS Monaco,Gabriel Boschilia,22,Attacking Midfield,FC Nantes,Loan,out,0,Ligue 1,2018,2018/2019
+AS Monaco,Adrien Bongiovanni,18,Centre-Forward,Cercle Brugge,Loan,out,0,Ligue 1,2018,2018/2019
+AS Monaco,Loïc Badiashile,20,Goalkeeper,Stade Rennais,Loan,out,0,Ligue 1,2018,2018/2019
+AS Monaco,Jonathan Mexique,23,Central Midfield,SO Cholet,Loan,out,0,Ligue 1,2018,2018/2019
+AS Monaco,Ibrahima Diallo,19,Central Midfield,Stade Brest 29,Loan,out,0,Ligue 1,2018,2018/2019
+AS Monaco,Gil Dias,21,Right Winger,Nottm Forest,Loan,out,0,Ligue 1,2018,2018/2019
+AS Monaco,Samuel Grandsir,22,Right Midfield,R. Strasbourg,Loan,out,0,Ligue 1,2018,2018/2019
+AS Monaco,Pelé,27,Defensive Midfield,Nottm Forest,Loan,out,0,Ligue 1,2018,2018/2019
+AS Monaco,Jorge,23,Left-Back,Santos FC,Loan,out,0,Ligue 1,2018,2018/2019
+AS Monaco,Youssef Aït Bennasser,22,Central Midfield,Saint-Étienne,Loan,out,0,Ligue 1,2018,2018/2019
+AS Monaco,Youri Tielemans,21,Central Midfield,Leicester,Loan,out,0,Ligue 1,2018,2018/2019
+AS Monaco,Jorge,22,Left-Back,FC Porto,Loan,out,0,Ligue 1,2018,2018/2019
+AS Monaco,Gil Dias,22,Right Winger,Olympiacos,Loan,out,0,Ligue 1,2018,2018/2019
+AS Monaco,Lacina Traoré,28,Centre-Forward,Without Club,-,out,0,Ligue 1,2018,2018/2019
+AS Monaco,Elderson,30,Left-Back,Without Club,-,out,0,Ligue 1,2018,2018/2019
+HSC Montpellier,Gaëtan Laborde,24,Centre-Forward,G. Bordeaux,£2.70m,in,2.7,Ligue 1,2018,2018/2019
+HSC Montpellier,Florent Mollet,26,Attacking Midfield,FC Metz,£2.34m,in,2.34,Ligue 1,2018,2018/2019
+HSC Montpellier,Junior Sambia,21,Defensive Midfield,FC Niort,£1.80m,in,1.8,Ligue 1,2018,2018/2019
+HSC Montpellier,Facundo Píriz,28,Defensive Midfield,Akhmat Grozny,£900k,in,0.9,Ligue 1,2018,2018/2019
+HSC Montpellier,Mathías Suárez,22,Right-Back,Defensor,£855k,in,0.855,Ligue 1,2018,2018/2019
+HSC Montpellier,Mihailo Ristic,23,Central Midfield,Krasnodar,£540k,in,0.54,Ligue 1,2018,2018/2019
+HSC Montpellier,Andy Delort,26,Centre-Forward,Toulouse,Loan,in,0,Ligue 1,2018,2018/2019
+HSC Montpellier,Damien Le Tallec,28,Defensive Midfield,Red Star,Free Transfer,in,0,Ligue 1,2018,2018/2019
+HSC Montpellier,Petar Skuletic,28,Centre-Forward,Genclerbirligi,Free Transfer,in,0,Ligue 1,2018,2018/2019
+HSC Montpellier,Kylian Kaïboué,19,Defensive Midfield,HSC Montpellier B,-,in,0,Ligue 1,2018,2018/2019
+HSC Montpellier,Yannis Ammour,19,Centre-Forward,HSC Montpellier B,-,in,0,Ligue 1,2018,2018/2019
+HSC Montpellier,Jonathan Ligali,27,Goalkeeper,Dunkerque,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+HSC Montpellier,Nordi Mukiele,20,Right-Back,RB Leipzig,£14.40m,out,14.4,Ligue 1,2018,2018/2019
+HSC Montpellier,Jérôme Roussillon,25,Left-Back,VfL Wolfsburg,£4.50m,out,4.5,Ligue 1,2018,2018/2019
+HSC Montpellier,Isaac Mbenza,22,Right Winger,Huddersfield,Loan fee:£2.25m,out,2.25,Ligue 1,2018,2018/2019
+HSC Montpellier,Casimir Ninga,25,Left Winger,SM Caen,£1.80m,out,1.8,Ligue 1,2018,2018/2019
+HSC Montpellier,Morgan Poaty,21,Left-Back,Troyes,Loan,out,0,Ligue 1,2018,2018/2019
+HSC Montpellier,Giovanni Sio,29,Centre-Forward,Ittihad Kalba,Loan,out,0,Ligue 1,2018,2018/2019
+HSC Montpellier,Laurent Pionnier,36,Goalkeeper,Retired,-,out,0,Ligue 1,2018,2018/2019
+HSC Montpellier,Jonathan Ikoné,20,Attacking Midfield,Paris SG,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+HSC Montpellier,Junior Sambia,21,Defensive Midfield,FC Niort,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+HSC Montpellier,Facundo Píriz,28,Defensive Midfield,Akhmat Grozny,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+FC Nantes,Anthony Limbombe,24,Left Winger,Club Brugge,£7.20m,in,7.2,Ligue 1,2018,2018/2019
+FC Nantes,Lucas Evangelista,23,Right Midfield,Udinese Calcio,£3.60m,in,3.6,Ligue 1,2018,2018/2019
+FC Nantes,Fábio,28,Right-Back,Middlesbrough,£1.80m,in,1.8,Ligue 1,2018,2018/2019
+FC Nantes,Charles Traoré,26,Left-Back,Troyes,£450k,in,0.45,Ligue 1,2018,2018/2019
+FC Nantes,Rene Krhin,28,Defensive Midfield,Granada CF,£270k,in,0.27,Ligue 1,2018,2018/2019
+FC Nantes,Matt Miazga,23,Centre-Back,Chelsea,Loan fee:£270k,in,0.27,Ligue 1,2018,2018/2019
+FC Nantes,Gabriel Boschilia,22,Attacking Midfield,Monaco,Loan,in,0,Ligue 1,2018,2018/2019
+FC Nantes,Valentin Eysseric,26,Attacking Midfield,Fiorentina,Loan,in,0,Ligue 1,2018,2018/2019
+FC Nantes,Edgar Ié,24,Centre-Back,LOSC Lille,Loan,in,0,Ligue 1,2018,2018/2019
+FC Nantes,Kara,28,Centre-Back,RSC Anderlecht,Loan,in,0,Ligue 1,2018,2018/2019
+FC Nantes,Antonio Mance,23,Centre-Forward,AS Trencin,Loan,in,0,Ligue 1,2018,2018/2019
+FC Nantes,Majeed Waris,26,Centre-Forward,FC Porto,Loan,in,0,Ligue 1,2018,2018/2019
+FC Nantes,Abdoulaye Dabo,17,Left Midfield,FC Nantes U19,-,in,0,Ligue 1,2018,2018/2019
+FC Nantes,Thomas Basila,19,Centre-Back,FC Nantes B,-,in,0,Ligue 1,2018,2018/2019
+FC Nantes,Mariusz Stepinski,23,Centre-Forward,Chievo Verona,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+FC Nantes,Queensy Menig,22,Left Winger,PEC Zwolle,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+FC Nantes,Anthony Walongwa,24,Centre-Back,Grenoble,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+FC Nantes,Alexandre Olliero,22,Goalkeeper,FC Niort,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+FC Nantes,Emiliano Sala,28,Centre-Forward,Cardiff,£15.30m,out,15.3,Ligue 1,2018,2018/2019
+FC Nantes,Yacine Bammou,26,Centre-Forward,SM Caen,£2.25m,out,2.25,Ligue 1,2018,2018/2019
+FC Nantes,Mariusz Stepinski,23,Centre-Forward,Chievo Verona,£2.25m,out,2.25,Ligue 1,2018,2018/2019
+FC Nantes,Santy Ngom,25,Centre-Forward,AS Nancy,Loan,out,0,Ligue 1,2018,2018/2019
+FC Nantes,Léo Dubois,23,Right-Back,Olympique Lyon,Free Transfer,out,0,Ligue 1,2018,2018/2019
+FC Nantes,Kolbeinn Sigthórsson,29,Centre-Forward,AIK,Free Transfer,out,0,Ligue 1,2018,2018/2019
+FC Nantes,Adrien Thomasson,24,Attacking Midfield,R. Strasbourg,Free Transfer,out,0,Ligue 1,2018,2018/2019
+FC Nantes,Alexis Alégué,21,Right Midfield,Tours FC,Loan,out,0,Ligue 1,2018,2018/2019
+FC Nantes,Alexander Kacaniklic,27,Left Midfield,Hammarby,Free Transfer,out,0,Ligue 1,2018,2018/2019
+FC Nantes,Yassine El Ghanassy,28,Left Winger,Al-Raed,Loan,out,0,Ligue 1,2018,2018/2019
+FC Nantes,Koffi Djidji,25,Centre-Back,Torino,Loan,out,0,Ligue 1,2018,2018/2019
+FC Nantes,Matt Miazga,23,Centre-Back,Chelsea,"End of loanJan 24, 2019",out,0,Ligue 1,2018,2018/2019
+FC Nantes,David Alcibiade,26,Right-Back,Without Club,-,out,0,Ligue 1,2018,2018/2019
+FC Nantes,Jules Iloki,26,Right Midfield,Without Club,-,out,0,Ligue 1,2018,2018/2019
+FC Nantes,Prejuce Nakoulma,31,Centre-Forward,Without Club,-,out,0,Ligue 1,2018,2018/2019
+FC Nantes,Kara,29,Centre-Back,RSC Anderlecht,"End of loanJan 11, 2019",out,0,Ligue 1,2018,2018/2019
+FC Nantes,Najib Gandi,24,Attacking Midfield,Without Club,-,out,0,Ligue 1,2018,2018/2019
+FC Nantes,Queensy Menig,22,Left Winger,FC Nantes B,-,out,0,Ligue 1,2018,2018/2019
+FC Nantes,Chidozie Awaziem,21,Centre-Back,FC Porto B,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+FC Nantes,Rene Krhin,28,Defensive Midfield,Granada CF,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+OGC Nice,Myziane Maolida,19,Centre-Forward,Olympique Lyon,£9.00m,in,9,Ligue 1,2018,2018/2019
+OGC Nice,Danilo,22,Defensive Midfield,Braga,£9.00m,in,9,Ligue 1,2018,2018/2019
+OGC Nice,Christophe Hérelle,25,Centre-Back,Troyes,£4.50m,in,4.5,Ligue 1,2018,2018/2019
+OGC Nice,Youcef Atal,22,Right-Back,KV Kortrijk,£2.70m,in,2.7,Ligue 1,2018,2018/2019
+OGC Nice,Arnaud Lusamba,22,Central Midfield,Cercle Brugge,"End of loanMar 8, 2019",in,0,Ligue 1,2018,2018/2019
+OGC Nice,Ignatius Ganago,19,Centre-Forward,OGC Nice B,-,in,0,Ligue 1,2018,2018/2019
+OGC Nice,Yannis Clementia,20,Goalkeeper,OGC Nice B,-,in,0,Ligue 1,2018,2018/2019
+OGC Nice,Hicham Mahou,18,Right Winger,Nizza U19,-,in,0,Ligue 1,2018,2018/2019
+OGC Nice,Saïd Benrahma,22,Left Winger,LB Châteauroux,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+OGC Nice,Rémi Walter,23,Central Midfield,Troyes,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+OGC Nice,Mouez Hassen,23,Goalkeeper,LB Châteauroux,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+OGC Nice,Gautier Lloris,22,Centre-Back,G. Ajaccio,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+OGC Nice,Olivier Boscagli,20,Left-Back,Nîmes Olympique,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+OGC Nice,Jean Michaël Seri,26,Central Midfield,Fulham,£27.00m,out,27,Ligue 1,2018,2018/2019
+OGC Nice,Alassane Plea,25,Centre-Forward,Bor. M'gladbach,£20.70m,out,20.7,Ligue 1,2018,2018/2019
+OGC Nice,Maxime Le Marchand,28,Centre-Back,Fulham,£3.60m,out,3.6,Ligue 1,2018,2018/2019
+OGC Nice,Arnaud Souquet,26,Right-Back,KAA Gent,£2.70m,out,2.7,Ligue 1,2018,2018/2019
+OGC Nice,Saïd Benrahma,22,Left Winger,Brentford,£1.53m,out,1.53,Ligue 1,2018,2018/2019
+OGC Nice,Mario Balotelli,28,Centre-Forward,Marseille,Free Transfer,out,0,Ligue 1,2018,2018/2019
+OGC Nice,Romain Perraud,20,Left-Back,Paris FC,Loan,out,0,Ligue 1,2018,2018/2019
+OGC Nice,Vincent Marcel,21,Right Midfield,Troyes,Loan,out,0,Ligue 1,2018,2018/2019
+OGC Nice,Arnaud Lusamba,21,Central Midfield,Cercle Brugge,Loan,out,0,Ligue 1,2018,2018/2019
+OGC Nice,Albert Rafetraniaina,21,Defensive Midfield,OGC Nice B,-,out,0,Ligue 1,2018,2018/2019
+OGC Nice,Nampalys Mendy,26,Defensive Midfield,Leicester,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+OGC Nice,Marlon,22,Centre-Back,FC Barcelona,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+Nîmes Olympique,Denis Bouanga,23,Left Midfield,FC Lorient,£2.70m,in,2.7,Ligue 1,2018,2018/2019
+Nîmes Olympique,Hervé Lybohy,34,Centre-Back,Paris FC,Free Transfer,in,0,Ligue 1,2018,2018/2019
+Nîmes Olympique,Loïck Landre,26,Centre-Back,Genoa,Free Transfer,in,0,Ligue 1,2018,2018/2019
+Nîmes Olympique,Faitout Maouassa,20,Left-Back,Stade Rennais,Loan,in,0,Ligue 1,2018,2018/2019
+Nîmes Olympique,Mustapha Diallo,32,Defensive Midfield,Guingamp,Free Transfer,in,0,Ligue 1,2018,2018/2019
+Nîmes Olympique,Florian Miguel,21,Left-Back,Tours FC,Free Transfer,in,0,Ligue 1,2018,2018/2019
+Nîmes Olympique,Paul Bernardoni,21,Goalkeeper,G. Bordeaux,Loan,in,0,Ligue 1,2018,2018/2019
+Nîmes Olympique,Baptiste Guillaume,23,Centre-Forward,SCO Angers,Loan,in,0,Ligue 1,2018,2018/2019
+Nîmes Olympique,Jordan Ferri,26,Central Midfield,Olympique Lyon,Loan,in,0,Ligue 1,2018,2018/2019
+Nîmes Olympique,Abdel Malik Hsissane,27,Defensive Midfield,Nîmes B,-,in,0,Ligue 1,2018,2018/2019
+Nîmes Olympique,Kévin Denkey,18,Centre-Forward,Nîmes B,-,in,0,Ligue 1,2018,2018/2019
+Nîmes Olympique,Sami Ben Amar,20,Centre-Forward,Nîmes B,-,in,0,Ligue 1,2018,2018/2019
+Nîmes Olympique,Zié Diabaté,29,Left-Back,FC Niort,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Nîmes Olympique,Kévin Denkey,18,Centre-Forward,AS Béziers,Loan,out,0,Ligue 1,2018,2018/2019
+Nîmes Olympique,Liassine Cadamuro,30,Centre-Back,Gimnàstic,Free Transfer,out,0,Ligue 1,2018,2018/2019
+Nîmes Olympique,Yan Marillat,24,Goalkeeper,AS Béziers,Free Transfer,out,0,Ligue 1,2018,2018/2019
+Nîmes Olympique,Zié Diabaté,29,Left-Back,Without Club,-,out,0,Ligue 1,2018,2018/2019
+Nîmes Olympique,Fabien Garcia,23,Centre-Back,Without Club,-,out,0,Ligue 1,2018,2018/2019
+Nîmes Olympique,Romain Del Castillo,22,Right Winger,Olympique Lyon,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+Nîmes Olympique,Olivier Boscagli,20,Left-Back,OGC Nice,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Kylian Mbappé,19,Centre-Forward,Monaco,£121.50m,in,121.5,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Leandro Paredes,24,Defensive Midfield,Zenit S-Pb,£36.00m,in,36,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Thilo Kehrer,21,Centre-Back,FC Schalke 04,£33.30m,in,33.3,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Juan Bernat,25,Left-Back,Bayern Munich,£4.50m,in,4.5,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Gianluigi Buffon,40,Goalkeeper,Juventus,Free Transfer,in,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Eric Maxim Choupo-Moting,29,Centre-Forward,Stoke City,Free Transfer,in,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Timothy Weah,19,Centre-Forward,Celtic,"End of loanMay 10, 2019",in,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Timothy Weah,18,Centre-Forward,Paris SG B,-,in,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Yacine Adli,17,Attacking Midfield,Paris SG B,-,in,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Colin Dagba,19,Right-Back,Paris SG B,-,in,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Antoine Bernede,19,Central Midfield,Paris SG B,-,in,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Stanley N'Soki,19,Left-Back,Paris SG B,-,in,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Moussa Diaby,18,Left Winger,Paris SG B,-,in,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Odsonne Edouard,20,Centre-Forward,Celtic,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Jonathan Ikoné,20,Attacking Midfield,Montpellier,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Grzegorz Krychowiak,28,Defensive Midfield,West Brom,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Rémy Descamps,22,Goalkeeper,Tours FC,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Jesé,25,Centre-Forward,Stoke City,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Gonçalo Guedes,21,Left Winger,Valencia,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Jean-Christophe Bahebeck,25,Centre-Forward,FC Utrecht,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Gonçalo Guedes,21,Left Winger,Valencia,£36.00m,out,36,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Javier Pastore,29,Attacking Midfield,AS Roma,£22.23m,out,22.23,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Yuri Berchiche,28,Left-Back,Athletic,£21.60m,out,21.6,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Odsonne Edouard,20,Centre-Forward,Celtic,£9.27m,out,9.27,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Yacine Adli,18,Attacking Midfield,G. Bordeaux,£4.95m,out,4.95,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Jonathan Ikoné,20,Attacking Midfield,LOSC Lille,£4.50m,out,4.5,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Giovani Lo Celso,22,Central Midfield,Real Betis,Loan fee:£2.70m,out,2.7,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Grzegorz Krychowiak,28,Defensive Midfield,Loko Moscow,Loan fee:£1.35m,out,1.35,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Jean-Christophe Bahebeck,25,Centre-Forward,FC Utrecht,Free Transfer,out,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Antoine Bernede,19,Central Midfield,RB Salzburg,Free Transfer,out,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Timothy Weah,18,Centre-Forward,Celtic,Loan,out,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Rémy Descamps,22,Goalkeeper,Clermont Foot,Loan,out,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Kevin Trapp,28,Goalkeeper,E. Frankfurt,Loan,out,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Jesé,25,Centre-Forward,Real Betis,Loan,out,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Thiago Motta,35,Defensive Midfield,Retired,-,out,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Hatem Ben Arfa,31,Attacking Midfield,Without Club,-,out,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Lassana Diarra,33,Defensive Midfield,Retired,-,out,0,Ligue 1,2018,2018/2019
+Paris Saint-Germain,Kylian Mbappé,19,Centre-Forward,Monaco,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+Stade Reims,Arbër Zeneli,23,Left Winger,Heerenveen,£3.60m,in,3.6,Ligue 1,2018,2018/2019
+Stade Reims,Ghislain Konan,22,Left-Back,Vit. Guimarães,£3.60m,in,3.6,Ligue 1,2018,2018/2019
+Stade Reims,Thomas Foket,23,Right-Back,KAA Gent,£3.15m,in,3.15,Ligue 1,2018,2018/2019
+Stade Reims,Hyun-jun Suk,27,Centre-Forward,Troyes,£2.70m,in,2.7,Ligue 1,2018,2018/2019
+Stade Reims,Tristan Dingomé,27,Central Midfield,Troyes,£900k,in,0.9,Ligue 1,2018,2018/2019
+Stade Reims,Moussa Doumbia,23,Left Winger,Rostov,Free Transfer,in,0,Ligue 1,2018,2018/2019
+Stade Reims,Sheyi Ojo,21,Right Winger,Liverpool,Loan,in,0,Ligue 1,2018,2018/2019
+Stade Reims,Thomas Fontaine,27,Centre-Back,Clermont Foot,Free Transfer,in,0,Ligue 1,2018,2018/2019
+Stade Reims,Alaixys Romao,34,Defensive Midfield,Olympiacos,Free Transfer,in,0,Ligue 1,2018,2018/2019
+Stade Reims,Abdul Rahman Baba,24,Left-Back,Chelsea,Loan,in,0,Ligue 1,2018,2018/2019
+Stade Reims,Boulaye Dia,21,Centre-Forward,Jura Sud,?,in,NA,Ligue 1,2018,2018/2019
+Stade Reims,Sambou Sissoko,19,Right-Back,Tours FC,?,in,NA,Ligue 1,2018,2018/2019
+Stade Reims,Björn Engels,23,Centre-Back,Olympiacos,Loan,in,0,Ligue 1,2018,2018/2019
+Stade Reims,Moreto Cassamá,20,Attacking Midfield,FC Porto B,?,in,NA,Ligue 1,2018,2018/2019
+Stade Reims,Patrick Bahanack,20,Left-Back,Stade Reims B,-,in,0,Ligue 1,2018,2018/2019
+Stade Reims,Jordan Siebatcheu,22,Centre-Forward,Stade Rennais,£8.10m,out,8.1,Ligue 1,2018,2018/2019
+Stade Reims,Julian Jeanvier,26,Centre-Back,Brentford,£1.80m,out,1.8,Ligue 1,2018,2018/2019
+Stade Reims,Lenny Vallier,19,Left-Back,Pau FC,Loan,out,0,Ligue 1,2018,2018/2019
+Stade Reims,Diego,30,Left Midfield,Al-Dhafra SCC,Free Transfer,out,0,Ligue 1,2018,2018/2019
+Stade Reims,Grégory Berthier,22,Left Midfield,Red Star FC,Loan,out,0,Ligue 1,2018,2018/2019
+Stade Reims,Aly Ndom,22,Central Midfield,SM Caen,Loan,out,0,Ligue 1,2018,2018/2019
+Stade Reims,Patrick Bahanack,21,Left-Back,Ergotelis,Loan,out,0,Ligue 1,2018,2018/2019
+Stade Reims,Yohan Roche,20,Centre-Back,Rodez AF,Loan,out,0,Ligue 1,2018,2018/2019
+Stade Reims,Danilson da Cruz,32,Defensive Midfield,AS Nancy,Free Transfer,out,0,Ligue 1,2018,2018/2019
+Stade Reims,Grejohn Kyei,23,Centre-Forward,Lens,Loan,out,0,Ligue 1,2018,2018/2019
+Stade Reims,Anatole Ngamukol,31,Centre-Forward,SC Fortuna Köln,?,out,NA,Ligue 1,2018,2018/2019
+Stade Reims,Romain Métanire,28,Right-Back,Minnesota Utd.,?,out,NA,Ligue 1,2018,2018/2019
+Stade Reims,Samuel Bouhours,31,Left-Back,Without Club,-,out,0,Ligue 1,2018,2018/2019
+Stade Reims,Hendrick Cakin,25,Right-Back,Without Club,-,out,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Jordan Siebatcheu,22,Centre-Forward,Reims,£8.10m,in,8.1,Ligue 1,2018,2018/2019
+Stade Rennais FC,Clément Grenier,27,Central Midfield,Guingamp,£3.60m,in,3.6,Ligue 1,2018,2018/2019
+Stade Rennais FC,Souleyman Doumbia,22,Left-Back,Grasshoppers,£2.70m,in,2.7,Ligue 1,2018,2018/2019
+Stade Rennais FC,Romain Del Castillo,22,Right Winger,Olympique Lyon,£1.80m,in,1.8,Ligue 1,2018,2018/2019
+Stade Rennais FC,Jakob Johansson,28,Central Midfield,AEK Athens,Free Transfer,in,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Damien Da Silva,30,Centre-Back,SM Caen,Free Transfer,in,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Loïc Badiashile,20,Goalkeeper,Monaco,Loan,in,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,M'Baye Niang,23,Centre-Forward,Torino,Loan,in,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Eduardo Camavinga,16,Defensive Midfield,Rennes B,-,in,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Gerzino Nyamsi,21,Centre-Back,Rennes B,-,in,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Hatem Ben Arfa,31,Attacking Midfield,Without Club,-,in,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Armand Laurienté,20,Left Midfield,Rennes B,-,in,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Denis Will Poha,21,Central Midfield,US Orléans,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Jordan Tell,21,Centre-Forward,Valenciennes FC,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Anthony Ribelin,22,Attacking Midfield,Entente SSG,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Firmin Mubele,24,Centre-Forward,Toulouse,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Rafik Guitane,19,Attacking Midfield,AC Le Havre,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Clément Chantôme,30,Defensive Midfield,Lens,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Afonso Figueiredo,25,Left-Back,Levski Sofia,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Joris Gnagnon,21,Centre-Back,Sevilla FC,£12.15m,out,12.15,Ligue 1,2018,2018/2019
+Stade Rennais FC,Firmin Mubele,24,Centre-Forward,Toulouse,£4.50m,out,4.5,Ligue 1,2018,2018/2019
+Stade Rennais FC,Brandon,23,Centre-Forward,CA Osasuna,Loan fee:£900k,out,0.9,Ligue 1,2018,2018/2019
+Stade Rennais FC,Faitout Maouassa,20,Left-Back,Nîmes Olympique,Loan,out,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Denis Will Poha,21,Central Midfield,AS Nancy,Loan,out,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Anthony Ribelin,22,Attacking Midfield,US Marseille Endoume,Free Transfer,out,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Sanjin Prcic,24,Central Midfield,Levante,Free Transfer,out,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Afonso Figueiredo,25,Left-Back,Rio Ave FC,Free Transfer,out,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Yoann Gourcuff,32,Attacking Midfield,Dijon,Free Transfer,out,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Diafra Sakho,28,Centre-Forward,Bursaspor,Loan,out,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Jordan Tell,21,Centre-Forward,US Orléans,Loan,out,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Sabri Toufiqui,21,Attacking Midfield,Rennes B,-,out,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Clément Chantôme,30,Defensive Midfield,Without Club,-,out,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Morgan Amalfitano,33,Right Winger,Without Club,-,out,0,Ligue 1,2018,2018/2019
+Stade Rennais FC,Wahbi Khazri,27,Attacking Midfield,Sunderland,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Wahbi Khazri,27,Attacking Midfield,Sunderland,£6.30m,in,6.3,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Rémy Cabella,28,Attacking Midfield,Marseille,£4.50m,in,4.5,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Franck Honorat,22,Right Midfield,Clermont Foot,£1.80m,in,1.8,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Yannis Salibur,27,Right Winger,Guingamp,Loan,in,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Timothée Kolodziejczak,26,Centre-Back,Tigres UANL,Loan,in,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Valentín Vada,22,Central Midfield,G. Bordeaux,Loan,in,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Youssef Aït Bennasser,22,Central Midfield,Monaco,Loan,in,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Alexandros Katranis,20,Left-Back,Mouscron,"End of loanJan 21, 2019",in,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Mahdi Camara,20,Central Midfield,Saint-Étienne B,-,in,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,William Saliba,17,Centre-Back,St-Étienne U19,-,in,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Arnaud Nordin,20,Left Winger,AS Nancy,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Habib Maïga,22,Defensive Midfield,Arsenal Tula,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Jorginho,22,Left Winger,Chaves,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Léo Lacroix,26,Centre-Back,FC Basel,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Loïs Diony,25,Centre-Forward,Bristol City,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Ronaël Pierre-Gabriel,20,Right-Back,Monaco,£5.40m,out,5.4,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Ole Selnaes,24,Defensive Midfield,SZ FC,£4.95m,out,4.95,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Cheikh M'Bengue,30,Left-Back,SZ FC,£3.60m,out,3.6,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Saidy Janko,22,Right-Back,FC Porto,£1.98m,out,1.98,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Vincent Pajot,27,Defensive Midfield,SCO Angers,£900k,out,0.9,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Kévin Théophile-Catherine,28,Centre-Back,Dinamo Zagreb,Free Transfer,out,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Léo Lacroix,26,Centre-Back,Hamburger SV,Loan,out,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Mahdi Camara,20,Central Midfield,Stade Laval,Loan,out,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Anthony Maisonnial,20,Goalkeeper,FC Sion,Free Transfer,out,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Jonathan Bamba,22,Left Winger,LOSC Lille,Free Transfer,out,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Alexis Guendouz,22,Goalkeeper,Pau FC,Loan,out,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Franck Honorat,22,Right Midfield,Clermont Foot,Loan,out,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Jorginho,22,Left Winger,CSKA Sofia,Loan,out,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Alexandros Katranis,20,Left-Back,Atromitos Athen,Loan,out,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Oussama Tannane,24,Right Winger,FC Utrecht,Loan,out,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Habib Maïga,22,Defensive Midfield,FC Metz,Loan,out,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Alexandros Katranis,20,Left-Back,Mouscron,Loan,out,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Assane Dioussé,21,Defensive Midfield,Chievo Verona,Loan,out,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Paul-Georges Ntep,25,Left Winger,VfL Wolfsburg,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Rémy Cabella,28,Attacking Midfield,Marseille,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+AS Saint-Étienne,Hernani,24,Defensive Midfield,Zenit S-Pb,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Matz Sels,26,Goalkeeper,Newcastle,£3.60m,in,3.6,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Lebo Mothiba,22,Centre-Forward,LOSC Lille,£3.60m,in,3.6,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Stefan Mitrovic,28,Centre-Back,KAA Gent,£2.70m,in,2.7,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Ibrahima Sissoko,20,Defensive Midfield,Stade Brest 29,£1.80m,in,1.8,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Ludovic Ajorque,24,Centre-Forward,Clermont Foot,£1.80m,in,1.8,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Lionel Carole,27,Left-Back,Galatasaray,£675k,in,0.675,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Eiji Kawashima,35,Goalkeeper,FC Metz,Free Transfer,in,0,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Lamine Koné,29,Centre-Back,Sunderland,Loan,in,0,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Adrien Thomasson,24,Attacking Midfield,FC Nantes,Free Transfer,in,0,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Sanjin Prcic,25,Central Midfield,Levante,Loan,in,0,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Samuel Grandsir,22,Right Midfield,Monaco,Loan,in,0,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Louis Pelletier,18,Goalkeeper,Strasbourg U19,-,in,0,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Ismaël Aaneba,19,Right-Back,R. Strasbourg B,-,in,0,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Anthony Caci,21,Centre-Back,R. Strasbourg B,-,in,0,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Youssouf Fofana,19,Central Midfield,R. Strasbourg B,-,in,0,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Kévin Zohi,21,Centre-Forward,R. Strasbourg B,-,in,0,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Jean-Eudes Aholou,24,Defensive Midfield,Monaco,£12.60m,out,12.6,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Vincent Nogueira,30,Central Midfield,Annecy FC,Free Transfer,out,0,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Jérémy Blayac,35,Centre-Forward,G. Ajaccio,Free Transfer,out,0,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Alexandre Oukidja,29,Goalkeeper,FC Metz,Free Transfer,out,0,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Yoann Salmier,25,Centre-Back,Troyes,Loan,out,0,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Landry Bonnefoi,34,Goalkeeper,F91 Dudelange,Free Transfer,out,0,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Stéphane Bahoken,26,Centre-Forward,SCO Angers,Free Transfer,out,0,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Ernest Seka,31,Centre-Back,AS Nancy,Free Transfer,out,0,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Kader Mangane,35,Centre-Back,Retired,-,out,0,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Dimitri Foulquier,25,Right-Back,Watford,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Bakary Koné,30,Centre-Back,Málaga CF,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+RC Strasbourg Alsace,Martin Terrier,21,Left Winger,Olympique Lyon,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+FC Toulouse,Firmin Mubele,24,Centre-Forward,Stade Rennais,£4.50m,in,4.5,Ligue 1,2018,2018/2019
+FC Toulouse,Baptiste Reynet,27,Goalkeeper,Dijon,£3.60m,in,3.6,Ligue 1,2018,2018/2019
+FC Toulouse,Gen Shoji,26,Centre-Back,Kashima Antlers,£2.70m,in,2.7,Ligue 1,2018,2018/2019
+FC Toulouse,Mathieu Dossevi,30,Right Winger,FC Metz,£2.25m,in,2.25,Ligue 1,2018,2018/2019
+FC Toulouse,Max Gradel,30,Left Winger,Bournemouth,£1.80m,in,1.8,Ligue 1,2018,2018/2019
+FC Toulouse,Aaron Leya Iseka,20,Centre-Forward,RSC Anderlecht,£1.13m,in,1.13,Ligue 1,2018,2018/2019
+FC Toulouse,John Bostock,26,Central Midfield,Bursaspor,£630k,in,0.63,Ligue 1,2018,2018/2019
+FC Toulouse,Manu García,20,Attacking Midfield,Man City U23,Loan,in,0,Ligue 1,2018,2018/2019
+FC Toulouse,Steven Moreira,23,Right-Back,FC Lorient,?,in,NA,Ligue 1,2018,2018/2019
+FC Toulouse,Kalidou Sidibé,19,Defensive Midfield,Toulouse B,-,in,0,Ligue 1,2018,2018/2019
+FC Toulouse,Adil Taoui,16,Left Winger,FC Toulouse U19,-,in,0,Ligue 1,2018,2018/2019
+FC Toulouse,Bafodé Diakité,17,Centre-Back,FC Toulouse U19,-,in,0,Ligue 1,2018,2018/2019
+FC Toulouse,Derick Osei Yaw,19,Centre-Forward,FC Toulouse U19,-,in,0,Ligue 1,2018,2018/2019
+FC Toulouse,Jean-Clair Todibo,18,Centre-Back,Toulouse B,-,in,0,Ligue 1,2018,2018/2019
+FC Toulouse,Stéphane Mbia,32,Defensive Midfield,Without Club,-,in,0,Ligue 1,2018,2018/2019
+FC Toulouse,Hakim El Mokeddem,19,Attacking Midfield,FC Toulouse U19,-,in,0,Ligue 1,2018,2018/2019
+FC Toulouse,Mathieu Gonçalves,17,Left-Back,FC Toulouse U19,-,in,0,Ligue 1,2018,2018/2019
+FC Toulouse,Jessy Pi,24,Defensive Midfield,Stade Brest 29,"End of loanJun 30, 2018",in,0,Ligue 1,2018,2018/2019
+FC Toulouse,Issa Diop,21,Centre-Back,West Ham,£22.50m,out,22.5,Ligue 1,2018,2018/2019
+FC Toulouse,Alban Lafont,19,Goalkeeper,Fiorentina,£7.65m,out,7.65,Ligue 1,2018,2018/2019
+FC Toulouse,Somália,29,Central Midfield,Shabab,£1.35m,out,1.35,Ligue 1,2018,2018/2019
+FC Toulouse,Jean-Clair Todibo,19,Centre-Back,FC Barcelona,£900k,out,0.9,Ligue 1,2018,2018/2019
+FC Toulouse,Clément Michelin,21,Right-Back,AC Ajaccio,Loan,out,0,Ligue 1,2018,2018/2019
+FC Toulouse,Alexis Blin,21,Defensive Midfield,SC Amiens,Loan,out,0,Ligue 1,2018,2018/2019
+FC Toulouse,Stéphane Mbia,32,Defensive Midfield,WH Zall,Free Transfer,out,0,Ligue 1,2018,2018/2019
+FC Toulouse,Jordan Sebban,21,Central Midfield,CD El Ejido,Free Transfer,out,0,Ligue 1,2018,2018/2019
+FC Toulouse,Yann Bodiger,23,Defensive Midfield,Córdoba CF,Loan,out,0,Ligue 1,2018,2018/2019
+FC Toulouse,Jessy Pi,24,Defensive Midfield,Stade Brest 29,Loan,out,0,Ligue 1,2018,2018/2019
+FC Toulouse,Steven Fortes,26,Centre-Back,Lens,Loan,out,0,Ligue 1,2018,2018/2019
+FC Toulouse,Steeve Yago,26,Centre-Back,AC Le Havre,Loan,out,0,Ligue 1,2018,2018/2019
+FC Toulouse,Andy Delort,26,Centre-Forward,Montpellier,Loan,out,0,Ligue 1,2018,2018/2019
+FC Toulouse,Derick Osei Yaw,20,Centre-Forward,Stade Brest 29,?,out,NA,Ligue 1,2018,2018/2019
+FC Toulouse,Ola Toivonen,32,Centre-Forward,Melbourne,?,out,NA,Ligue 1,2018,2018/2019
+FC Toulouse,Quentin Boisgard,21,Attacking Midfield,Pau FC,Loan,out,0,Ligue 1,2018,2018/2019
+FC Toulouse,Giannelli Imbula,25,Defensive Midfield,Stoke City,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+FC Toulouse,Max Gradel,30,Left Winger,Bournemouth,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019
+FC Toulouse,Firmin Mubele,24,Centre-Forward,Stade Rennais,"End of loanJun 30, 2018",out,0,Ligue 1,2018,2018/2019

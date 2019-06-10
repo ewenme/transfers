@@ -1,0 +1,487 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Amkar Perm,Sergey Balanovich,26,Right Midfield,Soligorsk,£225k,in,0.225,Premier Liga,2014,2014/2015
+Amkar Perm,Dmitri Khomich,30,Goalkeeper,Kairat Almaty,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Amkar Perm,Marko Simonovski,22,Centre-Forward,Metalurg Skopje,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Amkar Perm,Robert Arzumanyan,29,Centre-Back,Aktobe,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Amkar Perm,Aleksandr Prudnikov,25,Centre-Forward,Dinamo Moscow,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Amkar Perm,David Dzakhov,25,Central Midfield,Neftekhimik,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Amkar Perm,Alikhan Shavaev,21,Central Midfield,Spartak Nalchik,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Amkar Perm,Branko Jovicic,21,Defensive Midfield,LASK,Loan,in,0,Premier Liga,2014,2014/2015
+Amkar Perm,Maksim Batov,22,Central Midfield,Zenit II,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Amkar Perm,Aleksandr Selikhov,20,Goalkeeper,Orel,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Amkar Perm,Bohdan Butko,24,Right-Back,Shakhtar D.,Loan,in,0,Premier Liga,2014,2014/2015
+Amkar Perm,Igor Kireev,22,Right Midfield,Rostov II,Loan,in,0,Premier Liga,2014,2014/2015
+Amkar Perm,Pavel Solomatin,21,Right Winger,Dinamo Moscow,Loan,in,0,Premier Liga,2014,2014/2015
+Amkar Perm,Soslan Takazov,21,Centre-Back,Amkar Perm II,-,in,0,Premier Liga,2014,2014/2015
+Amkar Perm,Bryan Idowu,22,Right-Back,Amkar Perm II,-,in,0,Premier Liga,2014,2014/2015
+Amkar Perm,Aleksandr Subbotin,22,Centre-Forward,Amkar Perm II,-,in,0,Premier Liga,2014,2014/2015
+Amkar Perm,Vladimirs Kamess,25,Right Winger,Neftekhimik,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Amkar Perm,Artur Ryabokobylenko,23,Central Midfield,Spartak Nalchik,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Amkar Perm,Maksim Kanunnikov,22,Centre-Forward,Rubin Kazan,£1.35m,out,1.35,Premier Liga,2014,2014/2015
+Amkar Perm,Blagoy Georgiev,32,Central Midfield,Rubin Kazan,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Amkar Perm,Vladimirs Kamess,26,Right Winger,Pogon Szczecin,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Amkar Perm,Konstantin Vassiljev,30,Attacking Midfield,Piast Gliwice,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Amkar Perm,Jakub Wawrzyniak,31,Left-Back,Lechia Gdansk,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Amkar Perm,Aleksandr Subbotin,23,Centre-Forward,Baltika,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Amkar Perm,Mikhail Smirnov,24,Centre-Back,Tosno,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Amkar Perm,Sergey Narubin,33,Goalkeeper,Tosno,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Amkar Perm,Aleksey Rebko,28,Central Midfield,Rostov,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Amkar Perm,Artur Ryabokobylenko,23,Central Midfield,Tosno,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Amkar Perm,Damian Zbozien,25,Right-Back,GKS Belchatow,Loan,out,0,Premier Liga,2014,2014/2015
+Amkar Perm,Gianluca Nijholt,24,Central Midfield,Without Club,-,out,0,Premier Liga,2014,2014/2015
+Amkar Perm,Thomas Phibel,28,Centre-Back,Without Club,-,out,0,Premier Liga,2014,2014/2015
+Amkar Perm,Ivan Solovjev,21,Left Winger,Zenit S-Pb,"End of loanJun 30, 2014",out,0,Premier Liga,2014,2014/2015
+Amkar Perm,Dmitri Kayumov,22,Attacking Midfield,Spartak II,"End of loanJun 30, 2014",out,0,Premier Liga,2014,2014/2015
+Amkar Perm,Patrick Twumasi,20,Right Winger,Spartaks,"End of loanJun 30, 2014",out,0,Premier Liga,2014,2014/2015
+Amkar Perm,Dzhamaldin Khodzhaniyazov,17,Centre-Back,Zenit II,"End of loanJun 30, 2014",out,0,Premier Liga,2014,2014/2015
+Arsenal Tula,Aleksey Skornyakov,21,Goalkeeper,Sokol Saratov,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Arsenal Tula,Maksim Votinov,25,Centre-Forward,Baltika,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Arsenal Tula,Jan Mucha,32,Goalkeeper,KS Samara,Loan,in,0,Premier Liga,2014,2014/2015
+Arsenal Tula,Anri Khagush,28,Right-Back,BATE Borisov,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Arsenal Tula,Florin Costea,29,Left Winger,CFR Cluj,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Arsenal Tula,Evgeni Osipov,27,Centre-Back,Ufa,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Arsenal Tula,Vladimir Korytko,35,Attacking Midfield,Shinnik,Loan,in,0,Premier Liga,2014,2014/2015
+Arsenal Tula,Aleksandr Zotov,23,Central Midfield,Spartak Moscow,Loan,in,0,Premier Liga,2014,2014/2015
+Arsenal Tula,Artur Maloyan,25,Centre-Forward,Shinnik,Loan,in,0,Premier Liga,2014,2014/2015
+Arsenal Tula,Lukas Tesak,29,Left-Back,Torpedo Moscow,?,in,NA,Premier Liga,2014,2014/2015
+Arsenal Tula,Sergey Ignatjev,29,Left Winger,Irtysh,"End of loanMay 31, 2015",in,0,Premier Liga,2014,2014/2015
+Arsenal Tula,Vitali Orlov,22,Central Midfield,FK Kaluga,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Arsenal Tula,Predrag Kascelan,24,Centre-Back,Khimik,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Arsenal Tula,Sergey Ignatjev,28,Left Winger,Irtysh,Loan,out,0,Premier Liga,2014,2014/2015
+Arsenal Tula,Aleksandr Makarenko,28,Central Midfield,Baltika,Loan,out,0,Premier Liga,2014,2014/2015
+Arsenal Tula,Aleksey Bazanov,28,Second Striker,Baltika,Loan,out,0,Premier Liga,2014,2014/2015
+Arsenal Tula,Maksim Votinov,26,Centre-Forward,Tosno,?,out,NA,Premier Liga,2014,2014/2015
+Arsenal Tula,Dmitri Shilov,23,Left Midfield,Khimik,Loan,out,0,Premier Liga,2014,2014/2015
+Arsenal Tula,Pavel Belyanin,22,Centre-Forward,Arsenal 2 Tula,-,out,0,Premier Liga,2014,2014/2015
+Arsenal Tula,Sergey Stepanov,19,Centre-Forward,Arsenal 2 Tula,-,out,0,Premier Liga,2014,2014/2015
+Arsenal Tula,Vitali Orlov,22,Central Midfield,Arsenal 2 Tula,-,out,0,Premier Liga,2014,2014/2015
+Arsenal Tula,Aleksandr Kotenko,22,Central Midfield,Arsenal 2 Tula,-,out,0,Premier Liga,2014,2014/2015
+Arsenal Tula,Pavel Sergeev,21,Attacking Midfield,Arsenal 2 Tula,-,out,0,Premier Liga,2014,2014/2015
+CSKA Moscow,Roman Eremenko,27,Attacking Midfield,Rubin Kazan,£5.31m,in,5.31,Premier Liga,2014,2014/2015
+CSKA Moscow,Carlos Strandberg,18,Centre-Forward,Häcken,£405k,in,0.405,Premier Liga,2014,2014/2015
+CSKA Moscow,Kirill Panchenko,24,Second Striker,Tom Tomsk,£167k,in,0.167,Premier Liga,2014,2014/2015
+CSKA Moscow,Bibras Natcho,26,Central Midfield,PAOK Salonika,Free Transfer,in,0,Premier Liga,2014,2014/2015
+CSKA Moscow,Tomas Necid,25,Centre-Forward,PEC Zwolle,"End of loanDec 31, 2014",in,0,Premier Liga,2014,2014/2015
+CSKA Moscow,Sekou Oliseh,24,Right Winger,Kuban Krasnodar,"End of loanDec 31, 2014",in,0,Premier Liga,2014,2014/2015
+CSKA Moscow,Mark González,30,Left Winger,CDUC,"End of loanDec 31, 2014",in,0,Premier Liga,2014,2014/2015
+CSKA Moscow,Sekou Oliseh,24,Right Winger,PAOK Salonika,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+CSKA Moscow,Tomas Necid,24,Centre-Forward,Slavia Prag,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+CSKA Moscow,Seydou Doumbia,27,Centre-Forward,AS Roma,£12.96m,out,12.96,Premier Liga,2014,2014/2015
+CSKA Moscow,Steven Zuber,22,Left Midfield,TSG Hoffenheim,£3.51m,out,3.51,Premier Liga,2014,2014/2015
+CSKA Moscow,Vitinho,21,Left Winger,Internacional,Loan fee:£1.08m,out,1.08,Premier Liga,2014,2014/2015
+CSKA Moscow,Mark González,30,Left Winger,CDUC,Free Transfer,out,0,Premier Liga,2014,2014/2015
+CSKA Moscow,Tomas Necid,25,Centre-Forward,PEC Zwolle,Free Transfer,out,0,Premier Liga,2014,2014/2015
+CSKA Moscow,Rasmus Elm,26,Defensive Midfield,Kalmar FF,Free Transfer,out,0,Premier Liga,2014,2014/2015
+CSKA Moscow,Tomas Necid,24,Centre-Forward,PEC Zwolle,Loan,out,0,Premier Liga,2014,2014/2015
+CSKA Moscow,Viktor Vasin,25,Centre-Back,Mordovia,Loan,out,0,Premier Liga,2014,2014/2015
+CSKA Moscow,Konstantin Bazelyuk,21,Centre-Forward,Torpedo Moscow,Loan,out,0,Premier Liga,2014,2014/2015
+CSKA Moscow,Sekou Oliseh,24,Right Winger,Kuban Krasnodar,Loan,out,0,Premier Liga,2014,2014/2015
+CSKA Moscow,Vyacheslav Karavaev,19,Right-Back,Dukla Prag,Loan,out,0,Premier Liga,2014,2014/2015
+CSKA Moscow,Elvir Rahimic,38,Defensive Midfield,Retired,-,out,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Mathieu Valbuena,29,Left Winger,Marseille,£6.30m,in,6.3,Premier Liga,2014,2014/2015
+Dinamo Moscow,William Vainqueur,25,Defensive Midfield,Standard Liège,£5.40m,in,5.4,Premier Liga,2014,2014/2015
+Dinamo Moscow,Alexander Büttner,25,Left-Back,Man Utd,£4.95m,in,4.95,Premier Liga,2014,2014/2015
+Dinamo Moscow,Stanislav Manolev,28,Right-Back,Kuban Krasnodar,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Tomas Hubocan,28,Centre-Back,Zenit S-Pb,?,in,NA,Premier Liga,2014,2014/2015
+Dinamo Moscow,Aleksandr Prudnikov,25,Centre-Forward,Rubin Kazan,?,in,NA,Premier Liga,2014,2014/2015
+Dinamo Moscow,Pavel Ignatovich,25,Left Winger,Tom Tomsk,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Fedor Smolov,24,Centre-Forward,Anzhi,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Vladimir Rykov,26,Centre-Back,Tom Tomsk,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Gordon Schildenfeld,29,Centre-Back,Panathinaikos,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Aleksandr Sapeta,25,Central Midfield,Ural,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Stanislav Manolev,29,Right-Back,Kuban Krasnodar,£720k,out,0.72,Premier Liga,2014,2014/2015
+Dinamo Moscow,Leandro Fernández,31,Centre-Back,Newell's,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Vladimir Rykov,26,Centre-Back,Torpedo Moscow,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Evgeni Frolov,26,Goalkeeper,Sakhalin,Loan,out,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Aleksandr Prudnikov,25,Centre-Forward,Amkar Perm,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Pavel Ignatovich,25,Left Winger,Mordovia,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Luke Wilkshire,32,Right-Back,Feyenoord,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Christian Noboa,29,Central Midfield,PAOK Salonika,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Marko Lomic,30,Left-Back,Mordovia,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Aleksandr Sapeta,25,Central Midfield,Ural,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,George Florescu,30,Defensive Midfield,Astra Giurgiu,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Vladimir Dyadyun,25,Centre-Forward,Rubin Kazan,?,out,NA,Premier Liga,2014,2014/2015
+Dinamo Moscow,Pavel Solomatin,21,Right Winger,Amkar Perm,Loan,out,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Fedor Smolov,24,Centre-Forward,Ural,Loan,out,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Vladimir Granat,27,Centre-Back,Rostov,Loan,out,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Gordon Schildenfeld,29,Centre-Back,Panathinaikos,Loan,out,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Alan Gatagov,23,Left Midfield,Without Club,-,out,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Andrii Voronin,34,Second Striker,Without Club,-,out,0,Premier Liga,2014,2014/2015
+Dinamo Moscow,Alan Kasaev,28,Left Winger,Rubin Kazan,"End of loanJun 30, 2014",out,0,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Stanislav Manolev,29,Right-Back,Dinamo Moscow,£720k,in,0.72,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Danilo,27,Centre-Forward,Zorya Luhansk,Loan fee:£270k,in,0.27,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Hugo Almeida,30,Centre-Forward,Cesena,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Sergey Tkachev,25,Attacking Midfield,Loko Moscow,Loan,in,0,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Evgeni Pomazan,25,Goalkeeper,Anzhi,Loan,in,0,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Toni Sunjic,25,Centre-Back,Zorya Luhansk,?,in,NA,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Sekou Oliseh,24,Right Winger,CSKA Moscow,Loan,in,0,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Andrey Eshchenko,30,Right-Back,Anzhi,Loan,in,0,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Vladislav Kulik,29,Central Midfield,Rubin Kazan,Loan,in,0,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Sergey Karetnik,19,Central Midfield,Kuban II,-,in,0,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Marcos Ureña,24,Centre-Forward,FC Midtjylland,"End of loanDec 31, 2014",in,0,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Mikhail Komkov,29,Right Midfield,Tom Tomsk,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Maksim Zhavnerchik,29,Right-Back,BATE Borisov,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Mikhail Komkov,29,Right Midfield,Tom Tomsk,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Nikita Bezlikhotnov,23,Right Winger,Ufa,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Ángel Dealbert,31,Centre-Back,Baniyas SC,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Stanislav Manolev,28,Right-Back,Dinamo Moscow,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Marcos Ureña,24,Centre-Forward,FC Midtjylland,Loan,out,0,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Gonzalo Bueno,22,Left Winger,Nacional,Loan,out,0,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Marcos Ureña,24,Centre-Forward,FC Midtjylland,?,out,NA,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Alexei Coselev,20,Goalkeeper,FC Saxan,?,out,NA,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Bogdan Karyukin,29,Goalkeeper,Without Club,-,out,0,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Sekou Oliseh,24,Right Winger,CSKA Moscow,"End of loanDec 31, 2014",out,0,Premier Liga,2014,2014/2015
+Kuban Krasnodar,Danilo,28,Centre-Forward,Zorya Luhansk,"End of loanDec 31, 2014",out,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Odil Akhmedov,26,Defensive Midfield,Anzhi,£3.60m,in,3.6,Premier Liga,2014,2014/2015
+FK Krasnodar,Andrey Dikan,36,Goalkeeper,Spartak Moscow,Free Transfer,in,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Vladimir Bystrov,30,Right Midfield,Zenit S-Pb,Free Transfer,in,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Ruslan Adzhindzhal,40,Central Midfield,KS Samara,Free Transfer,in,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Roman Shirokov,33,Central Midfield,Spartak Moscow,Loan,in,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Nikita Burmistrov,24,Left Winger,Anzhi,?,in,NA,Premier Liga,2014,2014/2015
+FK Krasnodar,Marat Izmailov,31,Central Midfield,FC Porto,Loan,in,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Marcos Pizzelli,30,Attacking Midfield,Aktobe,"End of loanDec 31, 2014",in,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Khyzyr Appaev,24,Centre-Forward,Rotor Volgograd,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Vladimir Koman,25,Attacking Midfield,Ural,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Moussa Konaté,21,Centre-Forward,Genoa,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Igor Lambarskiy,21,Attacking Midfield,Enisey,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Ruslan Bolov,20,Centre-Forward,Spartak Nalchik,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Moussa Konaté,21,Centre-Forward,FC Sion,£315k,out,0.315,Premier Liga,2014,2014/2015
+FK Krasnodar,Oleg Samsonov,26,Right Winger,Tyumen,Free Transfer,out,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Márcio Abreu,34,Central Midfield,Torpedo Moscow,Free Transfer,out,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Nemanja Tubic,30,Centre-Back,BATE Borisov,Free Transfer,out,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Isael,26,Right Winger,Kairat Almaty,Free Transfer,out,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Khyzyr Appaev,24,Centre-Forward,Gazovik Orenburg,Free Transfer,out,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Gerard Gohou,25,Centre-Forward,Kairat Almaty,?,out,NA,Premier Liga,2014,2014/2015
+FK Krasnodar,Igor Lambarskiy,21,Attacking Midfield,Ural,?,out,NA,Premier Liga,2014,2014/2015
+FK Krasnodar,Marcos Pizzelli,30,Attacking Midfield,Aktobe,?,out,NA,Premier Liga,2014,2014/2015
+FK Krasnodar,Aleksandr Filtsov,24,Goalkeeper,Rubin Kazan,?,out,NA,Premier Liga,2014,2014/2015
+FK Krasnodar,Ruslan Bolov,20,Centre-Forward,Volgar,Loan,out,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Aleksey Pomerko,24,Central Midfield,KS Samara,Loan,out,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Nikolay Markov,29,Right-Back,Ural,Loan,out,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Nikita Burmistrov,25,Left Winger,Tom Tomsk,Loan,out,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Vladimir Koman,25,Attacking Midfield,Without Club,-,out,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Dusan Andjelkovic,32,Left-Back,Without Club,-,out,0,Premier Liga,2014,2014/2015
+FK Krasnodar,Roman Shirokov,32,Central Midfield,Zenit S-Pb,"End of loanJun 30, 2014",out,0,Premier Liga,2014,2014/2015
+Lokomotiv Moscow,Oumar Niasse,24,Centre-Forward,Akhisar Belediye,£4.95m,in,4.95,Premier Liga,2014,2014/2015
+Lokomotiv Moscow,Alan Kasaev,28,Left Winger,Rubin Kazan,£4.50m,in,4.5,Premier Liga,2014,2014/2015
+Lokomotiv Moscow,Petar Skuletic,24,Centre-Forward,Partizan,£2.88m,in,2.88,Premier Liga,2014,2014/2015
+Lokomotiv Moscow,Manuel Fernandes,28,Attacking Midfield,Besiktas,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Lokomotiv Moscow,Nemanja Pejcinovic,26,Centre-Back,OGC Nice,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Lokomotiv Moscow,Arseni Logashov,22,Right-Back,Rostov,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Lokomotiv Moscow,Dmitri Sychev,30,Centre-Forward,Volga NN,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Lokomotiv Moscow,Victor Obinna,27,Second Striker,Chievo Verona,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Lokomotiv Moscow,Dame N'Doye,29,Centre-Forward,Hull City,£3.57m,out,3.57,Premier Liga,2014,2014/2015
+Lokomotiv Moscow,Dmitri Sychev,31,Centre-Forward,Okzhetpes,Loan,out,0,Premier Liga,2014,2014/2015
+Lokomotiv Moscow,Sergey Tkachev,25,Attacking Midfield,Kuban Krasnodar,Loan,out,0,Premier Liga,2014,2014/2015
+Lokomotiv Moscow,Magomed Ozdoev,21,Central Midfield,Rubin Kazan,Loan,out,0,Premier Liga,2014,2014/2015
+Lokomotiv Moscow,Maksim Grigorjev,24,Right Winger,Rostov,Loan,out,0,Premier Liga,2014,2014/2015
+Lokomotiv Moscow,Lassana Diarra,29,Defensive Midfield,Without Club,-,out,0,Premier Liga,2014,2014/2015
+Lokomotiv Moscow,Alberto Zapater,29,Defensive Midfield,Career break,-,out,0,Premier Liga,2014,2014/2015
+Lokomotiv Moscow,Aleksey Shirokov,25,Goalkeeper,Lokomotiv 2,"End of loanJun 30, 2014",out,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Mitchell Donald,25,Central Midfield,Roda JC,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Marko Lomic,30,Left-Back,Dinamo Moscow,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Damien Le Tallec,24,Defensive Midfield,Hoverla,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Pavel Ignatovich,25,Left Winger,Dinamo Moscow,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Aslan Dudiev,24,Right-Back,SKA-Energia,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Ibrahima Niasse,26,Defensive Midfield,FK Qabala,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Oleg Vlasov,29,Attacking Midfield,Torpedo Moscow,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Ilie Cebanu,27,Goalkeeper,Tom Tomsk,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Dmitri Sysuev,26,Left Winger,Baltika,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Evgeni Gapon,23,Left-Back,Shinnik,£19k,in,0.019,Premier Liga,2014,2014/2015
+Mordovia Saransk,Yannick Djaló,28,Left Winger,Benfica,Loan,in,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Ruslan Mukhametshin,32,Centre-Forward,Rubin Kazan,Loan,in,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Lorenzo Ebecilio,22,Attacking Midfield,Metalurh D.,Loan,in,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Viktor Vasin,25,Centre-Back,CSKA Moscow,Loan,in,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Pavel Yakovlev,23,Left Winger,Spartak Moscow,Loan,in,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Danilo,24,Attacking Midfield,Metalurh D.,Loan,in,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Sergey Samodin,29,Centre-Forward,Shinnik,"End of loanDec 31, 2014",in,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Denis Sobolev,20,Central Midfield,Zenit Penza,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Radik Yusupov,21,Centre-Back,Volga Tver,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Vadim Gagloev,25,Defensive Midfield,Enisey,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Akaki Khubutia,28,Centre-Back,H. Petah Tikva,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Andrey Pazin,28,Central Midfield,Tosno,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Alexandru Suvorov,28,Left Winger,Milsami Orhei,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Ismail Yediev,26,Centre-Back,SKA-Energia,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Radik Yusupov,21,Centre-Back,Neftekhimik,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Maksim Terentjev,22,Left Midfield,TSK-Tavriya,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Sergey Vaganov,29,Defensive Midfield,Luch Vladivostok,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Denis Sobolev,20,Central Midfield,Neftekhimik,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Aleksandr Dimidko,28,Centre-Back,Tom Tomsk,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Maksim Budnikov,31,Centre-Back,Neftekhimik,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Mikhail Markin,21,Centre-Forward,Khimki,Loan,out,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Maksim Rogov,28,Left Winger,Dinamo S-Pb,Loan,out,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Sergey Samodin,29,Centre-Forward,Shinnik,Loan,out,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Igor Krutov,19,Right Midfield,Mordovia II,-,out,0,Premier Liga,2014,2014/2015
+Mordovia Saransk,Roman Kalyuzhnyi,18,Goalkeeper,Mordovia II,-,out,0,Premier Liga,2014,2014/2015
+FK Rostov,Artem Dzyuba,26,Centre-Forward,Spartak Moscow,Loan fee:£900k,in,0.9,Premier Liga,2014,2014/2015
+FK Rostov,Aleksandr Bukharov,29,Centre-Forward,Zenit S-Pb,Free Transfer,in,0,Premier Liga,2014,2014/2015
+FK Rostov,Aleksey Rebko,28,Central Midfield,Amkar Perm,Free Transfer,in,0,Premier Liga,2014,2014/2015
+FK Rostov,Ruslan Abazov,21,Centre-Back,Spartak Nalchik,Free Transfer,in,0,Premier Liga,2014,2014/2015
+FK Rostov,Moussa Doumbia,19,Left Winger,AS Real Bamako,Free Transfer,in,0,Premier Liga,2014,2014/2015
+FK Rostov,Réginal Goreux,26,Right-Back,KS Samara,Free Transfer,in,0,Premier Liga,2014,2014/2015
+FK Rostov,Vakhyt Orazsakhedov,23,Centre-Forward,Osmanlispor U21,Free Transfer,in,0,Premier Liga,2014,2014/2015
+FK Rostov,Dmitri Torbinski,30,Central Midfield,Rubin Kazan,Free Transfer,in,0,Premier Liga,2014,2014/2015
+FK Rostov,Nika Chkhapelia,20,Left Winger,Spartak Nalchik,Free Transfer,in,0,Premier Liga,2014,2014/2015
+FK Rostov,Maksim Bordachev,28,Left-Back,Tom Tomsk,Loan,in,0,Premier Liga,2014,2014/2015
+FK Rostov,Ivan Novoseltsev,23,Centre-Back,Torpedo Moscow,?,in,NA,Premier Liga,2014,2014/2015
+FK Rostov,Maksim Grigorjev,24,Right Winger,Loko Moscow,Loan,in,0,Premier Liga,2014,2014/2015
+FK Rostov,Mihail Platica,24,Defensive Midfield,Ac. Chisinau,?,in,NA,Premier Liga,2014,2014/2015
+FK Rostov,Aleksandr Troshechkin,18,Defensive Midfield,Anzhi II,?,in,NA,Premier Liga,2014,2014/2015
+FK Rostov,Sardar Azmoun,20,Centre-Forward,Rubin Kazan,Loan,in,0,Premier Liga,2014,2014/2015
+FK Rostov,Vladimir Granat,27,Centre-Back,Dinamo Moscow,Loan,in,0,Premier Liga,2014,2014/2015
+FK Rostov,Soslan Dzhanaev,27,Goalkeeper,Without Club,-,in,0,Premier Liga,2014,2014/2015
+FK Rostov,Sergey Belousov,24,Attacking Midfield,Shinnik,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+FK Rostov,Jan Holenda,28,Centre-Forward,Tom Tomsk,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+FK Rostov,Khoren Bayramyan,22,Left Midfield,Rotor Volgograd,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+FK Rostov,Kornél Saláta,29,Centre-Back,Tom Tomsk,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+FK Rostov,Aleksandr Vasiljev,22,Right Winger,Sibir,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+FK Rostov,Kornél Saláta,29,Centre-Back,Slo. Bratislava,Free Transfer,out,0,Premier Liga,2014,2014/2015
+FK Rostov,Ruslan Abazov,21,Centre-Back,Tyumen,Loan,out,0,Premier Liga,2014,2014/2015
+FK Rostov,Florent Sinama-Pongolle,29,Second Striker,Chicago Fire,Free Transfer,out,0,Premier Liga,2014,2014/2015
+FK Rostov,Georgi Gabulov,25,Central Midfield,KS Samara,Free Transfer,out,0,Premier Liga,2014,2014/2015
+FK Rostov,Jan Holenda,29,Centre-Forward,Viktoria Plzen,Free Transfer,out,0,Premier Liga,2014,2014/2015
+FK Rostov,Sergey Belousov,24,Attacking Midfield,Sokol Saratov,Loan,out,0,Premier Liga,2014,2014/2015
+FK Rostov,Nika Chkhapelia,20,Left Winger,Zenit Penza,Loan,out,0,Premier Liga,2014,2014/2015
+FK Rostov,Aleksandr Vasiljev,22,Right Winger,Ufa,?,out,NA,Premier Liga,2014,2014/2015
+FK Rostov,Khoren Bayramyan,22,Left Midfield,Volgar,Loan,out,0,Premier Liga,2014,2014/2015
+FK Rostov,Timofey Margasov,22,Right-Back,Sibir,Loan,out,0,Premier Liga,2014,2014/2015
+FK Rostov,Azim Fatullaev,28,Defensive Midfield,Tosno,Loan,out,0,Premier Liga,2014,2014/2015
+FK Rostov,Réginal Goreux,27,Right-Back,Without Club,-,out,0,Premier Liga,2014,2014/2015
+FK Rostov,Ihor Khudobiak,29,Attacking Midfield,Karpaty,"End of loanJun 30, 2014",out,0,Premier Liga,2014,2014/2015
+FK Rostov,Arseni Logashov,22,Right-Back,Loko Moscow,"End of loanJun 30, 2014",out,0,Premier Liga,2014,2014/2015
+FK Rostov,Jano Ananidze,21,Attacking Midfield,Spartak Moscow,"End of loanJun 30, 2014",out,0,Premier Liga,2014,2014/2015
+FK Rostov,Artem Dzyuba,25,Centre-Forward,Spartak Moscow,"End of loanJun 30, 2014",out,0,Premier Liga,2014,2014/2015
+FK Rostov,Roman Emeljanov,22,Defensive Midfield,Shakhtar II,"End of loanJun 30, 2014",out,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Marko Livaja,20,Centre-Forward,Atalanta,£5.85m,in,5.85,Premier Liga,2014,2014/2015
+Rubin Kazan,Maksim Kanunnikov,22,Centre-Forward,Amkar Perm,£1.35m,in,1.35,Premier Liga,2014,2014/2015
+Rubin Kazan,Vladimir Sobolev,22,Right Midfield,Dinamo M II,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Shota Bibilov,23,Right Winger,Volga NN,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Blagoy Georgiev,32,Central Midfield,Amkar Perm,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Vladimir Dyadyun,25,Centre-Forward,Dinamo Moscow,?,in,NA,Premier Liga,2014,2014/2015
+Rubin Kazan,Mamuka Kobakhidze,21,Centre-Back,FC Dila,?,in,NA,Premier Liga,2014,2014/2015
+Rubin Kazan,Magomed Ozdoev,21,Central Midfield,Loko Moscow,Loan,in,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Guillermo Cotugno,19,Right-Back,Danubio FC,Loan,in,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Aleksandr Filtsov,24,Goalkeeper,Krasnodar,?,in,NA,Premier Liga,2014,2014/2015
+Rubin Kazan,Yann M'Vila,24,Defensive Midfield,Inter,"End of loanJan 25, 2015",in,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Gökhan Töre,22,Right Winger,Besiktas,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Alan Kasaev,28,Left Winger,Dinamo Moscow,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Carlos Eduardo,26,Attacking Midfield,Flamengo,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Igor Portnyagin,25,Centre-Forward,Tom Tomsk,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Alireza Haghighi,26,Goalkeeper,Covilhã,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Ivan Temnikov,25,Right Midfield,Terek Grozny,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Iván Marcano,27,Centre-Back,Olympiacos,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Roman Eremenko,27,Attacking Midfield,CSKA Moscow,£5.31m,out,5.31,Premier Liga,2014,2014/2015
+Rubin Kazan,Alan Kasaev,28,Left Winger,Loko Moscow,£4.50m,out,4.5,Premier Liga,2014,2014/2015
+Rubin Kazan,Gökhan Töre,22,Right Winger,Besiktas,£4.05m,out,4.05,Premier Liga,2014,2014/2015
+Rubin Kazan,Iván Marcano,27,Centre-Back,FC Porto,£2.39m,out,2.39,Premier Liga,2014,2014/2015
+Rubin Kazan,Marko Devic,31,Centre-Forward,Al Rayyan,Loan fee:£900k,out,0.9,Premier Liga,2014,2014/2015
+Rubin Kazan,Yann M'Vila,24,Defensive Midfield,Inter,Loan fee:£900k,out,0.9,Premier Liga,2014,2014/2015
+Rubin Kazan,Dmitri Torbinski,30,Central Midfield,Rostov,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Vagiz Galiulin,26,Right Midfield,Ufa,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Giedrius Arlauskis,26,Goalkeeper,Steaua Bukarest,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Aleksandr Orekhov,30,Centre-Back,Tom Tomsk,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Sardar Azmoun,20,Centre-Forward,Rostov,Loan,out,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Vladislav Kulik,29,Central Midfield,Kuban Krasnodar,Loan,out,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Mubarak Wakaso,24,Central Midfield,Celtic,Loan,out,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Ivan Temnikov,25,Right Midfield,Tom Tomsk,?,out,NA,Premier Liga,2014,2014/2015
+Rubin Kazan,Kamil Mullin,20,Centre-Forward,Sokol Saratov,Loan,out,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Ruslan Abyshov,26,Centre-Back,FK Qabala,Loan,out,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Sergey Davydov,28,Centre-Forward,Torpedo Moscow,Loan,out,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Aleksandr Prudnikov,25,Centre-Forward,Dinamo Moscow,?,out,NA,Premier Liga,2014,2014/2015
+Rubin Kazan,Taras Burlak,24,Centre-Back,KS Samara,Loan,out,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Alireza Haghighi,26,Goalkeeper,Penafiel,Loan,out,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Ruslan Mukhametshin,32,Centre-Forward,Mordovia,Loan,out,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Chris Mavinga,23,Left-Back,Reims,Loan,out,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Roman Sharonov,37,Centre-Back,Rubin 2,-,out,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Pavel Mogilevets,21,Central Midfield,Zenit S-Pb,"End of loanAug 28, 2014",out,0,Premier Liga,2014,2014/2015
+Rubin Kazan,Arturs Karasausks,22,Centre-Forward,Skonto Riga,"End of loanJun 30, 2014",out,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Quincy Promes,22,Left Winger,FC Twente,£10.35m,in,10.35,Premier Liga,2014,2014/2015
+Spartak Moscow,Roman Shirokov,33,Central Midfield,Zenit S-Pb,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Vyacheslav Krotov,21,Centre-Forward,Spartak 2,-,in,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Denis Davydov,19,Centre-Forward,Spartak II,-,in,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Demy de Zeeuw,31,Central Midfield,RSC Anderlecht,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Nicolás Pareja,30,Centre-Back,Sevilla FC,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Marek Suchy,26,Centre-Back,FC Basel,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Welliton,27,Centre-Forward,Celta de Vigo,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Jano Ananidze,21,Attacking Midfield,Rostov,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Majeed Waris,22,Centre-Forward,Valenciennes FC,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Kim Källström,31,Defensive Midfield,Arsenal,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Artem Dzyuba,25,Centre-Forward,Rostov,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Aleksandr Zotov,23,Central Midfield,Shinnik,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Juan Insaurralde,29,Centre-Back,PAOK Salonika,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Diniyar Bilyaletdinov,29,Attacking Midfield,Anzhi,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Majeed Waris,22,Centre-Forward,Trabzonspor,£6.21m,out,6.21,Premier Liga,2014,2014/2015
+Spartak Moscow,Marek Suchy,26,Centre-Back,FC Basel,£2.25m,out,2.25,Premier Liga,2014,2014/2015
+Spartak Moscow,Nicolás Pareja,30,Centre-Back,Sevilla FC,£2.25m,out,2.25,Premier Liga,2014,2014/2015
+Spartak Moscow,Artem Dzyuba,26,Centre-Forward,Rostov,Loan fee:£900k,out,0.9,Premier Liga,2014,2014/2015
+Spartak Moscow,Welliton,27,Centre-Forward,Mersin IY,£900k,out,0.9,Premier Liga,2014,2014/2015
+Spartak Moscow,Tino Costa,29,Central Midfield,Genoa,Loan fee:£630k,out,0.63,Premier Liga,2014,2014/2015
+Spartak Moscow,Rafael Carioca,25,Defensive Midfield,Atlético-MG,Loan,out,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Andrey Dikan,36,Goalkeeper,Krasnodar,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Lucas Barrios,29,Centre-Forward,Montpellier,Loan,out,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Demy de Zeeuw,31,Central Midfield,Without Club,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Roman Shirokov,33,Central Midfield,Krasnodar,Loan,out,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Kirill Kombarov,27,Right-Back,Torpedo Moscow,Loan,out,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Pavel Yakovlev,23,Left Winger,Mordovia,Loan,out,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Aleksandr Zotov,23,Central Midfield,Arsenal Tula,Loan,out,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Diniyar Bilyaletdinov,29,Attacking Midfield,Torpedo Moscow,Loan,out,0,Premier Liga,2014,2014/2015
+Spartak Moscow,Salvatore Bocchetti,28,Centre-Back,AC Milan,Loan,out,0,Premier Liga,2014,2014/2015
+Terek Grozny,Marko Scepovic,23,Centre-Forward,Olympiacos,Loan fee:£180k,in,0.18,Premier Liga,2014,2014/2015
+Terek Grozny,Ablaye Mbengue,22,Centre-Forward,FC Sapins,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Terek Grozny,Adolphe Teikeu,24,Centre-Back,Chornomorets,Loan,in,0,Premier Liga,2014,2014/2015
+Terek Grozny,Rodolfo,32,Centre-Back,Without Club,-,in,0,Premier Liga,2014,2014/2015
+Terek Grozny,Adlan Katsaev,26,Attacking Midfield,Lechia Gdansk,"End of loanDec 31, 2014",in,0,Premier Liga,2014,2014/2015
+Terek Grozny,Zaur Sadaev,24,Centre-Forward,Lechia Gdansk,"End of loanAug 27, 2014",in,0,Premier Liga,2014,2014/2015
+Terek Grozny,Ezechiel Ndouasel,26,Centre-Forward,Club Africain,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Terek Grozny,Adlan Katsaev,26,Attacking Midfield,Luch Vladivostok,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Terek Grozny,Maciej Makuszewski,24,Right Winger,Lechia Gdansk,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Terek Grozny,Ezechiel Ndouasel,26,Centre-Forward,Club Africain,£450k,out,0.45,Premier Liga,2014,2014/2015
+Terek Grozny,Maciej Makuszewski,24,Right Winger,Lechia Gdansk,£270k,out,0.27,Premier Liga,2014,2014/2015
+Terek Grozny,Gheorghe Grozav,24,Left Winger,Dinamo Bukarest,Loan,out,0,Premier Liga,2014,2014/2015
+Terek Grozny,Ferreira,30,Centre-Back,Bragantino,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Terek Grozny,Adlan Katsaev,26,Attacking Midfield,Lechia Gdansk,Loan,out,0,Premier Liga,2014,2014/2015
+Terek Grozny,Magomed Mitrishev,21,Right Winger,Anzhi,Loan,out,0,Premier Liga,2014,2014/2015
+Terek Grozny,Zaur Sadaev,24,Centre-Forward,Lech Poznan,Loan,out,0,Premier Liga,2014,2014/2015
+Terek Grozny,Evgeni Kobozev,24,Goalkeeper,KS Samara,Loan,out,0,Premier Liga,2014,2014/2015
+Terek Grozny,Ivan Temnikov,25,Right Midfield,Rubin Kazan,"End of loanJun 30, 2014",out,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Ivan Franjic,26,Right-Back,Brisbane Roar,£180k,in,0.18,Premier Liga,2014,2014/2015
+Torpedo Moscow,Anton Putsila,27,Attacking Midfield,Volga NN,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Adam Kokoszka,27,Centre-Back,Slask Wroclaw,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Vladimir Rykov,26,Centre-Back,Dinamo Moscow,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Dalibor Stevanovic,29,Central Midfield,Slask Wroclaw,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Viktor Chigirev,18,Right-Back,Unknown,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Semen Fomin,25,Central Midfield,Rotor Volgograd,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Georgi Tigiev,19,Left-Back,Kuban II,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Sergei Zenjov,25,Right Winger,Blackpool,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Márcio Abreu,34,Central Midfield,Krasnodar,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Aleksey Pugin,27,Left Winger,Rotor Volgograd,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Goran Blazevic,28,Goalkeeper,Levski Sofia,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Konstantin Bazelyuk,21,Centre-Forward,CSKA Moscow,Loan,in,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Arnór Smárason,26,Second Striker,Helsingborg,Loan,in,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Kirill Kombarov,27,Right-Back,Spartak Moscow,Loan,in,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Hugo Vieira,26,Centre-Forward,Braga,?,in,NA,Premier Liga,2014,2014/2015
+Torpedo Moscow,Sergey Davydov,28,Centre-Forward,Rubin Kazan,Loan,in,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Diniyar Bilyaletdinov,29,Attacking Midfield,Spartak Moscow,Loan,in,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Yuri Zhevnov,33,Goalkeeper,Without Club,-,in,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Oleg Polyakov,23,Right Winger,Tyumen,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Andrey Lunev,22,Goalkeeper,FK Kaluga,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Denis Voynov,24,Left Midfield,Fakel Voronezh,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Sergey Efimov,26,Centre-Back,Zenit Penza,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Igor Shevchenko,29,Right Winger,Ufa,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Oleg Vlasov,29,Attacking Midfield,Mordovia,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Denis Bolshakov,27,Attacking Midfield,Domodedovo,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Oleg Polyakov,23,Right Winger,Zenit Izhevsk,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Yuri Kuleshov,33,Central Midfield,Sakhalin,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Ivan Franjic,27,Right-Back,Melbourne City,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Denys Skepskyi,26,Second Striker,Sakhalin,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Andrey Lunev,23,Goalkeeper,Saturn,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Maksim Burchenko,31,Right Midfield,Luch Vladivostok,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Evgeni Konyukhov,27,Goalkeeper,KS Samara,?,out,NA,Premier Liga,2014,2014/2015
+Torpedo Moscow,Mikhail Bagaev,29,Right-Back,Tyumen,Loan,out,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Dmitri Aydov,32,Centre-Back,Anzhi,?,out,NA,Premier Liga,2014,2014/2015
+Torpedo Moscow,Ivan Novoseltsev,23,Centre-Back,Rostov,?,out,NA,Premier Liga,2014,2014/2015
+Torpedo Moscow,Sergey Efimov,26,Centre-Back,TSK-Tavriya,Loan,out,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Lev Kornilov,30,Left Midfield,Saturn,Loan,out,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Lukas Tesak,29,Left-Back,Arsenal Tula,?,out,NA,Premier Liga,2014,2014/2015
+Torpedo Moscow,Daniil Savichev,20,Central Midfield,Torpedo II,-,out,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Márcio Abreu,34,Central Midfield,Retired,-,out,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Saulius Klevinskas,30,Goalkeeper,Without Club,-,out,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Denis Boyarintsev,36,Right Midfield,Retired,-,out,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Aleksandr Tsybikov,20,Right-Back,Torpedo II,-,out,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Adam Kokoszka,28,Centre-Back,Without Club,-,out,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Matija Dvornekovic,25,Right Winger,Volga NN,"End of loanJun 30, 2014",out,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Nikita Vasiljev,22,Defensive Midfield,Rostov II,"End of loanJun 30, 2014",out,0,Premier Liga,2014,2014/2015
+Torpedo Moscow,Viktor Svezhov,23,Central Midfield,KS Samara,"End of loanJun 30, 2014",out,0,Premier Liga,2014,2014/2015
+FK Ufa,Takafumi Akahoshi,28,Central Midfield,Pogon Szczecin,£540k,in,0.54,Premier Liga,2014,2014/2015
+FK Ufa,Haris Handzic,24,Centre-Forward,B. Banja Luka,£45k,in,0.045,Premier Liga,2014,2014/2015
+FK Ufa,Igor Shevchenko,29,Right Winger,Torpedo Moscow,Free Transfer,in,0,Premier Liga,2014,2014/2015
+FK Ufa,Ivan Paurevic,23,Defensive Midfield,F. Düsseldorf,Free Transfer,in,0,Premier Liga,2014,2014/2015
+FK Ufa,Marcinho,28,Attacking Midfield,CSKA Sofia,Free Transfer,in,0,Premier Liga,2014,2014/2015
+FK Ufa,Vagiz Galiulin,26,Right Midfield,Rubin Kazan,Free Transfer,in,0,Premier Liga,2014,2014/2015
+FK Ufa,Emmanuel Frimpong,22,Defensive Midfield,Barnsley FC,Free Transfer,in,0,Premier Liga,2014,2014/2015
+FK Ufa,Dmitri Verkhovtsov,27,Centre-Back,KS Samara,Free Transfer,in,0,Premier Liga,2014,2014/2015
+FK Ufa,Nikita Bezlikhotnov,23,Right Winger,Kuban Krasnodar,Free Transfer,in,0,Premier Liga,2014,2014/2015
+FK Ufa,Kyriakos Panagiotou,18,Goalkeeper,AEK Larnaca,Free Transfer,in,0,Premier Liga,2014,2014/2015
+FK Ufa,Dmitri Stotskiy,25,Right Midfield,Baltika,Free Transfer,in,0,Premier Liga,2014,2014/2015
+FK Ufa,Felicio Brown Forbes,22,Right Midfield,KS Samara,Free Transfer,in,0,Premier Liga,2014,2014/2015
+FK Ufa,Aleksandr Vasiljev,22,Right Winger,Rostov,?,in,NA,Premier Liga,2014,2014/2015
+FK Ufa,Sergey Veremko,31,Goalkeeper,KS Samara,Loan,in,0,Premier Liga,2014,2014/2015
+FK Ufa,Denis Tumasyan,29,Centre-Back,Ural,Loan,in,0,Premier Liga,2014,2014/2015
+FK Ufa,Oleksandr Zinchenko,18,Left-Back,Career break,-,in,0,Premier Liga,2014,2014/2015
+FK Ufa,Andrey Myazin,26,Centre-Forward,Rotor Volgograd,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+FK Ufa,Vitali Galysh,24,Centre-Forward,Enisey,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+FK Ufa,Anton Zabolotny,23,Centre-Forward,Fakel Voronezh,Free Transfer,out,0,Premier Liga,2014,2014/2015
+FK Ufa,Dmitri Grachev,30,Centre-Back,Luch Vladivostok,Free Transfer,out,0,Premier Liga,2014,2014/2015
+FK Ufa,Artur Valikaev,26,Defensive Midfield,Tom Tomsk,Free Transfer,out,0,Premier Liga,2014,2014/2015
+FK Ufa,Nikolay Zhilyaev,27,Right Winger,Fakel Voronezh,Free Transfer,out,0,Premier Liga,2014,2014/2015
+FK Ufa,Aleksandr Vasilenko,27,Right-Back,Fakel Voronezh,Free Transfer,out,0,Premier Liga,2014,2014/2015
+FK Ufa,Ivan Nagibin,28,Central Midfield,Sibir,Free Transfer,out,0,Premier Liga,2014,2014/2015
+FK Ufa,Tagir Akhmetshin,20,Centre-Back,Unknown,Free Transfer,out,0,Premier Liga,2014,2014/2015
+FK Ufa,Seyt-Daut Garakoev,22,Left Winger,Luch Vladivostok,Free Transfer,out,0,Premier Liga,2014,2014/2015
+FK Ufa,Mikhail Baranovski,31,Goalkeeper,FK Kaluga,Free Transfer,out,0,Premier Liga,2014,2014/2015
+FK Ufa,Evgeni Osipov,27,Centre-Back,Arsenal Tula,Free Transfer,out,0,Premier Liga,2014,2014/2015
+FK Ufa,Andrey Myazin,26,Centre-Forward,Luch Vladivostok,Free Transfer,out,0,Premier Liga,2014,2014/2015
+FK Ufa,Andrey Kireev,28,Centre-Back,Fakel Voronezh,Free Transfer,out,0,Premier Liga,2014,2014/2015
+FK Ufa,Takafumi Akahoshi,28,Central Midfield,Pogon Szczecin,Loan,out,0,Premier Liga,2014,2014/2015
+FK Ufa,Nikita Bezlikhotnov,24,Right Winger,Baltika,Loan,out,0,Premier Liga,2014,2014/2015
+FK Ufa,Vitali Galysh,24,Centre-Forward,Enisey,?,out,NA,Premier Liga,2014,2014/2015
+FK Ufa,Aleksandr Vasiljev,22,Right Winger,Tyumen,Loan,out,0,Premier Liga,2014,2014/2015
+FK Ufa,Denis Gaysin,20,Centre-Forward,Ufa II,-,out,0,Premier Liga,2014,2014/2015
+FK Ufa,Dmitri Izotov,30,Goalkeeper,Retired,-,out,0,Premier Liga,2014,2014/2015
+FK Ufa,Igor Bezdenezhnykh,17,Central Midfield,Ufa II,-,out,0,Premier Liga,2014,2014/2015
+FK Ufa,William,32,Left-Back,Retired,-,out,0,Premier Liga,2014,2014/2015
+FK Ufa,Bulat Khaernasov,19,Second Striker,Ufa II,-,out,0,Premier Liga,2014,2014/2015
+FK Ufa,Valeri Kichin,21,Left-Back,Volga NN,"End of loanJun 30, 2014",out,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Aleksandr Sapeta,25,Central Midfield,Dinamo Moscow,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Markus Berger,29,Centre-Back,Start,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Vyacheslav Podberezkin,22,Attacking Midfield,Loko Moscow II,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Arsen Oganesyan,24,Left Midfield,FK Kaluga,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Kostiantyn Yaroshenko,27,Attacking Midfield,FK Sevastopol,Free Transfer,in,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Georgi Nurov,22,Right Winger,Rubin Kazan II,?,in,NA,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Roman Emeljanov,22,Defensive Midfield,Shakhtar D.,?,in,NA,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Igor Lambarskiy,21,Attacking Midfield,Krasnodar,?,in,NA,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Aleksandr Erokhin,24,Attacking Midfield,SKA-Energia,?,in,NA,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Roman Emeljanov,22,Defensive Midfield,Shakhtar II,Loan,in,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Nikolay Markov,29,Right-Back,Krasnodar,Loan,in,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Fedor Smolov,24,Centre-Forward,Dinamo Moscow,Loan,in,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Denis Fomin,18,Centre-Back,Tekstilshchik,?,in,NA,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Pablo Fontanello,29,Centre-Back,Stabæk,?,in,NA,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Dmitri Arapov,21,Goalkeeper,Ural II,-,in,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Ivan Chudin,24,Central Midfield,Ural II,-,in,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Ivan Melnik,22,Defensive Midfield,Dinamo S-Pb,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Semen Pomogaev,20,Central Midfield,Dinamo S-Pb,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Sölvi Ottesen,30,Centre-Back,JS Guoxin Sainty,£675k,out,0.675,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Lasha Gvalia,22,Central Midfield,FC Zestafoni,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Markus Berger,30,Centre-Back,Gil Vicente,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Aleksandr Shchanitsin,30,Attacking Midfield,Tekstilshchik,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Andrey Chukhley,26,Right-Back,Tyumen,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Alan Bagaev,23,Centre-Back,Alania,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Arsen Oganesyan,24,Left Midfield,Sokol Saratov,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Georgi Nurov,22,Right Winger,Baltika,Loan,out,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Arsen Goshokov,23,Centre-Forward,Spartak Nalchik,Loan,out,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Denis Tumasyan,29,Centre-Back,Ufa,Loan,out,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Ivan Melnik,22,Defensive Midfield,Khimik,Loan,out,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Andrey Gorbanets,29,Right Midfield,Tom Tomsk,Loan,out,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Andrey Bochkov,32,Central Midfield,Tosno,Loan,out,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Igor Lambarskiy,22,Attacking Midfield,Tyumen,Loan,out,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Roman Emeljanov,22,Defensive Midfield,Shakhtar D.,"End of loanDec 31, 2014",out,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Vladimir Koman,25,Attacking Midfield,Krasnodar,"End of loanJun 30, 2014",out,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Aleksandr Erokhin,24,Attacking Midfield,SKA-Energia,"End of loanJun 30, 2014",out,0,Premier Liga,2014,2014/2015
+Ural Yekaterinburg,Aleksandr Sapeta,25,Central Midfield,Dinamo Moscow,"End of loanJun 30, 2014",out,0,Premier Liga,2014,2014/2015
+Zenit St. Petersburg,Javi García,27,Defensive Midfield,Man City,£15.12m,in,15.12,Premier Liga,2014,2014/2015
+Zenit St. Petersburg,Ezequiel Garay,27,Centre-Back,Benfica,£5.40m,in,5.4,Premier Liga,2014,2014/2015
+Zenit St. Petersburg,Pavel Mogilevets,21,Central Midfield,Rubin Kazan,"End of loanAug 28, 2014",in,0,Premier Liga,2014,2014/2015
+Zenit St. Petersburg,Luka Djordjevic,19,Centre-Forward,FC Twente,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Zenit St. Petersburg,Ivan Solovjev,21,Left Winger,Amkar Perm,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Zenit St. Petersburg,Aleksandr Bukharov,29,Centre-Forward,Anzhi,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Zenit St. Petersburg,Roman Shirokov,32,Central Midfield,Krasnodar,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Zenit St. Petersburg,Milan Rodic,23,Left-Back,Volga NN,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Zenit St. Petersburg,Vladimir Bystrov,30,Right Midfield,Anzhi,"End of loanJun 30, 2014",in,0,Premier Liga,2014,2014/2015
+Zenit St. Petersburg,Cristian Ansaldi,27,Left-Back,Atlético Madrid,Loan fee:£900k,out,0.9,Premier Liga,2014,2014/2015
+Zenit St. Petersburg,Roman Shirokov,33,Central Midfield,Spartak Moscow,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Zenit St. Petersburg,Aleksandr Bukharov,29,Centre-Forward,Rostov,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Zenit St. Petersburg,Vladimir Bystrov,30,Right Midfield,Krasnodar,Free Transfer,out,0,Premier Liga,2014,2014/2015
+Zenit St. Petersburg,Luka Djordjevic,20,Centre-Forward,Sampdoria,Loan,out,0,Premier Liga,2014,2014/2015
+Zenit St. Petersburg,Tomas Hubocan,28,Centre-Back,Dinamo Moscow,?,out,NA,Premier Liga,2014,2014/2015
+Zenit St. Petersburg,Aleksandar Lukovic,31,Centre-Back,Without Club,-,out,0,Premier Liga,2014,2014/2015
+Zenit St. Petersburg,Konstantin Zyryanov,36,Central Midfield,Zenit 2 S-Pb,-,out,0,Premier Liga,2014,2014/2015

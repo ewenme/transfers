@@ -1,0 +1,2010 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Juventus FC,Paulo Dybala,21,Second Striker,US Palermo,£36.00m,in,36,Serie A,2015,2015/2016
+Juventus FC,Alex Sandro,24,Left-Back,FC Porto,£23.40m,in,23.4,Serie A,2015,2015/2016
+Juventus FC,Mario Mandzukic,29,Centre-Forward,Atlético Madrid,£18.90m,in,18.9,Serie A,2015,2015/2016
+Juventus FC,Simone Zaza,24,Centre-Forward,Sassuolo,£16.20m,in,16.2,Serie A,2015,2015/2016
+Juventus FC,Roberto Pereyra,24,Left Midfield,Udinese Calcio,£13.50m,in,13.5,Serie A,2015,2015/2016
+Juventus FC,Hernanes,30,Attacking Midfield,Inter,£11.70m,in,11.7,Serie A,2015,2015/2016
+Juventus FC,Rolando Mandragora,18,Central Midfield,Genoa,£8.10m,in,8.1,Serie A,2015,2015/2016
+Juventus FC,Eric Lanini,21,Centre-Forward,US Palermo,£1.80m,in,1.8,Serie A,2015,2015/2016
+Juventus FC,Juan Cuadrado,27,Right Winger,Chelsea,Loan fee:£1.62m,in,1.62,Serie A,2015,2015/2016
+Juventus FC,Alberto Brignoli,23,Goalkeeper,Ternana,£1.58m,in,1.58,Serie A,2015,2015/2016
+Juventus FC,Mame Thiam,22,Centre-Forward,Virtus Lanciano,£1.26m,in,1.26,Serie A,2015,2015/2016
+Juventus FC,Andrés Tello,18,Central Midfield,Envigado,£1.26m,in,1.26,Serie A,2015,2015/2016
+Juventus FC,Joyce Anacoura,20,Goalkeeper,Parma,£675k,in,0.675,Serie A,2015,2015/2016
+Juventus FC,Mario Lemina,21,Defensive Midfield,Marseille,Loan fee:£450k,in,0.45,Serie A,2015,2015/2016
+Juventus FC,Gregorio Luperini,21,Central Midfield,Pontedera,£89k,in,0.089,Serie A,2015,2015/2016
+Juventus FC,Neto,25,Goalkeeper,Fiorentina,Free Transfer,in,0,Serie A,2015,2015/2016
+Juventus FC,Alberto Cerri,19,Centre-Forward,Parma,Free Transfer,in,0,Serie A,2015,2015/2016
+Juventus FC,Sami Khedira,28,Central Midfield,Real Madrid,Free Transfer,in,0,Serie A,2015,2015/2016
+Juventus FC,Stefano Beltrame,22,Attacking Midfield,Sampdoria,?,in,NA,Serie A,2015,2015/2016
+Juventus FC,Eric Lanini,21,Centre-Forward,Virtus Lanciano,"End of loanJan 27, 2016",in,0,Serie A,2015,2015/2016
+Juventus FC,Emil Audero,18,Goalkeeper,Juventus U19,-,in,0,Serie A,2015,2015/2016
+Juventus FC,Vajebah Sakor,19,Defensive Midfield,Juventus U19,-,in,0,Serie A,2015,2015/2016
+Juventus FC,Stefano Beltrame,22,Attacking Midfield,Pro Vercelli,"End of loanJan 31, 2016",in,0,Serie A,2015,2015/2016
+Juventus FC,Albert Roussos,19,Centre-Back,Cercle Brugge,"End of loanJan 20, 2016",in,0,Serie A,2015,2015/2016
+Juventus FC,Alessandro Degrassi,19,Left-Back,D. Porto Tolle,"End of loanDec 14, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Marcelo Djaló,22,Centre-Back,Girona,"End of loanApr 18, 2016",in,0,Serie A,2015,2015/2016
+Juventus FC,Eric Lanini,22,Centre-Forward,Como,"End of loanJul 1, 2016",in,0,Serie A,2015,2015/2016
+Juventus FC,Cristian Bunino,19,Centre-Forward,ProVercelli U19,"End of loanAug 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Luca Marrone,25,Centre-Back,Carpi,"End of loanJan 27, 2016",in,0,Serie A,2015,2015/2016
+Juventus FC,Alberto Gallinetta,23,Goalkeeper,Cercle Brugge,"End of loanJan 28, 2016",in,0,Serie A,2015,2015/2016
+Juventus FC,Gregorio Luperini,21,Central Midfield,Pro Vercelli,"End of loanDec 31, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Cristian Pasquato,26,Attacking Midfield,AS Livorno,"End of loanJan 31, 2016",in,0,Serie A,2015,2015/2016
+Juventus FC,Vajebah Sakor,19,Defensive Midfield,KVC Westerlo,"End of loanMar 28, 2016",in,0,Serie A,2015,2015/2016
+Juventus FC,Mattia Vitale,17,Central Midfield,Juventus U19,-,in,0,Serie A,2015,2015/2016
+Juventus FC,Zoran Josipovic,20,Centre-Forward,FC Lugano,"End of loanJan 4, 2016",in,0,Serie A,2015,2015/2016
+Juventus FC,Pol García,20,Centre-Back,Como,"End of loanJan 24, 2016",in,0,Serie A,2015,2015/2016
+Juventus FC,Albert Roussos,19,Centre-Back,Juventus U19,-,in,0,Serie A,2015,2015/2016
+Juventus FC,Younes Bnou Marzouk,19,Centre-Forward,KVC Westerlo,"End of loanJan 30, 2016",in,0,Serie A,2015,2015/2016
+Juventus FC,Lorenzo Benucci,18,Left-Back,Sassuolo U19,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Fausto Rossi,24,Central Midfield,Córdoba CF,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Matteo Gerbaudo,20,Central Midfield,SPAL,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Nicola Leali,22,Goalkeeper,Cesena,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Marcel Büchel,24,Central Midfield,Bologna,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Luca Barlocco,20,Left-Back,Como,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Filippo Penna,20,Centre-Back,FC Den Bosch,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Marcelo Djaló,21,Centre-Back,Granada CF B,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Anastasios Donis,18,Centre-Forward,Sassuolo,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Marco Di Benedetto,19,Left Winger,Feralpisalò,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Pol García,20,Centre-Back,Vicenza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Christian Tavanti,20,Right-Back,Mantova FC,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Nicolò Curti,20,Centre-Back,Como,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Lorenzo Rosseti,20,Centre-Forward,Atalanta,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,James Troisi,26,Attacking Midfield,Zulte Waregem,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Matteo Liviero,22,Left-Back,Pro Vercelli,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Francesco Margiotta,21,Centre-Forward,Real Vicenza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Carlo Pinsoglio,25,Goalkeeper,Modena,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Elvis Kabashi,21,Central Midfield,FC Den Bosch,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Giacomo Volpe,19,Goalkeeper,Correggese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Edoardo Ceria,20,Right Winger,FC Den Bosch,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Frederik Sörensen,23,Centre-Back,Hellas Verona,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Daniele Rugani,20,Centre-Back,FC Empoli,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Carlo Ilari,23,Central Midfield,Catanzaro,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Héctor Otín,19,Right Winger,Virtus Entella,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Vykintas Slivka,20,Central Midfield,ND Gorica,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Timothy Nocchi,24,Goalkeeper,Spezia Calcio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Alessandro Degrassi,19,Left-Back,Padova,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Domenico Berardi,20,Right Winger,Sassuolo,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Ouasim Bouy,22,Defensive Midfield,Panathinaikos,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Mbaye Diagne,23,Centre-Forward,KVC Westerlo,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Edoardo Goldaniga,21,Centre-Back,Perugia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Mauricio Isla,27,Right-Back,QPR,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Gabriel,21,Central Midfield,AS Livorno,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Gianmarco Vannucchi,19,Goalkeeper,Renate,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Rassoul Gueye,19,Centre-Back,Reggiana,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Laurentiu Branescu,21,Goalkeeper,Haladás,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Stefano Padovan,21,Centre-Forward,Crotone,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Eros Castelletto,19,Central Midfield,AS Gubbio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Leonardo Spinazzola,22,Left-Back,Vicenza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Michele Cavion,20,Central Midfield,Feralpisalò,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Cristian Pasquato,25,Attacking Midfield,Pescara,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Davide Cais,21,Centre-Forward,AS Gubbio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Andrea Schiavone,22,Defensive Midfield,Modena,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Alberto Gallinetta,23,Goalkeeper,ND Gorica,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Juventus FC,Arturo Vidal,28,Central Midfield,Bayern Munich,£33.75m,out,33.75,Serie A,2015,2015/2016
+Juventus FC,Angelo Ogbonna,27,Centre-Back,West Ham,£9.90m,out,9.9,Serie A,2015,2015/2016
+Juventus FC,Domenico Berardi,20,Right Winger,Sassuolo,£9.00m,out,9,Serie A,2015,2015/2016
+Juventus FC,Kingsley Coman,19,Left Winger,Bayern Munich,Loan fee:£6.30m,out,6.3,Serie A,2015,2015/2016
+Juventus FC,Carlos Tévez,31,Second Striker,Boca Juniors,£5.85m,out,5.85,Serie A,2015,2015/2016
+Juventus FC,Frederik Sörensen,23,Centre-Back,1. FC Köln,£1.60m,out,1.6,Serie A,2015,2015/2016
+Juventus FC,Edoardo Goldaniga,21,Centre-Back,US Palermo,£1.35m,out,1.35,Serie A,2015,2015/2016
+Juventus FC,Mbaye Diagne,23,Centre-Forward,Újpest FC,£1.04m,out,1.04,Serie A,2015,2015/2016
+Juventus FC,Alberto Cerri,19,Centre-Forward,Cagliari Calcio,Loan fee:£900k,out,0.9,Serie A,2015,2015/2016
+Juventus FC,Andrés Tello,18,Central Midfield,Cagliari Calcio,Loan fee:£900k,out,0.9,Serie A,2015,2015/2016
+Juventus FC,Mauricio Isla,27,Right-Back,Marseille,Loan fee:£900k,out,0.9,Serie A,2015,2015/2016
+Juventus FC,Ouasim Bouy,22,Defensive Midfield,PEC Zwolle,Loan fee:£90k,out,0.09,Serie A,2015,2015/2016
+Juventus FC,Marcelo Djaló,22,Centre-Back,UCAM Murcia,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Fernando Llorente,30,Centre-Forward,Sevilla FC,Free Transfer,out,0,Serie A,2015,2015/2016
+Juventus FC,Simone Pepe,31,Right Winger,Chievo Verona,Free Transfer,out,0,Serie A,2015,2015/2016
+Juventus FC,Albert Roussos,19,Centre-Back,Cercle Brugge,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Elvis Kabashi,21,Central Midfield,Pontedera,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Alessandro Degrassi,19,Left-Back,AS Gubbio,Free Transfer,out,0,Serie A,2015,2015/2016
+Juventus FC,Andrea Pirlo,36,Defensive Midfield,NYCFC,Free Transfer,out,0,Serie A,2015,2015/2016
+Juventus FC,Marco Di Benedetto,19,Left Winger,Virtus Lanciano,Free Transfer,out,0,Serie A,2015,2015/2016
+Juventus FC,Marcelo Djaló,21,Centre-Back,Girona,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Laurentiu Branescu,21,Goalkeeper,Omonia Nikosia,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Gianmarco Vannucchi,19,Goalkeeper,Alessandria,Free Transfer,out,0,Serie A,2015,2015/2016
+Juventus FC,Albert Roussos,19,Centre-Back,Panthrakikos,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Marco Storari,38,Goalkeeper,Cagliari Calcio,Free Transfer,out,0,Serie A,2015,2015/2016
+Juventus FC,James Troisi,27,Attacking Midfield,Ittihad,0,out,NA,Serie A,2015,2015/2016
+Juventus FC,Gregorio Luperini,21,Central Midfield,Pro Vercelli,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Matteo Gerbaudo,20,Central Midfield,Carrarese,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Cristian Pasquato,26,Attacking Midfield,AS Livorno,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Zoran Josipovic,20,Centre-Forward,FC Aarau,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Anastasios Donis,18,Centre-Forward,FC Lugano,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Rolando Mandragora,18,Central Midfield,Pescara,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Alberto Brignoli,23,Goalkeeper,Sampdoria,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Lorenzo Rosseti,20,Centre-Forward,Cesena,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Davide Cais,21,Centre-Forward,Carrarese,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Timothy Nocchi,25,Goalkeeper,Carrarese,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Luca Marrone,25,Centre-Back,Hellas Verona,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Luca Marrone,25,Centre-Back,Carpi,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Leonardo Spinazzola,22,Left-Back,Perugia,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Gabriel,21,Central Midfield,CD Leganés,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Marcel Büchel,24,Central Midfield,FC Empoli,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Younes Bnou Marzouk,19,Centre-Forward,SCO Angers B,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Lorenzo Benucci,18,Left-Back,Prato,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Paolo De Ceglie,28,Left-Back,Marseille,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Vajebah Sakor,19,Defensive Midfield,Vålerenga,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Nicola Leali,22,Goalkeeper,Frosinone,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Christian Tavanti,20,Right-Back,Carrarese,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Edoardo Ceria,20,Right Winger,Atalanta,?,out,NA,Serie A,2015,2015/2016
+Juventus FC,Andrea Schiavone,22,Defensive Midfield,AS Livorno,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Eros Castelletto,19,Central Midfield,Pordenone,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Matteo Liviero,22,Left-Back,Lecce,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Mattia Vitale,18,Central Midfield,Virtus Lanciano,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Stefano Beltrame,22,Attacking Midfield,Pro Vercelli,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Alessandro Degrassi,19,Left-Back,D. Porto Tolle,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Fausto Rossi,24,Central Midfield,Pro Vercelli,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Pol García,20,Centre-Back,Crotone,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Eric Lanini,21,Centre-Forward,Virtus Lanciano,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Héctor Otín,19,Right Winger,Virtus Entella,?,out,NA,Serie A,2015,2015/2016
+Juventus FC,Cristian Bunino,19,Centre-Forward,AS Livorno,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Alberto Gallinetta,23,Goalkeeper,Naxxar Lions FC,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Giacomo Volpe,19,Goalkeeper,AS Gubbio,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Carlo Ilari,23,Central Midfield,Santarcangelo,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Cristian Pasquato,26,Attacking Midfield,Pescara,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Carlo Pinsoglio,25,Goalkeeper,AS Livorno,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Vajebah Sakor,19,Defensive Midfield,KVC Westerlo,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Vykintas Slivka,20,Central Midfield,FC Den Bosch,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Nicolò Curti,20,Centre-Back,Pontedera,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Luca Barlocco,20,Left-Back,Carrarese,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Gregorio Luperini,21,Central Midfield,Pontedera,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Pol García,20,Centre-Back,Como,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Stefano Padovan,21,Centre-Forward,Virtus Lanciano,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Michele Cavion,20,Central Midfield,Carrarese,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Eric Lanini,21,Centre-Forward,Como,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Filippo Penna,20,Centre-Back,Virtus Lanciano,?,out,NA,Serie A,2015,2015/2016
+Juventus FC,Joyce Anacoura,20,Goalkeeper,Rimini,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Alberto Gallinetta,23,Goalkeeper,Cercle Brugge,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Stefano Beltrame,22,Attacking Midfield,Pordenone,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Mame Thiam,22,Centre-Forward,Zulte Waregem,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Francesco Margiotta,22,Centre-Forward,Santarcangelo,Loan,out,0,Serie A,2015,2015/2016
+Juventus FC,Rassoul Gueye,19,Centre-Back,Without Club,-,out,0,Serie A,2015,2015/2016
+Juventus FC,Roberto Pereyra,24,Left Midfield,Udinese Calcio,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Juventus FC,Alessandro Matri,30,Centre-Forward,AC Milan,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Juventus FC,Rômulo,28,Central Midfield,Hellas Verona,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+AS Roma,Andrea Bertolacci,24,Central Midfield,Genoa,£7.65m,in,7.65,Serie A,2015,2015/2016
+AS Roma,Iago Falque,26,Right Winger,Genoa,£6.30m,in,6.3,Serie A,2015,2015/2016
+AS Roma,Leandro Paredes,21,Defensive Midfield,Boca Juniors,£5.40m,in,5.4,Serie A,2015,2015/2016
+AS Roma,Víctor Ibarbo,25,Second Striker,Cagliari Calcio,Loan fee:£4.50m,in,4.5,Serie A,2015,2015/2016
+AS Roma,Mohamed Salah,23,Right Winger,Chelsea,Loan fee:£4.50m,in,4.5,Serie A,2015,2015/2016
+AS Roma,Ezequiel Ponce,18,Centre-Forward,Newell's,£3.78m,in,3.78,Serie A,2015,2015/2016
+AS Roma,Antonio Rüdiger,22,Centre-Back,VfB Stuttgart,Loan fee:£3.60m,in,3.6,Serie A,2015,2015/2016
+AS Roma,Nemanja Radonjic,19,Left Winger,Empoli U19,£3.60m,in,3.6,Serie A,2015,2015/2016
+AS Roma,Edin Dzeko,29,Centre-Forward,Man City,Loan fee:£3.60m,in,3.6,Serie A,2015,2015/2016
+AS Roma,Ismail H'Maidat,20,Central Midfield,Brescia,£2.84m,in,2.84,Serie A,2015,2015/2016
+AS Roma,Lucas Digne,22,Left-Back,Paris SG,Loan fee:£2.25m,in,2.25,Serie A,2015,2015/2016
+AS Roma,Stephan El Shaarawy,23,Left Winger,AC Milan,Loan fee:£1.26m,in,1.26,Serie A,2015,2015/2016
+AS Roma,Ervin Zukanovic,28,Centre-Back,Sampdoria,Loan fee:£1.08m,in,1.08,Serie A,2015,2015/2016
+AS Roma,Iago Falque,25,Right Winger,Genoa,Loan fee:£900k,in,0.9,Serie A,2015,2015/2016
+AS Roma,Diego Perotti,27,Left Winger,Genoa,Loan fee:£900k,in,0.9,Serie A,2015,2015/2016
+AS Roma,Matteo Politano,21,Right Winger,Pescara,£540k,in,0.54,Serie A,2015,2015/2016
+AS Roma,William Vainqueur,26,Defensive Midfield,Dinamo Moscow,£521k,in,0.521,Serie A,2015,2015/2016
+AS Roma,Norbert Gyömbér,23,Centre-Back,Catania,Loan fee:£450k,in,0.45,Serie A,2015,2015/2016
+AS Roma,Umar Sadiq,18,Centre-Forward,Spezia U19,Loan fee:£225k,in,0.225,Serie A,2015,2015/2016
+AS Roma,Nicola Falasco,22,Left-Back,Pistoiese,£180k,in,0.18,Serie A,2015,2015/2016
+AS Roma,Tiago Casasola,20,Right-Back,Fulham,Free Transfer,in,0,Serie A,2015,2015/2016
+AS Roma,Tomas Vestenicky,19,Centre-Forward,FC Nitra,Free Transfer,in,0,Serie A,2015,2015/2016
+AS Roma,Wojciech Szczesny,25,Goalkeeper,Arsenal,Loan,in,0,Serie A,2015,2015/2016
+AS Roma,Emerson,21,Left-Back,Santos FC,Loan,in,0,Serie A,2015,2015/2016
+AS Roma,Luca Mazzitelli,20,Central Midfield,Brescia,"End of loanJan 31, 2016",in,0,Serie A,2015,2015/2016
+AS Roma,Daniele Verde,19,Right Winger,Frosinone,"End of loanJan 5, 2016",in,0,Serie A,2015,2015/2016
+AS Roma,Arturo Calabresi,19,Centre-Back,AS Livorno,"End of loanJan 5, 2016",in,0,Serie A,2015,2015/2016
+AS Roma,Seydou Doumbia,28,Centre-Forward,CSKA Moscow,"End of loanDec 31, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Francesco Di Mariano,19,Left Winger,Ancona,"End of loanJan 20, 2016",in,0,Serie A,2015,2015/2016
+AS Roma,Kevin Méndez,19,Right Winger,Perugia,"End of loanAug 28, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Giammario Piscitella,22,Left Winger,Pistoiese,"End of loanJan 4, 2016",in,0,Serie A,2015,2015/2016
+AS Roma,Marco Frediani,21,Left Winger,Ascoli,"End of loanJan 27, 2016",in,0,Serie A,2015,2015/2016
+AS Roma,Stefano Pettinari,23,Centre-Forward,Vicenza,"End of loanJan 11, 2016",in,0,Serie A,2015,2015/2016
+AS Roma,Elio Capradossi,19,Centre-Back,Roma U19,-,in,0,Serie A,2015,2015/2016
+AS Roma,Michele Somma,20,Centre-Back,Brescia,"End of loanJan 31, 2016",in,0,Serie A,2015,2015/2016
+AS Roma,Tomas Vestenicky,19,Centre-Forward,Modena,"End of loanJan 22, 2016",in,0,Serie A,2015,2015/2016
+AS Roma,Franck Cedric,20,Right Winger,FC Voluntari,"End of loanJan 26, 2016",in,0,Serie A,2015,2015/2016
+AS Roma,Alessio Romagnoli,20,Centre-Back,Sampdoria,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Marquinho,28,Attacking Midfield,Ittihad,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Alexis Ferrante,20,Centre-Forward,Savoia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Simone Sini,23,Centre-Back,AC Pisa,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Stefano Pettinari,23,Centre-Forward,Pescara,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Mattia Rosato,21,Centre-Back,AS Gubbio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Luca Mazzitelli,19,Central Midfield,Südtirol,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Deian Boldor,20,Centre-Back,Pescara,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Matteo Ricci,21,Central Midfield,Pistoiese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Marco Frediani,21,Left Winger,AC Pisa,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Michele Somma,20,Centre-Back,FC Empoli,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Sebastian Mladen,23,Defensive Midfield,Südtirol,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Filippo Scardina,23,Centre-Forward,Pontedera,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Petar Golubovic,20,Right-Back,Pistoiese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Junior Tallo,22,Centre-Forward,SC Bastia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Amato Ciciretti,21,Right Winger,ACR Messina,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Simone Sini,22,Centre-Back,Perugia,"End of loanJun 30, 2014",in,0,Serie A,2015,2015/2016
+AS Roma,Mattia Destro,24,Centre-Forward,AC Milan,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Paolo Frascatore,23,Left-Back,Pistoiese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Federico Viviani,23,Defensive Midfield,Latina Calcio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Alessandro Crescenzi,23,Left-Back,Perugia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Wesley Yamnaine,20,Left-Back,RWDM Brussels,"End of loanJun 30, 2014",in,0,Serie A,2015,2015/2016
+AS Roma,Tomas Svedkauskas,21,Goalkeeper,Olhanense,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AS Roma,Alessio Romagnoli,20,Centre-Back,AC Milan,£22.50m,out,22.5,Serie A,2015,2015/2016
+AS Roma,Andrea Bertolacci,24,Central Midfield,AC Milan,£18.00m,out,18,Serie A,2015,2015/2016
+AS Roma,Gervinho,28,Left Winger,HB CFFC,£16.20m,out,16.2,Serie A,2015,2015/2016
+AS Roma,Mapou Yanga-Mbiwa,26,Centre-Back,Olympique Lyon,£8.46m,out,8.46,Serie A,2015,2015/2016
+AS Roma,Mattia Destro,24,Centre-Forward,Bologna,£7.65m,out,7.65,Serie A,2015,2015/2016
+AS Roma,Federico Viviani,23,Defensive Midfield,Hellas Verona,£3.60m,out,3.6,Serie A,2015,2015/2016
+AS Roma,Luca Mazzitelli,20,Central Midfield,Sassuolo,£3.15m,out,3.15,Serie A,2015,2015/2016
+AS Roma,José Holebas,31,Left-Back,Watford,£2.25m,out,2.25,Serie A,2015,2015/2016
+AS Roma,Víctor Ibarbo,25,Second Striker,Watford,Loan fee:£1.80m,out,1.8,Serie A,2015,2015/2016
+AS Roma,Michele Somma,20,Centre-Back,Brescia,£1.62m,out,1.62,Serie A,2015,2015/2016
+AS Roma,Adem Ljajic,23,Attacking Midfield,Inter,Loan fee:£1.58m,out,1.58,Serie A,2015,2015/2016
+AS Roma,Juan Iturbe,22,Right Winger,Bournemouth,Loan fee:£1.08m,out,1.08,Serie A,2015,2015/2016
+AS Roma,Junior Tallo,22,Centre-Forward,LOSC Lille,£900k,out,0.9,Serie A,2015,2015/2016
+AS Roma,Seydou Doumbia,28,Centre-Forward,Newcastle,Loan fee:£900k,out,0.9,Serie A,2015,2015/2016
+AS Roma,Seydou Doumbia,27,Centre-Forward,CSKA Moscow,Loan fee:£900k,out,0.9,Serie A,2015,2015/2016
+AS Roma,Marquinho,29,Attacking Midfield,Udinese Calcio,£450k,out,0.45,Serie A,2015,2015/2016
+AS Roma,Matteo Politano,21,Right Winger,Sassuolo,Loan fee:£90k,out,0.09,Serie A,2015,2015/2016
+AS Roma,Wesley Yamnaine,22,Left-Back,AS Fabrègues,Free Transfer,out,0,Serie A,2015,2015/2016
+AS Roma,Gianluca Curci,30,Goalkeeper,1.FSV Mainz 05,Free Transfer,out,0,Serie A,2015,2015/2016
+AS Roma,Ashley Cole,35,Left-Back,LA Galaxy,Free Transfer,out,0,Serie A,2015,2015/2016
+AS Roma,Tomas Vestenicky,19,Centre-Forward,Modena,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Sebastian Mladen,23,Defensive Midfield,Südtirol,Free Transfer,out,0,Serie A,2015,2015/2016
+AS Roma,Tomas Vestenicky,19,Centre-Forward,Cracovia Kraków,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Filippo Scardina,23,Centre-Forward,Lupa Cast Rom,Free Transfer,out,0,Serie A,2015,2015/2016
+AS Roma,Simone Sini,23,Centre-Back,Virtus Entella,Free Transfer,out,0,Serie A,2015,2015/2016
+AS Roma,Nemanja Radonjic,19,Left Winger,Cukaricki,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Deian Boldor,20,Centre-Back,Virtus Lanciano,Free Transfer,out,0,Serie A,2015,2015/2016
+AS Roma,Alexis Ferrante,20,Centre-Forward,Imolese,Free Transfer,out,0,Serie A,2015,2015/2016
+AS Roma,Nicola Falasco,22,Left-Back,Cesena,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Kevin Méndez,20,Right Winger,Lausanne-Sport,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Petar Golubovic,21,Right-Back,AC Pisa,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Giammario Piscitella,22,Left Winger,Bassano,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Tomas Svedkauskas,21,Goalkeeper,Ascoli,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Leandro Paredes,21,Defensive Midfield,FC Empoli,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Arturo Calabresi,19,Centre-Back,Brescia,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Tiago Casasola,20,Right-Back,Como,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Daniele Verde,19,Right Winger,Frosinone,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Marco Frediani,21,Left Winger,Ascoli,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Antonio Sanabria,19,Centre-Forward,Sporting Gijón,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Mattia Rosato,21,Centre-Back,Lupa Cast Rom,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Stefano Pettinari,23,Centre-Forward,Vicenza,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Stefano Pettinari,23,Centre-Forward,Como,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Lukasz Skorupski,24,Goalkeeper,FC Empoli,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Amato Ciciretti,21,Right Winger,Benevento,?,out,NA,Serie A,2015,2015/2016
+AS Roma,Matteo Ricci,21,Central Midfield,AC Pisa,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Marco Frediani,21,Left Winger,Ancona,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Luca Mazzitelli,19,Central Midfield,Brescia,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Ismail H'Maidat,20,Central Midfield,Ascoli,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Daniele Verde,19,Right Winger,Pescara,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Paolo Frascatore,23,Left-Back,Reggiana,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Francesco Di Mariano,19,Left Winger,Monopoli,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Alessandro Crescenzi,23,Left-Back,Pescara,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Franck Cedric,20,Right Winger,Siena,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Michele Somma,20,Centre-Back,Brescia,Loan,out,0,Serie A,2015,2015/2016
+AS Roma,Federico Balzaretti,33,Left-Back,Retired,-,out,0,Serie A,2015,2015/2016
+AS Roma,Iago Falque,25,Right Winger,Genoa,"End of loanJan 3, 2016",out,0,Serie A,2015,2015/2016
+AS Roma,Davide Astori,28,Centre-Back,Cagliari Calcio,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+AS Roma,Leandro Paredes,21,Defensive Midfield,Boca Juniors,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+AS Roma,Nicolás Spolli,32,Centre-Back,Catania,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+AS Roma,Víctor Ibarbo,25,Second Striker,Cagliari Calcio,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+SS Lazio,Sergej Milinkovic-Savic,20,Central Midfield,KRC Genk,£16.20m,in,16.2,Serie A,2015,2015/2016
+SS Lazio,Dusan Basta,30,Right-Back,Udinese Calcio,£9.45m,in,9.45,Serie A,2015,2015/2016
+SS Lazio,Ricardo Kishna,20,Left Winger,Ajax,£2.70m,in,2.7,Serie A,2015,2015/2016
+SS Lazio,Maurício,26,Centre-Back,Sporting CP,£2.39m,in,2.39,Serie A,2015,2015/2016
+SS Lazio,Ivan Vargic,28,Goalkeeper,HNK Rijeka,£630k,in,0.63,Serie A,2015,2015/2016
+SS Lazio,Patric,22,Right-Back,FC Barcelona B,£450k,in,0.45,Serie A,2015,2015/2016
+SS Lazio,Wesley Hoedt,21,Centre-Back,AZ Alkmaar,Free Transfer,in,0,Serie A,2015,2015/2016
+SS Lazio,Ronaldo,25,Defensive Midfield,FC Empoli,Free Transfer,in,0,Serie A,2015,2015/2016
+SS Lazio,Milan Bisevac,32,Centre-Back,Olympique Lyon,Free Transfer,in,0,Serie A,2015,2015/2016
+SS Lazio,Alessandro Matri,31,Centre-Forward,AC Milan,Loan,in,0,Serie A,2015,2015/2016
+SS Lazio,Franjo Prce,19,Centre-Back,Lazio U19,-,in,0,Serie A,2015,2015/2016
+SS Lazio,Antonio Rozzi,21,Centre-Forward,Virtus Lanciano,"End of loanJan 22, 2016",in,0,Serie A,2015,2015/2016
+SS Lazio,Ravel Morrison,22,Attacking Midfield,Without Club,-,in,0,Serie A,2015,2015/2016
+SS Lazio,Joseph Marie Minala,19,Central Midfield,Latina Calcio,"End of loanJan 10, 2016",in,0,Serie A,2015,2015/2016
+SS Lazio,Moustapha Seck,19,Left-Back,Lazio U19,-,in,0,Serie A,2015,2015/2016
+SS Lazio,Christopher Oikonomidis,20,Left Winger,Lazio U19,-,in,0,Serie A,2015,2015/2016
+SS Lazio,Alessandro Murgia,18,Central Midfield,Lazio U19,-,in,0,Serie A,2015,2015/2016
+SS Lazio,Luca Crecco,20,Central Midfield,Virtus Lanciano,"End of loanJan 10, 2016",in,0,Serie A,2015,2015/2016
+SS Lazio,Mamadou Tounkara,20,Centre-Forward,Crotone,"End of loanJan 31, 2016",in,0,Serie A,2015,2015/2016
+SS Lazio,Álvaro González,30,Central Midfield,Torino,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SS Lazio,Riccardo Perpetuini,24,Central Midfield,L'Aquila,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SS Lazio,Antonio Rozzi,21,Centre-Forward,Virtus Entella,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SS Lazio,Joseph Marie Minala,18,Central Midfield,Bari,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SS Lazio,Alessandro Berardi,24,Goalkeeper,ACR Messina,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SS Lazio,Luca Crescenzi,23,Centre-Back,Arezzo,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SS Lazio,Enrico Zampa,23,Defensive Midfield,Trapani,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SS Lazio,Luca Crecco,19,Central Midfield,Ternana,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SS Lazio,Emiliano Ilari,21,Right-Back,Grosseto,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SS Lazio,Vinícius,22,Left-Back,Perugia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SS Lazio,Josip Elez,21,Centre-Back,Honvéd,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SS Lazio,Cristiano Lombardi,19,Right Winger,Trapani,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SS Lazio,Ettore Mendicino,25,Second Striker,Salernitana,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SS Lazio,Lorenzo Filippini,19,Left-Back,Bari,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SS Lazio,Emiliano Alfaro,27,Centre-Forward,Liverpool FC,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SS Lazio,Luis Pedro Cavanda,24,Right-Back,Trabzonspor,£1.58m,out,1.58,Serie A,2015,2015/2016
+SS Lazio,Emiliano Alfaro,27,Centre-Forward,Buriram Utd.,£378k,out,0.378,Serie A,2015,2015/2016
+SS Lazio,Lorik Cana,32,Centre-Back,FC Nantes,£180k,out,0.18,Serie A,2015,2015/2016
+SS Lazio,Bruno Pereirinha,27,Right Midfield,Atlético-PR,Free Transfer,out,0,Serie A,2015,2015/2016
+SS Lazio,Mamadou Tounkara,20,Centre-Forward,Salernitana,Loan,out,0,Serie A,2015,2015/2016
+SS Lazio,Ettore Mendicino,25,Second Striker,Siena,Free Transfer,out,0,Serie A,2015,2015/2016
+SS Lazio,Diego Novaretti,30,Centre-Back,León,Free Transfer,out,0,Serie A,2015,2015/2016
+SS Lazio,Ronaldo,25,Defensive Midfield,Salernitana,Loan,out,0,Serie A,2015,2015/2016
+SS Lazio,Ederson,29,Attacking Midfield,Flamengo,Free Transfer,out,0,Serie A,2015,2015/2016
+SS Lazio,Alessandro Berardi,24,Goalkeeper,ACR Messina,Free Transfer,out,0,Serie A,2015,2015/2016
+SS Lazio,Mamadou Tounkara,19,Centre-Forward,Crotone,Loan,out,0,Serie A,2015,2015/2016
+SS Lazio,Cristian Ledesma,32,Defensive Midfield,Santos FC,Free Transfer,out,0,Serie A,2015,2015/2016
+SS Lazio,Ivan Vargic,28,Goalkeeper,HNK Rijeka,Loan,out,0,Serie A,2015,2015/2016
+SS Lazio,Michaël Ciani,31,Centre-Back,Sporting CP,Free Transfer,out,0,Serie A,2015,2015/2016
+SS Lazio,Luca Crescenzi,23,Centre-Back,AC Pisa,Free Transfer,out,0,Serie A,2015,2015/2016
+SS Lazio,Luca Crecco,20,Central Midfield,Modena,Loan,out,0,Serie A,2015,2015/2016
+SS Lazio,Cristiano Lombardi,20,Right Winger,Ancona,Loan,out,0,Serie A,2015,2015/2016
+SS Lazio,Christopher Oikonomidis,20,Left Winger,Salernitana,Loan,out,0,Serie A,2015,2015/2016
+SS Lazio,Lorenzo Filippini,20,Left-Back,Pro Vercelli,Loan,out,0,Serie A,2015,2015/2016
+SS Lazio,Thomas Strakosha,20,Goalkeeper,Salernitana,Loan,out,0,Serie A,2015,2015/2016
+SS Lazio,Antonio Rozzi,21,Centre-Forward,Siena,Loan,out,0,Serie A,2015,2015/2016
+SS Lazio,Antonio Rozzi,21,Centre-Forward,Virtus Lanciano,Loan,out,0,Serie A,2015,2015/2016
+SS Lazio,Vinícius,22,Left-Back,FC Zürich,Loan,out,0,Serie A,2015,2015/2016
+SS Lazio,Josip Elez,21,Centre-Back,Aarhus GF,Loan,out,0,Serie A,2015,2015/2016
+SS Lazio,Brayan Perea,22,Centre-Forward,Troyes,Loan,out,0,Serie A,2015,2015/2016
+SS Lazio,Álvaro González,30,Central Midfield,Atlas,Loan,out,0,Serie A,2015,2015/2016
+SS Lazio,Joseph Marie Minala,19,Central Midfield,Bari,Loan,out,0,Serie A,2015,2015/2016
+SS Lazio,Franjo Prce,20,Centre-Back,Salernitana,Loan,out,0,Serie A,2015,2015/2016
+SS Lazio,Luca Crecco,19,Central Midfield,Virtus Lanciano,Loan,out,0,Serie A,2015,2015/2016
+SS Lazio,Enrico Zampa,23,Defensive Midfield,Ternana,?,out,NA,Serie A,2015,2015/2016
+SS Lazio,Joseph Marie Minala,18,Central Midfield,Latina Calcio,Loan,out,0,Serie A,2015,2015/2016
+SS Lazio,Riccardo Perpetuini,24,Central Midfield,Without Club,-,out,0,Serie A,2015,2015/2016
+SS Lazio,Alessandro Di Mario,23,Centre-Forward,Without Club,-,out,0,Serie A,2015,2015/2016
+SS Lazio,Giuseppe Sculli,34,Left Winger,Without Club,-,out,0,Serie A,2015,2015/2016
+SS Lazio,Emiliano Ilari,21,Right-Back,Without Club,-,out,0,Serie A,2015,2015/2016
+SS Lazio,Dusan Basta,30,Right-Back,Udinese Calcio,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+SS Lazio,Maurício,26,Centre-Back,Sporting CP,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Mario Suárez,28,Defensive Midfield,Atlético Madrid,£13.50m,in,13.5,Serie A,2015,2015/2016
+ACF Fiorentina,Nikola Kalinic,27,Centre-Forward,Dnipro,£4.95m,in,4.95,Serie A,2015,2015/2016
+ACF Fiorentina,Andrés Schetino,21,Defensive Midfield,CA Fénix,£3.15m,in,3.15,Serie A,2015,2015/2016
+ACF Fiorentina,Jaime Báez,20,Centre-Forward,Juventud,£2.07m,in,2.07,Serie A,2015,2015/2016
+ACF Fiorentina,Mauro Zárate,28,Second Striker,West Ham,£1.89m,in,1.89,Serie A,2015,2015/2016
+ACF Fiorentina,Gilberto,22,Right-Back,Botafogo,£1.80m,in,1.8,Serie A,2015,2015/2016
+ACF Fiorentina,Davide Astori,28,Centre-Back,Cagliari Calcio,Loan fee:£1.35m,in,1.35,Serie A,2015,2015/2016
+ACF Fiorentina,Jakub Blaszczykowski,29,Right Winger,Bor. Dortmund,Loan fee:£900k,in,0.9,Serie A,2015,2015/2016
+ACF Fiorentina,Luigi Sepe,24,Goalkeeper,SSC Napoli,Loan fee:£675k,in,0.675,Serie A,2015,2015/2016
+ACF Fiorentina,Tino Costa,31,Central Midfield,Spartak Moscow,Loan fee:£450k,in,0.45,Serie A,2015,2015/2016
+ACF Fiorentina,Luca Bittante,21,Right-Back,Avellino,£450k,in,0.45,Serie A,2015,2015/2016
+ACF Fiorentina,Yohan Benalouane,28,Centre-Back,Leicester,Loan fee:£225k,in,0.225,Serie A,2015,2015/2016
+ACF Fiorentina,Cristian Tello,24,Left Winger,FC Barcelona,Loan,in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Joan Verdú,32,Attacking Midfield,Baniyas SC,Free Transfer,in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Panagiotis Kone,28,Central Midfield,Udinese Calcio,Loan,in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Alessandro Bacci,20,Goalkeeper,AC Pisa,"End of loanJan 7, 2016",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Cedric Gondo,18,Centre-Forward,Fiorentina U19,-,in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Rafal Wolski,23,Attacking Midfield,KV Mechelen,"End of loanFeb 23, 2016",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Ryder Matos,22,Second Striker,Palmeiras,"End of loanJul 6, 2015",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Ricardo Bagadur,19,Centre-Back,Fiorentina U19,-,in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Nicolò Fazzi,20,Right Midfield,Virtus Entella,"End of loanJan 24, 2016",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Jacopo Petriccione,20,Defensive Midfield,Fiorentina U19,-,in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Amidu Salifu,23,Central Midfield,Perugia,"End of loanJan 31, 2016",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Axel Gulin,20,Right Winger,Pordenone,"End of loanJan 31, 2016",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Joshua Brillante,22,Central Midfield,FC Empoli,"End of loanAug 27, 2015",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Ryder Matos,22,Second Striker,Carpi,"End of loanJan 29, 2016",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Michele Camporese,23,Centre-Back,Bari,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Cristiano Piccini,22,Right-Back,Real Betis,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Steve Beleck,22,Centre-Forward,Mantova FC,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Amidu Salifu,22,Central Midfield,Modena,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Alberto Rosa Gastaldo,20,Central Midfield,NK Istra,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Maxwell Acosty,23,Right Winger,Modena,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Axel Gulin,19,Right Winger,Feralpisalò,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Matías Vecino,23,Central Midfield,FC Empoli,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Facundo Roncaglia,28,Centre-Back,Genoa,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Oleksandr Yakovenko,27,Left Winger,ADO Den Haag,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Nicolò Fazzi,20,Right Midfield,Perugia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Ante Rebic,21,Second Striker,RB Leipzig,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Marko Bakic,21,Central Midfield,Spezia Calcio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Leonardo Capezzi,20,Defensive Midfield,Varese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Ahmed Hegazy,24,Centre-Back,Perugia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Saverio Madrigali,20,Centre-Back,Pontedera,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Lorenzo Venuti,20,Right-Back,Pescara,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+ACF Fiorentina,Stefan Savic,24,Centre-Back,Atlético Madrid,£22.50m,out,22.5,Serie A,2015,2015/2016
+ACF Fiorentina,Mario Suárez,28,Defensive Midfield,Watford,£4.77m,out,4.77,Serie A,2015,2015/2016
+ACF Fiorentina,Ryder Matos,22,Second Striker,Udinese Calcio,£2.70m,out,2.7,Serie A,2015,2015/2016
+ACF Fiorentina,Cristiano Piccini,22,Right-Back,Real Betis,£1.35m,out,1.35,Serie A,2015,2015/2016
+ACF Fiorentina,Joaquín,34,Right Winger,Real Betis,£1.35m,out,1.35,Serie A,2015,2015/2016
+ACF Fiorentina,Luca Bittante,21,Right-Back,FC Empoli,£720k,out,0.72,Serie A,2015,2015/2016
+ACF Fiorentina,Michele Camporese,23,Centre-Back,FC Empoli,£450k,out,0.45,Serie A,2015,2015/2016
+ACF Fiorentina,Ante Rebic,22,Second Striker,Hellas Verona,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Neto,25,Goalkeeper,Juventus,Free Transfer,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Andrea Lazzari,30,Central Midfield,Carpi,Free Transfer,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Mario Gómez,30,Centre-Forward,Besiktas,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Steve Beleck,22,Centre-Forward,CFR Cluj,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Antonio Rosati,32,Goalkeeper,Perugia,Free Transfer,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Ahmed Hegazy,24,Centre-Back,Ahly,Free Transfer,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Oleksandr Yakovenko,28,Left Winger,Dynamo Kyiv,Free Transfer,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Juan Manuel Vargas,31,Left-Back,Real Betis,Free Transfer,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Joan Verdú,32,Attacking Midfield,Levante,Free Transfer,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,David Pizarro,35,Central Midfield,Wanderers,Free Transfer,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Alberto Aquilani,31,Central Midfield,Sporting CP,Free Transfer,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Leonardo Capezzi,20,Defensive Midfield,Crotone,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Andrés Schetino,21,Defensive Midfield,AS Livorno,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Jacopo Petriccione,20,Defensive Midfield,Pistoiese,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Lorenzo Venuti,20,Right-Back,Brescia,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,José María Basanta,31,Centre-Back,Monterrey,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Amidu Salifu,23,Central Midfield,Brescia,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Maxwell Acosty,23,Right Winger,Latina Calcio,?,out,NA,Serie A,2015,2015/2016
+ACF Fiorentina,Axel Gulin,20,Right Winger,Catania,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Ricardo Bagadur,20,Centre-Back,Salernitana,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Axel Gulin,20,Right Winger,Pordenone,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Jaime Báez,20,Centre-Forward,AS Livorno,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Nicolò Fazzi,20,Right Midfield,Virtus Entella,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Nicolò Fazzi,20,Right Midfield,Crotone,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Joshua Brillante,22,Central Midfield,Como,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Gilberto,22,Right-Back,Hellas Verona,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Alessandro Bacci,20,Goalkeeper,Siena,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Marko Bakic,22,Central Midfield,Belenenses SAD,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Ryder Matos,22,Second Striker,Carpi,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Cedric Gondo,18,Centre-Forward,Ternana,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Giuseppe Rossi,28,Centre-Forward,Levante,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Amidu Salifu,22,Central Midfield,Perugia,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Saverio Madrigali,20,Centre-Back,Arezzo,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Alberto Rosa Gastaldo,20,Central Midfield,Viareggio,?,out,NA,Serie A,2015,2015/2016
+ACF Fiorentina,Rafal Wolski,23,Attacking Midfield,Wisla Kraków,Loan,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Cristiano Lupatelli,37,Goalkeeper,Retired,-,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Mounir El Hamdaoui,30,Centre-Forward,Without Club,-,out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Micah Richards,27,Right-Back,Man City,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Aleandro Rosi,28,Right-Back,Genoa,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Jasmin Kurtic,26,Central Midfield,Sassuolo,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Alberto Gilardino,32,Centre-Forward,GZ Evergrande,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Octávio,21,Attacking Midfield,Botafogo,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Alessandro Diamanti,32,Second Striker,GZ Evergrande,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+ACF Fiorentina,Mohamed Salah,23,Right Winger,Chelsea,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+SSC Napoli,Allan,24,Central Midfield,Udinese Calcio,£10.35m,in,10.35,Serie A,2015,2015/2016
+SSC Napoli,Alberto Grassi,20,Central Midfield,Atalanta,£7.20m,in,7.2,Serie A,2015,2015/2016
+SSC Napoli,Vlad Chiriches,25,Centre-Back,Spurs,£6.30m,in,6.3,Serie A,2015,2015/2016
+SSC Napoli,Mirko Valdifiori,29,Defensive Midfield,FC Empoli,£4.95m,in,4.95,Serie A,2015,2015/2016
+SSC Napoli,Elseid Hysaj,21,Right-Back,FC Empoli,£4.50m,in,4.5,Serie A,2015,2015/2016
+SSC Napoli,Pepe Reina,32,Goalkeeper,Bayern Munich,£1.80m,in,1.8,Serie A,2015,2015/2016
+SSC Napoli,Raffaele Maiello,24,Central Midfield,Crotone,£1.35m,in,1.35,Serie A,2015,2015/2016
+SSC Napoli,Vasco Regini,25,Centre-Back,Sampdoria,Loan fee:£1.35m,in,1.35,Serie A,2015,2015/2016
+SSC Napoli,Jacopo Dezi,23,Central Midfield,Crotone,£270k,in,0.27,Serie A,2015,2015/2016
+SSC Napoli,Nathaniel Chalobah,20,Defensive Midfield,Chelsea,Loan fee:£225k,in,0.225,Serie A,2015,2015/2016
+SSC Napoli,Eddy Gnahoré,22,Central Midfield,Carrarese,£135k,in,0.135,Serie A,2015,2015/2016
+SSC Napoli,Gabriel,22,Goalkeeper,AC Milan,Loan,in,0,Serie A,2015,2015/2016
+SSC Napoli,Gennaro Tutino,19,Left Winger,Avellino,"End of loanJan 27, 2016",in,0,Serie A,2015,2015/2016
+SSC Napoli,Sebastiano Luperto,18,Centre-Back,Napoli U19,-,in,0,Serie A,2015,2015/2016
+SSC Napoli,Josip Radosevic,21,Defensive Midfield,HNK Rijeka,"End of loanDec 31, 2015",in,0,Serie A,2015,2015/2016
+SSC Napoli,Igor Lasicki,20,Centre-Back,Maceratese,"End of loanJan 22, 2016",in,0,Serie A,2015,2015/2016
+SSC Napoli,Felice Gaetano,19,Central Midfield,Torres,"End of loanSep 1, 2015",in,0,Serie A,2015,2015/2016
+SSC Napoli,Mario Prezioso,19,Central Midfield,Melfi,"End of loanFeb 1, 2016",in,0,Serie A,2015,2015/2016
+SSC Napoli,Nikita Contini,19,Goalkeeper,Napoli U19,-,in,0,Serie A,2015,2015/2016
+SSC Napoli,Omar El Kaddouri,24,Attacking Midfield,Torino,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SSC Napoli,Igor Lasicki,20,Centre-Back,AS Gubbio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SSC Napoli,Ignacio Fideleff,25,Centre-Back,Ergotelis,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SSC Napoli,Raffaele Maiello,23,Central Midfield,Crotone,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SSC Napoli,Emanuele Allegra,21,Right-Back,Südtirol,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SSC Napoli,Giuseppe Palma,21,Central Midfield,Kauno Zalgiris,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SSC Napoli,Luigi Sepe,24,Goalkeeper,FC Empoli,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SSC Napoli,Nicolao Dumitru,23,Left Winger,PAE Veria,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SSC Napoli,Roberto Insigne,21,Right Winger,Reggina,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SSC Napoli,Soma Novothny,21,Centre-Forward,Südtirol,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SSC Napoli,Francis Obeng,29,Central Midfield,Santarcangelo,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SSC Napoli,Giuseppe Nicolao,21,Left-Back,Alessandria,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SSC Napoli,Daniele Celiento,20,Right-Back,Pistoiese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SSC Napoli,Eduardo Vargas,25,Centre-Forward,QPR,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SSC Napoli,Daniele Donnarumma,23,Left Midfield,ACR Messina,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SSC Napoli,Gennaro Tutino,18,Left Winger,AS Gubbio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+SSC Napoli,Gökhan Inler,31,Defensive Midfield,Leicester,£6.30m,out,6.3,Serie A,2015,2015/2016
+SSC Napoli,Eduardo Vargas,25,Centre-Forward,TSG Hoffenheim,£5.40m,out,5.4,Serie A,2015,2015/2016
+SSC Napoli,Henrique,29,Centre-Back,Fluminense,£1.80m,out,1.8,Serie A,2015,2015/2016
+SSC Napoli,Walter Gargano,30,Defensive Midfield,Monterrey,£1.35m,out,1.35,Serie A,2015,2015/2016
+SSC Napoli,Luigi Sepe,24,Goalkeeper,Fiorentina,Loan fee:£675k,out,0.675,Serie A,2015,2015/2016
+SSC Napoli,Raffaele Maiello,24,Central Midfield,FC Empoli,Loan fee:£675k,out,0.675,Serie A,2015,2015/2016
+SSC Napoli,Josip Radosevic,21,Defensive Midfield,SD Eibar,Loan fee:£180k,out,0.18,Serie A,2015,2015/2016
+SSC Napoli,Raffaele Maiello,23,Central Midfield,Crotone,£54k,out,0.054,Serie A,2015,2015/2016
+SSC Napoli,Eddy Gnahoré,22,Central Midfield,Carpi,Loan,out,0,Serie A,2015,2015/2016
+SSC Napoli,Jonathan de Guzmán,28,Central Midfield,Carpi,Loan,out,0,Serie A,2015,2015/2016
+SSC Napoli,Roberto Colombo,39,Goalkeeper,Cagliari Calcio,Free Transfer,out,0,Serie A,2015,2015/2016
+SSC Napoli,Miguel Britos,30,Centre-Back,Watford,Free Transfer,out,0,Serie A,2015,2015/2016
+SSC Napoli,Duván Zapata,24,Centre-Forward,Udinese Calcio,Loan,out,0,Serie A,2015,2015/2016
+SSC Napoli,Gennaro Tutino,18,Left Winger,Avellino,Loan fee:£27k,out,0.027,Serie A,2015,2015/2016
+SSC Napoli,Nikita Contini,19,Goalkeeper,SPAL,Loan,out,0,Serie A,2015,2015/2016
+SSC Napoli,Emanuele Allegra,21,Right-Back,Martina Franca,Loan,out,0,Serie A,2015,2015/2016
+SSC Napoli,Ignacio Fideleff,26,Centre-Back,Nacional,?,out,NA,Serie A,2015,2015/2016
+SSC Napoli,Nicolao Dumitru,23,Left Winger,Latina Calcio,Loan,out,0,Serie A,2015,2015/2016
+SSC Napoli,Igor Lasicki,20,Centre-Back,Rimini,Loan,out,0,Serie A,2015,2015/2016
+SSC Napoli,Jacopo Dezi,23,Central Midfield,Bari,Loan,out,0,Serie A,2015,2015/2016
+SSC Napoli,Giuseppe Palma,21,Central Midfield,Ischia,Loan,out,0,Serie A,2015,2015/2016
+SSC Napoli,Mario Prezioso,19,Central Midfield,Teramo,Loan,out,0,Serie A,2015,2015/2016
+SSC Napoli,Bruno Uvini,24,Centre-Back,FC Twente,Loan,out,0,Serie A,2015,2015/2016
+SSC Napoli,Felice Gaetano,19,Central Midfield,Taranto,Loan,out,0,Serie A,2015,2015/2016
+SSC Napoli,Camilo Zúñiga,30,Right-Back,Bologna,Loan,out,0,Serie A,2015,2015/2016
+SSC Napoli,Mariano Andújar,32,Goalkeeper,Estudiantes,Loan,out,0,Serie A,2015,2015/2016
+SSC Napoli,Gennaro Tutino,19,Left Winger,Bari,Loan,out,0,Serie A,2015,2015/2016
+SSC Napoli,Igor Lasicki,20,Centre-Back,Maceratese,Loan,out,0,Serie A,2015,2015/2016
+SSC Napoli,Daniele Celiento,20,Right-Back,Siena,Loan,out,0,Serie A,2015,2015/2016
+SSC Napoli,Roberto Insigne,21,Right Winger,Avellino,Loan,out,0,Serie A,2015,2015/2016
+SSC Napoli,Soma Novothny,21,Centre-Forward,Diósgyőr,Loan,out,0,Serie A,2015,2015/2016
+SSC Napoli,Giuseppe Nicolao,21,Left-Back,Melfi,Loan,out,0,Serie A,2015,2015/2016
+SSC Napoli,Giuseppe Fornito,20,Central Midfield,Rimini,?,out,NA,Serie A,2015,2015/2016
+SSC Napoli,Giandomenico Mesto,33,Right-Back,Without Club,-,out,0,Serie A,2015,2015/2016
+SSC Napoli,Daniele Donnarumma,23,Left Midfield,Without Club,-,out,0,Serie A,2015,2015/2016
+SSC Napoli,Francis Obeng,29,Central Midfield,Without Club,-,out,0,Serie A,2015,2015/2016
+SSC Napoli,Michu,29,Second Striker,Swansea,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Genoa CFC,Luka Krajnc,20,Centre-Back,Cesena,£4.50m,in,4.5,Serie A,2015,2015/2016
+Genoa CFC,Leonardo Pavoletti,26,Centre-Forward,Sassuolo,£2.70m,in,2.7,Serie A,2015,2015/2016
+Genoa CFC,Diego Capel,27,Left Winger,Sporting CP,£1.17m,in,1.17,Serie A,2015,2015/2016
+Genoa CFC,Riccardo Fiamozzi,22,Right-Back,Pescara,£1.08m,in,1.08,Serie A,2015,2015/2016
+Genoa CFC,Cristian Ansaldi,28,Left-Back,Zenit S-Pb,Loan fee:£585k,in,0.585,Serie A,2015,2015/2016
+Genoa CFC,Issa Cissokho,30,Right-Back,FC Nantes,£450k,in,0.45,Serie A,2015,2015/2016
+Genoa CFC,Tim Matavz,27,Centre-Forward,FC Augsburg,Loan fee:£450k,in,0.45,Serie A,2015,2015/2016
+Genoa CFC,Luca Rigoni,31,Central Midfield,US Palermo,£450k,in,0.45,Serie A,2015,2015/2016
+Genoa CFC,Bruno Gomes,19,Centre-Forward,Internacional,Loan fee:£360k,in,0.36,Serie A,2015,2015/2016
+Genoa CFC,David Milinkovic,21,Left Winger,Salernitana,£135k,in,0.135,Serie A,2015,2015/2016
+Genoa CFC,Blerim Dzemaili,29,Central Midfield,Galatasaray,Loan,in,0,Serie A,2015,2015/2016
+Genoa CFC,Ezequiel Muñoz,24,Centre-Back,US Palermo,Free Transfer,in,0,Serie A,2015,2015/2016
+Genoa CFC,Darko Lazovic,24,Right Midfield,Red Star,Free Transfer,in,0,Serie A,2015,2015/2016
+Genoa CFC,Goran Pandev,31,Second Striker,Galatasaray,Free Transfer,in,0,Serie A,2015,2015/2016
+Genoa CFC,Samir Ujkani,27,Goalkeeper,US Palermo,Free Transfer,in,0,Serie A,2015,2015/2016
+Genoa CFC,Olivier Ntcham,19,Central Midfield,Man City U21,Loan,in,0,Serie A,2015,2015/2016
+Genoa CFC,Serge Gakpé,28,Right Winger,FC Nantes,Free Transfer,in,0,Serie A,2015,2015/2016
+Genoa CFC,Suso,22,Right Winger,AC Milan,Loan,in,0,Serie A,2015,2015/2016
+Genoa CFC,Alessio Cerci,28,Right Winger,Atlético Madrid,Loan,in,0,Serie A,2015,2015/2016
+Genoa CFC,Michael Ventre,19,Second Striker,Inter U19,?,in,NA,Serie A,2015,2015/2016
+Genoa CFC,Diogo Figueiras,24,Right-Back,Sevilla FC,Loan,in,0,Serie A,2015,2015/2016
+Genoa CFC,Sebastián Gorga,21,Centre-Back,Nacional,?,in,NA,Serie A,2015,2015/2016
+Genoa CFC,Gabriel Silva,24,Left-Back,Udinese Calcio,Loan,in,0,Serie A,2015,2015/2016
+Genoa CFC,Iago Falque,25,Right Winger,AS Roma,"End of loanJan 3, 2016",in,0,Serie A,2015,2015/2016
+Genoa CFC,Rodney Strasser,25,Defensive Midfield,Lupa Cast Rom,"End of loanJan 31, 2016",in,0,Serie A,2015,2015/2016
+Genoa CFC,Simone Canegallo,19,Goalkeeper,OltrepòVoghera,"End of loanJan 28, 2016",in,0,Serie A,2015,2015/2016
+Genoa CFC,Edoardo Caltabiano,19,Central Midfield,OltrepòVoghera,"End of loanSep 1, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Rolando Mandragora,18,Central Midfield,Pescara,"End of loanJan 18, 2016",in,0,Serie A,2015,2015/2016
+Genoa CFC,Enis Nadarevic,27,Left Winger,Trapani,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Giannis Fetfatzidis,24,Right Winger,Chievo Verona,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Antonio Donnarumma,24,Goalkeeper,Bari,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Rodney Strasser,25,Defensive Midfield,AS Livorno,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Isaac Cofie,23,Central Midfield,Chievo Verona,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Sebastián Ribas,27,Centre-Forward,FC Cartagena,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Orlando Held,21,Centre-Forward,Vigor Lamezia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Leandro Greco,28,Central Midfield,Hellas Verona,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Panagiotis Tachtsidis,24,Defensive Midfield,Hellas Verona,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Nicola Pasini,24,Centre-Back,Carpi,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Francesco Todisco,19,Centre-Back,Mantova FC,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Mario Santana,33,Second Striker,Frosinone,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Zaine Pierre,21,Defensive Midfield,Aversa Norm.,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Riccardo Improta,21,Left Winger,Bologna,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Antonino Ragusa,25,Left Winger,Vicenza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Marco Albertoni,19,Goalkeeper,SPAL,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Lukas Zima,21,Goalkeeper,Mantova FC,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Alberto Marchiori,22,Centre-Back,Mantova FC,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Luca Antonelli,28,Left-Back,AC Milan,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Diego Polenta,23,Centre-Back,Nacional,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Aleandro Rosi,28,Right-Back,Fiorentina,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Enzo Di Santantonio,19,Defensive Midfield,Mantova FC,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Moro Alhassan,21,Defensive Midfield,Vicenza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Francesco Di Marco,19,Left-Back,Vigor Lamezia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Mauricio Pinilla,31,Centre-Forward,Atalanta,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Genoa CFC,Rolando Mandragora,18,Central Midfield,Juventus,£8.10m,out,8.1,Serie A,2015,2015/2016
+Genoa CFC,Andrea Bertolacci,24,Central Midfield,AS Roma,£7.65m,out,7.65,Serie A,2015,2015/2016
+Genoa CFC,Iago Falque,26,Right Winger,AS Roma,£6.30m,out,6.3,Serie A,2015,2015/2016
+Genoa CFC,Luca Antonelli,28,Left-Back,AC Milan,£4.05m,out,4.05,Serie A,2015,2015/2016
+Genoa CFC,Juraj Kucka,28,Central Midfield,AC Milan,£2.70m,out,2.7,Serie A,2015,2015/2016
+Genoa CFC,Antonino Ragusa,25,Left Winger,Cesena,£2.25m,out,2.25,Serie A,2015,2015/2016
+Genoa CFC,Luka Krajnc,20,Centre-Back,Cagliari Calcio,£1.80m,out,1.8,Serie A,2015,2015/2016
+Genoa CFC,Mauricio Pinilla,31,Centre-Forward,Atalanta,£1.80m,out,1.8,Serie A,2015,2015/2016
+Genoa CFC,Giannis Fetfatzidis,24,Right Winger,Ahli,£1.35m,out,1.35,Serie A,2015,2015/2016
+Genoa CFC,Iago Falque,25,Right Winger,AS Roma,Loan fee:£900k,out,0.9,Serie A,2015,2015/2016
+Genoa CFC,Diego Perotti,27,Left Winger,AS Roma,Loan fee:£900k,out,0.9,Serie A,2015,2015/2016
+Genoa CFC,Leandro Greco,28,Central Midfield,Hellas Verona,£270k,out,0.27,Serie A,2015,2015/2016
+Genoa CFC,Rolando Mandragora,18,Central Midfield,Pescara,Loan fee:£90k,out,0.09,Serie A,2015,2015/2016
+Genoa CFC,Samir Ujkani,27,Goalkeeper,Latina Calcio,Loan,out,0,Serie A,2015,2015/2016
+Genoa CFC,Sebastián Ribas,27,Centre-Forward,CA Fénix,Free Transfer,out,0,Serie A,2015,2015/2016
+Genoa CFC,Enzo Di Santantonio,20,Defensive Midfield,Mantova FC,Free Transfer,out,0,Serie A,2015,2015/2016
+Genoa CFC,Luca Antonini,33,Left-Back,Ascoli,Free Transfer,out,0,Serie A,2015,2015/2016
+Genoa CFC,Nicola Pasini,24,Centre-Back,Pistoiese,Free Transfer,out,0,Serie A,2015,2015/2016
+Genoa CFC,Anderson Abrazhda,19,Left Midfield,Casale,?,out,NA,Serie A,2015,2015/2016
+Genoa CFC,Serge Gakpé,28,Right Winger,Atalanta,Loan,out,0,Serie A,2015,2015/2016
+Genoa CFC,Moro Alhassan,21,Defensive Midfield,Carrarese,Loan,out,0,Serie A,2015,2015/2016
+Genoa CFC,Sebastián Gorga,21,Centre-Back,Nacional,Loan,out,0,Serie A,2015,2015/2016
+Genoa CFC,Lukas Zima,21,Goalkeeper,Perugia,Loan,out,0,Serie A,2015,2015/2016
+Genoa CFC,David Milinkovic,21,Left Winger,Virtus Lanciano,Loan,out,0,Serie A,2015,2015/2016
+Genoa CFC,Riccardo Improta,21,Left Winger,Cesena,Loan,out,0,Serie A,2015,2015/2016
+Genoa CFC,Rodney Strasser,25,Defensive Midfield,Lupa Cast Rom,Loan,out,0,Serie A,2015,2015/2016
+Genoa CFC,Rodney Strasser,25,Defensive Midfield,NK Zagreb,Loan,out,0,Serie A,2015,2015/2016
+Genoa CFC,Michael Ventre,19,Second Striker,Cosenza,Loan,out,0,Serie A,2015,2015/2016
+Genoa CFC,Orlando Held,21,Centre-Forward,Ligorna,?,out,NA,Serie A,2015,2015/2016
+Genoa CFC,Enis Nadarevic,27,Left Winger,Trapani,?,out,NA,Serie A,2015,2015/2016
+Genoa CFC,Diego Polenta,23,Centre-Back,Nacional,?,out,NA,Serie A,2015,2015/2016
+Genoa CFC,Edoardo Caltabiano,19,Central Midfield,Borgorosso,Loan,out,0,Serie A,2015,2015/2016
+Genoa CFC,Aleandro Rosi,28,Right-Back,Frosinone,Loan,out,0,Serie A,2015,2015/2016
+Genoa CFC,Issa Cissokho,30,Right-Back,Bari,Loan,out,0,Serie A,2015,2015/2016
+Genoa CFC,Francesco Todisco,19,Centre-Back,Rimini,Loan,out,0,Serie A,2015,2015/2016
+Genoa CFC,Isaac Cofie,23,Central Midfield,Carpi,Loan,out,0,Serie A,2015,2015/2016
+Genoa CFC,Marco Albertoni,19,Goalkeeper,Mantova FC,Loan,out,0,Serie A,2015,2015/2016
+Genoa CFC,Tino Costa,31,Central Midfield,Spartak Moscow,"End of loanJan 20, 2016",out,0,Serie A,2015,2015/2016
+Genoa CFC,Alberto Marchiori,22,Centre-Back,Without Club,-,out,0,Serie A,2015,2015/2016
+Genoa CFC,Mario Santana,33,Second Striker,Without Club,-,out,0,Serie A,2015,2015/2016
+Genoa CFC,Marco Borriello,33,Centre-Forward,Without Club,-,out,0,Serie A,2015,2015/2016
+Genoa CFC,Francesco Di Marco,19,Left-Back,Without Club,-,out,0,Serie A,2015,2015/2016
+Genoa CFC,Diogo Figueiras,24,Right-Back,Sevilla FC,"End of loanJan 16, 2016",out,0,Serie A,2015,2015/2016
+Genoa CFC,Zaine Pierre,21,Defensive Midfield,Without Club,-,out,0,Serie A,2015,2015/2016
+Genoa CFC,Zakarya Bergdich,26,Left Midfield,Real Valladolid,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Genoa CFC,Edenilson,25,Central Midfield,Udinese Calcio,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Genoa CFC,M'Baye Niang,20,Centre-Forward,AC Milan,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Genoa CFC,Facundo Roncaglia,28,Centre-Back,Fiorentina,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Genoa CFC,Leonardo Pavoletti,26,Centre-Forward,Sassuolo,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Genoa CFC,Maxime Lestienne,23,Left Winger,Al Arabi,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Genoa CFC,Lorenzo Ariaudo,26,Centre-Back,Sassuolo,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+UC Sampdoria,Luis Muriel,24,Centre-Forward,Udinese Calcio,£10.80m,in,10.8,Serie A,2015,2015/2016
+UC Sampdoria,Fernando,23,Defensive Midfield,Shakhtar D.,£7.20m,in,7.2,Serie A,2015,2015/2016
+UC Sampdoria,Milan Skriniar,20,Centre-Back,MSK Zilina,£5.40m,in,5.4,Serie A,2015,2015/2016
+UC Sampdoria,Ervin Zukanovic,28,Centre-Back,Chievo Verona,£2.95m,in,2.95,Serie A,2015,2015/2016
+UC Sampdoria,Lucas Torreira,19,Defensive Midfield,Pescara,£2.70m,in,2.7,Serie A,2015,2015/2016
+UC Sampdoria,Alfred Duncan,22,Central Midfield,Inter,£2.34m,in,2.34,Serie A,2015,2015/2016
+UC Sampdoria,Michele Rocca,19,Central Midfield,Inter U19,£900k,in,0.9,Serie A,2015,2015/2016
+UC Sampdoria,Pedro Pereira,17,Right-Back,Benfica U17,£171k,in,0.171,Serie A,2015,2015/2016
+UC Sampdoria,Christian Puggioni,34,Goalkeeper,Chievo Verona,Free Transfer,in,0,Serie A,2015,2015/2016
+UC Sampdoria,Andrea Coda,30,Centre-Back,Udinese Calcio,Free Transfer,in,0,Serie A,2015,2015/2016
+UC Sampdoria,Jefferson Oliveira,25,Centre-Back,Vicenza,Free Transfer,in,0,Serie A,2015,2015/2016
+UC Sampdoria,Niklas Moisander,29,Centre-Back,Ajax,Free Transfer,in,0,Serie A,2015,2015/2016
+UC Sampdoria,Modibo Diakité,28,Centre-Back,Frosinone,Free Transfer,in,0,Serie A,2015,2015/2016
+UC Sampdoria,Mattia Cassani,31,Right-Back,Parma,Free Transfer,in,0,Serie A,2015,2015/2016
+UC Sampdoria,Ricardo Álvarez,27,Attacking Midfield,Sunderland,Free Transfer,in,0,Serie A,2015,2015/2016
+UC Sampdoria,Fabio Quagliarella,33,Centre-Forward,Torino,Loan,in,0,Serie A,2015,2015/2016
+UC Sampdoria,Matías Silvestre,30,Centre-Back,Inter,Free Transfer,in,0,Serie A,2015,2015/2016
+UC Sampdoria,Édgar Barreto,30,Central Midfield,US Palermo,Free Transfer,in,0,Serie A,2015,2015/2016
+UC Sampdoria,Dodô,23,Left-Back,Inter,Loan,in,0,Serie A,2015,2015/2016
+UC Sampdoria,Alberto Brignoli,23,Goalkeeper,Juventus,Loan,in,0,Serie A,2015,2015/2016
+UC Sampdoria,Jacopo Sala,24,Right-Back,Hellas Verona,Loan,in,0,Serie A,2015,2015/2016
+UC Sampdoria,Alejandro Rodríguez,24,Centre-Forward,Cesena,Loan,in,0,Serie A,2015,2015/2016
+UC Sampdoria,Carlos Carbonero,25,Attacking Midfield,CA Fénix,Loan,in,0,Serie A,2015,2015/2016
+UC Sampdoria,Andrea Ranocchia,27,Centre-Back,Inter,Loan,in,0,Serie A,2015,2015/2016
+UC Sampdoria,Lazaros Christodoulopoulos,28,Right Winger,Hellas Verona,Loan,in,0,Serie A,2015,2015/2016
+UC Sampdoria,Mattia Placido,20,Centre-Back,Pistoiese,"End of loanJan 27, 2016",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Andrea Magrassi,22,Centre-Forward,Olhanense,"End of loanJan 12, 2016",in,0,Serie A,2015,2015/2016
+UC Sampdoria,David Ivan,20,Central Midfield,Sampdoria U19,-,in,0,Serie A,2015,2015/2016
+UC Sampdoria,Edoardo Oneto,19,Centre-Forward,Sampdoria U19,-,in,0,Serie A,2015,2015/2016
+UC Sampdoria,Karlo Lulic,19,Attacking Midfield,Sampdoria U19,-,in,0,Serie A,2015,2015/2016
+UC Sampdoria,Antonio Cassano,33,Second Striker,Without Club,-,in,0,Serie A,2015,2015/2016
+UC Sampdoria,Andelko Savic,22,Centre-Forward,Lausanne-Sport,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Andrea Magrassi,22,Centre-Forward,Martina Franca,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Simone Corazza,24,Left Winger,Novara,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Francesco Fedato,22,Left Winger,Modena,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Massimo Volta,28,Centre-Back,Cesena,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Mattia Lombardo,20,Defensive Midfield,Pontedera,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Mirko Eramo,25,Central Midfield,Ternana,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Jakub Hromada,19,Defensive Midfield,Pro Vercelli,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Stefano Scappini,27,Centre-Forward,Savona,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Gianluca Sampietro,22,Central Midfield,Ancona,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Luca Piana,21,Centre-Back,Pistoiese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Gianluca Sansone,28,Centre-Forward,Bologna,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Stefano Beltrame,22,Attacking Midfield,Modena,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Matteo Caracciolo,20,Centre-Back,Monza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Mattia Placido,20,Centre-Back,Pordenone,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Federico Bonazzoli,18,Centre-Forward,Inter,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Davide Gavazzi,29,Right Midfield,Ternana,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Fabrice Olinga,19,Left Winger,FC Viitorul,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,José Campaña,22,Central Midfield,FC Porto,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Alessandro Martinelli,22,Central Midfield,Modena,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Pontons Paz,20,Left Winger,Petrolero Y,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Gabriele Rolando,20,Right Midfield,Como,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Michele Fornasier,21,Centre-Back,Pescara,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Wladimiro Falcone,20,Goalkeeper,Como,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Nenad Krsticic,24,Central Midfield,Bologna,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Federico Piovaccari,30,Centre-Forward,SD Eibar,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Simone Dejori,20,Left-Back,Pavia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Bartosz Salamon,24,Centre-Back,Pescara,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+UC Sampdoria,Pedro Obiang,23,Central Midfield,West Ham,£5.40m,out,5.4,Serie A,2015,2015/2016
+UC Sampdoria,Stefano Okaka,25,Centre-Forward,RSC Anderlecht,£2.70m,out,2.7,Serie A,2015,2015/2016
+UC Sampdoria,Éder,29,Second Striker,Inter,Loan fee:£1.80m,out,1.8,Serie A,2015,2015/2016
+UC Sampdoria,Vasco Regini,25,Centre-Back,SSC Napoli,Loan fee:£1.35m,out,1.35,Serie A,2015,2015/2016
+UC Sampdoria,Bartosz Salamon,24,Centre-Back,Cagliari Calcio,£1.08m,out,1.08,Serie A,2015,2015/2016
+UC Sampdoria,Ervin Zukanovic,28,Centre-Back,AS Roma,Loan fee:£1.08m,out,1.08,Serie A,2015,2015/2016
+UC Sampdoria,Michele Fornasier,21,Centre-Back,Pescara,£288k,out,0.288,Serie A,2015,2015/2016
+UC Sampdoria,Fabrizio Cacciatore,28,Right-Back,Chievo Verona,Loan fee:£225k,out,0.225,Serie A,2015,2015/2016
+UC Sampdoria,Simone Dejori,20,Left-Back,Bellaria IM,Free Transfer,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Gonzalo Bergessio,30,Centre-Forward,Atlas,Free Transfer,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Marco Marchionni,35,Right Midfield,Latina Calcio,Free Transfer,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Federico Piovaccari,30,Centre-Forward,Western Sydney,Free Transfer,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Davide Gavazzi,29,Right Midfield,Avellino,Free Transfer,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Sergio Romero,28,Goalkeeper,Man Utd,Free Transfer,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Matías Rodríguez,29,Right-Back,U. de Chile,Free Transfer,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Samuel Eto'o,34,Centre-Forward,Antalyaspor,Free Transfer,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Massimo Volta,28,Centre-Back,Perugia,Free Transfer,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Mattia Lombardo,20,Defensive Midfield,Pro Vercelli,Free Transfer,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Andelko Savic,22,Centre-Forward,NE Xamax,Free Transfer,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Stefano Scappini,27,Centre-Forward,Pontedera,Free Transfer,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Andrea Magrassi,22,Centre-Forward,Olhanense,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Andrea Magrassi,22,Centre-Forward,Mestre,Free Transfer,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Andrea Coda,30,Centre-Back,Pescara,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Gabriele Rolando,20,Right Midfield,Matera,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Gianluca Sansone,28,Centre-Forward,Bari,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Wladimiro Falcone,20,Goalkeeper,Savona,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Edoardo Oneto,19,Centre-Forward,Oviedo Vetusta,?,out,NA,Serie A,2015,2015/2016
+UC Sampdoria,Gianluca Sampietro,22,Central Midfield,Pro Patria,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Mattia Placido,20,Centre-Back,Savona,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Mattia Placido,20,Centre-Back,Pistoiese,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Luca Piana,21,Centre-Back,Pro Piacenza,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Michele Rocca,19,Central Midfield,Virtus Lanciano,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Stefano Beltrame,22,Attacking Midfield,Juventus,?,out,NA,Serie A,2015,2015/2016
+UC Sampdoria,Jakub Hromada,19,Defensive Midfield,FK Senica,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,José Campaña,22,Central Midfield,Alcorcón,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Pawel Wszolek,23,Right Midfield,Hellas Verona,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Lucas Torreira,19,Defensive Midfield,Pescara,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Alfred Duncan,22,Central Midfield,Sassuolo,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Jefferson Oliveira,25,Centre-Back,Atlético CP,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Federico Bonazzoli,18,Centre-Forward,Virtus Lanciano,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Simone Corazza,24,Left Winger,Novara,?,out,NA,Serie A,2015,2015/2016
+UC Sampdoria,Pontons Paz,20,Left Winger,Real Santa Cruz,?,out,NA,Serie A,2015,2015/2016
+UC Sampdoria,Alessandro De Vitis,23,Central Midfield,SPAL,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Fabrice Olinga,19,Left Winger,Mouscron,?,out,NA,Serie A,2015,2015/2016
+UC Sampdoria,Francesco Fedato,22,Left Winger,AS Livorno,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Luca Rizzo,23,Central Midfield,Bologna,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Mirko Eramo,26,Central Midfield,Trapani,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Karlo Lulic,19,Attacking Midfield,Bohemians 1905,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Alessandro Martinelli,22,Central Midfield,Brescia,Loan,out,0,Serie A,2015,2015/2016
+UC Sampdoria,Matteo Caracciolo,20,Centre-Back,Bustese,?,out,NA,Serie A,2015,2015/2016
+UC Sampdoria,Alessio Romagnoli,20,Centre-Back,AS Roma,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+UC Sampdoria,Luis Muriel,24,Centre-Forward,Udinese Calcio,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+UC Sampdoria,Afriyie Acquah,23,Central Midfield,TSG Hoffenheim,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+UC Sampdoria,Matías Silvestre,30,Centre-Back,Inter,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+UC Sampdoria,Alberto Frison,27,Goalkeeper,Catania,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+UC Sampdoria,Ezequiel Muñoz,24,Centre-Back,US Palermo,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+UC Sampdoria,Alfred Duncan,22,Central Midfield,Inter,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+UC Sampdoria,Luka Djordjevic,20,Centre-Forward,Zenit S-Pb,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+UC Sampdoria,Andrea Coda,30,Centre-Back,Udinese Calcio,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Inter Milan,Geoffrey Kondogbia,22,Central Midfield,Monaco,£32.40m,in,32.4,Serie A,2015,2015/2016
+Inter Milan,Ivan Perisic,26,Left Winger,VfL Wolfsburg,£17.10m,in,17.1,Serie A,2015,2015/2016
+Inter Milan,Xherdan Shaqiri,23,Right Winger,Bayern Munich,£13.50m,in,13.5,Serie A,2015,2015/2016
+Inter Milan,Jeison Murillo,23,Centre-Back,Granada CF,£7.20m,in,7.2,Serie A,2015,2015/2016
+Inter Milan,Felipe Melo,32,Defensive Midfield,Galatasaray,£3.78m,in,3.78,Serie A,2015,2015/2016
+Inter Milan,Miranda,30,Centre-Back,Atlético Madrid,Loan fee:£3.60m,in,3.6,Serie A,2015,2015/2016
+Inter Milan,Davide Santon,24,Left-Back,Newcastle,£3.33m,in,3.33,Serie A,2015,2015/2016
+Inter Milan,Stevan Jovetic,25,Centre-Forward,Man City,Loan fee:£2.25m,in,2.25,Serie A,2015,2015/2016
+Inter Milan,Éder,29,Second Striker,Sampdoria,Loan fee:£1.80m,in,1.8,Serie A,2015,2015/2016
+Inter Milan,Adem Ljajic,23,Attacking Midfield,AS Roma,Loan fee:£1.58m,in,1.58,Serie A,2015,2015/2016
+Inter Milan,Martín Montoya,24,Right-Back,FC Barcelona,Loan fee:£1.17m,in,1.17,Serie A,2015,2015/2016
+Inter Milan,Alex Telles,22,Left-Back,Galatasaray,Loan fee:£1.17m,in,1.17,Serie A,2015,2015/2016
+Inter Milan,Vincenzo Tommasone,20,Second Striker,Genoa U19,Free Transfer,in,0,Serie A,2015,2015/2016
+Inter Milan,Rey Manaj,18,Centre-Forward,Cremonese,Loan,in,0,Serie A,2015,2015/2016
+Inter Milan,Francesco Forte,22,Centre-Forward,AC Pisa,?,in,NA,Serie A,2015,2015/2016
+Inter Milan,Evans Kondogbia,26,Centre-Forward,AC Arles,?,in,NA,Serie A,2015,2015/2016
+Inter Milan,Fabio Eguelfi,20,Left-Back,Cremonese,"End of loanJan 4, 2016",in,0,Serie A,2015,2015/2016
+Inter Milan,Gaston Camara,19,Right Winger,Bari,"End of loanJan 27, 2016",in,0,Serie A,2015,2015/2016
+Inter Milan,Eloge Yao,19,Centre-Back,Inter U19,-,in,0,Serie A,2015,2015/2016
+Inter Milan,Federico Dimarco,17,Left-Back,Inter U19,-,in,0,Serie A,2015,2015/2016
+Inter Milan,Francesco Forte,22,Centre-Forward,Cremonese,"End of loanJan 11, 2016",in,0,Serie A,2015,2015/2016
+Inter Milan,Evans Kondogbia,26,Centre-Forward,Renate,"End of loanJan 25, 2016",in,0,Serie A,2015,2015/2016
+Inter Milan,Jonathan Biabiany,27,Right Winger,Without Club,-,in,0,Serie A,2015,2015/2016
+Inter Milan,Francesco Bardi,24,Goalkeeper,Espanyol,"End of loanJan 27, 2016",in,0,Serie A,2015,2015/2016
+Inter Milan,Samuele Longo,23,Centre-Forward,Cagliari Calcio,"End of loanJul 14, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Álvaro Pereira,30,Left-Back,Estudiantes,"End of loanDec 31, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Giuseppe Maiorano,19,Left Winger,Ancona,"End of loanJan 6, 2016",in,0,Serie A,2015,2015/2016
+Inter Milan,Andrea Pinton,19,Centre-Back,Savona,"End of loanJan 31, 2016",in,0,Serie A,2015,2015/2016
+Inter Milan,Geremy Lombardi,19,Centre-Forward,Pro Piacenza,"End of loanJan 29, 2016",in,0,Serie A,2015,2015/2016
+Inter Milan,Edmund Hottor,22,Central Midfield,Without Club,-,in,0,Serie A,2015,2015/2016
+Inter Milan,Andrea Mira,20,Defensive Midfield,Renate,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Giovanni Zaro,21,Centre-Back,Pro Patria,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Alfred Duncan,22,Central Midfield,Sampdoria,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Ricardo Álvarez,27,Attacking Midfield,Sunderland,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Francesco Bigotto,20,Centre-Forward,Pergolettese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Matteo Colombi,21,Centre-Forward,Torres,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Stefano Dalla Riva,20,Left-Back,AltoVicentino,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Adama Fofana,25,Centre-Forward,Prato,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Francesco Bardi,23,Goalkeeper,Chievo Verona,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Ezequiel Schelotto,26,Right-Back,Chievo Verona,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Simone Pasa,21,Defensive Midfield,Prato,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Leonardo Longo,20,Right-Back,Grosseto,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Ivica Ivusic,20,Goalkeeper,Prato,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Daniel Bessa,22,Central Midfield,Bologna,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Niccolò Belloni,20,Right Winger,Pro Vercelli,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Rene Krhin,25,Defensive Midfield,Córdoba CF,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Jacopo Galimberti,22,Centre-Back,Savona,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Tidjane Baldé,18,Left Winger,Cardiff U23,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Lukas Spendlhofer,22,Centre-Back,Sturm Graz,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Rubén Botta,25,Attacking Midfield,Chievo Verona,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Andrea Bandini,21,Right-Back,Prato,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Matías Silvestre,30,Centre-Back,Sampdoria,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Lorenzo Crisetig,22,Defensive Midfield,Cagliari Calcio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Saphir Taider,23,Central Midfield,Sassuolo,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Lorenzo Tassi,20,Central Midfield,Prato,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Ibrahima Mbaye,20,Right-Back,Bologna,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Diego Mella,22,Right Winger,Pro Piacenza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Fabio Eguelfi,20,Left-Back,Savona,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Andrea Romanò,21,Central Midfield,Prato,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Riccardo Bocalon,26,Centre-Forward,Prato,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Giovanni Padovani,19,Centre-Back,Santo Stefano,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Cristiano Biraghi,22,Left-Back,Chievo Verona,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Bocartelli,20,Centre-Forward,Sliema Wander.,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Inter Milan,Mateo Kovacic,21,Central Midfield,Real Madrid,£34.20m,out,34.2,Serie A,2015,2015/2016
+Inter Milan,Xherdan Shaqiri,23,Right Winger,Stoke City,£15.30m,out,15.3,Serie A,2015,2015/2016
+Inter Milan,Hernanes,30,Attacking Midfield,Juventus,£11.70m,out,11.7,Serie A,2015,2015/2016
+Inter Milan,Fredy Guarín,29,Central Midfield,SH Shenhua,£11.70m,out,11.7,Serie A,2015,2015/2016
+Inter Milan,Ricardo Álvarez,27,Attacking Midfield,Sunderland,£9.45m,out,9.45,Serie A,2015,2015/2016
+Inter Milan,Ibrahima Mbaye,20,Right-Back,Bologna,£3.15m,out,3.15,Serie A,2015,2015/2016
+Inter Milan,Rubén Botta,25,Attacking Midfield,CF Pachuca,£2.43m,out,2.43,Serie A,2015,2015/2016
+Inter Milan,Alfred Duncan,22,Central Midfield,Sampdoria,£2.34m,out,2.34,Serie A,2015,2015/2016
+Inter Milan,Álvaro Pereira,30,Left-Back,Estudiantes,£2.25m,out,2.25,Serie A,2015,2015/2016
+Inter Milan,Joel Obi,24,Central Midfield,Torino,£1.98m,out,1.98,Serie A,2015,2015/2016
+Inter Milan,Zdravko Kuzmanović,27,Central Midfield,FC Basel,£1.80m,out,1.8,Serie A,2015,2015/2016
+Inter Milan,Lorenzo Crisetig,22,Defensive Midfield,Bologna,Loan fee:£1.62m,out,1.62,Serie A,2015,2015/2016
+Inter Milan,Rene Krhin,25,Defensive Midfield,Granada CF,£1.17m,out,1.17,Serie A,2015,2015/2016
+Inter Milan,Marco Andreolli,29,Centre-Back,Sevilla FC,Loan fee:£900k,out,0.9,Serie A,2015,2015/2016
+Inter Milan,Lukas Spendlhofer,22,Centre-Back,Sturm Graz,£405k,out,0.405,Serie A,2015,2015/2016
+Inter Milan,Riccardo Bocalon,26,Centre-Forward,Alessandria,£243k,out,0.243,Serie A,2015,2015/2016
+Inter Milan,Bocartelli,21,Centre-Forward,Inter Leipzig,Free Transfer,out,0,Serie A,2015,2015/2016
+Inter Milan,Tidjane Baldé,18,Left Winger,Neves,Free Transfer,out,0,Serie A,2015,2015/2016
+Inter Milan,Ivica Ivusic,20,Goalkeeper,NK Istra,Free Transfer,out,0,Serie A,2015,2015/2016
+Inter Milan,Matías Silvestre,30,Centre-Back,Sampdoria,Free Transfer,out,0,Serie A,2015,2015/2016
+Inter Milan,Matteo Colombi,21,Centre-Forward,OltrepòVoghera,Free Transfer,out,0,Serie A,2015,2015/2016
+Inter Milan,Felipe,31,Centre-Back,Udinese Calcio,Free Transfer,out,0,Serie A,2015,2015/2016
+Inter Milan,Vid Belec,25,Goalkeeper,Carpi,Free Transfer,out,0,Serie A,2015,2015/2016
+Inter Milan,Davide Moreo,20,Defensive Midfield,Caratese,Free Transfer,out,0,Serie A,2015,2015/2016
+Inter Milan,Cristiano Biraghi,22,Left-Back,Granada CF,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Gaston Camara,19,Right Winger,Modena,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Andrea Pinton,19,Centre-Back,Vicenza,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Evans Kondogbia,26,Centre-Forward,Renate,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Giovanni Zaro,21,Centre-Back,Pro Patria,?,out,NA,Serie A,2015,2015/2016
+Inter Milan,Vincenzo Tommasone,20,Second Striker,Paganese,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Andrea Romanò,22,Central Midfield,Renate,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Niccolò Belloni,21,Right Winger,Ternana,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Diego Mella,22,Right Winger,ASD Villafranca,?,out,NA,Serie A,2015,2015/2016
+Inter Milan,Nicolò Di Stefano,20,Centre-Back,Fenegrò,?,out,NA,Serie A,2015,2015/2016
+Inter Milan,Saphir Taider,23,Central Midfield,Bologna,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Andrea Ranocchia,27,Centre-Back,Sampdoria,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Fabio Eguelfi,20,Left-Back,Cremonese,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Lorenzo Tassi,20,Central Midfield,Savona,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Edmund Hottor,22,Central Midfield,Atlético CP,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Leonardo Longo,20,Right-Back,Mantova FC,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Samuele Longo,23,Centre-Forward,Frosinone,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Stefano Dalla Riva,20,Left-Back,Castelfidardo,?,out,NA,Serie A,2015,2015/2016
+Inter Milan,Giuseppe Maiorano,19,Left Winger,Lupa Cast Rom,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Valeriano Nchama,20,Central Midfield,Montebelluna,?,out,NA,Serie A,2015,2015/2016
+Inter Milan,Andrea Mira,20,Defensive Midfield,Piacenza,?,out,NA,Serie A,2015,2015/2016
+Inter Milan,Evans Kondogbia,26,Centre-Forward,FC Jumilla,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Alessandro Feleppa,19,Goalkeeper,Pinerolo,?,out,NA,Serie A,2015,2015/2016
+Inter Milan,Francesco Bardi,24,Goalkeeper,Frosinone,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Francesco Forte,22,Centre-Forward,Cremonese,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Geremy Lombardi,19,Centre-Forward,Monza,?,out,NA,Serie A,2015,2015/2016
+Inter Milan,Andrea Bandini,21,Right-Back,Südtirol,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,George Puscas,19,Centre-Forward,Bari,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Fabio Eguelfi,20,Left-Back,Prato,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Daniel Bessa,22,Central Midfield,Como,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Francesco Forte,22,Centre-Forward,Teramo,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Francesco Bardi,23,Goalkeeper,Espanyol,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Simone Pasa,21,Defensive Midfield,Pordenone,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Dodô,23,Left-Back,Sampdoria,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Federico Dimarco,18,Left-Back,Ascoli,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Isaac Donkor,19,Centre-Back,Bari,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Francesco Bigotto,20,Centre-Forward,Caratese,?,out,NA,Serie A,2015,2015/2016
+Inter Milan,Giovanni Padovani,19,Centre-Back,Without Club,Loan,out,0,Serie A,2015,2015/2016
+Inter Milan,Hugo Campagnaro,35,Centre-Back,Without Club,-,out,0,Serie A,2015,2015/2016
+Inter Milan,Jacopo Galimberti,22,Centre-Back,Without Club,-,out,0,Serie A,2015,2015/2016
+Inter Milan,Adama Fofana,25,Centre-Forward,Without Club,-,out,0,Serie A,2015,2015/2016
+Inter Milan,Martín Montoya,24,Right-Back,FC Barcelona,"End of loanJan 31, 2016",out,0,Serie A,2015,2015/2016
+Inter Milan,Nemanja Vidic‎,34,Centre-Back,Retired,-,out,0,Serie A,2015,2015/2016
+Inter Milan,Ezequiel Schelotto,26,Right-Back,Without Club,-,out,0,Serie A,2015,2015/2016
+Inter Milan,Jonathan,29,Right-Back,Without Club,-,out,0,Serie A,2015,2015/2016
+Inter Milan,Federico Bonazzoli,18,Centre-Forward,Sampdoria,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Inter Milan,Xherdan Shaqiri,23,Right Winger,Bayern Munich,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Inter Milan,Lukas Podolski,30,Second Striker,Arsenal,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Inter Milan,Davide Santon,24,Left-Back,Newcastle,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Torino FC,Andrea Belotti,21,Centre-Forward,US Palermo,£7.56m,in,7.56,Serie A,2015,2015/2016
+Torino FC,Daniele Baselli,23,Central Midfield,Atalanta,£5.40m,in,5.4,Serie A,2015,2015/2016
+Torino FC,Davide Zappacosta,23,Right-Back,Atalanta,£3.87m,in,3.87,Serie A,2015,2015/2016
+Torino FC,Afriyie Acquah,23,Central Midfield,TSG Hoffenheim,£2.79m,in,2.79,Serie A,2015,2015/2016
+Torino FC,Joel Obi,24,Central Midfield,Inter,£1.98m,in,1.98,Serie A,2015,2015/2016
+Torino FC,Danilo Avelar,26,Left-Back,Cagliari Calcio,£1.80m,in,1.8,Serie A,2015,2015/2016
+Torino FC,Salvador Ichazo,23,Goalkeeper,Danubio FC,£1.08m,in,1.08,Serie A,2015,2015/2016
+Torino FC,Ciro Immobile,25,Centre-Forward,Sevilla FC,Loan fee:£765k,in,0.765,Serie A,2015,2015/2016
+Torino FC,Sanjin Prcic,21,Central Midfield,Stade Rennais,Loan,in,0,Serie A,2015,2015/2016
+Torino FC,Ousseynou Thiao,19,Central Midfield,Cuneo,"End of loanJan 15, 2016",in,0,Serie A,2015,2015/2016
+Torino FC,Facundo Lescano,18,Centre-Forward,Torino U19,-,in,0,Serie A,2015,2015/2016
+Torino FC,Maurice Gomis,18,Goalkeeper,D. Porto Tolle,"End of loanJan 8, 2016",in,0,Serie A,2015,2015/2016
+Torino FC,Vasyl Pryima,24,Centre-Back,Without Club,-,in,0,Serie A,2015,2015/2016
+Torino FC,Lys Gomis,26,Goalkeeper,Frosinone,"End of loanJan 25, 2016",in,0,Serie A,2015,2015/2016
+Torino FC,Kevin Bonifazi,19,Centre-Back,Benevento,"End of loanJan 13, 2016",in,0,Serie A,2015,2015/2016
+Torino FC,Sergiu Suciu,25,Central Midfield,Lecce,"End of loanJan 6, 2016",in,0,Serie A,2015,2015/2016
+Torino FC,Abou Diop,22,Centre-Forward,Lecce,"End of loanJan 24, 2016",in,0,Serie A,2015,2015/2016
+Torino FC,Alessandro Dalmasso,20,Centre-Back,Pinerolo,"End of loanJun 30, 2016",in,0,Serie A,2015,2015/2016
+Torino FC,Claudio Morra,20,Centre-Forward,Torino U19,-,in,0,Serie A,2015,2015/2016
+Torino FC,Claudio Morra,21,Centre-Forward,Andria,"End of loanJan 28, 2016",in,0,Serie A,2015,2015/2016
+Torino FC,Facundo Lescano,19,Centre-Forward,Melfi,"End of loanJan 13, 2016",in,0,Serie A,2015,2015/2016
+Torino FC,Juan Sánchez Miño,25,Left-Back,Estudiantes,"End of loanDec 31, 2015",in,0,Serie A,2015,2015/2016
+Torino FC,Marko Vesovic,23,Right-Back,HNK Rijeka,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Torino FC,Pietro Barale,20,Central Midfield,Cuneo,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Torino FC,Francesco Tahiraj,18,Right Winger,Carpi U19,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Torino FC,Antonio Barreca,20,Left-Back,Cittadella,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Torino FC,Alessandro Comentale,20,Defensive Midfield,Monza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Torino FC,Stefano Ignico,21,Centre-Back,Pro Piacenza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Torino FC,Marco Sordi,19,Goalkeeper,Olginatese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Torino FC,Abdulai Muniru,22,Central Midfield,HNK Gorica,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Torino FC,Abou Diop,21,Centre-Forward,Matera,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Torino FC,Lys Gomis,25,Goalkeeper,Trapani,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Torino FC,Emmanuel Gyasi,21,Left Winger,Mantova FC,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Torino FC,Simone Verdi,22,Right Winger,FC Empoli,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Torino FC,Andrea Ientile,19,Centre-Back,Südtirol,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Torino FC,Vlada Avramov,36,Goalkeeper,Atalanta,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Torino FC,Alen Stevanovic,24,Left Winger,Spezia Calcio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Torino FC,Mattia Aramu,20,Right Winger,Trapani,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Torino FC,Marcelo Larrondo,26,Centre-Forward,Tigre,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Torino FC,Sergiu Suciu,25,Central Midfield,Crotone,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Torino FC,Alfred Gomis,21,Goalkeeper,AS Avellino,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Torino FC,Matteo Darmian,25,Right-Back,Man Utd,£16.20m,out,16.2,Serie A,2015,2015/2016
+Torino FC,Antonio Barreca,20,Left-Back,Cagliari Calcio,Loan fee:£450k,out,0.45,Serie A,2015,2015/2016
+Torino FC,Marcelo Larrondo,26,Centre-Forward,CA Rosario,£450k,out,0.45,Serie A,2015,2015/2016
+Torino FC,Simone Verdi,22,Right Winger,AC Milan,£405k,out,0.405,Serie A,2015,2015/2016
+Torino FC,Marko Vesovic,23,Right-Back,Spezia Calcio,£270k,out,0.27,Serie A,2015,2015/2016
+Torino FC,Fabio Quagliarella,33,Centre-Forward,Sampdoria,Loan,out,0,Serie A,2015,2015/2016
+Torino FC,Andrea Ientile,19,Centre-Back,Monza,Free Transfer,out,0,Serie A,2015,2015/2016
+Torino FC,Lys Gomis,26,Goalkeeper,Poli Timisoara,Loan,out,0,Serie A,2015,2015/2016
+Torino FC,Migjen Basha,28,Defensive Midfield,FC Luzern,Free Transfer,out,0,Serie A,2015,2015/2016
+Torino FC,Alen Stevanovic,24,Left Winger,Partizan,Free Transfer,out,0,Serie A,2015,2015/2016
+Torino FC,Alessandro Comentale,20,Defensive Midfield,Monza,Free Transfer,out,0,Serie A,2015,2015/2016
+Torino FC,Sanjin Prcic,22,Central Midfield,Perugia,Loan,out,0,Serie A,2015,2015/2016
+Torino FC,Claudio Morra,20,Centre-Forward,Andria,Loan,out,0,Serie A,2015,2015/2016
+Torino FC,Sergiu Suciu,25,Central Midfield,Cremonese,Loan,out,0,Serie A,2015,2015/2016
+Torino FC,Emmanuel Gyasi,21,Left Winger,Carrarese,Loan,out,0,Serie A,2015,2015/2016
+Torino FC,Kevin Bonifazi,19,Centre-Back,Casertana,Loan,out,0,Serie A,2015,2015/2016
+Torino FC,Abou Diop,21,Centre-Forward,Lecce,Loan,out,0,Serie A,2015,2015/2016
+Torino FC,Claudio Morra,21,Centre-Forward,Savona,Loan,out,0,Serie A,2015,2015/2016
+Torino FC,Stefano Ignico,21,Centre-Back,Pro Sett Eureka,?,out,NA,Serie A,2015,2015/2016
+Torino FC,Vlada Avramov,36,Goalkeeper,FC Tokyo,?,out,NA,Serie A,2015,2015/2016
+Torino FC,Mattia Aramu,20,Right Winger,AS Livorno,Loan,out,0,Serie A,2015,2015/2016
+Torino FC,Facundo Lescano,19,Centre-Forward,Monopoli,Loan,out,0,Serie A,2015,2015/2016
+Torino FC,Pietro Barale,20,Central Midfield,Cuneo,?,out,NA,Serie A,2015,2015/2016
+Torino FC,Facundo Lescano,19,Centre-Forward,Melfi,Loan,out,0,Serie A,2015,2015/2016
+Torino FC,Abou Diop,22,Centre-Forward,Juve Stabia,Loan,out,0,Serie A,2015,2015/2016
+Torino FC,Sergiu Suciu,25,Central Midfield,Lecce,Loan,out,0,Serie A,2015,2015/2016
+Torino FC,Vasyl Pryima,24,Centre-Back,Frosinone,Loan,out,0,Serie A,2015,2015/2016
+Torino FC,Juan Sánchez Miño,26,Left-Back,Cruzeiro,Loan,out,0,Serie A,2015,2015/2016
+Torino FC,Francesco Tahiraj,18,Right Winger,DNŠ Zavrč,?,out,NA,Serie A,2015,2015/2016
+Torino FC,Maurice Gomis,18,Goalkeeper,Mestre,Loan,out,0,Serie A,2015,2015/2016
+Torino FC,Alfred Gomis,21,Goalkeeper,Cesena,Loan,out,0,Serie A,2015,2015/2016
+Torino FC,Lys Gomis,25,Goalkeeper,Frosinone,Loan,out,0,Serie A,2015,2015/2016
+Torino FC,Luca Cargnino,20,Defender,Without Club,-,out,0,Serie A,2015,2015/2016
+Torino FC,Rosario Rizzo,19,Left-Back,Without Club,-,out,0,Serie A,2015,2015/2016
+Torino FC,Salvatore Masiello,33,Left-Back,Without Club,-,out,0,Serie A,2015,2015/2016
+Torino FC,Ousseynou Thiao,19,Central Midfield,Without Club,-,out,0,Serie A,2015,2015/2016
+Torino FC,Abdulai Muniru,22,Central Midfield,Without Club,-,out,0,Serie A,2015,2015/2016
+Torino FC,Barreto,29,Second Striker,Without Club,-,out,0,Serie A,2015,2015/2016
+Torino FC,Marco Sordi,19,Goalkeeper,Without Club,-,out,0,Serie A,2015,2015/2016
+Torino FC,Amauri,35,Centre-Forward,Without Club,-,out,0,Serie A,2015,2015/2016
+Torino FC,Álvaro González,30,Central Midfield,Lazio,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Torino FC,Salvador Ichazo,23,Goalkeeper,Danubio FC,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Torino FC,Omar El Kaddouri,24,Attacking Midfield,SSC Napoli,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+AC Milan,Carlos Bacca,28,Centre-Forward,Sevilla FC,£27.00m,in,27,Serie A,2015,2015/2016
+AC Milan,Alessio Romagnoli,20,Centre-Back,AS Roma,£22.50m,in,22.5,Serie A,2015,2015/2016
+AC Milan,Andrea Bertolacci,24,Central Midfield,AS Roma,£18.00m,in,18,Serie A,2015,2015/2016
+AC Milan,Luiz Adriano,28,Centre-Forward,Shakhtar D.,£7.20m,in,7.2,Serie A,2015,2015/2016
+AC Milan,Luca Antonelli,28,Left-Back,Genoa,£4.05m,in,4.05,Serie A,2015,2015/2016
+AC Milan,Juraj Kucka,28,Central Midfield,Genoa,£2.70m,in,2.7,Serie A,2015,2015/2016
+AC Milan,Simone Verdi,22,Right Winger,Torino,£405k,in,0.405,Serie A,2015,2015/2016
+AC Milan,Rodrigo Ely,21,Centre-Back,Avellino,Free Transfer,in,0,Serie A,2015,2015/2016
+AC Milan,José Mauri,19,Central Midfield,Parma,Free Transfer,in,0,Serie A,2015,2015/2016
+AC Milan,Matteo Pessina,18,Central Midfield,Monza,£18k,in,0.018,Serie A,2015,2015/2016
+AC Milan,Mario Balotelli,25,Centre-Forward,Liverpool,Loan,in,0,Serie A,2015,2015/2016
+AC Milan,Juan Alberto Mauri,26,Central Midfield,Ferro,?,in,NA,Serie A,2015,2015/2016
+AC Milan,Davide Di Molfetta,19,Right Winger,Benevento,"End of loanJan 28, 2016",in,0,Serie A,2015,2015/2016
+AC Milan,Nnamdi Oduamadi,24,Right Winger,Sanliurfaspor,"End of loanAug 19, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Kevin-Prince Boateng,28,Centre-Forward,Without Club,-,in,0,Serie A,2015,2015/2016
+AC Milan,Stephan El Shaarawy,23,Left Winger,Monaco,"End of loanJan 25, 2016",in,0,Serie A,2015,2015/2016
+AC Milan,Gianluigi Donnarumma,16,Goalkeeper,Milan U19,-,in,0,Serie A,2015,2015/2016
+AC Milan,Andrea Petagna,20,Centre-Forward,Ascoli,"End of loanJan 24, 2016",in,0,Serie A,2015,2015/2016
+AC Milan,Manuel Locatelli,18,Central Midfield,Milan U19,-,in,0,Serie A,2015,2015/2016
+AC Milan,Davide Calabria,18,Right-Back,Milan U19,-,in,0,Serie A,2015,2015/2016
+AC Milan,Matteo Pessina,18,Central Midfield,Lecce,"End of loanJan 18, 2016",in,0,Serie A,2015,2015/2016
+AC Milan,Simone Verdi,23,Right Winger,SD Eibar,"End of loanJan 29, 2016",in,0,Serie A,2015,2015/2016
+AC Milan,Marco Fossati,22,Defensive Midfield,Perugia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Riccardo Saponara,23,Attacking Midfield,FC Empoli,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Matteo Chinellato,23,Centre-Forward,Südtirol,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Favour Aniekan,21,Attacking Midfield,NK Krka,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Robinho,31,Second Striker,Santos FC,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Krisztián Tamás,20,Left-Back,Slavia Prag,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Alessio Innocenti,22,Defensive Midfield,ND Gorica,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Marcus Diniz,27,Centre-Back,Lecce,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Marco Bortoli,20,Central Midfield,ACR Messina,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Valter Birsa,28,Attacking Midfield,Chievo Verona,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Antonio Nocerino,30,Central Midfield,Parma,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Edmund Hottor,22,Central Midfield,Unione Venezia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,M'Baye Niang,20,Centre-Forward,Genoa,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Stefan Simic,20,Centre-Back,Varese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Alessandro Matri,30,Centre-Forward,Juventus,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Dídac Vilà,26,Left-Back,SD Eibar,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Edoardo Pazzagli,26,Goalkeeper,Lucchese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Attila Filkor,26,Central Midfield,AS Avellino,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Jherson Vergara,21,Centre-Back,AS Avellino,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Andrea Petagna,20,Centre-Forward,Vicenza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Cristian Daminuta,25,Defensive Midfield,FC Viitorul,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Nnamdi Oduamadi,24,Right Winger,Latina Calcio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Zan Benedicic,19,Central Midfield,Leeds,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Ezekiel Henty,22,Centre-Forward,NK Olimpija,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Marco Pinato,20,Central Midfield,Virtus Lanciano,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Pelé,23,Defensive Midfield,Belenenses SAD,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Gabriel,22,Goalkeeper,Carpi,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Davide Narduzzo,20,Goalkeeper,Teramo,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Johad Ferretti,21,Right-Back,Matera,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+AC Milan,Riccardo Saponara,23,Attacking Midfield,FC Empoli,£3.60m,out,3.6,Serie A,2015,2015/2016
+AC Milan,Adil Rami,29,Centre-Back,Sevilla FC,£3.15m,out,3.15,Serie A,2015,2015/2016
+AC Milan,Stephan El Shaarawy,22,Left Winger,Monaco,Loan fee:£1.80m,out,1.8,Serie A,2015,2015/2016
+AC Milan,Valter Birsa,28,Attacking Midfield,Chievo Verona,£1.35m,out,1.35,Serie A,2015,2015/2016
+AC Milan,Stephan El Shaarawy,23,Left Winger,AS Roma,Loan fee:£1.26m,out,1.26,Serie A,2015,2015/2016
+AC Milan,Andrea Petagna,20,Centre-Forward,Atalanta,£900k,out,0.9,Serie A,2015,2015/2016
+AC Milan,Ezekiel Henty,22,Centre-Forward,NK Olimpija,£135k,out,0.135,Serie A,2015,2015/2016
+AC Milan,Pelé,23,Defensive Midfield,Benfica,Free Transfer,out,0,Serie A,2015,2015/2016
+AC Milan,Cristian Daminuta,25,Defensive Midfield,Zakho FC,Free Transfer,out,0,Serie A,2015,2015/2016
+AC Milan,Daniele Bonera,34,Centre-Back,Villarreal,Free Transfer,out,0,Serie A,2015,2015/2016
+AC Milan,Marcus Diniz,27,Centre-Back,Padova,Free Transfer,out,0,Serie A,2015,2015/2016
+AC Milan,Michelangelo Albertazzi,24,Left-Back,Hellas Verona,Free Transfer,out,0,Serie A,2015,2015/2016
+AC Milan,Attila Filkor,26,Central Midfield,Újpest FC,Free Transfer,out,0,Serie A,2015,2015/2016
+AC Milan,Cristian Zaccardo,33,Centre-Back,Carpi,Free Transfer,out,0,Serie A,2015,2015/2016
+AC Milan,Nigel de Jong,31,Defensive Midfield,LA Galaxy,Free Transfer,out,0,Serie A,2015,2015/2016
+AC Milan,Giampaolo Pazzini,30,Centre-Forward,Hellas Verona,Free Transfer,out,0,Serie A,2015,2015/2016
+AC Milan,Robinho,31,Second Striker,GZ Evergrande,Free Transfer,out,0,Serie A,2015,2015/2016
+AC Milan,Marco Fossati,22,Defensive Midfield,Cagliari Calcio,Free Transfer,out,0,Serie A,2015,2015/2016
+AC Milan,Sulley Muntari,30,Central Midfield,Ittihad,Free Transfer,out,0,Serie A,2015,2015/2016
+AC Milan,Dídac Vilà,26,Left-Back,AEK Athens,Free Transfer,out,0,Serie A,2015,2015/2016
+AC Milan,Antonio Nocerino,30,Central Midfield,Orlando City SC,Free Transfer,out,0,Serie A,2015,2015/2016
+AC Milan,Michael Essien,32,Defensive Midfield,Panathinaikos,Free Transfer,out,0,Serie A,2015,2015/2016
+AC Milan,Nnamdi Oduamadi,24,Right Winger,Sanliurfaspor,Loan,out,0,Serie A,2015,2015/2016
+AC Milan,Andrea Petagna,20,Centre-Forward,Ascoli,Loan,out,0,Serie A,2015,2015/2016
+AC Milan,Suso,22,Right Winger,Genoa,Loan,out,0,Serie A,2015,2015/2016
+AC Milan,Alessandro Matri,31,Centre-Forward,Lazio,Loan,out,0,Serie A,2015,2015/2016
+AC Milan,Favour Aniekan,21,Attacking Midfield,NK Krka,Loan,out,0,Serie A,2015,2015/2016
+AC Milan,Simone Verdi,23,Right Winger,Carpi,Loan,out,0,Serie A,2015,2015/2016
+AC Milan,Matteo Pessina,18,Central Midfield,Lecce,Loan,out,0,Serie A,2015,2015/2016
+AC Milan,Jherson Vergara,21,Centre-Back,AS Livorno,Loan,out,0,Serie A,2015,2015/2016
+AC Milan,Gianmario Comi,23,Centre-Forward,AS Livorno,Loan,out,0,Serie A,2015,2015/2016
+AC Milan,Michael Agazzi,31,Goalkeeper,Middlesbrough,Loan,out,0,Serie A,2015,2015/2016
+AC Milan,Hachim Mastour,17,Attacking Midfield,Málaga CF,Loan,out,0,Serie A,2015,2015/2016
+AC Milan,Krisztián Tamás,20,Left-Back,Spezia Calcio,?,out,NA,Serie A,2015,2015/2016
+AC Milan,Nnamdi Oduamadi,25,Right Winger,HJK Helsinki,Loan,out,0,Serie A,2015,2015/2016
+AC Milan,Juan Alberto Mauri,26,Central Midfield,Akragas,Loan,out,0,Serie A,2015,2015/2016
+AC Milan,Michael Fabbro,19,Centre-Forward,Bassano,?,out,NA,Serie A,2015,2015/2016
+AC Milan,Alessio Innocenti,22,Defensive Midfield,Melfi,?,out,NA,Serie A,2015,2015/2016
+AC Milan,Zan Benedicic,19,Central Midfield,Como,?,out,NA,Serie A,2015,2015/2016
+AC Milan,Matteo Pessina,18,Central Midfield,Catania,Loan,out,0,Serie A,2015,2015/2016
+AC Milan,Matteo Chinellato,23,Centre-Forward,Cuneo,Loan,out,0,Serie A,2015,2015/2016
+AC Milan,Davide Di Molfetta,19,Right Winger,Rimini,Loan,out,0,Serie A,2015,2015/2016
+AC Milan,Marco Pinato,20,Central Midfield,Vicenza,?,out,NA,Serie A,2015,2015/2016
+AC Milan,Gabriel,22,Goalkeeper,SSC Napoli,Loan,out,0,Serie A,2015,2015/2016
+AC Milan,Simone Verdi,23,Right Winger,SD Eibar,Loan,out,0,Serie A,2015,2015/2016
+AC Milan,Gabriel Paletta,29,Centre-Back,Atalanta,Loan,out,0,Serie A,2015,2015/2016
+AC Milan,Davide Narduzzo,20,Goalkeeper,Without Club,-,out,0,Serie A,2015,2015/2016
+AC Milan,Cristian Galliani,19,Right-Back,Without Club,-,out,0,Serie A,2015,2015/2016
+AC Milan,Alessio Cerci,28,Right Winger,Atlético Madrid,"End of loanJan 21, 2016",out,0,Serie A,2015,2015/2016
+AC Milan,Johad Ferretti,21,Right-Back,Without Club,-,out,0,Serie A,2015,2015/2016
+AC Milan,Marco Bortoli,20,Central Midfield,Without Club,-,out,0,Serie A,2015,2015/2016
+AC Milan,Edoardo Pazzagli,26,Goalkeeper,Without Club,-,out,0,Serie A,2015,2015/2016
+AC Milan,Edmund Hottor,22,Central Midfield,Without Club,-,out,0,Serie A,2015,2015/2016
+AC Milan,Luca Antonelli,28,Left-Back,Genoa,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+AC Milan,Mattia Destro,24,Centre-Forward,AS Roma,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+AC Milan,Salvatore Bocchetti,28,Centre-Back,Spartak Moscow,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+AC Milan,Marco van Ginkel,22,Central Midfield,Chelsea,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+US Palermo,Oscar Hiljemark,23,Central Midfield,PSV Eindhoven,£2.25m,in,2.25,Serie A,2015,2015/2016
+US Palermo,Norbert Balogh,19,Centre-Forward,Debrecen,£1.98m,in,1.98,Serie A,2015,2015/2016
+US Palermo,Abdelhamid El Kaoutari,25,Centre-Back,Montpellier,£1.80m,in,1.8,Serie A,2015,2015/2016
+US Palermo,Edoardo Goldaniga,21,Centre-Back,Juventus,£1.35m,in,1.35,Serie A,2015,2015/2016
+US Palermo,Matheus Cassini,19,Attacking Midfield,Corinthians,£1.08m,in,1.08,Serie A,2015,2015/2016
+US Palermo,Aleksandar Trajkovski,22,Second Striker,Zulte Waregem,£810k,in,0.81,Serie A,2015,2015/2016
+US Palermo,Manuel Arteaga,21,Centre-Forward,Zulia FC,£720k,in,0.72,Serie A,2015,2015/2016
+US Palermo,Josip Posavec,19,Goalkeeper,Inter Zapresic,£450k,in,0.45,Serie A,2015,2015/2016
+US Palermo,Thiago Cionek,29,Centre-Back,Modena,£315k,in,0.315,Serie A,2015,2015/2016
+US Palermo,Bryan Cristante,20,Central Midfield,Benfica,Loan,in,0,Serie A,2015,2015/2016
+US Palermo,Alberto Gilardino,33,Centre-Forward,GZ Evergrande,Free Transfer,in,0,Serie A,2015,2015/2016
+US Palermo,Uros Djurdjevic,21,Centre-Forward,Vitesse,Free Transfer,in,0,Serie A,2015,2015/2016
+US Palermo,Ahmad Benali,23,Central Midfield,Brescia,Free Transfer,in,0,Serie A,2015,2015/2016
+US Palermo,Andrea Rispoli,26,Right-Back,Parma,Free Transfer,in,0,Serie A,2015,2015/2016
+US Palermo,Simone Colombi,24,Goalkeeper,Cagliari Calcio,Loan,in,0,Serie A,2015,2015/2016
+US Palermo,Nicolas Viola,25,Central Midfield,Ternana,?,in,NA,Serie A,2015,2015/2016
+US Palermo,Gastón Brugman,22,Central Midfield,Pescara,Loan,in,0,Serie A,2015,2015/2016
+US Palermo,Accursio Bentivegna,19,Left Winger,Como,"End of loanJan 26, 2016",in,0,Serie A,2015,2015/2016
+US Palermo,Antonino La Gumina,19,Centre-Forward,Palermo U19,-,in,0,Serie A,2015,2015/2016
+US Palermo,Gabriele Zerbo,21,Right Winger,Feralpisalò,"End of loanJan 28, 2016",in,0,Serie A,2015,2015/2016
+US Palermo,Andrea Accardi,19,Centre-Back,Palermo U19,-,in,0,Serie A,2015,2015/2016
+US Palermo,Fabrizio Alastra,17,Goalkeeper,Palermo U19,-,in,0,Serie A,2015,2015/2016
+US Palermo,Luca Fiordilino,18,Defensive Midfield,Palermo U19,-,in,0,Serie A,2015,2015/2016
+US Palermo,Giuseppe Pezzella,17,Left-Back,Palermo U19,-,in,0,Serie A,2015,2015/2016
+US Palermo,Davide Petermann,21,Central Midfield,Santarcangelo,"End of loanFeb 1, 2016",in,0,Serie A,2015,2015/2016
+US Palermo,Gennaro Troianiello,32,Right Winger,Bologna,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Palermo,Silvio Calabrese,19,Forward,Vallée d’Aoste,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Palermo,Jevrem Kosnic,22,Centre-Back,Honvéd,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Palermo,Davide Petermann,20,Central Midfield,Torres,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Palermo,Riccardo Pellegrino,19,Left-Back,Akragas,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Palermo,Ezequiel Muñoz,24,Centre-Back,Sampdoria,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Palermo,Giulio Sanseverino,21,Central Midfield,Savoia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Palermo,Aljaz Struna,24,Centre-Back,Carpi,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Palermo,Cephas Malele,21,Centre-Forward,Trapani,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Palermo,Julián Velázquez,24,Centre-Back,Gaz Metan,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Palermo,Eros Pisano,28,Right-Back,Hellas Verona,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Palermo,Ignacio Lores,24,Right Winger,Varese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Palermo,Eric Lanini,21,Centre-Forward,Virtus Entella,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Palermo,Davide Di Gennaro,27,Defensive Midfield,Vicenza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Palermo,Sol Bamba,30,Centre-Back,Leeds,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Palermo,Granddi N'Goyi,27,Defensive Midfield,Leeds,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Palermo,Carlos Embalo,20,Left Winger,Lecce,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Palermo,Paulo Dybala,21,Second Striker,Juventus,£36.00m,out,36,Serie A,2015,2015/2016
+US Palermo,Andrea Belotti,21,Centre-Forward,Torino,£7.56m,out,7.56,Serie A,2015,2015/2016
+US Palermo,Eric Lanini,21,Centre-Forward,Juventus,£1.80m,out,1.8,Serie A,2015,2015/2016
+US Palermo,Eros Pisano,28,Right-Back,Hellas Verona,£900k,out,0.9,Serie A,2015,2015/2016
+US Palermo,Luca Rigoni,31,Central Midfield,Genoa,£450k,out,0.45,Serie A,2015,2015/2016
+US Palermo,João Silva,25,Centre-Forward,Paços Ferreira,Free Transfer,out,0,Serie A,2015,2015/2016
+US Palermo,Fabio Daprelà,24,Centre-Back,Carpi,Free Transfer,out,0,Serie A,2015,2015/2016
+US Palermo,Édgar Barreto,30,Central Midfield,Sampdoria,Free Transfer,out,0,Serie A,2015,2015/2016
+US Palermo,Claudio Terzi,31,Centre-Back,Spezia Calcio,Free Transfer,out,0,Serie A,2015,2015/2016
+US Palermo,Davide Di Gennaro,27,Defensive Midfield,Cagliari Calcio,Free Transfer,out,0,Serie A,2015,2015/2016
+US Palermo,Francesco Della Rocca,27,Central Midfield,Perugia,Free Transfer,out,0,Serie A,2015,2015/2016
+US Palermo,Gabriele Zerbo,21,Right Winger,Chiajna,Loan,out,0,Serie A,2015,2015/2016
+US Palermo,Ezequiel Muñoz,24,Centre-Back,Genoa,Free Transfer,out,0,Serie A,2015,2015/2016
+US Palermo,Ignacio Lores,24,Right Winger,AC Pisa,Free Transfer,out,0,Serie A,2015,2015/2016
+US Palermo,Cephas Malele,21,Centre-Forward,Atlético CP,Loan,out,0,Serie A,2015,2015/2016
+US Palermo,Gennaro Troianiello,32,Right Winger,Salernitana,Free Transfer,out,0,Serie A,2015,2015/2016
+US Palermo,Granddi N'Goyi,27,Defensive Midfield,Dijon,Loan,out,0,Serie A,2015,2015/2016
+US Palermo,Giulio Sanseverino,21,Central Midfield,AC Pisa,Free Transfer,out,0,Serie A,2015,2015/2016
+US Palermo,Francesco Bolzoni,26,Central Midfield,Novara,Free Transfer,out,0,Serie A,2015,2015/2016
+US Palermo,Samir Ujkani,27,Goalkeeper,Genoa,Free Transfer,out,0,Serie A,2015,2015/2016
+US Palermo,Silvio Calabrese,19,Forward,Vibonese,Free Transfer,out,0,Serie A,2015,2015/2016
+US Palermo,Nicolas Viola,25,Central Midfield,Novara,Free Transfer,out,0,Serie A,2015,2015/2016
+US Palermo,Julián Velázquez,24,Centre-Back,Hajduk Split,Free Transfer,out,0,Serie A,2015,2015/2016
+US Palermo,Luca Fiordilino,18,Defensive Midfield,Cosenza,Loan,out,0,Serie A,2015,2015/2016
+US Palermo,Davide Petermann,20,Central Midfield,Santarcangelo,Loan,out,0,Serie A,2015,2015/2016
+US Palermo,Ahmad Benali,23,Central Midfield,Pescara,Loan,out,0,Serie A,2015,2015/2016
+US Palermo,Manuel Arteaga,21,Centre-Forward,Hajduk Split,Loan,out,0,Serie A,2015,2015/2016
+US Palermo,Andrea Fulignati,20,Goalkeeper,Trapani,Loan,out,0,Serie A,2015,2015/2016
+US Palermo,Riccardo Pellegrino,19,Left-Back,Gela,?,out,NA,Serie A,2015,2015/2016
+US Palermo,Andrea Accardi,19,Centre-Back,Trapani,Loan,out,0,Serie A,2015,2015/2016
+US Palermo,Abdelhamid El Kaoutari,25,Centre-Back,Reims,Loan,out,0,Serie A,2015,2015/2016
+US Palermo,Sol Bamba,30,Centre-Back,Leeds,?,out,NA,Serie A,2015,2015/2016
+US Palermo,Simon Makienok,24,Centre-Forward,Charlton,Loan,out,0,Serie A,2015,2015/2016
+US Palermo,Carlos Embalo,20,Left Winger,Brescia,Loan,out,0,Serie A,2015,2015/2016
+US Palermo,Milan Milanovic,24,Centre-Back,Ascoli,Loan,out,0,Serie A,2015,2015/2016
+US Palermo,Matheus Cassini,19,Attacking Midfield,Inter Zapresic,Loan,out,0,Serie A,2015,2015/2016
+US Palermo,Accursio Bentivegna,19,Left Winger,Como,Loan,out,0,Serie A,2015,2015/2016
+US Palermo,Jevrem Kosnic,22,Centre-Back,Without Club,-,out,0,Serie A,2015,2015/2016
+US Palermo,Simone Colombi,24,Goalkeeper,Cagliari Calcio,"End of loanJan 25, 2016",out,0,Serie A,2015,2015/2016
+US Palermo,Andrea Rispoli,26,Right-Back,Parma,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+US Palermo,Danilo Ortíz,23,Centre-Back,Cerro Porteño,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+US Palermo,Emerson,20,Left-Back,Santos FC,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+US Sassuolo,Domenico Berardi,20,Right Winger,Juventus,£9.00m,in,9,Serie A,2015,2015/2016
+US Sassuolo,Grégoire Defrel,24,Centre-Forward,Cesena,£6.30m,in,6.3,Serie A,2015,2015/2016
+US Sassuolo,Stefano Sensi,20,Central Midfield,Cesena,£4.73m,in,4.73,Serie A,2015,2015/2016
+US Sassuolo,Luca Mazzitelli,20,Central Midfield,AS Roma,£3.15m,in,3.15,Serie A,2015,2015/2016
+US Sassuolo,Marcello Trotta,23,Centre-Forward,Avellino,£2.52m,in,2.52,Serie A,2015,2015/2016
+US Sassuolo,Lorenzo Pellegrini,19,Central Midfield,Roma U19,£1.13m,in,1.13,Serie A,2015,2015/2016
+US Sassuolo,Giovanni Sbrissa,18,Central Midfield,Vicenza,£720k,in,0.72,Serie A,2015,2015/2016
+US Sassuolo,Matteo Politano,21,Right Winger,AS Roma,Loan fee:£90k,in,0.09,Serie A,2015,2015/2016
+US Sassuolo,Cristian Dell'Orco,21,Left-Back,Parma,Free Transfer,in,0,Serie A,2015,2015/2016
+US Sassuolo,Alfred Duncan,22,Central Midfield,Sampdoria,Loan,in,0,Serie A,2015,2015/2016
+US Sassuolo,Aladje,22,Centre-Forward,Prato,"End of loanJan 27, 2016",in,0,Serie A,2015,2015/2016
+US Sassuolo,Leonardo Fontanesi,19,Centre-Back,Sassuolo U19,-,in,0,Serie A,2015,2015/2016
+US Sassuolo,Jasmin Kurtic,26,Central Midfield,Fiorentina,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Sassuolo,Lorenzo Ariaudo,26,Centre-Back,Genoa,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Sassuolo,Karim Laribi,24,Left Winger,Bologna,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Sassuolo,Aladje,21,Centre-Forward,Real Vicenza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Sassuolo,Ettore Gliozzi,19,Centre-Forward,Forlì,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Sassuolo,Guido Gomez,21,Centre-Forward,Juve Stabia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Sassuolo,Thomas Manfredini,35,Centre-Back,Vicenza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Sassuolo,Leonardo Pavoletti,26,Centre-Forward,Genoa,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Sassuolo,Diego Falcinelli,24,Centre-Forward,Perugia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+US Sassuolo,Simone Zaza,24,Centre-Forward,Juventus,£16.20m,out,16.2,Serie A,2015,2015/2016
+US Sassuolo,Jasmin Kurtic,26,Central Midfield,Atalanta,£3.15m,out,3.15,Serie A,2015,2015/2016
+US Sassuolo,Leonardo Pavoletti,26,Centre-Forward,Genoa,£2.70m,out,2.7,Serie A,2015,2015/2016
+US Sassuolo,Sergio Floccari,34,Centre-Forward,Bologna,£450k,out,0.45,Serie A,2015,2015/2016
+US Sassuolo,Thomas Manfredini,35,Centre-Back,Vicenza,£270k,out,0.27,Serie A,2015,2015/2016
+US Sassuolo,Matteo Brighi,34,Central Midfield,Bologna,Free Transfer,out,0,Serie A,2015,2015/2016
+US Sassuolo,Jonathan Rossini,26,Centre-Back,Savona,Loan,out,0,Serie A,2015,2015/2016
+US Sassuolo,Aladje,22,Centre-Forward,Ischia,Loan,out,0,Serie A,2015,2015/2016
+US Sassuolo,Davide Lodesani,20,Left Winger,Foggia,?,out,NA,Serie A,2015,2015/2016
+US Sassuolo,Luca Mazzitelli,20,Central Midfield,Brescia,Loan,out,0,Serie A,2015,2015/2016
+US Sassuolo,Aladje,21,Centre-Forward,Prato,Loan,out,0,Serie A,2015,2015/2016
+US Sassuolo,Leonardo Fontanesi,19,Centre-Back,Cesena,Loan,out,0,Serie A,2015,2015/2016
+US Sassuolo,Antonio Floro Flores,32,Centre-Forward,Chievo Verona,Loan,out,0,Serie A,2015,2015/2016
+US Sassuolo,Guido Gomez,21,Centre-Forward,Juve Stabia,?,out,NA,Serie A,2015,2015/2016
+US Sassuolo,Raman Chibsah,22,Central Midfield,Frosinone,Loan,out,0,Serie A,2015,2015/2016
+US Sassuolo,Stefano Sensi,20,Central Midfield,Cesena,Loan,out,0,Serie A,2015,2015/2016
+US Sassuolo,Simone Perilli,20,Goalkeeper,Reggiana,?,out,NA,Serie A,2015,2015/2016
+US Sassuolo,Lorenzo Ariaudo,26,Centre-Back,FC Empoli,Loan,out,0,Serie A,2015,2015/2016
+US Sassuolo,Ettore Gliozzi,19,Centre-Forward,Südtirol,Loan,out,0,Serie A,2015,2015/2016
+US Sassuolo,Cristian Dell'Orco,21,Left-Back,Novara,Loan,out,0,Serie A,2015,2015/2016
+US Sassuolo,Giovanni Sbrissa,18,Central Midfield,Vicenza,Loan,out,0,Serie A,2015,2015/2016
+US Sassuolo,Ciro Polito,36,Goalkeeper,Without Club,-,out,0,Serie A,2015,2015/2016
+US Sassuolo,Paolo Bianco,37,Centre-Back,Retired,-,out,0,Serie A,2015,2015/2016
+US Sassuolo,Cesare Natali,36,Centre-Back,Without Club,-,out,0,Serie A,2015,2015/2016
+US Sassuolo,Saphir Taider,23,Central Midfield,Inter,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+US Sassuolo,Domenico Berardi,20,Right Winger,Juventus,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+US Sassuolo,Anastasios Donis,18,Centre-Forward,Juventus,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+US Sassuolo,Dejan Lazarevic,25,Left Winger,Chievo Verona,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Hellas Verona,Federico Viviani,23,Defensive Midfield,AS Roma,£3.60m,in,3.6,Serie A,2015,2015/2016
+Hellas Verona,Filip Helander,22,Centre-Back,Malmö FF,£900k,in,0.9,Serie A,2015,2015/2016
+Hellas Verona,Eros Pisano,28,Right-Back,US Palermo,£900k,in,0.9,Serie A,2015,2015/2016
+Hellas Verona,Leandro Greco,28,Central Midfield,Genoa,£270k,in,0.27,Serie A,2015,2015/2016
+Hellas Verona,Samuel Souprayen,26,Centre-Back,Dijon,Free Transfer,in,0,Serie A,2015,2015/2016
+Hellas Verona,Giampaolo Pazzini,30,Centre-Forward,AC Milan,Free Transfer,in,0,Serie A,2015,2015/2016
+Hellas Verona,Mattia Valoti,21,Central Midfield,UC AlbinoLeffe,Free Transfer,in,0,Serie A,2015,2015/2016
+Hellas Verona,Michelangelo Albertazzi,24,Left-Back,AC Milan,Free Transfer,in,0,Serie A,2015,2015/2016
+Hellas Verona,Luca Siligardi,27,Right Winger,AS Livorno,Free Transfer,in,0,Serie A,2015,2015/2016
+Hellas Verona,Ante Rebic,22,Second Striker,Fiorentina,Loan,in,0,Serie A,2015,2015/2016
+Hellas Verona,Richard Marcone,23,Goalkeeper,Trapani,Loan,in,0,Serie A,2015,2015/2016
+Hellas Verona,Gilberto,22,Right-Back,Fiorentina,Loan,in,0,Serie A,2015,2015/2016
+Hellas Verona,Cláudio Winck,21,Right-Back,Internacional,Loan,in,0,Serie A,2015,2015/2016
+Hellas Verona,Samir,21,Centre-Back,Udinese Calcio,Loan,in,0,Serie A,2015,2015/2016
+Hellas Verona,Dominik Furman,23,Central Midfield,Toulouse,Loan,in,0,Serie A,2015,2015/2016
+Hellas Verona,Pawel Wszolek,23,Right Midfield,Sampdoria,Loan,in,0,Serie A,2015,2015/2016
+Hellas Verona,Ferdinando Coppola,37,Goalkeeper,Bologna,?,in,NA,Serie A,2015,2015/2016
+Hellas Verona,Luca Marrone,25,Centre-Back,Juventus,Loan,in,0,Serie A,2015,2015/2016
+Hellas Verona,Urby Emanuelson,29,Central Midfield,Without Club,-,in,0,Serie A,2015,2015/2016
+Hellas Verona,Pierluigi Cappelluzzo,19,Centre-Forward,Verona U19,-,in,0,Serie A,2015,2015/2016
+Hellas Verona,Matuzalém,35,Defensive Midfield,Without Club,-,in,0,Serie A,2015,2015/2016
+Hellas Verona,Mattia Valoti,22,Central Midfield,Pescara,"End of loanJan 31, 2016",in,0,Serie A,2015,2015/2016
+Hellas Verona,David Speziale,21,Attacking Midfield,Pistoiese,"End of loanJan 28, 2016",in,0,Serie A,2015,2015/2016
+Hellas Verona,Mohamed Fares,19,Left Midfield,Verona U19,-,in,0,Serie A,2015,2015/2016
+Hellas Verona,Enrico Bearzotti,18,Right Midfield,Verona U19,-,in,0,Serie A,2015,2015/2016
+Hellas Verona,Simone Calvano,22,Central Midfield,Teramo,"End of loanDec 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Ernesto Torregrossa,23,Centre-Forward,Crotone,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Alejandro González,27,Centre-Back,Cagliari Calcio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Simone Calvano,21,Central Midfield,Pistoiese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Nenê,31,Centre-Forward,Spezia Calcio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Gennaro Esposito,30,Defensive Midfield,Unione Venezia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Michael Rabusic,25,Centre-Forward,Crotone,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Rômulo,28,Central Midfield,Juventus,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Simon Laner,31,Central Midfield,Carpi,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Hysen Memolla,22,Left-Back,Martina Franca,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Harallamb Qaqi,21,Centre-Back,Barletta,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Alessandro Gatto,21,Second Striker,Pordenone,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Gino Ballarini,20,Centre-Back,Pro Piacenza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Riccardo Ravasi,20,Centre-Forward,Pordenone,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Ivano Baldanzeddu,29,Right-Back,Virtus Entella,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Paolo Grossi,30,Central Midfield,Virtus Lanciano,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Amadou Samb,27,Centre-Forward,Floriana,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Mattia Zaccagni,20,Central Midfield,Unione Venezia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Pasquale De Vita,21,Attacking Midfield,Monza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Mattia Spezzani,23,Central Midfield,Melfi,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Matteo Bianchetti,22,Centre-Back,Spezia Calcio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,David Speziale,21,Attacking Midfield,Pro Piacenza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Nícolas,27,Goalkeeper,Virtus Lanciano,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Francesco Zampano,21,Right-Back,Pescara,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Hellas Verona,Emil Hallfredsson,31,Central Midfield,Udinese Calcio,£900k,out,0.9,Serie A,2015,2015/2016
+Hellas Verona,Francesco Zampano,21,Right-Back,Pescara,£765k,out,0.765,Serie A,2015,2015/2016
+Hellas Verona,Francesco Benussi,33,Goalkeeper,Carpi,Free Transfer,out,0,Serie A,2015,2015/2016
+Hellas Verona,Gennaro Esposito,30,Defensive Midfield,Casalnuovese,Free Transfer,out,0,Serie A,2015,2015/2016
+Hellas Verona,Matuzalém,35,Defensive Midfield,Miami FC,Free Transfer,out,0,Serie A,2015,2015/2016
+Hellas Verona,Paolo Grossi,30,Central Midfield,Ternana,Free Transfer,out,0,Serie A,2015,2015/2016
+Hellas Verona,Mattia Spezzani,23,Central Midfield,Ischia,Free Transfer,out,0,Serie A,2015,2015/2016
+Hellas Verona,Ivan Martic,24,Right-Back,Spezia Calcio,Free Transfer,out,0,Serie A,2015,2015/2016
+Hellas Verona,Javier Saviola,33,Second Striker,River Plate,Free Transfer,out,0,Serie A,2015,2015/2016
+Hellas Verona,Rafael Marques,31,Centre-Back,Coritiba FC,Free Transfer,out,0,Serie A,2015,2015/2016
+Hellas Verona,Nenê,31,Centre-Forward,Spezia Calcio,Free Transfer,out,0,Serie A,2015,2015/2016
+Hellas Verona,Pasquale De Vita,21,Attacking Midfield,Trapani,Free Transfer,out,0,Serie A,2015,2015/2016
+Hellas Verona,Fabio Alba,20,Central Midfield,Virtus Verona,Free Transfer,out,0,Serie A,2015,2015/2016
+Hellas Verona,Rafael Márquez,36,Centre-Back,Atlas,?,out,NA,Serie A,2015,2015/2016
+Hellas Verona,David Speziale,21,Attacking Midfield,Pistoiese,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Hysen Memolla,23,Left-Back,FC Koper,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Rafael,33,Goalkeeper,Cagliari Calcio,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Alessandro Gatto,21,Second Striker,Juve Stabia,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Alejandro González,27,Centre-Back,Ternana,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,David Speziale,21,Attacking Midfield,Pro Piacenza,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Mattia Valoti,21,Central Midfield,Pescara,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Alberto Formigoni,20,Forward,ASD DAK,?,out,NA,Serie A,2015,2015/2016
+Hellas Verona,Lazaros Christodoulopoulos,28,Right Winger,Sampdoria,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Marek Ocelka,18,Forward,Siena U19,?,out,NA,Serie A,2015,2015/2016
+Hellas Verona,Nícolas,27,Goalkeeper,Trapani,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Filippo Boni,20,Centre-Back,Prato,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Mattia Zaccagni,20,Central Midfield,Cittadella,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Michael Rabusic,25,Centre-Forward,Slovan Liberec,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Enrico Bearzotti,18,Right Midfield,Padova,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Jacopo Sala,24,Right-Back,Sampdoria,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Pierluigi Cappelluzzo,19,Centre-Forward,Pescara,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Simon Laner,31,Central Midfield,FC Chiasso,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Amadou Samb,27,Centre-Forward,KF Teuta,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Simone Calvano,22,Central Midfield,Tuttocuoio,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Simone Calvano,22,Central Midfield,Teramo,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Gino Ballarini,20,Centre-Back,Dro,?,out,NA,Serie A,2015,2015/2016
+Hellas Verona,Ernesto Torregrossa,23,Centre-Forward,Trapani,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Mattia Valoti,22,Central Midfield,AS Livorno,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Harallamb Qaqi,21,Centre-Back,FK Partizani,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Oscar Arzamendia,21,Defensive Midfield,Without Club,-,out,0,Serie A,2015,2015/2016
+Hellas Verona,Alessandro Agostini,35,Left-Back,Retired,-,out,0,Serie A,2015,2015/2016
+Hellas Verona,Cláudio Winck,21,Right-Back,Internacional,"End of loanMar 17, 2016",out,0,Serie A,2015,2015/2016
+Hellas Verona,Ivano Baldanzeddu,29,Right-Back,Without Club,-,out,0,Serie A,2015,2015/2016
+Hellas Verona,Riccardo Ravasi,21,Centre-Forward,Pro Patria,Loan,out,0,Serie A,2015,2015/2016
+Hellas Verona,Guillermo Rodríguez,31,Centre-Back,Without Club,-,out,0,Serie A,2015,2015/2016
+Hellas Verona,Leandro Greco,28,Central Midfield,Genoa,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Hellas Verona,Mattia Valoti,21,Central Midfield,UC AlbinoLeffe,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Hellas Verona,Gustavo Campanharo,23,Attacking Midfield,Bragantino,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Hellas Verona,Davide Brivio,27,Left-Back,Atalanta,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Hellas Verona,Eros Pisano,28,Right-Back,US Palermo,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Hellas Verona,Panagiotis Tachtsidis,24,Defensive Midfield,Genoa,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Hellas Verona,Nicolás López,21,Centre-Forward,Udinese Calcio,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Hellas Verona,Fernandinho,29,Left Winger,Grêmio,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Hellas Verona,Mounir Obbadi,32,Central Midfield,Monaco,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Hellas Verona,Frederik Sörensen,23,Centre-Back,Juventus,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Chievo Verona,Lucas Castro,26,Central Midfield,Catania,£3.15m,in,3.15,Serie A,2015,2015/2016
+Chievo Verona,Valter Birsa,28,Attacking Midfield,AC Milan,£1.35m,in,1.35,Serie A,2015,2015/2016
+Chievo Verona,Ervin Zukanovic,28,Centre-Back,KAA Gent,£900k,in,0.9,Serie A,2015,2015/2016
+Chievo Verona,Paul-José Mpoku,23,Left Winger,Standard Liège,Loan fee:£675k,in,0.675,Serie A,2015,2015/2016
+Chievo Verona,Nikola Ninkovic,21,Left Winger,Partizan,£495k,in,0.495,Serie A,2015,2015/2016
+Chievo Verona,Fabrizio Cacciatore,28,Right-Back,Sampdoria,Loan fee:£225k,in,0.225,Serie A,2015,2015/2016
+Chievo Verona,Marco Calderoni,26,Left-Back,Bari,£90k,in,0.09,Serie A,2015,2015/2016
+Chievo Verona,Massimo Gobbi,34,Left-Back,Parma,Free Transfer,in,0,Serie A,2015,2015/2016
+Chievo Verona,Filippo Di Maio,18,Centre-Back,Catania U19,Free Transfer,in,0,Serie A,2015,2015/2016
+Chievo Verona,Simone Pepe,31,Right Winger,Juventus,Free Transfer,in,0,Serie A,2015,2015/2016
+Chievo Verona,Nicolás Spolli,32,Centre-Back,Carpi,Free Transfer,in,0,Serie A,2015,2015/2016
+Chievo Verona,Giampiero Pinzi,34,Central Midfield,Udinese Calcio,Free Transfer,in,0,Serie A,2015,2015/2016
+Chievo Verona,Walter Bressan,34,Goalkeeper,Cesena,Free Transfer,in,0,Serie A,2015,2015/2016
+Chievo Verona,Isaac Ntow,21,Left-Back,Brescia,Free Transfer,in,0,Serie A,2015,2015/2016
+Chievo Verona,Matteo Brunelli,21,Goalkeeper,Carpi,?,in,NA,Serie A,2015,2015/2016
+Chievo Verona,Gianni Manfrin,21,Left-Back,Modena,?,in,NA,Serie A,2015,2015/2016
+Chievo Verona,Davide Savi,19,Centre-Back,Atalanta,?,in,NA,Serie A,2015,2015/2016
+Chievo Verona,Antonio Floro Flores,32,Centre-Forward,Sassuolo,Loan,in,0,Serie A,2015,2015/2016
+Chievo Verona,Victor da Silva,21,Second Striker,Teramo,"End of loanJan 31, 2016",in,0,Serie A,2015,2015/2016
+Chievo Verona,Raffaele Pucino,24,Right-Back,Virtus Lanciano,"End of loanJan 3, 2016",in,0,Serie A,2015,2015/2016
+Chievo Verona,Oliver Posarelli,19,Centre-Back,ASD Villafranca,"End of loanJan 5, 2016",in,0,Serie A,2015,2015/2016
+Chievo Verona,Fabian Sporkslede,22,Right-Back,Without Club,-,in,0,Serie A,2015,2015/2016
+Chievo Verona,Matteo Messetti,20,Left Winger,Reggiana,"End of loanDec 31, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Isaac Ntow,21,Left-Back,Como,"End of loanJan 4, 2016",in,0,Serie A,2015,2015/2016
+Chievo Verona,Alessandro Sbaffo,25,Central Midfield,Como,"End of loanJan 3, 2016",in,0,Serie A,2015,2015/2016
+Chievo Verona,Michele Troiani,18,Right-Back,Chievo U19,-,in,0,Serie A,2015,2015/2016
+Chievo Verona,N'Diaye Djiby,22,Central Midfield,Cremonese,"End of loanJan 27, 2016",in,0,Serie A,2015,2015/2016
+Chievo Verona,Ali Sowe,21,Centre-Forward,Modena,"End of loanJan 22, 2016",in,0,Serie A,2015,2015/2016
+Chievo Verona,Nicola Bellomo,24,Attacking Midfield,Ascoli,"End of loanJan 21, 2016",in,0,Serie A,2015,2015/2016
+Chievo Verona,Filippo Costa,20,Left-Back,Bournemouth U21,"End of loanDec 31, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Massimiliano Gatto,19,Left Winger,Carpi,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Sergio Viotti,25,Goalkeeper,Pro Vercelli,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Roberto Inglese,23,Centre-Forward,Carpi,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Isnik Alimi,21,Central Midfield,Lumezzane,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Thomas Mangani,28,Central Midfield,SCO Angers,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Filippo Costa,20,Left-Back,AC Pisa,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Malick Mbaye,19,Central Midfield,Carpi,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Marcos De Paula,31,Centre-Forward,ACR Messina,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Simone Moschin,19,Goalkeeper,AC Pisa,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Alessio Sestu,31,Right Winger,Brescia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Amedeo Benedetti,23,Left-Back,Reggina,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Alessandro Bassoli,25,Centre-Back,Cremonese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,N'Diaye Djiby,21,Central Midfield,Benevento,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Ansoumana Sané,19,Left-Back,Pro Piacenza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Edimar,29,Left-Back,Córdoba CF,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Diego Farias,25,Second Striker,Cagliari Calcio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Nicola Bellomo,24,Attacking Midfield,Bari,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Simone Aldrovandi,21,Centre-Back,SPAL,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Matteo Solini,22,Centre-Back,Real Vicenza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Victor da Silva,20,Second Striker,Brescia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Radoslav Kirilov,23,Left Winger,Cremonese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Mario Gargiulo,19,Central Midfield,Brescia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Alessandro Sbaffo,24,Central Midfield,AS Avellino,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Caleb Ekuban,21,Centre-Forward,Lumezzane,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Francesco Sabatucci,24,Centre-Back,Lumezzane,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Oumaro Coulibaly,21,Centre-Back,Paganese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Lorenzo Marchionni,20,Attacking Midfield,AS Gubbio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Valerio Anastasi,25,Centre-Forward,Pistoiese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Juri Cisotti,22,Left Winger,Spezia Calcio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Adrian Stoian,24,Left Winger,Crotone,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Nicola Rigoni,24,Central Midfield,Cittadella,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Emanuele Gatto,20,Central Midfield,Lumezzane,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Dejan Lazarevic,25,Left Winger,Sassuolo,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Ivan Provedel,21,Goalkeeper,Perugia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Yves Baraye,23,Left Winger,Torres,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Ali Sowe,21,Centre-Forward,Latina Calcio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Federico Franchini,21,Right Midfield,Lumezzane,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Simone Bentivoglio,30,Central Midfield,Brescia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Kevin Magri,19,Centre-Back,Reggina,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Raffaele Pucino,24,Right-Back,Pescara,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Tomasz Kupisz,25,Right Midfield,Cittadella,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Chievo Verona,Alberto Paloschi,26,Centre-Forward,Swansea,£7.92m,out,7.92,Serie A,2015,2015/2016
+Chievo Verona,Ervin Zukanovic,28,Centre-Back,Sampdoria,£2.95m,out,2.95,Serie A,2015,2015/2016
+Chievo Verona,Diego Farias,25,Second Striker,Cagliari Calcio,£1.13m,out,1.13,Serie A,2015,2015/2016
+Chievo Verona,Anders Christiansen,25,Defensive Midfield,Malmö FF,£658k,out,0.658,Serie A,2015,2015/2016
+Chievo Verona,Edimar,29,Left-Back,Rio Ave FC,Loan fee:£99k,out,0.099,Serie A,2015,2015/2016
+Chievo Verona,Alessio Sestu,31,Right Winger,Virtus Entella,Loan fee:£68k,out,0.068,Serie A,2015,2015/2016
+Chievo Verona,Valerio Anastasi,25,Centre-Forward,Mantova FC,Free Transfer,out,0,Serie A,2015,2015/2016
+Chievo Verona,Adrian Stoian,24,Left Winger,Crotone,Free Transfer,out,0,Serie A,2015,2015/2016
+Chievo Verona,Marcão,23,Goalkeeper,Rio Claro FC,Free Transfer,out,0,Serie A,2015,2015/2016
+Chievo Verona,Matteo Messetti,20,Left Winger,Bardolino,Free Transfer,out,0,Serie A,2015,2015/2016
+Chievo Verona,Simone Bentivoglio,30,Central Midfield,Modena,Free Transfer,out,0,Serie A,2015,2015/2016
+Chievo Verona,Dejan Lazarevic,25,Left Winger,Antalyaspor,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Francesco Sabatucci,24,Centre-Back,Cavese,Free Transfer,out,0,Serie A,2015,2015/2016
+Chievo Verona,Yves Baraye,23,Left Winger,Parma,Free Transfer,out,0,Serie A,2015,2015/2016
+Chievo Verona,Marcos De Paula,31,Centre-Forward,Atalanta,Free Transfer,out,0,Serie A,2015,2015/2016
+Chievo Verona,Christian Puggioni,34,Goalkeeper,Sampdoria,Free Transfer,out,0,Serie A,2015,2015/2016
+Chievo Verona,Matteo Solini,22,Centre-Back,Renate,Loan fee:£9k,out,0.009,Serie A,2015,2015/2016
+Chievo Verona,Oliver Posarelli,19,Centre-Back,Arzignano,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Federico Franchini,21,Right Midfield,Carpi,?,out,NA,Serie A,2015,2015/2016
+Chievo Verona,Simone Moschin,19,Goalkeeper,Renate,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Lorenzo Marchionni,20,Attacking Midfield,Modena,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Ali Sowe,21,Centre-Forward,Modena,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Tomasz Kupisz,25,Right Midfield,Brescia,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Emanuele Gatto,20,Central Midfield,Cuneo,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Filippo Di Maio,18,Centre-Back,Venezia,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Juri Cisotti,22,Left Winger,Spezia Calcio,?,out,NA,Serie A,2015,2015/2016
+Chievo Verona,Radoslav Kirilov,23,Left Winger,Südtirol,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Nicola Bellomo,24,Attacking Midfield,Ascoli,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Kevin Magri,19,Centre-Back,Vicenza,?,out,NA,Serie A,2015,2015/2016
+Chievo Verona,Armando Vajushi,23,Left Winger,AS Livorno,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Isaac Ntow,21,Left-Back,Renate,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Isnik Alimi,21,Central Midfield,Atalanta,?,out,NA,Serie A,2015,2015/2016
+Chievo Verona,Amedeo Benedetti,23,Left-Back,Cittadella,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Isaac Ntow,21,Left-Back,Como,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Ali Sowe,21,Centre-Forward,Lecce,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Alessandro Bassoli,25,Centre-Back,Südtirol,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Ivan Provedel,21,Goalkeeper,Modena,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Raffaele Pucino,24,Right-Back,Virtus Lanciano,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Gianni Manfrin,21,Left-Back,Alessandria,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Victor da Silva,20,Second Striker,Teramo,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Alessandro Sbaffo,25,Central Midfield,Como,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Victor da Silva,21,Second Striker,NK Istra,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Filippo Costa,20,Left-Back,Bournemouth U21,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Caleb Ekuban,21,Centre-Forward,Renate,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Simone Aldrovandi,21,Centre-Back,Modena,?,out,NA,Serie A,2015,2015/2016
+Chievo Verona,N'Diaye Djiby,21,Central Midfield,Cremonese,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Raffaele Pucino,24,Right-Back,Avellino,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Mario Gargiulo,19,Central Midfield,Bassano,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Nicola Bellomo,24,Attacking Midfield,Vicenza,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Thomas Mangani,28,Central Midfield,SCO Angers,?,out,NA,Serie A,2015,2015/2016
+Chievo Verona,Myles Anderson,25,Centre-Back,L'Aquila,?,out,NA,Serie A,2015,2015/2016
+Chievo Verona,Michele Troiani,19,Right-Back,Benevento,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,N'Diaye Djiby,22,Central Midfield,Lupa Cast Rom,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Ansoumana Sané,19,Left-Back,Pontedera,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Malick Mbaye,19,Central Midfield,Latina Calcio,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Fabian Sporkslede,22,Right-Back,Lupa Cast Rom,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Marco Calderoni,26,Left-Back,Latina Calcio,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Massimiliano Gatto,19,Left Winger,Pro Vercelli,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Davide Savi,19,Centre-Back,Ischia,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Alessandro Sbaffo,25,Central Midfield,Avellino,?,out,NA,Serie A,2015,2015/2016
+Chievo Verona,Matteo Brunelli,21,Goalkeeper,AC Pisa,Loan,out,0,Serie A,2015,2015/2016
+Chievo Verona,Sergio Viotti,25,Goalkeeper,Without Club,-,out,0,Serie A,2015,2015/2016
+Chievo Verona,Ervin Zukanovic,28,Centre-Back,KAA Gent,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Chievo Verona,Valter Birsa,28,Attacking Midfield,AC Milan,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Chievo Verona,Isaac Cofie,23,Central Midfield,Genoa,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Chievo Verona,Cristiano Biraghi,22,Left-Back,Inter,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Chievo Verona,Ezequiel Schelotto,26,Right-Back,Inter,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Chievo Verona,Nicola Pozzi,29,Centre-Forward,Parma,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Chievo Verona,Francesco Bardi,23,Goalkeeper,Inter,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Chievo Verona,Rubén Botta,25,Attacking Midfield,Inter,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Chievo Verona,Giannis Fetfatzidis,24,Right Winger,Genoa,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+FC Empoli,Riccardo Saponara,23,Attacking Midfield,AC Milan,£3.60m,in,3.6,Serie A,2015,2015/2016
+FC Empoli,Luca Bittante,21,Right-Back,Fiorentina,£720k,in,0.72,Serie A,2015,2015/2016
+FC Empoli,Raffaele Maiello,24,Central Midfield,SSC Napoli,Loan fee:£675k,in,0.675,Serie A,2015,2015/2016
+FC Empoli,Michele Camporese,23,Centre-Back,Fiorentina,£450k,in,0.45,Serie A,2015,2015/2016
+FC Empoli,Marko Livaja,22,Centre-Forward,Rubin Kazan,Loan fee:£270k,in,0.27,Serie A,2015,2015/2016
+FC Empoli,Rade Krunic,21,Central Midfield,Borac Cacak,Free Transfer,in,0,Serie A,2015,2015/2016
+FC Empoli,Marco Zambelli,29,Right-Back,Brescia,Free Transfer,in,0,Serie A,2015,2015/2016
+FC Empoli,Kastriot Dermaku,23,Centre-Back,Melfi,Free Transfer,in,0,Serie A,2015,2015/2016
+FC Empoli,Andrea Costa,29,Centre-Back,Parma,Free Transfer,in,0,Serie A,2015,2015/2016
+FC Empoli,Leandro Paredes,21,Defensive Midfield,AS Roma,Loan,in,0,Serie A,2015,2015/2016
+FC Empoli,Lorenzo Ariaudo,26,Centre-Back,Sassuolo,Loan,in,0,Serie A,2015,2015/2016
+FC Empoli,Lukasz Skorupski,24,Goalkeeper,AS Roma,Loan,in,0,Serie A,2015,2015/2016
+FC Empoli,Uroš Ćosić,22,Centre-Back,Pescara,?,in,NA,Serie A,2015,2015/2016
+FC Empoli,Marcel Büchel,24,Central Midfield,Juventus,Loan,in,0,Serie A,2015,2015/2016
+FC Empoli,Matteo Biggeri,19,Goalkeeper,Viareggio,"End of loanDec 19, 2015",in,0,Serie A,2015,2015/2016
+FC Empoli,Assane Dioussé,17,Defensive Midfield,Empoli U19,-,in,0,Serie A,2015,2015/2016
+FC Empoli,Andrea Valoriani,18,Goalkeeper,US Poggibonsi,"End of loanDec 1, 2015",in,0,Serie A,2015,2015/2016
+FC Empoli,Alessio Agrifogli,19,Left-Back,Tuttocuoio,"End of loanAug 26, 2015",in,0,Serie A,2015,2015/2016
+FC Empoli,Alessandro Piu,18,Left Winger,Empoli U19,-,in,0,Serie A,2015,2015/2016
+FC Empoli,Ludovico Gargiulo,20,Central Midfield,Cremonese,"End of loanJan 4, 2016",in,0,Serie A,2015,2015/2016
+FC Empoli,Luca Martinelli,26,Centre-Back,Novara,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+FC Empoli,Matteo Ricci,21,Goalkeeper,Pistoiese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+FC Empoli,Emanuele Rovini,20,Centre-Forward,SPAL,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+FC Empoli,Alberto Pelagotti,26,Goalkeeper,AC Pisa,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+FC Empoli,Carlo Menichetti,19,Defensive Midfield,Ponsacco,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+FC Empoli,Leonardo Bianchi,23,Attacking Midfield,Lucchese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+FC Empoli,Diego Frugoli,20,Centre-Forward,Savona,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+FC Empoli,Roberto Silvestri,20,Right Midfield,Gavorrano,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+FC Empoli,Stefano Castellani,23,Centre-Forward,Forlì,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+FC Empoli,Ludovico Gargiulo,20,Central Midfield,Tuttocuoio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+FC Empoli,Dramane Konaté,21,Centre-Back,Tuttocuoio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+FC Empoli,Romano Perticone,28,Centre-Back,Trapani,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+FC Empoli,Mateus Dos Santos,25,Centre-Forward,Sliema Wander.,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+FC Empoli,Ronaldo,25,Defensive Midfield,Pro Vercelli,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+FC Empoli,Mirko Valdifiori,29,Defensive Midfield,SSC Napoli,£4.95m,out,4.95,Serie A,2015,2015/2016
+FC Empoli,Elseid Hysaj,21,Right-Back,SSC Napoli,£4.50m,out,4.5,Serie A,2015,2015/2016
+FC Empoli,Federico Barba,22,Centre-Back,VfB Stuttgart,Loan fee:£900k,out,0.9,Serie A,2015,2015/2016
+FC Empoli,Mateus Dos Santos,25,Centre-Forward,Chieti,Free Transfer,out,0,Serie A,2015,2015/2016
+FC Empoli,Francesco Tavano,36,Centre-Forward,Avellino,Free Transfer,out,0,Serie A,2015,2015/2016
+FC Empoli,Davide Bassi,30,Goalkeeper,Atalanta,Free Transfer,out,0,Serie A,2015,2015/2016
+FC Empoli,Stefano Castellani,23,Centre-Forward,D. Porto Tolle,Loan,out,0,Serie A,2015,2015/2016
+FC Empoli,Ronaldo,25,Defensive Midfield,Lazio,Free Transfer,out,0,Serie A,2015,2015/2016
+FC Empoli,Leonardo Bianchi,23,Attacking Midfield,Rieti,Free Transfer,out,0,Serie A,2015,2015/2016
+FC Empoli,Ludovico Gargiulo,20,Central Midfield,Pistoiese,Loan,out,0,Serie A,2015,2015/2016
+FC Empoli,Carlo Menichetti,19,Defensive Midfield,Ponsacco,?,out,NA,Serie A,2015,2015/2016
+FC Empoli,Andrea Valoriani,18,Goalkeeper,Fortis Juventus,Loan,out,0,Serie A,2015,2015/2016
+FC Empoli,Franco Signorelli,24,Central Midfield,Ternana,Loan,out,0,Serie A,2015,2015/2016
+FC Empoli,Matteo Ricci,21,Goalkeeper,AS Livorno,Loan,out,0,Serie A,2015,2015/2016
+FC Empoli,Elia Angeli,20,Centre-Forward,US Castelnuovo,?,out,NA,Serie A,2015,2015/2016
+FC Empoli,Kastriot Dermaku,24,Centre-Back,Pavia,Loan,out,0,Serie A,2015,2015/2016
+FC Empoli,Roberto Silvestri,20,Right Midfield,Bucinese,?,out,NA,Serie A,2015,2015/2016
+FC Empoli,Romano Perticone,28,Centre-Back,Trapani,?,out,NA,Serie A,2015,2015/2016
+FC Empoli,Diego Frugoli,20,Centre-Forward,AC Pisa,?,out,NA,Serie A,2015,2015/2016
+FC Empoli,Alessio Agrifogli,19,Left-Back,Parma,Loan,out,0,Serie A,2015,2015/2016
+FC Empoli,Ludovico Gargiulo,20,Central Midfield,Cremonese,Loan,out,0,Serie A,2015,2015/2016
+FC Empoli,Matteo Biggeri,19,Goalkeeper,Legnago,Loan,out,0,Serie A,2015,2015/2016
+FC Empoli,Gianmaria Bolognesi,19,Goalkeeper,Ghiviborgo,?,out,NA,Serie A,2015,2015/2016
+FC Empoli,Emanuele Rovini,20,Centre-Forward,Udinese Calcio,?,out,NA,Serie A,2015,2015/2016
+FC Empoli,Luca Martinelli,26,Centre-Back,ACR Messina,?,out,NA,Serie A,2015,2015/2016
+FC Empoli,Dramane Konaté,21,Centre-Back,Ancona,Loan,out,0,Serie A,2015,2015/2016
+FC Empoli,Joshua Brillante,22,Central Midfield,Fiorentina,"End of loanAug 27, 2015",out,0,Serie A,2015,2015/2016
+FC Empoli,Tiberio Guarente,29,Central Midfield,Retired,-,out,0,Serie A,2015,2015/2016
+FC Empoli,Luigi Sepe,24,Goalkeeper,SSC Napoli,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+FC Empoli,Riccardo Saponara,23,Attacking Midfield,AC Milan,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+FC Empoli,Matías Vecino,23,Central Midfield,Fiorentina,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+FC Empoli,Michele Somma,20,Centre-Back,AS Roma,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+FC Empoli,Simone Verdi,22,Right Winger,Torino,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+FC Empoli,Daniele Rugani,20,Centre-Back,Juventus,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Udinese Calcio,Samir,21,Centre-Back,Flamengo,£3.60m,in,3.6,Serie A,2015,2015/2016
+Udinese Calcio,Iván Piris,26,Right-Back,Maldonado,£3.15m,in,3.15,Serie A,2015,2015/2016
+Udinese Calcio,Ryder Matos,22,Second Striker,Fiorentina,£2.70m,in,2.7,Serie A,2015,2015/2016
+Udinese Calcio,Andrija Balic,18,Central Midfield,Hajduk Split,£2.70m,in,2.7,Serie A,2015,2015/2016
+Udinese Calcio,Ali Adnan,21,Left-Back,C. Rizespor,£1.98m,in,1.98,Serie A,2015,2015/2016
+Udinese Calcio,Gaspar Íñiguez,21,Central Midfield,Granada CF,£1.08m,in,1.08,Serie A,2015,2015/2016
+Udinese Calcio,Emil Hallfredsson,31,Central Midfield,Hellas Verona,£900k,in,0.9,Serie A,2015,2015/2016
+Udinese Calcio,Adalberto Peñaranda,18,Centre-Forward,Dep. La Guaira,£693k,in,0.693,Serie A,2015,2015/2016
+Udinese Calcio,Marquinho,29,Attacking Midfield,AS Roma,£450k,in,0.45,Serie A,2015,2015/2016
+Udinese Calcio,Duván Zapata,24,Centre-Forward,SSC Napoli,Loan,in,0,Serie A,2015,2015/2016
+Udinese Calcio,Emanuel Insúa,24,Left-Back,Granada CF,Free Transfer,in,0,Serie A,2015,2015/2016
+Udinese Calcio,Felipe,31,Centre-Back,Inter,Free Transfer,in,0,Serie A,2015,2015/2016
+Udinese Calcio,Manuel Iturra,31,Defensive Midfield,Granada CF,Free Transfer,in,0,Serie A,2015,2015/2016
+Udinese Calcio,Emanuele Rovini,20,Centre-Forward,FC Empoli,?,in,NA,Serie A,2015,2015/2016
+Udinese Calcio,Zdravko Kuzmanović,28,Central Midfield,FC Basel,Loan,in,0,Serie A,2015,2015/2016
+Udinese Calcio,Nicolás López,22,Centre-Forward,Granada CF,"End of loanJan 15, 2016",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Rafael Romo,25,Goalkeeper,Watford,"End of loanAug 19, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Pablo Armero,29,Left-Back,Flamengo,"End of loanDec 31, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Manuel Puntar,19,Central Midfield,Martina Franca,"End of loanJan 5, 2016",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Neuton,25,Centre-Back,Granada CF,"End of loanJan 31, 2016",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Jakub Jankto,19,Central Midfield,Udinese U19,-,in,0,Serie A,2015,2015/2016
+Udinese Calcio,Adalberto Peñaranda,18,Centre-Forward,Granada CF,"End of loanJan 31, 2016",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Matías Campos Toro,26,Left-Back,Arsenal FC,"End of loanDec 31, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Douglas Santos,21,Left-Back,Atlético-MG,"End of loanJul 20, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Daniele Mori,25,Centre-Back,Lucchese,"End of loanJan 31, 2016",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Gabriel Silva,24,Left-Back,Carpi,"End of loanJan 31, 2016",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Francesco Lodi,31,Defensive Midfield,Without Club,-,in,0,Serie A,2015,2015/2016
+Udinese Calcio,Melker Hallberg,20,Central Midfield,Vålerenga,"End of loanDec 31, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Marco Bertoia,20,Central Midfield,Tamai,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Abdoul Sissoko,25,Defensive Midfield,Granada CF,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Matías Campos Toro,25,Left-Back,Española,"End of loanDec 31, 2014",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Masahudu Alhassan,22,Left-Back,Latina Calcio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Filippo Berra,20,Right-Back,Carrarese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Valerio Verre,21,Central Midfield,Perugia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Agostino Camigliano,20,Centre-Back,Cittadella,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Davide Marsura,21,Left Winger,Modena,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Alexandre Coeff,23,Defensive Midfield,Mouscron,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Frano Mlinar,23,Central Midfield,FC Aarau,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Davide Faraoni,23,Right-Back,Perugia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Jaime Romero,24,Right Winger,Real Zaragoza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Ivan Kelava,27,Goalkeeper,Spartak Trnava,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Ruben D'Incà,21,Right Winger,Belluno,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Naldo,26,Centre-Back,Getafe,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Matej Vydra,23,Centre-Forward,Watford,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Pape Dia,22,Left Winger,San Marino,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Roberto Codromaz,19,Centre-Back,Feralpisalò,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Roberto Pereyra,24,Left Midfield,Juventus,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Andrea Coda,30,Centre-Back,Sampdoria,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Edenilson,25,Central Midfield,Genoa,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Wojciech Pawlowski,22,Goalkeeper,Bytovia Bytow,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Daniele Mori,25,Centre-Back,Ascoli,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Tom Syku,19,Centre-Back,Imolese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Nicolás López,21,Centre-Forward,Hellas Verona,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Gabriel Torje,25,Right Winger,Konyaspor,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Zeljko Brkic,28,Goalkeeper,Cagliari Calcio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Dusan Basta,30,Right-Back,Lazio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Alexander Merkel,23,Central Midfield,Grasshoppers,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Luis Muriel,24,Centre-Forward,Sampdoria,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Rafael Romo,25,Goalkeeper,Mineros,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Nabil Jaadi,18,Right Winger,Latina Calcio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Allan Nyom,27,Right-Back,Granada CF,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Mattia Tellan,20,Central Midfield,Fontanafredda,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Udinese Calcio,Roberto Pereyra,24,Left Midfield,Juventus,£13.50m,out,13.5,Serie A,2015,2015/2016
+Udinese Calcio,Luis Muriel,24,Centre-Forward,Sampdoria,£10.80m,out,10.8,Serie A,2015,2015/2016
+Udinese Calcio,Allan,24,Central Midfield,SSC Napoli,£10.35m,out,10.35,Serie A,2015,2015/2016
+Udinese Calcio,Adalberto Peñaranda,18,Centre-Forward,Watford,£9.54m,out,9.54,Serie A,2015,2015/2016
+Udinese Calcio,Dusan Basta,30,Right-Back,Lazio,£9.45m,out,9.45,Serie A,2015,2015/2016
+Udinese Calcio,Matej Vydra,23,Centre-Forward,Watford,£7.56m,out,7.56,Serie A,2015,2015/2016
+Udinese Calcio,Naldo,26,Centre-Back,Sporting CP,£2.70m,out,2.7,Serie A,2015,2015/2016
+Udinese Calcio,Douglas Santos,21,Left-Back,Atlético-MG,£2.70m,out,2.7,Serie A,2015,2015/2016
+Udinese Calcio,Lucas Evangelista,20,Right Midfield,Panathinaikos,Loan fee:£108k,out,0.108,Serie A,2015,2015/2016
+Udinese Calcio,Allan Nyom,27,Right-Back,Watford,Free Transfer,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Abdoul Sissoko,25,Defensive Midfield,RCD Mallorca,Free Transfer,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Ivan Kelava,27,Goalkeeper,Granada CF,Free Transfer,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Mattia Benedetti,19,Left-Back,Matelica,Free Transfer,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Álex Geijo,33,Centre-Forward,Brescia,Free Transfer,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Alexandre Coeff,23,Defensive Midfield,G. Ajaccio,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Andrea Coda,30,Centre-Back,Sampdoria,Free Transfer,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Marco Bertoia,20,Central Midfield,Sanvitese,Free Transfer,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Giampiero Pinzi,34,Central Midfield,Chievo Verona,Free Transfer,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Gabriel Torje,25,Right Winger,Osmanlispor,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Rafael Romo,25,Goalkeeper,Watford,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Daniele Mori,25,Centre-Back,Santarcangelo,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Davide Marsura,21,Left Winger,Brescia,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Valerio Verre,21,Central Midfield,Pescara,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Melker Hallberg,20,Central Midfield,Hammarby,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Neuton,25,Centre-Back,Albacete,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Igor Bubnjic,23,Centre-Back,Carpi,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Melker Hallberg,19,Central Midfield,Vålerenga,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Emanuel Insúa,24,Left-Back,Newell's,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Masahudu Alhassan,22,Left-Back,Perugia,?,out,NA,Serie A,2015,2015/2016
+Udinese Calcio,Jaime Romero,25,Right Winger,Real Zaragoza,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Nicolás López,22,Centre-Forward,Nacional,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Filippo Berra,20,Right-Back,Pro Vercelli,?,out,NA,Serie A,2015,2015/2016
+Udinese Calcio,Pape Dia,22,Left Winger,Unknown,?,out,NA,Serie A,2015,2015/2016
+Udinese Calcio,Manuel Iturra,31,Defensive Midfield,Rayo Vallecano,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Emanuele Rovini,20,Centre-Forward,Pistoiese,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Gabriel Silva,24,Left-Back,Genoa,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Agostino Camigliano,21,Centre-Back,Trapani,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Tom Syku,19,Centre-Back,Imolese,?,out,NA,Serie A,2015,2015/2016
+Udinese Calcio,Nicolás López,21,Centre-Forward,Granada CF,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Wojciech Pawlowski,22,Goalkeeper,Rozwój Katowice,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Gabriel Silva,24,Left-Back,Carpi,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Frano Mlinar,23,Central Midfield,Inter Zapresic,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Samir,21,Centre-Back,Hellas Verona,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Daniele Mori,25,Centre-Back,Lucchese,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Matías Campos Toro,26,Left-Back,Audax Italiano,?,out,NA,Serie A,2015,2015/2016
+Udinese Calcio,Nabil Jaadi,19,Right Winger,Granada CF B,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Mattia Tellan,20,Central Midfield,Cjarlins Muzane,?,out,NA,Serie A,2015,2015/2016
+Udinese Calcio,Rodrigo Aguirre,21,Centre-Forward,Perugia,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Zeljko Brkic,29,Goalkeeper,Carpi,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Davide Faraoni,23,Right-Back,Novara,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Panagiotis Kone,28,Central Midfield,Fiorentina,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Alexis Zapata,20,Attacking Midfield,Perugia,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Manuel Puntar,19,Central Midfield,Sestri Levante,?,out,NA,Serie A,2015,2015/2016
+Udinese Calcio,Jakub Jankto,19,Central Midfield,Ascoli,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Simone Scuffet,19,Goalkeeper,Como,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Marquinho,29,Attacking Midfield,Ahli,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Ruben D'Incà,21,Right Winger,Belluno,?,out,NA,Serie A,2015,2015/2016
+Udinese Calcio,Roberto Codromaz,19,Centre-Back,Feralpisalò,?,out,NA,Serie A,2015,2015/2016
+Udinese Calcio,Adalberto Peñaranda,18,Centre-Forward,Granada CF,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Neuton,25,Centre-Back,Granada CF,Loan,out,0,Serie A,2015,2015/2016
+Udinese Calcio,Iván Piris,26,Right-Back,Maldonado,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Atalanta BC,Luca Valzania,19,Central Midfield,Cesena,£5.40m,in,5.4,Serie A,2015,2015/2016
+Atalanta BC,Jasmin Kurtic,26,Central Midfield,Sassuolo,£3.15m,in,3.15,Serie A,2015,2015/2016
+Atalanta BC,Rafael Tolói,24,Centre-Back,São Paulo,£3.15m,in,3.15,Serie A,2015,2015/2016
+Atalanta BC,Mauricio Pinilla,31,Centre-Forward,Genoa,£1.80m,in,1.8,Serie A,2015,2015/2016
+Atalanta BC,Remo Freuler,23,Central Midfield,FC Luzern,£1.35m,in,1.35,Serie A,2015,2015/2016
+Atalanta BC,Marten de Roon,24,Central Midfield,Heerenveen,£1.17m,in,1.17,Serie A,2015,2015/2016
+Atalanta BC,Andrea Petagna,20,Centre-Forward,AC Milan,£900k,in,0.9,Serie A,2015,2015/2016
+Atalanta BC,Boris Radunović,19,Goalkeeper,Rad,£450k,in,0.45,Serie A,2015,2015/2016
+Atalanta BC,Gaetano Monachello,21,Centre-Forward,Monaco,£450k,in,0.45,Serie A,2015,2015/2016
+Atalanta BC,Franck Kessié,18,Central Midfield,Stella Club,£270k,in,0.27,Serie A,2015,2015/2016
+Atalanta BC,Marco Borriello,33,Centre-Forward,Carpi,Free Transfer,in,0,Serie A,2015,2015/2016
+Atalanta BC,Berat Djimsiti,22,Centre-Back,FC Zürich,Free Transfer,in,0,Serie A,2015,2015/2016
+Atalanta BC,Marcos De Paula,31,Centre-Forward,Chievo Verona,Free Transfer,in,0,Serie A,2015,2015/2016
+Atalanta BC,Davide Bassi,30,Goalkeeper,FC Empoli,Free Transfer,in,0,Serie A,2015,2015/2016
+Atalanta BC,Gabriel Paletta,29,Centre-Back,AC Milan,Loan,in,0,Serie A,2015,2015/2016
+Atalanta BC,Isnik Alimi,21,Central Midfield,Chievo Verona,?,in,NA,Serie A,2015,2015/2016
+Atalanta BC,Luca Zanotti,22,Goalkeeper,Pro Patria,?,in,NA,Serie A,2015,2015/2016
+Atalanta BC,Edoardo Ceria,20,Right Winger,Juventus,?,in,NA,Serie A,2015,2015/2016
+Atalanta BC,Alessandro Diamanti,32,Second Striker,GZ Evergrande,Loan,in,0,Serie A,2015,2015/2016
+Atalanta BC,Serge Gakpé,28,Right Winger,Genoa,Loan,in,0,Serie A,2015,2015/2016
+Atalanta BC,Leonardo Gatto,23,Left Winger,Vicenza,"End of loanJan 31, 2016",in,0,Serie A,2015,2015/2016
+Atalanta BC,Salvatore Molina,24,Right Midfield,Cesena,"End of loanJan 31, 2016",in,0,Serie A,2015,2015/2016
+Atalanta BC,Roberto Gagliardini,21,Central Midfield,Vicenza,"End of loanJan 28, 2016",in,0,Serie A,2015,2015/2016
+Atalanta BC,Michele Canini,30,Centre-Back,FC Tokyo,"End of loanJul 6, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Edoardo Ceria,20,Right Winger,Arezzo,"End of loanJan 31, 2016",in,0,Serie A,2015,2015/2016
+Atalanta BC,Doudou Mangni,22,Centre-Forward,Sanliurfaspor,"End of loanJan 1, 2016",in,0,Serie A,2015,2015/2016
+Atalanta BC,Nadir Minotti,23,Defensive Midfield,Como,"End of loanJan 6, 2016",in,0,Serie A,2015,2015/2016
+Atalanta BC,Valerio Nava,21,Right-Back,Ascoli,"End of loanJan 13, 2016",in,0,Serie A,2015,2015/2016
+Atalanta BC,Michele Morelli,19,Right-Back,Grumellese,"End of loanJan 22, 2016",in,0,Serie A,2015,2015/2016
+Atalanta BC,Luca Zanotti,21,Goalkeeper,Melfi,"End of loanJan 4, 2016",in,0,Serie A,2015,2015/2016
+Atalanta BC,Luigi Badji Djibo,21,Centre-Back,Maceratese,"End of loanFeb 2, 2016",in,0,Serie A,2015,2015/2016
+Atalanta BC,Antonio Palma,21,Central Midfield,Juve Stabia,"End of loanSep 7, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Prince Gouano,22,Centre-Back,Bolton,"End of loanJan 30, 2016",in,0,Serie A,2015,2015/2016
+Atalanta BC,Richmond Boakye,22,Centre-Forward,Roda JC,"End of loanJan 1, 2016",in,0,Serie A,2015,2015/2016
+Atalanta BC,Davide Agazzi,22,Central Midfield,Virtus Lanciano,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Davide Brivio,27,Left-Back,Hellas Verona,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Luca Milesi,22,Centre-Back,Pro Vercelli,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Marcello Adiansi,19,Right Midfield,Piacenza,"End of loanJun 30, 2014",in,0,Serie A,2015,2015/2016
+Atalanta BC,Doudou Mangni,22,Centre-Forward,Latina Calcio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Faisal Bangal,20,Centre-Forward,San Marino,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Riccardo Cazzola,29,Defensive Midfield,Cesena,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Luigi Badji Djibo,20,Centre-Back,Paganese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Alberto Almici,22,Right-Back,AS Avellino,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Mattia Caldara,21,Centre-Back,Trapani,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Leonardo Gatto,23,Left Winger,Virtus Lanciano,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Nadir Minotti,23,Defensive Midfield,Foggia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Moussa Koné,25,Central Midfield,AS Avellino,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Nana Welbeck,20,Central Midfield,NK Krka,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Stefano Cason,19,Centre-Back,Siena,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Constantin Nica,22,Right-Back,Cesena,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Giuseppe Ungaro,20,Attacking Midfield,Real Vicenza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Federico Varano,20,Central Midfield,Unione Venezia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Stefano Romano,20,Right Winger,Ciserano,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Guido Marilungo,25,Centre-Forward,Cesena,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Davide Savi,19,Centre-Back,Feralpisalò,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Gianluca Barba,20,Central Midfield,Pro Piacenza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Luca Zanotti,21,Goalkeeper,Carrarese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Andrea Rascaroli,20,Right Midfield,Siena,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Salvatore Molina,23,Right Midfield,Carpi,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Alex Redolfi,21,Centre-Back,Pontedera,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Emanuele Suagher,22,Centre-Back,Carpi,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Rubén Bentancourt,22,Centre-Forward,Defensor,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Andrea Conti,21,Right-Back,Virtus Lanciano,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Roberto Gagliardini,21,Central Midfield,Spezia Calcio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Simone Magnaghi,21,Centre-Forward,Unione Venezia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Francesco Zanoni,19,Centre-Back,Pergolettese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Daniele Capelli,29,Centre-Back,Cesena,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Matteo Contini,35,Centre-Back,Bari,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Valerio Nava,21,Right-Back,SPAL,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Luigi Giorgi,28,Central Midfield,Cesena,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Matteo Scozzarella,27,Defensive Midfield,Trapani,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Antonio Palma,21,Central Midfield,Feralpisalò,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Prince Gouano,21,Centre-Back,Rio Ave FC,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Francesco Rossi,24,Goalkeeper,Lupa Roma,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Nicolò Tonon,21,Central Midfield,Savona,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Atalanta BC,Alberto Grassi,20,Central Midfield,SSC Napoli,£7.20m,out,7.2,Serie A,2015,2015/2016
+Atalanta BC,Yohan Benalouane,28,Centre-Back,Leicester,£6.30m,out,6.3,Serie A,2015,2015/2016
+Atalanta BC,Daniele Baselli,23,Central Midfield,Torino,£5.40m,out,5.4,Serie A,2015,2015/2016
+Atalanta BC,Maxi Moralez,28,Attacking Midfield,León,£4.50m,out,4.5,Serie A,2015,2015/2016
+Atalanta BC,Davide Zappacosta,23,Right-Back,Torino,£3.87m,out,3.87,Serie A,2015,2015/2016
+Atalanta BC,Moussa Koné,25,Central Midfield,Cesena,£3.29m,out,3.29,Serie A,2015,2015/2016
+Atalanta BC,Federico Varano,20,Central Midfield,Cesena,£2.25m,out,2.25,Serie A,2015,2015/2016
+Atalanta BC,Gianluca Barba,20,Central Midfield,Pescara,£1.35m,out,1.35,Serie A,2015,2015/2016
+Atalanta BC,Daniele Capelli,29,Centre-Back,Cesena,Free Transfer,out,0,Serie A,2015,2015/2016
+Atalanta BC,Richmond Boakye,22,Centre-Forward,Latina Calcio,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Constantin Nica,22,Right-Back,Avellino,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Ákos Kecskés,19,Centre-Back,Újpest FC,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Richmond Boakye,22,Centre-Forward,Roda JC,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Germán Denis,34,Centre-Forward,Independiente,Free Transfer,out,0,Serie A,2015,2015/2016
+Atalanta BC,Edoardo Ceria,20,Right Winger,Feralpisalò,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Mattia Caldara,21,Centre-Back,Cesena,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Stefano Romano,20,Right Winger,Borgosesia,?,out,NA,Serie A,2015,2015/2016
+Atalanta BC,Isnik Alimi,21,Central Midfield,Maceratese,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Emanuele Suagher,23,Centre-Back,Carpi,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Francesco Rossi,24,Goalkeeper,Prato,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Valerio Nava,21,Right-Back,Cittadella,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Luca Milesi,22,Centre-Back,Arezzo,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Prince Gouano,21,Centre-Back,Bolton,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Luigi Giorgi,28,Central Midfield,Ascoli,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Michele Morelli,19,Right-Back,MapelloBonate,?,out,NA,Serie A,2015,2015/2016
+Atalanta BC,Luca Valzania,19,Central Midfield,Cesena,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Giuseppe Ungaro,20,Attacking Midfield,Mantova FC,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Edoardo Ceria,20,Right Winger,Arezzo,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Doudou Mangni,22,Centre-Forward,Ascoli,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Alex Redolfi,21,Centre-Back,Pro Vercelli,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Nadir Minotti,23,Defensive Midfield,Como,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Cristiano Del Grosso,32,Left-Back,Bari,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Salvatore Molina,24,Right Midfield,Perugia,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Davide Agazzi,22,Central Midfield,Catania,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Doudou Mangni,22,Centre-Forward,Sanliurfaspor,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Riccardo Cazzola,29,Defensive Midfield,AS Livorno,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Nadir Minotti,23,Defensive Midfield,Siena,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Rubén Bentancourt,22,Centre-Forward,Arezzo,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Antonio Palma,21,Central Midfield,Juve Stabia,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Antonio Palma,21,Central Midfield,Teramo,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Luigi Badji Djibo,20,Centre-Back,Maceratese,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Prince Gouano,22,Centre-Back,Gaziantepspor,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Salvatore Molina,23,Right Midfield,Cesena,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Simone Magnaghi,21,Centre-Forward,Cremonese,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Marcos De Paula,32,Centre-Forward,Resende,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Alberto Almici,22,Right-Back,Ascoli,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Faisal Bangal,20,Centre-Forward,Tuttocuoio,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Luca Zanotti,21,Goalkeeper,Pro Patria,?,out,NA,Serie A,2015,2015/2016
+Atalanta BC,Nana Welbeck,20,Central Midfield,NK Krka,?,out,NA,Serie A,2015,2015/2016
+Atalanta BC,Matteo Contini,35,Centre-Back,Bari,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Stefano Cason,20,Centre-Back,Melfi,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Nicolas Napol,19,Centre-Forward,Avellino,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Andrea Petagna,20,Centre-Forward,Ascoli,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Davide Savi,19,Centre-Back,Chievo Verona,?,out,NA,Serie A,2015,2015/2016
+Atalanta BC,Matteo Scozzarella,27,Defensive Midfield,Trapani,?,out,NA,Serie A,2015,2015/2016
+Atalanta BC,Valerio Nava,21,Right-Back,Ascoli,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Michele Canini,30,Centre-Back,Ascoli,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Luca Zanotti,21,Goalkeeper,Melfi,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Franck Kessié,18,Central Midfield,Cesena,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Leonardo Gatto,23,Left Winger,Salernitana,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Leonardo Gatto,23,Left Winger,Vicenza,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Roberto Gagliardini,21,Central Midfield,Vicenza,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Guido Marilungo,26,Centre-Forward,Virtus Lanciano,Loan,out,0,Serie A,2015,2015/2016
+Atalanta BC,Urby Emanuelson,29,Central Midfield,Without Club,-,out,0,Serie A,2015,2015/2016
+Atalanta BC,Giorgio Frezzolini,39,Goalkeeper,Retired,-,out,0,Serie A,2015,2015/2016
+Atalanta BC,Giuseppe Biava,38,Centre-Back,Retired,-,out,0,Serie A,2015,2015/2016
+Atalanta BC,Francesco Zanoni,19,Centre-Back,Without Club,-,out,0,Serie A,2015,2015/2016
+Atalanta BC,Marcelo Estigarribia,28,Left Midfield,Maldonado,"End of loanFeb 4, 2016",out,0,Serie A,2015,2015/2016
+Atalanta BC,Lionel Scaloni,37,Right-Back,Retired,-,out,0,Serie A,2015,2015/2016
+Atalanta BC,Nicolò Tonon,21,Central Midfield,Without Club,-,out,0,Serie A,2015,2015/2016
+Atalanta BC,Rolando Bianchi,32,Centre-Forward,Bologna,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Atalanta BC,Mauricio Pinilla,31,Centre-Forward,Genoa,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Atalanta BC,Lorenzo Rosseti,20,Centre-Forward,Juventus,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Atalanta BC,Vlada Avramov,36,Goalkeeper,Torino,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Mattia Destro,24,Centre-Forward,AS Roma,£7.65m,in,7.65,Serie A,2015,2015/2016
+Bologna FC 1909,Ibrahima Mbaye,20,Right-Back,Inter,£3.15m,in,3.15,Serie A,2015,2015/2016
+Bologna FC 1909,Luca Rossettini,30,Centre-Back,Cagliari Calcio,£2.25m,in,2.25,Serie A,2015,2015/2016
+Bologna FC 1909,Erick Pulgar,21,Defensive Midfield,CDUC,£2.05m,in,2.05,Serie A,2015,2015/2016
+Bologna FC 1909,Anthony Mounier,27,Left Winger,Montpellier,£1.80m,in,1.8,Serie A,2015,2015/2016
+Bologna FC 1909,Godfred Donsah,19,Central Midfield,Cagliari Calcio,Loan fee:£1.80m,in,1.8,Serie A,2015,2015/2016
+Bologna FC 1909,Lorenzo Crisetig,22,Defensive Midfield,Inter,Loan fee:£1.62m,in,1.62,Serie A,2015,2015/2016
+Bologna FC 1909,Filippo Falco,23,Second Striker,Lecce,£1.08m,in,1.08,Serie A,2015,2015/2016
+Bologna FC 1909,Marco Crimi,25,Central Midfield,Latina Calcio,£900k,in,0.9,Serie A,2015,2015/2016
+Bologna FC 1909,Amadou Diawara,17,Defensive Midfield,San Marino,£540k,in,0.54,Serie A,2015,2015/2016
+Bologna FC 1909,Sergio Floccari,34,Centre-Forward,Sassuolo,£450k,in,0.45,Serie A,2015,2015/2016
+Bologna FC 1909,Emil Krafth,21,Right-Back,Helsingborg,£450k,in,0.45,Serie A,2015,2015/2016
+Bologna FC 1909,Emanuele Giaccherini,30,Left Midfield,Sunderland,Loan fee:£225k,in,0.225,Serie A,2015,2015/2016
+Bologna FC 1909,Matteo Brighi,34,Central Midfield,Sassuolo,Free Transfer,in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Antonio Mirante,31,Goalkeeper,Parma,Free Transfer,in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Franco Brienza,36,Attacking Midfield,Cesena,Free Transfer,in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Luca Rizzo,23,Central Midfield,Sampdoria,Loan,in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Filippo Falco,23,Second Striker,Lecce,Loan,in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Bálint Vécsei,22,Attacking Midfield,Honvéd,?,in,NA,Serie A,2015,2015/2016
+Bologna FC 1909,Saphir Taider,23,Central Midfield,Inter,Loan,in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Camilo Zúñiga,30,Right-Back,SSC Napoli,Loan,in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Marko Krivicic,19,Central Midfield,FC Koper,Loan,in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Francesco Bergamini,20,Central Midfield,Arezzo,"End of loanSep 22, 2015",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Kévin Constant,28,Central Midfield,Without Club,-,in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Luca Camorani,19,Centre-Back,V. Francavilla,"End of loanDec 1, 2015",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Rubén Palomeque,21,Right-Back,Paganese,"End of loanJan 5, 2016",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Antonio Calabrese,19,Centre-Forward,Arezzo,"End of loanFeb 1, 2016",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Nicolò Scalini,19,Central Midfield,Torres,"End of loanSep 1, 2015",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Dejan Stojanovic,21,Goalkeeper,Crotone,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Cesare Rickler,28,Centre-Back,Prato,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Matteo Malagoli,20,Goalkeeper,Mantova FC,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Riccardo Benatti,21,Right Winger,Pordenone,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Rolando Bianchi,32,Centre-Forward,Atalanta,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Nico Pulzetti,31,Central Midfield,Cesena,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Filippo Lorenzini,20,Centre-Back,Sestri Levante,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Martí Riverola,24,Central Midfield,SCR Altach,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Luca Veratti,22,Centre-Forward,SPAL,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Andrea Pisanu,33,Right Midfield,Sliema Wander.,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,José Crespo,28,Centre-Back,Córdoba CF,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Gianmarco Gerevini,22,Defensive Midfield,Ischia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Abdallah Yaisien,21,Attacking Midfield,Arezzo,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Francesco Bergamini,20,Central Midfield,Paganese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Rubén Palomeque,20,Right-Back,Cremonese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Daniele Paponi,27,Centre-Forward,Ancona,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,Damjan Djokovic,25,Central Midfield,AS Livorno,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Bologna FC 1909,José Crespo,28,Centre-Back,Córdoba CF,£450k,out,0.45,Serie A,2015,2015/2016
+Bologna FC 1909,Daniele Paponi,27,Centre-Forward,Latina Calcio,£270k,out,0.27,Serie A,2015,2015/2016
+Bologna FC 1909,Mathías Abero,25,Left-Back,Nacional,Free Transfer,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Uros Radakovic,21,Centre-Back,Sigma Olomouc,Loan,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Luca Veratti,22,Centre-Forward,Melfi,Free Transfer,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Nico Pulzetti,31,Central Midfield,Spezia Calcio,Free Transfer,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Damjan Djokovic,25,Central Midfield,G. Ajaccio,Free Transfer,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Riccardo Benatti,21,Right Winger,Castelvetro,Free Transfer,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Nicolò Scalini,20,Central Midfield,Imolese,Free Transfer,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Rolando Bianchi,32,Centre-Forward,RCD Mallorca,Free Transfer,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Michele Pazienza,32,Defensive Midfield,Vicenza,Free Transfer,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Filippo Falco,23,Second Striker,Cesena,Loan,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Filippo Lorenzini,20,Centre-Back,Lucchese,?,out,NA,Serie A,2015,2015/2016
+Bologna FC 1909,Bálint Vécsei,22,Attacking Midfield,Lecce,Loan,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Marco Crimi,25,Central Midfield,Carpi,Loan,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Martí Riverola,24,Central Midfield,Foggia,?,out,NA,Serie A,2015,2015/2016
+Bologna FC 1909,Daniele Cacia,32,Centre-Forward,Ascoli,?,out,NA,Serie A,2015,2015/2016
+Bologna FC 1909,Matteo Mancosu,31,Centre-Forward,Carpi,Loan,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Francesco Bergamini,21,Central Midfield,Virtus Lanciano,Loan,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Gianmarco Gerevini,22,Defensive Midfield,Atlético CP,Loan,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Lorenzo Paramatti,20,Centre-Back,Siena,Loan,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Rubén Palomeque,20,Right-Back,Paganese,Loan,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Francesco Bergamini,20,Central Midfield,Arezzo,Loan,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,György Garics,31,Right-Back,SV Darmstadt 98,?,out,NA,Serie A,2015,2015/2016
+Bologna FC 1909,Matteo Malagoli,20,Goalkeeper,Santarcangelo,?,out,NA,Serie A,2015,2015/2016
+Bologna FC 1909,Rubén Palomeque,21,Right-Back,Lucchese,Loan,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Ferdinando Coppola,37,Goalkeeper,Hellas Verona,?,out,NA,Serie A,2015,2015/2016
+Bologna FC 1909,Luca Camorani,19,Centre-Back,Otranto,Loan,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Luca Ceccarelli,32,Right-Back,Salernitana,Loan,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Nicola Camilloni,17,Right-Back,AJ Fano,Loan,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Federico Casarini,25,Central Midfield,Without Club,-,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Abdallah Yaisien,21,Attacking Midfield,Without Club,-,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Diego Pérez,35,Defensive Midfield,Retired,-,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Matuzalém,35,Defensive Midfield,Without Club,-,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Filippo Falco,23,Second Striker,Lecce,"End of loanJan 31, 2016",out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Cesare Rickler,28,Centre-Back,Retired,-,out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Gennaro Troianiello,32,Right Winger,US Palermo,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Riccardo Improta,21,Left Winger,Genoa,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Ibrahima Mbaye,20,Right-Back,Inter,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Marcel Büchel,24,Central Midfield,Juventus,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Gianluca Sansone,28,Centre-Forward,Sampdoria,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Karim Laribi,24,Left Winger,Sassuolo,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Daniel Bessa,22,Central Midfield,Inter,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Bologna FC 1909,Nenad Krsticic,24,Central Midfield,Sampdoria,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Stefano Sabelli,23,Right-Back,Bari,Loan fee:£270k,in,0.27,Serie A,2015,2015/2016
+Carpi FC 1909,Francesco Benussi,33,Goalkeeper,Hellas Verona,Free Transfer,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Fabio Daprelà,24,Centre-Back,US Palermo,Free Transfer,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Andrea Lazzari,30,Central Midfield,Fiorentina,Free Transfer,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Eddy Gnahoré,22,Central Midfield,SSC Napoli,Loan,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Kamil Wilczek,27,Centre-Forward,Piast Gliwice,Free Transfer,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Cristian Zaccardo,33,Centre-Back,AC Milan,Free Transfer,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Vid Belec,25,Goalkeeper,Inter,Free Transfer,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Nicolás Spolli,32,Centre-Back,Catania,Free Transfer,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Jonathan de Guzmán,28,Central Midfield,SSC Napoli,Loan,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Raphael Martinho,27,Left Midfield,Catania,Free Transfer,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Ryan Hiwat,19,Right Midfield,PSV U19,Free Transfer,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Federico Gino,22,Central Midfield,Defensor,Loan,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Ryder Matos,22,Second Striker,Fiorentina,Loan,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Matteo Mancosu,31,Centre-Forward,Bologna,Loan,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Simone Colombi,24,Goalkeeper,Cagliari Calcio,Loan,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Igor Bubnjic,23,Centre-Back,Udinese Calcio,Loan,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Simone Verdi,23,Right Winger,AC Milan,Loan,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Gaspar Íñiguez,21,Central Midfield,Granada CF,Loan,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Federico Franchini,21,Right Midfield,Chievo Verona,?,in,NA,Serie A,2015,2015/2016
+Carpi FC 1909,Isaac Cofie,23,Central Midfield,Genoa,Loan,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Matteo Fedele,23,Central Midfield,FC Sion,Loan,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Emanuele Suagher,23,Centre-Back,Atalanta,Loan,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Zeljko Brkic,29,Goalkeeper,Udinese Calcio,Loan,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Wallace Oliveira,21,Right-Back,Chelsea,Loan,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Gabriel Silva,24,Left-Back,Udinese Calcio,Loan,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Maicol Murano,18,Goalkeeper,Abano,?,in,NA,Serie A,2015,2015/2016
+Carpi FC 1909,Marco Crimi,25,Central Midfield,Bologna,Loan,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Luca Marrone,25,Centre-Back,Juventus,Loan,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Filippo Porcari,31,Defensive Midfield,Bari,Loan,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Nicolò Sperotto,23,Left-Back,Arezzo,"End of loanNov 20, 2015",in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Marco Borriello,33,Centre-Forward,Without Club,-,in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Fabrizio Poli,26,Centre-Back,Novara,"End of loanJan 28, 2016",in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Francesco Forte,23,Goalkeeper,Vigor Lamezia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Giacomo Ridolfi,21,Attacking Midfield,Santarcangelo,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Luca Cognigni,24,Centre-Forward,Ancona,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Riccardo Marani,20,Goalkeeper,Sambenedettese,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Andrea Boron,22,Left-Back,Grosseto,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Gabriele Boilini,24,Left Winger,Savoia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Nicolò Sperotto,23,Left-Back,Cosenza,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Carpi FC 1909,Kamil Wilczek,27,Centre-Forward,Bröndby IF,£203k,out,0.203,Serie A,2015,2015/2016
+Carpi FC 1909,Luca Cognigni,24,Centre-Forward,Ancona,£45k,out,0.045,Serie A,2015,2015/2016
+Carpi FC 1909,Francesco Benussi,34,Goalkeeper,Vicenza,Free Transfer,out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Riccardo Marani,20,Goalkeeper,Veregra,Free Transfer,out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Roberto Maurantonio,34,Goalkeeper,Akragas,Free Transfer,out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Nicolás Spolli,32,Centre-Back,Chievo Verona,Free Transfer,out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Gabriele Boilini,24,Left Winger,D. Porto Tolle,Free Transfer,out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Marco Borriello,33,Centre-Forward,Atalanta,Free Transfer,out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Andrea Lazzari,31,Central Midfield,Bari,Free Transfer,out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Giacomo Ridolfi,21,Attacking Midfield,Vis Pesaro,Free Transfer,out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Andrea Boron,22,Left-Back,Siena,Loan,out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Alessio Sabbione,23,Centre-Back,Crotone,Loan,out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Fabrizio Poli,26,Centre-Back,Novara,Loan,out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Matteo Brunelli,21,Goalkeeper,Chievo Verona,?,out,NA,Serie A,2015,2015/2016
+Carpi FC 1909,Alberto Torelli,20,Central Midfield,Siena,Loan,out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Nicolò Sperotto,23,Left-Back,Alessandria,Loan,out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Francesco Forte,23,Goalkeeper,Maceratese,?,out,NA,Serie A,2015,2015/2016
+Carpi FC 1909,Ryan Hiwat,19,Right Midfield,Virtus Lanciano,Loan,out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Maicol Murano,19,Goalkeeper,Luparense FC,Loan,out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Nicolò Sperotto,23,Left-Back,Arezzo,Loan,out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Filippo Porcari,31,Defensive Midfield,Bari,?,out,NA,Serie A,2015,2015/2016
+Carpi FC 1909,Wallace Oliveira,21,Right-Back,Chelsea,"End of loanJan 6, 2016",out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Gaspar Íñiguez,21,Central Midfield,Granada CF,"End of loanJan 15, 2016",out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Antonio Loi,18,Attacking Midfield,Cagliari Calcio,"End of loanAug 11, 2015",out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Gabriel Silva,24,Left-Back,Udinese Calcio,"End of loanJan 31, 2016",out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Luca Marrone,25,Centre-Back,Juventus,"End of loanJan 27, 2016",out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Ryder Matos,22,Second Striker,Fiorentina,"End of loanJan 29, 2016",out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Federico Gino,22,Central Midfield,Defensor,"End of loanJan 4, 2016",out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Renato Dossena,28,Goalkeeper,Retired,-,out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Nicola Pasini,24,Centre-Back,Genoa,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Marco Modolo,26,Centre-Back,Parma,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Roberto Inglese,23,Centre-Forward,Chievo Verona,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Emanuele Suagher,22,Centre-Back,Atalanta,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Gabriel,22,Goalkeeper,AC Milan,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Mario Pugliese,19,Right-Back,Atalanta U19,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Malick Mbaye,19,Central Midfield,Chievo Verona,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Aljaz Struna,24,Centre-Back,US Palermo,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Salvatore Molina,23,Right Midfield,Atalanta,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Massimiliano Gatto,19,Left Winger,Chievo Verona,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Carpi FC 1909,Simon Laner,31,Central Midfield,Hellas Verona,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Frosinone Calcio,Oliver Kragl,25,Left Midfield,SV  Ried,£360k,in,0.36,Serie A,2015,2015/2016
+Frosinone Calcio,Modibo Diakité,28,Centre-Back,Cagliari Calcio,Free Transfer,in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Aleksandar Tonev,25,Second Striker,Aston Villa,Free Transfer,in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Samuele Longo,23,Centre-Forward,Inter,Loan,in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Lys Gomis,25,Goalkeeper,Torino,Loan,in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Vasyl Pryima,24,Centre-Back,Torino,Loan,in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Daniel Pavlovic,27,Left-Back,Grasshoppers,Loan,in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Nicolás Castillo,22,Centre-Forward,Club Brugge,Loan,in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Francesco Bardi,24,Goalkeeper,Inter,Loan,in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Daniele Verde,19,Right Winger,AS Roma,Loan,in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Nicola Leali,22,Goalkeeper,Juventus,Loan,in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Raman Chibsah,22,Central Midfield,Sassuolo,Loan,in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Aleandro Rosi,28,Right-Back,Genoa,Loan,in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Giuliano Regolanti,21,Centre-Forward,Matera,"End of loanJan 27, 2016",in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Alessio Proietti,19,Right-Back,US Poggibonsi,"End of loanDec 10, 2015",in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Arlind Ajeti,22,Centre-Back,Without Club,-,in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Giuliano Regolanti,20,Centre-Forward,AS Gubbio,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Andrea Gessa,35,Right Midfield,Pescara,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Daniele Frabotta,21,Centre-Back,Lupa Roma,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Fabio Formato,21,Centre-Back,Ischia,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Raffaele Schiavi,29,Centre-Back,Catania,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Michele Mangiapelo,29,Goalkeeper,Grosseto,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Daniele Altobelli,22,Central Midfield,Ascoli,"End of loanJun 30, 2015",in,0,Serie A,2015,2015/2016
+Frosinone Calcio,Raffaele Schiavi,29,Centre-Back,Catania,£180k,out,0.18,Serie A,2015,2015/2016
+Frosinone Calcio,Damiano Zanon,32,Right-Back,Ternana,Free Transfer,out,0,Serie A,2015,2015/2016
+Frosinone Calcio,Alessio Proietti,19,Right-Back,Isola Liri,Free Transfer,out,0,Serie A,2015,2015/2016
+Frosinone Calcio,Modibo Diakité,28,Centre-Back,Sampdoria,Free Transfer,out,0,Serie A,2015,2015/2016
+Frosinone Calcio,Giuliano Regolanti,20,Centre-Forward,Matera,Loan,out,0,Serie A,2015,2015/2016
+Frosinone Calcio,Fabio Formato,21,Centre-Back,Prato,Loan,out,0,Serie A,2015,2015/2016
+Frosinone Calcio,Davide Bertoncini,24,Centre-Back,Modena,Loan,out,0,Serie A,2015,2015/2016
+Frosinone Calcio,Mirko Pigliacelli,22,Goalkeeper,Pescara,?,out,NA,Serie A,2015,2015/2016
+Frosinone Calcio,Arturo Lupoli,28,Centre-Forward,AC Pisa,?,out,NA,Serie A,2015,2015/2016
+Frosinone Calcio,Giuliano Regolanti,21,Centre-Forward,Prato,Loan,out,0,Serie A,2015,2015/2016
+Frosinone Calcio,Victor De Lucia,19,Goalkeeper,Latina Calcio,?,out,NA,Serie A,2015,2015/2016
+Frosinone Calcio,Michele Mangiapelo,29,Goalkeeper,Lupa Roma,?,out,NA,Serie A,2015,2015/2016
+Frosinone Calcio,Daniele Altobelli,22,Central Midfield,Ascoli,Loan,out,0,Serie A,2015,2015/2016
+Frosinone Calcio,Enrico Crescenzi,21,Central Midfield,Without Club,-,out,0,Serie A,2015,2015/2016
+Frosinone Calcio,Nicolás Castillo,22,Centre-Forward,Club Brugge,"End of loanJan 5, 2016",out,0,Serie A,2015,2015/2016
+Frosinone Calcio,Manuel Pamic,28,Left-Back,Without Club,-,out,0,Serie A,2015,2015/2016
+Frosinone Calcio,Daniele Verde,19,Right Winger,AS Roma,"End of loanJan 5, 2016",out,0,Serie A,2015,2015/2016
+Frosinone Calcio,Andrea Gessa,35,Right Midfield,Retired,-,out,0,Serie A,2015,2015/2016
+Frosinone Calcio,Daniele Frabotta,21,Centre-Back,Without Club,-,out,0,Serie A,2015,2015/2016
+Frosinone Calcio,Lys Gomis,26,Goalkeeper,Torino,"End of loanJan 25, 2016",out,0,Serie A,2015,2015/2016
+Frosinone Calcio,Uroš Ćosić,22,Centre-Back,Pescara,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Frosinone Calcio,Luis César Fraiz,22,Left-Back,Árabe Unido,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Frosinone Calcio,Mario Santana,33,Second Striker,Genoa,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016
+Frosinone Calcio,Federico Fois,17,Central Midfield,Bologna U19,"End of loanJun 30, 2015",out,0,Serie A,2015,2015/2016

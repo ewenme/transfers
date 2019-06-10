@@ -1,0 +1,547 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Bayern Munich,Corentin Tolisso,22,Central Midfield,Olympique Lyon,£37.35m,in,37.35,1 Bundesliga,2017,2017/2018
+Bayern Munich,Kingsley Coman,21,Left Winger,Juventus,£18.90m,in,18.9,1 Bundesliga,2017,2017/2018
+Bayern Munich,Niklas Süle,21,Centre-Back,TSG Hoffenheim,£18.00m,in,18,1 Bundesliga,2017,2017/2018
+Bayern Munich,James Rodríguez,26,Attacking Midfield,Real Madrid,Loan fee:£11.70m,in,11.7,1 Bundesliga,2017,2017/2018
+Bayern Munich,Sandro Wagner,30,Centre-Forward,TSG Hoffenheim,£11.70m,in,11.7,1 Bundesliga,2017,2017/2018
+Bayern Munich,Serge Gnabry,21,Right Winger,Werder Bremen,£7.20m,in,7.2,1 Bundesliga,2017,2017/2018
+Bayern Munich,Sebastian Rudy,27,Defensive Midfield,TSG Hoffenheim,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+Bayern Munich,Christian Früchtl,17,Goalkeeper,FC Bayern U19,-,in,0,1 Bundesliga,2017,2017/2018
+Bayern Munich,Tom Starke,36,Goalkeeper,Career break,-,in,0,1 Bundesliga,2017,2017/2018
+Bayern Munich,Marco Friedl,19,Left-Back,FC Bayern U19,-,in,0,1 Bundesliga,2017,2017/2018
+Bayern Munich,Felix Götze,19,Defensive Midfield,FC Bayern U19,-,in,0,1 Bundesliga,2017,2017/2018
+Bayern Munich,Gianluca Gaudino,20,Central Midfield,FC St. Gallen,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Bayern Munich,Holger Badstuber,28,Centre-Back,FC Schalke 04,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Bayern Munich,Medhi Benatia,30,Centre-Back,Juventus,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Bayern Munich,Medhi Benatia,30,Centre-Back,Juventus,£15.30m,out,15.3,1 Bundesliga,2017,2017/2018
+Bayern Munich,Renato Sanches,20,Central Midfield,Swansea,Loan fee:£7.65m,out,7.65,1 Bundesliga,2017,2017/2018
+Bayern Munich,Douglas Costa,26,Right Winger,Juventus,Loan fee:£5.40m,out,5.4,1 Bundesliga,2017,2017/2018
+Bayern Munich,Serge Gnabry,22,Right Winger,TSG Hoffenheim,Loan fee:£900k,out,0.9,1 Bundesliga,2017,2017/2018
+Bayern Munich,Gianluca Gaudino,20,Central Midfield,Chievo Verona,£45k,out,0.045,1 Bundesliga,2017,2017/2018
+Bayern Munich,Holger Badstuber,28,Centre-Back,VfB Stuttgart,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Bayern Munich,Marco Friedl,19,Left-Back,Werder Bremen,Loan,out,0,1 Bundesliga,2017,2017/2018
+Bayern Munich,Xabi Alonso,35,Defensive Midfield,Retired,-,out,0,1 Bundesliga,2017,2017/2018
+Bayern Munich,Philipp Lahm,33,Right-Back,Retired,-,out,0,1 Bundesliga,2017,2017/2018
+Bayern Munich,Tom Starke,36,Goalkeeper,Career break,-,out,0,1 Bundesliga,2017,2017/2018
+Bayern Munich,Kingsley Coman,21,Left Winger,Juventus,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018
+RB Leipzig,Kevin Kampl,26,Central Midfield,Bay. Leverkusen,£18.00m,in,18,1 Bundesliga,2017,2017/2018
+RB Leipzig,Jean-Kévin Augustin,20,Centre-Forward,Paris SG,£14.40m,in,14.4,1 Bundesliga,2017,2017/2018
+RB Leipzig,Bruma,22,Left Winger,Galatasaray,£13.50m,in,13.5,1 Bundesliga,2017,2017/2018
+RB Leipzig,Konrad Laimer,20,Central Midfield,RB Salzburg,£6.30m,in,6.3,1 Bundesliga,2017,2017/2018
+RB Leipzig,Yvon Mvogo,23,Goalkeeper,BSC Young Boys,£4.50m,in,4.5,1 Bundesliga,2017,2017/2018
+RB Leipzig,Ademola Lookman,20,Left Winger,Everton,Loan fee:£450k,in,0.45,1 Bundesliga,2017,2017/2018
+RB Leipzig,Ibrahima Konaté,18,Centre-Back,FC Sochaux,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+RB Leipzig,Philipp Köhn,19,Goalkeeper,Stuttgart U19,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+RB Leipzig,Agyemang Diawusie,19,Left Midfield,RB Leipzig U19,-,in,0,1 Bundesliga,2017,2017/2018
+RB Leipzig,Felix Beiersdorf,19,Central Midfield,Wiener Neustadt,"End of loanDec 31, 2017",in,0,1 Bundesliga,2017,2017/2018
+RB Leipzig,Felix Beiersdorf,18,Central Midfield,RB Leipzig II,-,in,0,1 Bundesliga,2017,2017/2018
+RB Leipzig,Federico Palacios,22,Centre-Forward,RB Leipzig II,-,in,0,1 Bundesliga,2017,2017/2018
+RB Leipzig,Zsolt Kalmár,22,Attacking Midfield,Bröndby IF,"End of loanAug 8, 2017",in,0,1 Bundesliga,2017,2017/2018
+RB Leipzig,Anthony Jung,25,Left-Back,FC Ingolstadt,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+RB Leipzig,Nils Quaschner,23,Centre-Forward,VfL Bochum,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+RB Leipzig,Atinc Nukan,23,Centre-Back,Besiktas,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+RB Leipzig,Oliver Burke,20,Right Winger,West Brom,£13.68m,out,13.68,1 Bundesliga,2017,2017/2018
+RB Leipzig,Davie Selke,22,Centre-Forward,Hertha BSC,£7.20m,out,7.2,1 Bundesliga,2017,2017/2018
+RB Leipzig,Marvin Compper,32,Centre-Back,Celtic,£1.03m,out,1.03,1 Bundesliga,2017,2017/2018
+RB Leipzig,Atinc Nukan,23,Centre-Back,Besiktas,Loan fee:£180k,out,0.18,1 Bundesliga,2017,2017/2018
+RB Leipzig,Nils Quaschner,23,Centre-Forward,Arm. Bielefeld,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+RB Leipzig,Agyemang Diawusie,19,Left Midfield,Wehen Wiesbaden,Loan,out,0,1 Bundesliga,2017,2017/2018
+RB Leipzig,Felix Beiersdorf,19,Central Midfield,Chemie Leipzig,Loan,out,0,1 Bundesliga,2017,2017/2018
+RB Leipzig,Zsolt Kalmár,22,Attacking Midfield,Dunajska Streda,Loan,out,0,1 Bundesliga,2017,2017/2018
+RB Leipzig,Rani Khedira,23,Defensive Midfield,FC Augsburg,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+RB Leipzig,Anthony Jung,25,Left-Back,Bröndby IF,Loan,out,0,1 Bundesliga,2017,2017/2018
+RB Leipzig,Felix Beiersdorf,18,Central Midfield,Wiener Neustadt,Loan,out,0,1 Bundesliga,2017,2017/2018
+RB Leipzig,Marius Müller,23,Goalkeeper,1.FC K'lautern,Loan,out,0,1 Bundesliga,2017,2017/2018
+RB Leipzig,Federico Palacios,22,Centre-Forward,1.FC Nuremberg,?,out,NA,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Andrii Yarmolenko,27,Right Winger,Dynamo Kyiv,£22.50m,in,22.5,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Manuel Akanji,22,Centre-Back,FC Basel,£19.35m,in,19.35,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Maximilian Philipp,23,Second Striker,SC Freiburg,£18.00m,in,18,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Ömer Toprak,27,Centre-Back,Bay. Leverkusen,£10.80m,in,10.8,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Mahmoud Dahoud,21,Central Midfield,Bor. M'gladbach,£10.80m,in,10.8,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Jadon Sancho,17,Right Winger,Man City U18,£7.05m,in,7.05,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Jeremy Toljan,23,Right-Back,TSG Hoffenheim,£6.30m,in,6.3,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Sergio Gómez,17,Attacking Midfield,Barça U19,£2.70m,in,2.7,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Michy Batshuayi,24,Centre-Forward,Chelsea,Loan fee:£1.35m,in,1.35,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Dan-Axel Zagadou,18,Centre-Back,Paris SG B,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Jacob Bruun Larsen,18,Left Winger,B. Dortmund U19,-,in,0,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Dominik Reimann,20,Goalkeeper,B. Dortmund II,-,in,0,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Pascal Stenzel,21,Right-Back,SC Freiburg,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Neven Subotic,28,Centre-Back,1. FC Köln,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Adrián Ramos,31,Centre-Forward,Granada CF,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Ousmane Dembélé,20,Left Winger,FC Barcelona,£112.50m,out,112.5,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Pierre-Emerick Aubameyang,28,Centre-Forward,Arsenal,£57.38m,out,57.38,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Matthias Ginter,23,Centre-Back,Bor. M'gladbach,£15.30m,out,15.3,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Emre Mor,20,Left Winger,Celta de Vigo,£11.70m,out,11.7,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Sven Bender,28,Centre-Back,Bay. Leverkusen,£11.25m,out,11.25,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Adrián Ramos,31,Centre-Forward,CQ Dangdai Lif.,£10.80m,out,10.8,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Marc Bartra,27,Centre-Back,Real Betis,£9.45m,out,9.45,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Pascal Stenzel,21,Right-Back,SC Freiburg,£3.60m,out,3.6,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Mikel Merino,21,Defensive Midfield,Newcastle,Loan fee:£2.70m,out,2.7,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Jacob Bruun Larsen,19,Left Winger,VfB Stuttgart,Loan fee:£180k,out,0.18,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Hendrik Bonmann,23,Goalkeeper,1860 Munich,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Neven Subotic,29,Centre-Back,Saint-Étienne,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Dzenis Burnic,19,Defensive Midfield,VfB Stuttgart,Loan,out,0,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Felix Passlack,19,Right-Back,TSG Hoffenheim,Loan,out,0,1 Bundesliga,2017,2017/2018
+Borussia Dortmund,Ju-ho Park,30,Left-Back,B. Dortmund II,-,out,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Havard Nordtveit,27,Defensive Midfield,West Ham,£7.20m,in,7.2,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Nico Schulz,24,Left-Back,Bor. M'gladbach,£2.70m,in,2.7,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Justin Hoogma,19,Centre-Back,Heracles Almelo,£2.43m,in,2.43,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Serge Gnabry,22,Right Winger,Bayern Munich,Loan fee:£900k,in,0.9,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Florian Grillitsch,21,Central Midfield,Werder Bremen,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Robert Zulj,25,Attacking Midfield,Greuther Fürth,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Felix Passlack,19,Right-Back,Bor. Dortmund,Loan,in,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Antonio Colak,24,Centre-Forward,FC Ingolstadt,"End of loanJan 10, 2018",in,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Stefan Posch,20,Centre-Back,Hoffenheim II,-,in,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Baris Atik,23,Attacking Midfield,1.FC K'lautern,"End of loanJan 9, 2018",in,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,In-hyeok Park,22,Centre-Forward,Vojvodina,"End of loanMar 6, 2018",in,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Russell Canouse,22,Central Midfield,VfL Bochum,"End of loanAug 8, 2017",in,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,David Otto,18,Centre-Forward,Hoffenheim U19,-,in,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Robin Hack,18,Left Winger,Hoffenheim U19,-,in,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Kevin Akpoguma,22,Centre-Back,F. Düsseldorf,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,In-hyeok Park,21,Centre-Forward,FC Koper,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Antonio Colak,23,Centre-Forward,SV Darmstadt 98,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Benedikt Gimber,20,Centre-Back,Karlsruher SC,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Nicolai Rapp,20,Centre-Back,Greuther Fürth,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Baris Atik,22,Attacking Midfield,Sturm Graz,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Niklas Süle,21,Centre-Back,Bayern Munich,£18.00m,out,18,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Sandro Wagner,30,Centre-Forward,Bayern Munich,£11.70m,out,11.7,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Jeremy Toljan,23,Right-Back,Bor. Dortmund,£6.30m,out,6.3,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Fabian Schär,25,Centre-Back,Dep. La Coruña,£2.70m,out,2.7,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Marco Terrazzino,26,Left Winger,SC Freiburg,£2.25m,out,2.25,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Antonio Colak,23,Centre-Forward,FC Ingolstadt,Loan fee:£135k,out,0.135,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Baris Atik,22,Attacking Midfield,1.FC K'lautern,Loan fee:£45k,out,0.045,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Nicolai Rapp,20,Centre-Back,Erzgebirge Aue,£45k,out,0.045,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Sebastian Rudy,27,Defensive Midfield,Bayern Munich,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Pirmin Schwegler,30,Defensive Midfield,Hannover 96,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Danilo Soares,25,Left-Back,VfL Bochum,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Antonio Colak,24,Centre-Forward,HNK Rijeka,Loan,out,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Benedikt Gimber,20,Centre-Back,Jahn Regensburg,Loan,out,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Russell Canouse,22,Central Midfield,D.C. United,?,out,NA,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Baris Atik,23,Attacking Midfield,SV Darmstadt 98,Loan,out,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,In-hyeok Park,21,Centre-Forward,Vojvodina,Loan,out,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Philipp Ochs,20,Left Winger,VfL Bochum,Loan,out,0,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,In-hyeok Park,22,Centre-Forward,Daejeon Citizen,?,out,NA,1 Bundesliga,2017,2017/2018
+TSG 1899 Hoffenheim,Joshua Mees,21,Left Winger,Jahn Regensburg,Loan,out,0,1 Bundesliga,2017,2017/2018
+1. FC Köln,Jhon Córdoba,24,Centre-Forward,1.FSV Mainz 05,£15.30m,in,15.3,1 Bundesliga,2017,2017/2018
+1. FC Köln,Jannes Horn,20,Left-Back,VfL Wolfsburg,£6.30m,in,6.3,1 Bundesliga,2017,2017/2018
+1. FC Köln,Jorge Meré,20,Centre-Back,Sporting Gijón,£6.30m,in,6.3,1 Bundesliga,2017,2017/2018
+1. FC Köln,Simon Terodde,29,Centre-Forward,VfB Stuttgart,£2.70m,in,2.7,1 Bundesliga,2017,2017/2018
+1. FC Köln,Vincent Koziello,22,Central Midfield,OGC Nice,£2.70m,in,2.7,1 Bundesliga,2017,2017/2018
+1. FC Köln,João Queirós,19,Centre-Back,Braga U19,£2.70m,in,2.7,1 Bundesliga,2017,2017/2018
+1. FC Köln,Tim Handwerker,19,Left-Back,Leverkusen U19,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+1. FC Köln,Nikolas Nartey,17,Central Midfield,1.FC Köln II,-,in,0,1 Bundesliga,2017,2017/2018
+1. FC Köln,Claudio Pizarro,38,Centre-Forward,Without Club,-,in,0,1 Bundesliga,2017,2017/2018
+1. FC Köln,Anthony Modeste,29,Centre-Forward,TJ Quanjian,Loan fee:£5.13m,out,5.13,1 Bundesliga,2017,2017/2018
+1. FC Köln,Konstantin Rausch,27,Left-Back,Dinamo Moscow,£1.35m,out,1.35,1 Bundesliga,2017,2017/2018
+1. FC Köln,Marcel Hartel,21,Left Winger,Union Berlin,£225k,out,0.225,1 Bundesliga,2017,2017/2018
+1. FC Köln,Artjoms Rudnevs,29,Centre-Forward,Retired,-,out,0,1 Bundesliga,2017,2017/2018
+1. FC Köln,Neven Subotic,28,Centre-Back,Bor. Dortmund,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018
+Hertha BSC,Davie Selke,22,Centre-Forward,RB Leipzig,£7.20m,in,7.2,1 Bundesliga,2017,2017/2018
+Hertha BSC,Mathew Leckie,26,Right Winger,FC Ingolstadt,£2.70m,in,2.7,1 Bundesliga,2017,2017/2018
+Hertha BSC,Karim Rekik,22,Centre-Back,Marseille,£2.25m,in,2.25,1 Bundesliga,2017,2017/2018
+Hertha BSC,Valentino Lazaro,21,Right Midfield,RB Salzburg,Loan fee:£450k,in,0.45,1 Bundesliga,2017,2017/2018
+Hertha BSC,Jonathan Klinsmann,20,Goalkeeper,UC Berkeley,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+Hertha BSC,Arne Maier,18,Defensive Midfield,Hertha BSC U19,-,in,0,1 Bundesliga,2017,2017/2018
+Hertha BSC,Sidney Friede,19,Central Midfield,Hertha BSC II,-,in,0,1 Bundesliga,2017,2017/2018
+Hertha BSC,Julius Kade,18,Attacking Midfield,Hertha BSC U19,-,in,0,1 Bundesliga,2017,2017/2018
+Hertha BSC,Florian Baak,18,Centre-Back,Hertha BSC U19,-,in,0,1 Bundesliga,2017,2017/2018
+Hertha BSC,Palko Dárdai,18,Right Winger,Hertha BSC U19,-,in,0,1 Bundesliga,2017,2017/2018
+Hertha BSC,John Anthony Brooks,24,Centre-Back,VfL Wolfsburg,£15.30m,out,15.3,1 Bundesliga,2017,2017/2018
+Hertha BSC,Sebastian Langkamp,30,Centre-Back,Werder Bremen,£900k,out,0.9,1 Bundesliga,2017,2017/2018
+Hertha BSC,Valentin Stocker,28,Attacking Midfield,FC Basel,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Hertha BSC,Sami Allagui,31,Centre-Forward,FC St. Pauli,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Hertha BSC,Florian Kohls,22,Central Midfield,Würzb. Kickers,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Hertha BSC,Alexander Baumjohann,30,Attacking Midfield,Coritiba FC,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Hertha BSC,Genki Haraguchi,26,Left Winger,F. Düsseldorf,Loan,out,0,1 Bundesliga,2017,2017/2018
+Hertha BSC,Nils Körber,20,Goalkeeper,Preußen Münster,Loan,out,0,1 Bundesliga,2017,2017/2018
+Hertha BSC,Allan,20,Central Midfield,Liverpool U23,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018
+SC Freiburg,Yoric Ravet,27,Right Winger,BSC Young Boys,£4.05m,in,4.05,1 Bundesliga,2017,2017/2018
+SC Freiburg,Robin Koch,21,Centre-Back,1.FC K'lautern,£3.60m,in,3.6,1 Bundesliga,2017,2017/2018
+SC Freiburg,Pascal Stenzel,21,Right-Back,Bor. Dortmund,£3.60m,in,3.6,1 Bundesliga,2017,2017/2018
+SC Freiburg,Marco Terrazzino,26,Left Winger,TSG Hoffenheim,£2.25m,in,2.25,1 Bundesliga,2017,2017/2018
+SC Freiburg,Florian Niederlechner,26,Centre-Forward,1.FSV Mainz 05,£2.07m,in,2.07,1 Bundesliga,2017,2017/2018
+SC Freiburg,Lucas Höler,23,Centre-Forward,SV Sandhausen,£990k,in,0.99,1 Bundesliga,2017,2017/2018
+SC Freiburg,Philipp Lienhart,20,Centre-Back,Real Madrid,Loan fee:£450k,in,0.45,1 Bundesliga,2017,2017/2018
+SC Freiburg,Ryan Kent,20,Left Winger,Liverpool U23,Loan fee:£450k,in,0.45,1 Bundesliga,2017,2017/2018
+SC Freiburg,Bartosz Kapustka,20,Attacking Midfield,Leicester,Loan fee:£450k,in,0.45,1 Bundesliga,2017,2017/2018
+SC Freiburg,Patrick Kammerbauer,20,Defensive Midfield,1.FC Nuremberg,£315k,in,0.315,1 Bundesliga,2017,2017/2018
+SC Freiburg,Gaëtan Bussmann,26,Left-Back,1.FSV Mainz 05,Loan,in,0,1 Bundesliga,2017,2017/2018
+SC Freiburg,Mohamed Dräger,21,Right-Back,SC Freiburg II,-,in,0,1 Bundesliga,2017,2017/2018
+SC Freiburg,Fabian Menig,23,Right-Back,VfR Aalen,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+SC Freiburg,Tim Kleindienst,21,Centre-Forward,1.FC Heidenheim,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+SC Freiburg,Caleb Stanko,23,Defensive Midfield,FC Vaduz,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+SC Freiburg,Jonas Meffert,22,Defensive Midfield,Karlsruher SC,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+SC Freiburg,Fabian Schleusener,25,Centre-Forward,FSV Frankfurt,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+SC Freiburg,Sebastian Kerk,23,Left Winger,1.FC K'lautern,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+SC Freiburg,Florian Kath,22,Left Winger,1.FC Magdeburg,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+SC Freiburg,Maximilian Philipp,23,Second Striker,Bor. Dortmund,£18.00m,out,18,1 Bundesliga,2017,2017/2018
+SC Freiburg,Vincenzo Grifo,24,Left Winger,Bor. M'gladbach,£5.40m,out,5.4,1 Bundesliga,2017,2017/2018
+SC Freiburg,Onur Bulut,23,Right Winger,E. Braunschweig,£810k,out,0.81,1 Bundesliga,2017,2017/2018
+SC Freiburg,Sebastian Kerk,23,Left Winger,1.FC Nuremberg,£450k,out,0.45,1 Bundesliga,2017,2017/2018
+SC Freiburg,Havard Nielsen,24,Centre-Forward,F. Düsseldorf,£360k,out,0.36,1 Bundesliga,2017,2017/2018
+SC Freiburg,Fabian Menig,23,Right-Back,Preußen Münster,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+SC Freiburg,Marc Torrejón,31,Centre-Back,Union Berlin,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+SC Freiburg,Jonas Föhrenbach,21,Left-Back,Karlsruher SC,Loan,out,0,1 Bundesliga,2017,2017/2018
+SC Freiburg,Fabian Schleusener,25,Centre-Forward,Karlsruher SC,Loan,out,0,1 Bundesliga,2017,2017/2018
+SC Freiburg,Ryan Kent,21,Left Winger,Liverpool U23,"End of loanJan 8, 2018",out,0,1 Bundesliga,2017,2017/2018
+SC Freiburg,Amir Falahen,24,Centre-Forward,Without Club,-,out,0,1 Bundesliga,2017,2017/2018
+SC Freiburg,Florian Niederlechner,26,Centre-Forward,1.FSV Mainz 05,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018
+SC Freiburg,Pascal Stenzel,21,Right-Back,Bor. Dortmund,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Milot Rashica,21,Left Winger,Vitesse,£6.30m,in,6.3,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Ludwig Augustinsson,23,Left-Back,FC Copenhagen,£4.05m,in,4.05,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Jiri Pavlenka,25,Goalkeeper,Slavia Prag,£2.70m,in,2.7,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Jérôme Gondorf,29,Central Midfield,SV Darmstadt 98,£1.08m,in,1.08,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Sebastian Langkamp,30,Centre-Back,Hertha BSC,£900k,in,0.9,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Ishak Belfodil,25,Centre-Forward,Standard Liège,Loan fee:£450k,in,0.45,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Yuning Zhang,20,Centre-Forward,West Brom,Loan fee:£270k,in,0.27,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Marco Friedl,19,Left-Back,Bayern Munich,Loan,in,0,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Niklas Schmidt,19,Right Midfield,W. Bremen II,-,in,0,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Ole Käuper,20,Defensive Midfield,W. Bremen II,-,in,0,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Levent Aycicek,23,Attacking Midfield,1860 Munich,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Lennart Thy,25,Centre-Forward,FC St. Pauli,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Leon Guwara,21,Left-Back,SV Darmstadt 98,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Thanos Petsos,26,Defensive Midfield,Fulham,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Marnon Busch,22,Right-Back,1860 Munich,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,László Kleinheisler,23,Attacking Midfield,Ferencváros,"End of loanJun 18, 2017",in,0,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Serge Gnabry,21,Right Winger,Bayern Munich,£7.20m,out,7.2,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Felix Wiedwald,27,Goalkeeper,Leeds,£450k,out,0.45,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Levent Aycicek,23,Attacking Midfield,Greuther Fürth,£180k,out,0.18,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Marnon Busch,22,Right-Back,1.FC Heidenheim,£90k,out,0.09,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,László Kleinheisler,23,Attacking Midfield,FC Astana,Loan fee:£90k,out,0.09,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Izet Hajrovic,26,Right Winger,Dinamo Zagreb,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Raphael Wolf,29,Goalkeeper,F. Düsseldorf,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Melvyn Lorenzen,22,Left Winger,ADO Den Haag,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Florian Grillitsch,21,Central Midfield,TSG Hoffenheim,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Santiago García,28,Left-Back,Toluca,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Thanos Petsos,26,Defensive Midfield,Rapid Vienna,Loan,out,0,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Lamine Sané,30,Centre-Back,Orlando City SC,?,out,NA,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Lennart Thy,25,Centre-Forward,VVV-Venlo,Loan,out,0,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Sambou Yatabaré,28,Central Midfield,Royal Antwerp,Loan,out,0,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Leon Guwara,21,Left-Back,1.FC K'lautern,Loan,out,0,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Ulisses Garcia,21,Left-Back,1.FC Nuremberg,Loan,out,0,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Clemens Fritz,36,Central Midfield,Retired,-,out,0,1 Bundesliga,2017,2017/2018
+SV Werder Bremen,Claudio Pizarro,38,Centre-Forward,Without Club,-,out,0,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Matthias Ginter,23,Centre-Back,Bor. Dortmund,£15.30m,in,15.3,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Denis Zakaria,20,Defensive Midfield,BSC Young Boys,£10.80m,in,10.8,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Vincenzo Grifo,24,Left Winger,SC Freiburg,£5.40m,in,5.4,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Raúl Bobadilla,30,Centre-Forward,FC Augsburg,£1.80m,in,1.8,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Michaël Cuisance,17,Central Midfield,AS Nancy U19,£225k,in,0.225,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Florian Neuhaus,20,Central Midfield,1860 Munich,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Reece Oxford,18,Centre-Back,West Ham,Loan,in,0,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Reece Oxford,19,Centre-Back,West Ham,Loan,in,0,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Jacob Italiano,16,Attacking Midfield,Perth Glory,?,in,NA,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Kwame Yeboah,23,Left Winger,M'gladbach II,-,in,0,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Julio Villalba,18,Centre-Forward,Cerro Porteño,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Mahmoud Dahoud,21,Central Midfield,Bor. Dortmund,£10.80m,out,10.8,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,André Hahn,26,Right Winger,Hamburger SV,£5.40m,out,5.4,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Timothée Kolodziejczak,25,Centre-Back,Tigres UANL,£4.50m,out,4.5,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Nico Schulz,24,Left-Back,TSG Hoffenheim,£2.70m,out,2.7,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Julian Korb,25,Right-Back,Hannover 96,£2.70m,out,2.7,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Djibril Sow,20,Central Midfield,BSC Young Boys,£1.80m,out,1.8,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Florian Neuhaus,20,Central Midfield,F. Düsseldorf,Loan fee:£72k,out,0.072,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Janis Blaswich,26,Goalkeeper,Hansa Rostock,Loan,out,0,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Marvin Schulz,22,Defensive Midfield,FC Luzern,?,out,NA,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Kwame Yeboah,23,Left Winger,SC Paderborn,Loan,out,0,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Tsiy William Ndenge,20,Central Midfield,Roda JC,Loan,out,0,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Jacob Italiano,16,Attacking Midfield,Perth Glory,Loan,out,0,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Reece Oxford,19,Centre-Back,West Ham,"End of loanDec 31, 2017",out,0,1 Bundesliga,2017,2017/2018
+Borussia Mönchengladbach,Andreas Christensen,21,Centre-Back,Chelsea,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Nabil Bentaleb,22,Central Midfield,Spurs,£17.10m,in,17.1,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Yevhen Konoplianka,27,Left Winger,Sevilla FC,£11.25m,in,11.25,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Amine Harit,20,Attacking Midfield,FC Nantes,£7.20m,in,7.2,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Bastian Oczipka,28,Left-Back,E. Frankfurt,£4.05m,in,4.05,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Pablo Insua,23,Centre-Back,Dep. La Coruña,£3.15m,in,3.15,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Cedric Teuchert,20,Centre-Forward,1.FC Nuremberg,£900k,in,0.9,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Marko Pjaca,22,Left Winger,Juventus,Loan fee:£720k,in,0.72,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Michael Langer,32,Goalkeeper,Norrköping,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Abdul Rahman Baba,23,Left-Back,Chelsea,Loan,in,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Sascha Riether,34,Right-Back,Career break,-,in,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Haji Wright,19,Centre-Forward,Schalke 04 U19,-,in,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Luke Hemmerich,19,Right Midfield,Schalke 04 U19,-,in,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Bernard Tekpetey,20,Right Winger,SCR Altach,"End of loanDec 31, 2017",in,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Weston McKennie,18,Central Midfield,Schalke 04 U19,-,in,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Felix Platte,21,Centre-Forward,SV Darmstadt 98,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Fabian Reese,19,Centre-Forward,Karlsruher SC,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Fabian Giefer,27,Goalkeeper,Bristol City,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Sidney Sam,29,Right Winger,SV Darmstadt 98,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Benedikt Höwedes,29,Centre-Back,Juventus,Loan fee:£3.15m,out,3.15,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Johannes Geis,24,Defensive Midfield,Sevilla FC,Loan fee:£1.80m,out,1.8,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Felix Platte,21,Centre-Forward,SV Darmstadt 98,£720k,out,0.72,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Fabian Giefer,27,Goalkeeper,FC Augsburg,£675k,out,0.675,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Fabian Reese,20,Centre-Forward,Greuther Fürth,Loan fee:£45k,out,0.045,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Phil Neumann,19,Right-Back,FC Ingolstadt,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Klaas-Jan Huntelaar,33,Centre-Forward,Ajax,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Haji Wright,19,Centre-Forward,SV Sandhausen,Loan,out,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Sidney Sam,29,Right Winger,VfL Bochum,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Eric Maxim Choupo-Moting,28,Centre-Forward,Stoke City,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Atsuto Uchida,29,Right-Back,Union Berlin,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Timon Wellenreuther,21,Goalkeeper,Willem II,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Sead Kolasinac,24,Left-Back,Arsenal,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Dennis Aogo,30,Defensive Midfield,VfB Stuttgart,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Coke,30,Right-Back,Levante,Loan,out,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Luke Hemmerich,19,Right Midfield,VfL Bochum,Loan,out,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Donis Avdijaj,21,Left Winger,Roda JC,Loan,out,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Bernard Tekpetey,19,Right Winger,SCR Altach,Loan,out,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Joshua Bitter,20,Right-Back,Schalke 04 II,-,out,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Sascha Riether,34,Right-Back,Career break,-,out,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Abdul Rahman Baba,22,Left-Back,Chelsea,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Holger Badstuber,28,Centre-Back,Bayern Munich,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Yevhen Konoplianka,27,Left Winger,Sevilla FC,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018
+FC Schalke 04,Nabil Bentaleb,22,Central Midfield,Spurs,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Sébastien Haller,23,Centre-Forward,FC Utrecht,£6.30m,in,6.3,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Jetro Willems,23,Left-Back,PSV Eindhoven,£4.50m,in,4.5,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Simon Falette,25,Centre-Back,FC Metz,£2.43m,in,2.43,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Daichi Kamada,20,Second Striker,Sagan Tosu,£1.44m,in,1.44,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Danny da Costa,23,Right-Back,Bay. Leverkusen,£900k,in,0.9,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Carlos Salcedo,23,Centre-Back,Chivas,Loan fee:£405k,in,0.405,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Marijan Cavar,19,Central Midfield,Zrinjski Mostar,£360k,in,0.36,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Gelson Fernandes,30,Defensive Midfield,Stade Rennais,£315k,in,0.315,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Luka Jovic,19,Centre-Forward,Benfica,Loan fee:£180k,in,0.18,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Kevin-Prince Boateng,30,Centre-Forward,UD Las Palmas,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Jan Zimmermann,32,Goalkeeper,1860 Munich,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Jonathan de Guzmán,29,Central Midfield,SSC Napoli,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Ante Rebic,23,Second Striker,Fiorentina,Loan,in,0,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Noel Knothe,18,Centre-Back,Frankfurt U19,-,in,0,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Deji Beyreuther,18,Left-Back,Frankfurt U19,-,in,0,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Nelson Mandela Mbouhom,18,Second Striker,Frankfurt U19,-,in,0,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Renat Dadashov,18,Centre-Forward,Frankfurt U19,-,in,0,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Bastian Oczipka,28,Left-Back,FC Schalke 04,£4.05m,out,4.05,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Andersson Ordóñez,24,Centre-Back,LDU Quito,Loan fee:£374k,out,0.374,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Furkan Zorba,19,Centre-Back,VfL Osnabrück,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Heinz Lindner,26,Goalkeeper,Grasshoppers,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Haris Seferovic,25,Centre-Forward,Benfica,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Slobodan Medojevic,27,Defensive Midfield,SV Darmstadt 98,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Max Besuschkow,20,Central Midfield,Holstein Kiel,Loan,out,0,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Yanni Regäsel,22,Right-Back,Without Club,-,out,0,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Guillermo Varela,24,Right-Back,Man Utd,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Jesús Vallejo,20,Centre-Back,Real Madrid,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Ante Rebic,23,Second Striker,Fiorentina,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Shani Tarashaj,22,Centre-Forward,Everton,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018
+Eintracht Frankfurt,Michael Hector,24,Centre-Back,Chelsea,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Lucas Alario,24,Centre-Forward,River Plate,£21.60m,in,21.6,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Panagiotis Retsos,19,Centre-Back,Olympiacos,£15.75m,in,15.75,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Sven Bender,28,Centre-Back,Bor. Dortmund,£11.25m,in,11.25,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Dominik Kohr,23,Central Midfield,FC Augsburg,£1.80m,in,1.8,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Seung-uh Ryu,23,Attacking Midfield,Ferencváros,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Lukas Boeder,20,Right-Back,SC Paderborn,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Andrejs Ciganiks,20,Left Winger,Viktoria Köln,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Patrik Dzalto,20,Centre-Forward,Jahn Regensburg,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Kyriakos Papadopoulos,25,Centre-Back,Hamburger SV,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Marc Brasnic,20,Centre-Forward,SC Fortuna Köln,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,André Ramalho,25,Centre-Back,1.FSV Mainz 05,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Paterson Chato,20,Defensive Midfield,SC Wiedenbrück,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Marlon Frey,21,Defensive Midfield,1.FC K'lautern,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Hakan Calhanoglu,23,Left Winger,AC Milan,£19.17m,out,19.17,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Kevin Kampl,26,Central Midfield,RB Leipzig,£18.00m,out,18,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Chicharito,29,Centre-Forward,West Ham,£16.02m,out,16.02,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Ömer Toprak,27,Centre-Back,Bor. Dortmund,£10.80m,out,10.8,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Admir Mehmedi,26,Second Striker,VfL Wolfsburg,£7.20m,out,7.2,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Kyriakos Papadopoulos,25,Centre-Back,Hamburger SV,£5.85m,out,5.85,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Aleksandar Dragovic,26,Centre-Back,Leicester,Loan fee:£2.25m,out,2.25,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Danny da Costa,23,Right-Back,E. Frankfurt,£900k,out,0.9,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,André Ramalho,25,Centre-Back,RB Salzburg,£720k,out,0.72,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Paterson Chato,20,Defensive Midfield,B. Dortmund II,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Patrik Dzalto,20,Centre-Forward,Jahn Regensburg,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Andrejs Ciganiks,20,Left Winger,Schalke 04 II,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Lukas Boeder,20,Right-Back,SC Paderborn,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Robin Becker,20,Centre-Back,E. Braunschweig,?,out,NA,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Marc Brasnic,20,Centre-Forward,Viktoria Köln,?,out,NA,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Seung-uh Ryu,23,Attacking Midfield,Jeju Utd.,?,out,NA,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Joel Abu Hanna,19,Centre-Back,1.FC K'lautern,?,out,NA,1 Bundesliga,2017,2017/2018
+Bayer 04 Leverkusen,Roberto Hilbert,32,Right-Back,Without Club,-,out,0,1 Bundesliga,2017,2017/2018
+FC Augsburg,Michael Gregoritsch,23,Second Striker,Hamburger SV,£4.95m,in,4.95,1 Bundesliga,2017,2017/2018
+FC Augsburg,Sergio Córdova,19,Centre-Forward,Caracas FC,£900k,in,0.9,1 Bundesliga,2017,2017/2018
+FC Augsburg,Fabian Giefer,27,Goalkeeper,FC Schalke 04,£675k,in,0.675,1 Bundesliga,2017,2017/2018
+FC Augsburg,Kilian Jakob,19,Left-Back,1860 Munich,£270k,in,0.27,1 Bundesliga,2017,2017/2018
+FC Augsburg,Rani Khedira,23,Defensive Midfield,RB Leipzig,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+FC Augsburg,Marcel Heller,31,Right Midfield,SV Darmstadt 98,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+FC Augsburg,Julian Günther-Schmidt,22,Second Striker,FC Augsburg II,-,in,0,1 Bundesliga,2017,2017/2018
+FC Augsburg,Marco Richter,19,Left Winger,FC Augsburg II,-,in,0,1 Bundesliga,2017,2017/2018
+FC Augsburg,Erik Thommy,22,Left Midfield,Jahn Regensburg,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+FC Augsburg,Albian Ajeti,20,Centre-Forward,FC St. Gallen,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+FC Augsburg,Tim Matavz,28,Centre-Forward,1.FC Nuremberg,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+FC Augsburg,Shawn Parker,24,Centre-Forward,1.FC Nuremberg,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+FC Augsburg,Daniel Opare,26,Right-Back,Lens,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+FC Augsburg,Dominik Kohr,23,Central Midfield,Bay. Leverkusen,£1.80m,out,1.8,1 Bundesliga,2017,2017/2018
+FC Augsburg,Raúl Bobadilla,30,Centre-Forward,Bor. M'gladbach,£1.80m,out,1.8,1 Bundesliga,2017,2017/2018
+FC Augsburg,Paul Verhaegh,33,Right-Back,VfL Wolfsburg,£1.35m,out,1.35,1 Bundesliga,2017,2017/2018
+FC Augsburg,Albian Ajeti,20,Centre-Forward,FC St. Gallen,£900k,out,0.9,1 Bundesliga,2017,2017/2018
+FC Augsburg,Konstantinos Stafylidis,24,Left-Back,Stoke City,Loan fee:£540k,out,0.54,1 Bundesliga,2017,2017/2018
+FC Augsburg,Erik Thommy,23,Left Midfield,VfB Stuttgart,£450k,out,0.45,1 Bundesliga,2017,2017/2018
+FC Augsburg,Marvin Friedrich,22,Centre-Back,Union Berlin,£270k,out,0.27,1 Bundesliga,2017,2017/2018
+FC Augsburg,Marco Schuster,21,Defensive Midfield,Waldh. Mannheim,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+FC Augsburg,Halil Altintop,34,Attacking Midfield,Slavia Prag,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+FC Augsburg,Tim Rieder,24,Right-Back,Slask Wroclaw,Loan,out,0,1 Bundesliga,2017,2017/2018
+FC Augsburg,Julian Günther-Schmidt,22,Second Striker,Carl Zeiss Jena,Loan,out,0,1 Bundesliga,2017,2017/2018
+FC Augsburg,Tim Matavz,28,Centre-Forward,Vitesse,?,out,NA,1 Bundesliga,2017,2017/2018
+FC Augsburg,Georg Teigl,26,Right Midfield,E. Braunschweig,Loan,out,0,1 Bundesliga,2017,2017/2018
+FC Augsburg,Takashi Usami,25,Left Winger,F. Düsseldorf,Loan,out,0,1 Bundesliga,2017,2017/2018
+FC Augsburg,Dong-won Ji,26,Centre-Forward,SV Darmstadt 98,Loan,out,0,1 Bundesliga,2017,2017/2018
+FC Augsburg,Jan-Ingwer Callsen-Bracker,33,Centre-Back,1.FC K'lautern,Loan,out,0,1 Bundesliga,2017,2017/2018
+FC Augsburg,Moritz Leitner,25,Central Midfield,Norwich,Loan,out,0,1 Bundesliga,2017,2017/2018
+FC Augsburg,Markus Feulner,35,Central Midfield,FC Augsburg II,-,out,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Kyriakos Papadopoulos,25,Centre-Back,Bay. Leverkusen,£5.85m,in,5.85,1 Bundesliga,2017,2017/2018
+Hamburger SV,André Hahn,26,Right Winger,Bor. M'gladbach,£5.40m,in,5.4,1 Bundesliga,2017,2017/2018
+Hamburger SV,Julian Pollersbeck,22,Goalkeeper,1.FC K'lautern,£3.15m,in,3.15,1 Bundesliga,2017,2017/2018
+Hamburger SV,Rick van Drongelen,18,Centre-Back,Sparta R.,£2.70m,in,2.7,1 Bundesliga,2017,2017/2018
+Hamburger SV,Bjarne Thoelke,25,Centre-Back,Karlsruher SC,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Batuhan Altintas,21,Centre-Forward,Y. Malatyaspor,"End of loanJan 28, 2018",in,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Vasilije Janjicic,18,Defensive Midfield,Hamburger SV II,-,in,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Arianit Ferati,20,Right Winger,Erzgebirge Aue,"End of loanDec 31, 2017",in,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Sejad Salihovic,32,Central Midfield,Without Club,-,in,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Jann-Fiete Arp,17,Centre-Forward,Hamburg U17,-,in,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Tatsuya Ito,20,Left Winger,Hamburger SV II,-,in,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Mohamed Gouaida,24,Attacking Midfield,FC St. Gallen,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Sven Schipplock,28,Centre-Forward,SV Darmstadt 98,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Batuhan Altintas,21,Centre-Forward,Kasimpasa,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Arianit Ferati,19,Right Winger,F. Düsseldorf,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Michael Gregoritsch,23,Second Striker,FC Augsburg,£4.95m,out,4.95,1 Bundesliga,2017,2017/2018
+Hamburger SV,Arianit Ferati,19,Right Winger,Erzgebirge Aue,Loan fee:£45k,out,0.045,1 Bundesliga,2017,2017/2018
+Hamburger SV,Johan Djourou,30,Centre-Back,Antalyaspor,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Matthias Ostrzolek,27,Left-Back,Hannover 96,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,René Adler,32,Goalkeeper,1.FSV Mainz 05,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Dren Feka,20,Defensive Midfield,FC Luzern,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Nabil Bahoui,26,Centre-Forward,Grasshoppers,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Pierre-Michel Lasogga,25,Centre-Forward,Leeds,Loan,out,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Batuhan Altintas,21,Centre-Forward,Giresunspor,Loan,out,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Finn Porath,20,Left Winger,Unterhaching,Loan,out,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Batuhan Altintas,21,Centre-Forward,Y. Malatyaspor,Loan,out,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Frank Ronstadt,19,Right Winger,Hamburger SV II,-,out,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Mohamed Gouaida,24,Attacking Midfield,Hamburger SV II,-,out,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Arianit Ferati,20,Right Winger,Hamburger SV II,-,out,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Ashton Götz,23,Right-Back,Without Club,-,out,0,1 Bundesliga,2017,2017/2018
+Hamburger SV,Kyriakos Papadopoulos,25,Centre-Back,Bay. Leverkusen,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Abdou Diallo,21,Centre-Back,Monaco,£4.50m,in,4.5,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Anthony Ujah,27,Centre-Forward,Liaoning FC,£3.42m,in,3.42,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Viktor Fischer,23,Left Winger,Middlesbrough,£2.70m,in,2.7,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Alexandru Maxim,26,Attacking Midfield,VfB Stuttgart,£2.70m,in,2.7,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Kenan Kodro,23,Centre-Forward,CA Osasuna,£1.58m,in,1.58,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,René Adler,32,Goalkeeper,Hamburger SV,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Nigel de Jong,33,Defensive Midfield,Galatasaray,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Florian Müller,19,Goalkeeper,FSV Mainz 05 II,-,in,0,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Marcel Costly,21,Right Winger,FSV Mainz 05 II,-,in,0,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Robin Zentner,22,Goalkeeper,Holstein Kiel,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Pierre Bengtsson,29,Left-Back,SC Bastia,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Florian Niederlechner,26,Centre-Forward,SC Freiburg,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Todor Nedelev,24,Left Winger,Botev Plovdiv,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,José Rodríguez,22,Central Midfield,Málaga CF,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Jhon Córdoba,24,Centre-Forward,1. FC Köln,£15.30m,out,15.3,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Viktor Fischer,23,Left Winger,FC Copenhagen,£2.43m,out,2.43,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Florian Niederlechner,26,Centre-Forward,SC Freiburg,£2.07m,out,2.07,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Fabian Frei,28,Defensive Midfield,FC Basel,£1.35m,out,1.35,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Pierre Bengtsson,29,Left-Back,FC Copenhagen,£900k,out,0.9,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Jairo Samperio,24,Left Winger,UD Las Palmas,£315k,out,0.315,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Gaëtan Bussmann,26,Left-Back,SC Freiburg,Loan,out,0,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Besar Halimi,22,Attacking Midfield,Bröndby IF,Loan,out,0,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Jonas Lössl,28,Goalkeeper,Huddersfield,Loan,out,0,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,José Rodríguez,22,Central Midfield,M. Tel Aviv,Loan,out,0,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Philipp Klement,25,Attacking Midfield,SC Paderborn,?,out,NA,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Jannik Huth,23,Goalkeeper,Sparta R.,Loan,out,0,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Aaron Seydel,21,Centre-Forward,Holstein Kiel,Loan,out,0,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Marcel Costly,22,Right Winger,1.FC Magdeburg,?,out,NA,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Todor Nedelev,24,Left Winger,Botev Plovdiv,?,out,NA,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Devante Parker,21,Right Winger,SKN St. Pölten,Loan,out,0,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Kenan Kodro,24,Centre-Forward,Grasshoppers,Loan,out,0,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,Bojan Krkic,26,Second Striker,Stoke City,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018
+1.FSV Mainz 05,André Ramalho,25,Centre-Back,Bay. Leverkusen,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,John Anthony Brooks,24,Centre-Back,Hertha BSC,£15.30m,in,15.3,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Ignacio Camacho,27,Defensive Midfield,Málaga CF,£13.50m,in,13.5,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Landry Dimata,19,Centre-Forward,KV Oostende,£10.35m,in,10.35,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Admir Mehmedi,26,Second Striker,Bay. Leverkusen,£7.20m,in,7.2,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Divock Origi,22,Centre-Forward,Liverpool,Loan fee:£5.85m,in,5.85,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,William,22,Right-Back,Internacional,£4.50m,in,4.5,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Marcel Tisserand,24,Centre-Back,FC Ingolstadt,Loan fee:£2.70m,in,2.7,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Marvin Stefaniak,22,Left Winger,Dynamo Dresden,£1.80m,in,1.8,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Renato Steffen,26,Right Winger,FC Basel,£1.58m,in,1.58,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Kaylen Hinds,19,Second Striker,Arsenal U23,£1.35m,in,1.35,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Paul Verhaegh,33,Right-Back,FC Augsburg,£1.35m,in,1.35,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Felix Uduokhai,19,Centre-Back,1860 Munich,£900k,in,0.9,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Josip Brekalo,19,Left Winger,VfB Stuttgart,"End of loanDec 31, 2017",in,0,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Elvis Rexhbecaj,19,Central Midfield,Wolfsburg II,-,in,0,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Gian-Luca Itter,18,Left-Back,Wolfsburg U19,-,in,0,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Carlos Ascues,25,Central Midfield,FBC Melgar,"End of loanAug 29, 2017",in,0,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Moritz Sprenger,22,Centre-Back,1.FC Magdeburg,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Patrick Drewes,24,Goalkeeper,Preußen Münster,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Francisco Rodríguez,21,Left Midfield,FC Luzern,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Leandro Putaro,20,Left Winger,Arm. Bielefeld,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Ricardo Rodríguez,24,Left-Back,AC Milan,£13.50m,out,13.5,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Luiz Gustavo,29,Defensive Midfield,Marseille,£9.00m,out,9,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Jannes Horn,20,Left-Back,1. FC Köln,£6.30m,out,6.3,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Mario Gómez,32,Centre-Forward,VfB Stuttgart,£2.70m,out,2.7,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Vieirinha,31,Left-Back,PAOK Salonika,£900k,out,0.9,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Diego Benaglio,33,Goalkeeper,Monaco,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Francisco Rodríguez,21,Left Midfield,FC Luzern,?,out,NA,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Christian Träsch,29,Defensive Midfield,FC Ingolstadt,?,out,NA,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Paul-Georges Ntep,25,Left Winger,Saint-Étienne,Loan,out,0,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Carlos Ascues,25,Central Midfield,Alianza Lima,?,out,NA,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Amara Condé,20,Central Midfield,Holstein Kiel,Loan,out,0,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Leandro Putaro,20,Left Winger,Arm. Bielefeld,?,out,NA,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Ismail Azzaoui,19,Right Winger,Willem II,Loan,out,0,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Marvin Stefaniak,22,Left Winger,1.FC Nuremberg,Loan,out,0,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Patrick Drewes,24,Goalkeeper,Würzb. Kickers,?,out,NA,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Paul Seguin,22,Defensive Midfield,Dynamo Dresden,Loan,out,0,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Kaylen Hinds,20,Second Striker,Greuther Fürth,Loan,out,0,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Ashkan Dejagah,30,Right Winger,Without Club,-,out,0,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Moritz Sprenger,22,Centre-Back,Wolfsburg II,-,out,0,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Philipp Wollscheid,28,Centre-Back,Stoke City,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018
+VfL Wolfsburg,Borja Mayoral,20,Centre-Forward,Real Madrid,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Chadrac Akolo,22,Right Winger,FC Sion,£5.40m,in,5.4,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Santiago Ascacíbar,20,Defensive Midfield,Estudiantes,£5.40m,in,5.4,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Anastasios Donis,20,Centre-Forward,Juventus,£3.60m,in,3.6,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Ron-Robert Zieler,28,Goalkeeper,Leicester,£3.60m,in,3.6,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Mario Gómez,32,Centre-Forward,VfL Wolfsburg,£2.70m,in,2.7,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Andreas Beck,30,Right-Back,Besiktas,£2.25m,in,2.25,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Aílton,22,Left-Back,Estoril,£2.25m,in,2.25,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Orel Mangala,19,Defensive Midfield,Anderlecht Res.,£1.62m,in,1.62,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Erik Thommy,23,Left Midfield,FC Augsburg,£450k,in,0.45,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Alexander Meyer,26,Goalkeeper,Energie Cottbus,£360k,in,0.36,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Jacob Bruun Larsen,19,Left Winger,Bor. Dortmund,Loan fee:£180k,in,0.18,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Holger Badstuber,28,Centre-Back,Bayern Munich,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Dennis Aogo,30,Defensive Midfield,FC Schalke 04,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Dzenis Burnic,19,Defensive Midfield,Bor. Dortmund,Loan,in,0,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Toni Sunjic,28,Centre-Back,US Palermo,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Borys Tashchy,23,Centre-Forward,Zbrojovka Brno,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Simon Terodde,29,Centre-Forward,1. FC Köln,£2.70m,out,2.7,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Alexandru Maxim,26,Attacking Midfield,1.FSV Mainz 05,£2.70m,out,2.7,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Toni Sunjic,28,Centre-Back,Dinamo Moscow,£630k,out,0.63,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Mitchell Langerak,29,Goalkeeper,Levante,£540k,out,0.54,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Jean Zimmer,23,Right-Back,F. Düsseldorf,Loan fee:£90k,out,0.09,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Julian Green,22,Attacking Midfield,Greuther Fürth,Loan fee:£90k,out,0.09,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Tobias Werner,32,Left Winger,1.FC Nuremberg,Loan fee:£90k,out,0.09,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Florian Klein,30,Right-Back,Austria Vienna,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Benjamin Uphoff,23,Goalkeeper,Karlsruher SC,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Borys Tashchy,23,Centre-Forward,MSV Duisburg,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Ebenezer Ofori,22,Defensive Midfield,NYCFC,Loan,out,0,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Aílton,22,Left-Back,Estoril,Loan,out,0,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Hans Nunoo Sarpei,19,Defensive Midfield,FK Senica,Loan,out,0,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Anto Grgic,21,Central Midfield,FC Sion,Loan,out,0,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Jérôme Onguéné,19,Centre-Back,RB Salzburg,Loan,out,0,1 Bundesliga,2017,2017/2018
+VfB Stuttgart,Josip Brekalo,19,Left Winger,VfL Wolfsburg,"End of loanDec 31, 2017",out,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Jonathas,28,Centre-Forward,Rubin Kazan,£8.10m,in,8.1,1 Bundesliga,2017,2017/2018
+Hannover 96,Ihlas Bebou,23,Right Winger,F. Düsseldorf,£4.05m,in,4.05,1 Bundesliga,2017,2017/2018
+Hannover 96,Julian Korb,25,Right-Back,Bor. M'gladbach,£2.70m,in,2.7,1 Bundesliga,2017,2017/2018
+Hannover 96,Michael Esser,29,Goalkeeper,SV Darmstadt 98,£1.80m,in,1.8,1 Bundesliga,2017,2017/2018
+Hannover 96,Josip Elez,23,Centre-Back,HNK Rijeka,Loan fee:£450k,in,0.45,1 Bundesliga,2017,2017/2018
+Hannover 96,Pirmin Schwegler,30,Defensive Midfield,TSG Hoffenheim,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Matthias Ostrzolek,27,Left-Back,Hamburger SV,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Yousef Emghames,19,Right Winger,FC Bayern U19,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Tom Baller,18,Right Winger,M'gladbach U19,Free Transfer,in,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Fabian Senninger,21,Right-Back,Hannover 96 II,-,in,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Marlon Sündermann,19,Goalkeeper,Hannover 96 II,-,in,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Andre Hoffmann,24,Centre-Back,F. Düsseldorf,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Mevlüt Erdinc,30,Centre-Forward,FC Metz,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Babacar Gueye,22,Centre-Forward,Zulte Waregem,"End of loanJun 30, 2017",in,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Andre Hoffmann,24,Centre-Back,F. Düsseldorf,£225k,out,0.225,1 Bundesliga,2017,2017/2018
+Hannover 96,Elias Huth,20,Centre-Forward,Rot-Weiß Erfurt,Loan,out,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Mevlüt Erdinc,30,Centre-Forward,Basaksehir,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Fabian Senninger,21,Right-Back,SV Meppen,Loan,out,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Mike Bähre,22,Attacking Midfield,SV Meppen,Loan,out,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Artur Sobiech,27,Centre-Forward,SV Darmstadt 98,Free Transfer,out,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Uffe Bech,25,Right Winger,Greuther Fürth,Loan,out,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Samuel Sahin-Radlinger,25,Goalkeeper,SK Brann,Loan,out,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Babacar Gueye,22,Centre-Forward,Sint-Truiden,Loan,out,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Yousef Emghames,19,Right Winger,Hannover 96 II,-,out,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Tom Baller,19,Right Winger,Hannover 96 II,-,out,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Fynn Arkenberg,21,Centre-Back,Hannover 96 II,-,out,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Marko Maric,21,Goalkeeper,Hoffenheim II,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018
+Hannover 96,Stefan Strandberg,26,Centre-Back,Krasnodar,"End of loanJun 30, 2017",out,0,1 Bundesliga,2017,2017/2018

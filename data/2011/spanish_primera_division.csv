@@ -1,0 +1,618 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Atlético Madrid,Falcao,25,Centre-Forward,FC Porto,£36.00m,in,36,Primera Division,2011,2011/2012
+Atlético Madrid,Pizzi,22,Right Midfield,Braga,£12.15m,in,12.15,Primera Division,2011,2011/2012
+Atlético Madrid,Arda Turan,24,Left Winger,Galatasaray,£11.70m,in,11.7,Primera Division,2011,2011/2012
+Atlético Madrid,Sílvio,23,Right-Back,Braga,£7.20m,in,7.2,Primera Division,2011,2011/2012
+Atlético Madrid,Rúben Micael,24,Attacking Midfield,FC Porto,£4.50m,in,4.5,Primera Division,2011,2011/2012
+Atlético Madrid,Gabi,27,Defensive Midfield,Real Zaragoza,£2.70m,in,2.7,Primera Division,2011,2011/2012
+Atlético Madrid,Pizzi,21,Right Midfield,Braga,Loan fee:£1.35m,in,1.35,Primera Division,2011,2011/2012
+Atlético Madrid,Thibaut Courtois,19,Goalkeeper,Chelsea,Loan fee:£1.08m,in,1.08,Primera Division,2011,2011/2012
+Atlético Madrid,Tiago,30,Central Midfield,Juventus,Free Transfer,in,0,Primera Division,2011,2011/2012
+Atlético Madrid,Miranda,26,Centre-Back,São Paulo,Free Transfer,in,0,Primera Division,2011,2011/2012
+Atlético Madrid,Adrián López,23,Left Midfield,Dep. La Coruña,Free Transfer,in,0,Primera Division,2011,2011/2012
+Atlético Madrid,Diego,26,Attacking Midfield,VfL Wolfsburg,Loan,in,0,Primera Division,2011,2011/2012
+Atlético Madrid,Dani Pacheco,20,Left Winger,Liverpool,Loan,in,0,Primera Division,2011,2011/2012
+Atlético Madrid,Fran Mérida,21,Central Midfield,Braga,"End of loanDec 1, 2011",in,0,Primera Division,2011,2011/2012
+Atlético Madrid,Jorge Pulido,20,Centre-Back,Atl. Madrid B,-,in,0,Primera Division,2011,2011/2012
+Atlético Madrid,Borja Bastón,18,Centre-Forward,Atl. Madrid B,-,in,0,Primera Division,2011,2011/2012
+Atlético Madrid,Leandro Cabrera,20,Centre-Back,Recr. Huelva,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Atlético Madrid,Sergio Asenjo,22,Goalkeeper,Málaga CF,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Atlético Madrid,Rubén Pérez,22,Defensive Midfield,Dep. La Coruña,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Atlético Madrid,Ibrahima Baldé,22,Centre-Forward,CD Numancia,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Atlético Madrid,Eduardo Salvio,20,Right Winger,Benfica,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Atlético Madrid,Sergio Agüero,23,Centre-Forward,Man City,£36.00m,out,36,Primera Division,2011,2011/2012
+Atlético Madrid,David de Gea,20,Goalkeeper,Man Utd,£22.50m,out,22.5,Primera Division,2011,2011/2012
+Atlético Madrid,Elias,26,Central Midfield,Sporting CP,£7.97m,out,7.97,Primera Division,2011,2011/2012
+Atlético Madrid,Diego Forlán,32,Second Striker,Inter,£4.50m,out,4.5,Primera Division,2011,2011/2012
+Atlético Madrid,José Antonio Reyes,28,Right Winger,Sevilla FC,£3.15m,out,3.15,Primera Division,2011,2011/2012
+Atlético Madrid,Tomás Ujfalusi,33,Centre-Back,Galatasaray,£1.80m,out,1.8,Primera Division,2011,2011/2012
+Atlético Madrid,Ibrahima Baldé,22,Centre-Forward,CA Osasuna,£900k,out,0.9,Primera Division,2011,2011/2012
+Atlético Madrid,Borja Bastón,18,Centre-Forward,Real Murcia,Loan,out,0,Primera Division,2011,2011/2012
+Atlético Madrid,Leandro Cabrera,20,Centre-Back,CD Numancia,Loan,out,0,Primera Division,2011,2011/2012
+Atlético Madrid,Joel Robles,21,Goalkeeper,Rayo Vallecano,Loan,out,0,Primera Division,2011,2011/2012
+Atlético Madrid,Raúl García,25,Attacking Midfield,CA Osasuna,Loan,out,0,Primera Division,2011,2011/2012
+Atlético Madrid,Fran Mérida,21,Central Midfield,Braga,Loan,out,0,Primera Division,2011,2011/2012
+Atlético Madrid,Jorge Pulido,20,Centre-Back,Rayo Vallecano,Loan,out,0,Primera Division,2011,2011/2012
+Atlético Madrid,Juan Valera,26,Right-Back,Getafe,?,out,NA,Primera Division,2011,2011/2012
+Atlético Madrid,Dani Pacheco,20,Left Winger,Rayo Vallecano,Loan,out,0,Primera Division,2011,2011/2012
+Atlético Madrid,Diego Costa,23,Centre-Forward,Rayo Vallecano,Loan,out,0,Primera Division,2011,2011/2012
+Atlético Madrid,Rubén Pérez,22,Defensive Midfield,Getafe,Loan,out,0,Primera Division,2011,2011/2012
+Atlético Madrid,Rúben Micael,24,Attacking Midfield,Real Zaragoza,Loan,out,0,Primera Division,2011,2011/2012
+Atlético Madrid,Pizzi,22,Right Midfield,Braga,"End of loanDec 31, 2011",out,0,Primera Division,2011,2011/2012
+Atlético Madrid,Tiago,30,Central Midfield,Juventus,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+FC Barcelona,Cesc Fàbregas,24,Central Midfield,Arsenal,£30.60m,in,30.6,Primera Division,2011,2011/2012
+FC Barcelona,Alexis Sánchez,22,Left Winger,Udinese Calcio,£23.40m,in,23.4,Primera Division,2011,2011/2012
+FC Barcelona,Isaac Cuenca,20,Right Midfield,FC Barcelona B,-,in,0,Primera Division,2011,2011/2012
+FC Barcelona,Thiago,20,Central Midfield,FC Barcelona B,-,in,0,Primera Division,2011,2011/2012
+FC Barcelona,Aleksandr Hleb,30,Attacking Midfield,VfL Wolfsburg,"End of loanDec 31, 2011",in,0,Primera Division,2011,2011/2012
+FC Barcelona,Keirrison,23,Centre-Forward,Cruzeiro,"End of loanMar 31, 2012",in,0,Primera Division,2011,2011/2012
+FC Barcelona,Keirrison,22,Centre-Forward,Santos FC,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+FC Barcelona,Zlatan Ibrahimovic,29,Centre-Forward,AC Milan,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+FC Barcelona,Henrique,24,Centre-Back,Racing,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+FC Barcelona,Martín Cáceres,24,Centre-Back,Sevilla FC,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+FC Barcelona,Víctor Sánchez,23,Central Midfield,Getafe,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+FC Barcelona,Aleksandr Hleb,30,Attacking Midfield,Birmingham,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+FC Barcelona,Zlatan Ibrahimovic,29,Centre-Forward,AC Milan,£21.60m,out,21.6,Primera Division,2011,2011/2012
+FC Barcelona,Bojan Krkic,20,Second Striker,AS Roma,£10.80m,out,10.8,Primera Division,2011,2011/2012
+FC Barcelona,Jeffren,23,Right Winger,Sporting CP,£3.38m,out,3.38,Primera Division,2011,2011/2012
+FC Barcelona,Maxwell,30,Left-Back,Paris SG,£3.15m,out,3.15,Primera Division,2011,2011/2012
+FC Barcelona,Martín Cáceres,24,Centre-Back,Sevilla FC,£2.70m,out,2.7,Primera Division,2011,2011/2012
+FC Barcelona,Aleksandr Hleb,30,Attacking Midfield,VfL Wolfsburg,Loan fee:£630k,out,0.63,Primera Division,2011,2011/2012
+FC Barcelona,Keirrison,22,Centre-Forward,Cruzeiro,Loan,out,0,Primera Division,2011,2011/2012
+FC Barcelona,Henrique,24,Centre-Back,Palmeiras,Loan,out,0,Primera Division,2011,2011/2012
+FC Barcelona,Gabriel Milito,30,Centre-Back,Independiente,Free Transfer,out,0,Primera Division,2011,2011/2012
+FC Barcelona,Keirrison,23,Centre-Forward,Coritiba FC,Loan,out,0,Primera Division,2011,2011/2012
+FC Barcelona,Víctor Sánchez,23,Central Midfield,Neuchâtel Xamax,Free Transfer,out,0,Primera Division,2011,2011/2012
+FC Barcelona,Aleksandr Hleb,30,Attacking Midfield,KS Samara,Free Transfer,out,0,Primera Division,2011,2011/2012
+Real Zaragoza,Roberto,25,Goalkeeper,Benfica,£7.74m,in,7.74,Primera Division,2011,2011/2012
+Real Zaragoza,Hélder Postiga,29,Centre-Forward,Sporting CP,£1.17m,in,1.17,Primera Division,2011,2011/2012
+Real Zaragoza,Luis García,30,Central Midfield,Espanyol,£900k,in,0.9,Primera Division,2011,2011/2012
+Real Zaragoza,Franco Zuculini,20,Central Midfield,TSG Hoffenheim,Loan fee:£360k,in,0.36,Primera Division,2011,2011/2012
+Real Zaragoza,David Mateos,24,Centre-Back,RM Castilla,Loan fee:£180k,in,0.18,Primera Division,2011,2011/2012
+Real Zaragoza,Edu Oriol,24,Left Winger,FC Barcelona B,Free Transfer,in,0,Primera Division,2011,2011/2012
+Real Zaragoza,Carlos Aranda,31,Centre-Forward,Levante,Free Transfer,in,0,Primera Division,2011,2011/2012
+Real Zaragoza,Abraham Minero,25,Left-Back,FC Barcelona B,Free Transfer,in,0,Primera Division,2011,2011/2012
+Real Zaragoza,Fernando Meira,33,Centre-Back,Zenit S-Pb,Free Transfer,in,0,Primera Division,2011,2011/2012
+Real Zaragoza,Antonio Tomás,26,Central Midfield,Dep. La Coruña,Free Transfer,in,0,Primera Division,2011,2011/2012
+Real Zaragoza,Apoño,27,Central Midfield,Málaga CF,Loan,in,0,Primera Division,2011,2011/2012
+Real Zaragoza,Rúben Micael,24,Attacking Midfield,Atlético Madrid,Loan,in,0,Primera Division,2011,2011/2012
+Real Zaragoza,Efraín Juárez,23,Right-Back,Celtic,Loan,in,0,Primera Division,2011,2011/2012
+Real Zaragoza,Juankar,21,Left-Back,Braga,Loan,in,0,Primera Division,2011,2011/2012
+Real Zaragoza,Tomislav Dujmovic,30,Central Midfield,Dinamo Moscow,Loan,in,0,Primera Division,2011,2011/2012
+Real Zaragoza,Pablo Álvarez,27,Right-Back,Catania,Loan,in,0,Primera Division,2011,2011/2012
+Real Zaragoza,Pablo Barrera,24,Right Winger,West Ham,Loan,in,0,Primera Division,2011,2011/2012
+Real Zaragoza,Pablo,22,Right Midfield,Cruzeiro,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Real Zaragoza,Raúl Goni,22,Centre-Back,RM Castilla,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Real Zaragoza,Ander Herrera,21,Central Midfield,Athletic,£6.75m,out,6.75,Primera Division,2011,2011/2012
+Real Zaragoza,Ikechukwu Uche,27,Centre-Forward,Villarreal,£4.50m,out,4.5,Primera Division,2011,2011/2012
+Real Zaragoza,Gabi,27,Defensive Midfield,Atlético Madrid,£2.70m,out,2.7,Primera Division,2011,2011/2012
+Real Zaragoza,Matteo Contini,31,Centre-Back,Siena,Loan fee:£270k,out,0.27,Primera Division,2011,2011/2012
+Real Zaragoza,Edmílson,34,Defensive Midfield,Ceará SC,Free Transfer,out,0,Primera Division,2011,2011/2012
+Real Zaragoza,Jiri Jarosik,33,Centre-Back,Sparta Praha,Free Transfer,out,0,Primera Division,2011,2011/2012
+Real Zaragoza,Leonardo Ponzio,29,Defensive Midfield,River Plate,Free Transfer,out,0,Primera Division,2011,2011/2012
+Real Zaragoza,Toni Doblas,30,Goalkeeper,Xerez CD,Loan,out,0,Primera Division,2011,2011/2012
+Real Zaragoza,Antonio Tomás,27,Central Midfield,CSKA Sofia,Free Transfer,out,0,Primera Division,2011,2011/2012
+Real Zaragoza,Saïd Boutahar,28,Attacking Midfield,Al-Wakrah,Free Transfer,out,0,Primera Division,2011,2011/2012
+Real Zaragoza,Jorge López,32,Right Winger,OFI Crete,Free Transfer,out,0,Primera Division,2011,2011/2012
+Real Zaragoza,Víctor Laguardia,21,Centre-Back,UD Las Palmas,Loan,out,0,Primera Division,2011,2011/2012
+Real Zaragoza,Raúl Goni,22,Centre-Back,FC Cartagena,Loan,out,0,Primera Division,2011,2011/2012
+Real Zaragoza,Pablo,22,Right Midfield,Figueirense FC,Loan,out,0,Primera Division,2011,2011/2012
+Real Zaragoza,Fernando Meira,33,Centre-Back,Retired,-,out,0,Primera Division,2011,2011/2012
+Real Zaragoza,Braulio Nóbrega,26,Centre-Forward,Without Club,-,out,0,Primera Division,2011,2011/2012
+Real Zaragoza,D. K.,NA,Midfielder,Career break,-,out,0,Primera Division,2011,2011/2012
+Real Zaragoza,Carlos Diogo,27,Right-Back,Without Club,-,out,0,Primera Division,2011,2011/2012
+Real Zaragoza,Efraín Juárez,23,Right-Back,Celtic,"End of loanDec 31, 2011",out,0,Primera Division,2011,2011/2012
+Real Zaragoza,Marco Pérez,20,Centre-Forward,Boyacá Chicó,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Real Zaragoza,Guirane N'Daw,27,Defensive Midfield,Saint-Étienne,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Real Zaragoza,Florent Sinama-Pongolle,26,Second Striker,Sporting CP,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Real Zaragoza,Nicolás Bertolo,25,Left Winger,US Palermo,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Roque Santa Cruz,30,Centre-Forward,Man City,Loan fee:£1.35m,in,1.35,Primera Division,2011,2011/2012
+Real Betis Balompié,Javier Matilla,23,Central Midfield,Villarreal,£1.22m,in,1.22,Primera Division,2011,2011/2012
+Real Betis Balompié,Dusko Tosic,26,Centre-Back,Red Star,Loan fee:£270k,in,0.27,Primera Division,2011,2011/2012
+Real Betis Balompié,Antonio Amaya,28,Centre-Back,Wigan,£257k,in,0.257,Primera Division,2011,2011/2012
+Real Betis Balompié,Paulão,29,Centre-Back,Saint-Étienne,Loan,in,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Fabri,23,Goalkeeper,Real Valladolid,Free Transfer,in,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Mario Álvarez,29,Centre-Back,Getafe,Free Transfer,in,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Jefferson Montero,21,Left Winger,Villarreal,Loan,in,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Javi Chica,26,Right-Back,Espanyol,Free Transfer,in,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Ustaritz,28,Centre-Back,Athletic,Loan,in,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Nélson,28,Right-Back,CA Osasuna,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Mariano Pavone,29,Centre-Forward,River Plate,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Rodri,25,Right Midfield,FC Cartagena,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Juande,24,Defensive Midfield,Granada CF,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Achille Emaná,29,Attacking Midfield,Hilal,£4.05m,out,4.05,Primera Division,2011,2011/2012
+Real Betis Balompié,Rodri,25,Right Midfield,CD Guadalajara,Free Transfer,out,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Ezequiel Calvente,21,Right Winger,CE Sabadell,Loan,out,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Mariano Pavone,29,Centre-Forward,Lanús,Free Transfer,out,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Arzu,30,Defensive Midfield,Gimnàstic,Free Transfer,out,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Brimah Razak,24,Goalkeeper,CD Tenerife,Free Transfer,out,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Juande,24,Defensive Midfield,KVC Westerlo,Free Transfer,out,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Momo,29,Left Winger,UD Las Palmas,Free Transfer,out,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Israel Bascón,24,Right Midfield,Xerez CD,Free Transfer,out,0,Primera Division,2011,2011/2012
+Real Betis Balompié,David Belenguer,38,Centre-Back,Retired,-,out,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Dusko Tosic,26,Centre-Back,Red Star,"End of loanDec 31, 2011",out,0,Primera Division,2011,2011/2012
+Real Betis Balompié,David Odonkor,27,Right Winger,Without Club,-,out,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Fernando Vega,27,Left-Back,Without Club,-,out,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Miguel Lopes,24,Right-Back,FC Porto,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Real Betis Balompié,Rovérsio,27,Centre-Back,CA Osasuna,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+RCD Mallorca,Marvin Ogunjimi,23,Centre-Forward,KRC Genk,£2.16m,in,2.16,Primera Division,2011,2011/2012
+RCD Mallorca,Alejandro Alfaro,24,Left Winger,Sevilla FC,£540k,in,0.54,Primera Division,2011,2011/2012
+RCD Mallorca,Pablo Cáceres,26,Left-Back,Tigre,£360k,in,0.36,Primera Division,2011,2011/2012
+RCD Mallorca,Chico,24,Centre-Back,Genoa,Loan fee:£180k,in,0.18,Primera Division,2011,2011/2012
+RCD Mallorca,Gianni Zuiverloon,24,Centre-Back,West Brom,Free Transfer,in,0,Primera Division,2011,2011/2012
+RCD Mallorca,Juan Calatayud,31,Goalkeeper,Hércules CF,Free Transfer,in,0,Primera Division,2011,2011/2012
+RCD Mallorca,Tomer Hemed,24,Centre-Forward,Maccabi Haifa,Free Transfer,in,0,Primera Division,2011,2011/2012
+RCD Mallorca,Fernando Tissone,25,Central Midfield,Sampdoria,Loan,in,0,Primera Division,2011,2011/2012
+RCD Mallorca,Marvin Ogunjimi,24,Centre-Forward,KRC Genk,"End of loanDec 1, 2011",in,0,Primera Division,2011,2011/2012
+RCD Mallorca,Edson Ratinho,25,Right-Back,São Paulo,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+RCD Mallorca,Tuni,29,Right Winger,Gimnàstic,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+RCD Mallorca,Óscar Trejo,23,Attacking Midfield,Rayo Vallecano,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+RCD Mallorca,Jonathan de Guzmán,23,Central Midfield,Villarreal,£7.20m,out,7.2,Primera Division,2011,2011/2012
+RCD Mallorca,Óscar Trejo,23,Attacking Midfield,Sporting Gijón,£900k,out,0.9,Primera Division,2011,2011/2012
+RCD Mallorca,Pierre Webó,29,Centre-Forward,Istanbul BBSK,£675k,out,0.675,Primera Division,2011,2011/2012
+RCD Mallorca,Rubén González,29,Centre-Back,CA Osasuna,Free Transfer,out,0,Primera Division,2011,2011/2012
+RCD Mallorca,Sergi Enrich,21,Centre-Forward,Recr. Huelva,Loan,out,0,Primera Division,2011,2011/2012
+RCD Mallorca,Enrique Corrales,29,Left-Back,UD Las Palmas,Free Transfer,out,0,Primera Division,2011,2011/2012
+RCD Mallorca,Edson Ratinho,25,Right-Back,Mogi Mirim,Free Transfer,out,0,Primera Division,2011,2011/2012
+RCD Mallorca,Ayoze Díaz,29,Left-Back,Dep. La Coruña,Free Transfer,out,0,Primera Division,2011,2011/2012
+RCD Mallorca,Tuni,29,Right Winger,Gimnàstic,Free Transfer,out,0,Primera Division,2011,2011/2012
+RCD Mallorca,Germán Lux,28,Goalkeeper,Dep. La Coruña,Free Transfer,out,0,Primera Division,2011,2011/2012
+RCD Mallorca,Marvin Ogunjimi,23,Centre-Forward,KRC Genk,Loan,out,0,Primera Division,2011,2011/2012
+RCD Mallorca,Akihiro Ienaga,25,Attacking Midfield,Ulsan,Loan,out,0,Primera Division,2011,2011/2012
+CA Osasuna,Roland Lamah,23,Left Winger,FC Le Mans,£1.35m,in,1.35,Primera Division,2011,2011/2012
+CA Osasuna,Ibrahima Baldé,22,Centre-Forward,Atlético Madrid,£900k,in,0.9,Primera Division,2011,2011/2012
+CA Osasuna,Jukka Raitala,22,Left-Back,TSG Hoffenheim,Loan fee:£90k,in,0.09,Primera Division,2011,2011/2012
+CA Osasuna,Marc Bertrán,29,Right-Back,CD Tenerife,Free Transfer,in,0,Primera Division,2011,2011/2012
+CA Osasuna,Rubén González,29,Centre-Back,RCD Mallorca,Free Transfer,in,0,Primera Division,2011,2011/2012
+CA Osasuna,Raúl García,25,Attacking Midfield,Atlético Madrid,Loan,in,0,Primera Division,2011,2011/2012
+CA Osasuna,Nino,31,Centre-Forward,CD Tenerife,?,in,NA,Primera Division,2011,2011/2012
+CA Osasuna,Xavier Annunziata,23,Left Winger,CA Osasuna B,-,in,0,Primera Division,2011,2011/2012
+CA Osasuna,Jorge Galán,22,Centre-Forward,Kilmarnock FC,"End of loanDec 1, 2011",in,0,Primera Division,2011,2011/2012
+CA Osasuna,David Timor,21,Defensive Midfield,CA Osasuna B,-,in,0,Primera Division,2011,2011/2012
+CA Osasuna,Andrés Fernández,24,Goalkeeper,SD Huesca,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+CA Osasuna,Jokin Esparza,23,Left Winger,SD Huesca,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+CA Osasuna,Jon Echaide,23,Centre-Back,SD Huesca,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+CA Osasuna,Jorge Galán,22,Centre-Forward,SD Huesca,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+CA Osasuna,Rovérsio,27,Centre-Back,Real Betis,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+CA Osasuna,Nacho Monreal,25,Left-Back,Málaga CF,£5.40m,out,5.4,Primera Division,2011,2011/2012
+CA Osasuna,Javier Camuñas,30,Right Winger,Villarreal,£2.07m,out,2.07,Primera Division,2011,2011/2012
+CA Osasuna,Wálter Pandiani,35,Centre-Forward,Espanyol,Free Transfer,out,0,Primera Division,2011,2011/2012
+CA Osasuna,Krisztián Vadócz,26,Central Midfield,NEC Nijmegen,Free Transfer,out,0,Primera Division,2011,2011/2012
+CA Osasuna,Josetxo,34,Centre-Back,SD Huesca,Free Transfer,out,0,Primera Division,2011,2011/2012
+CA Osasuna,Fernando Soriano,31,Attacking Midfield,UD Almería,Free Transfer,out,0,Primera Division,2011,2011/2012
+CA Osasuna,Jokin Esparza,23,Left Winger,SD Huesca,Free Transfer,out,0,Primera Division,2011,2011/2012
+CA Osasuna,Carlos Aranda,30,Centre-Forward,Levante,Free Transfer,out,0,Primera Division,2011,2011/2012
+CA Osasuna,Oier,25,Defensive Midfield,Celta de Vigo,Loan,out,0,Primera Division,2011,2011/2012
+CA Osasuna,Jorge Galán,22,Centre-Forward,Real Unión,Loan,out,0,Primera Division,2011,2011/2012
+CA Osasuna,Nacho Zabal,24,Goalkeeper,CD Numancia,Loan,out,0,Primera Division,2011,2011/2012
+CA Osasuna,Jorge Galán,22,Centre-Forward,Kilmarnock FC,Loan,out,0,Primera Division,2011,2011/2012
+CA Osasuna,Rúper,24,Central Midfield,Elche CF,Loan,out,0,Primera Division,2011,2011/2012
+CA Osasuna,Coro,28,Centre-Forward,Espanyol,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+CA Osasuna,Nélson,28,Right-Back,Real Betis,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Pedro Botelho,21,Left-Back,Arsenal,Loan fee:£306k,in,0.306,Primera Division,2011,2011/2012
+Rayo Vallecano,Raúl Bravo,30,Centre-Back,Olympiacos,Free Transfer,in,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Mikel Labaka,30,Centre-Back,Real Sociedad,Free Transfer,in,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Koke,28,Centre-Forward,Houston,Free Transfer,in,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Michu,25,Second Striker,Celta de Vigo,Free Transfer,in,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Roberto Trashorras,30,Central Midfield,Celta de Vigo,Free Transfer,in,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Raúl Tamudo,33,Centre-Forward,Real Sociedad,Free Transfer,in,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Sueliton,24,Right-Back,Vitória-PE,Free Transfer,in,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Dani Pacheco,20,Left Winger,Atlético Madrid,Loan,in,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Jorge Pulido,20,Centre-Back,Atlético Madrid,Loan,in,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Jordi Figueras,24,Centre-Back,Rubin Kazan,Loan,in,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Emiliano Armenteros,25,Left Winger,Sevilla FC,Loan,in,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Diego Costa,23,Centre-Forward,Atlético Madrid,Loan,in,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Joel Robles,21,Goalkeeper,Atlético Madrid,Loan,in,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Lass Bangoura,19,Right Winger,Rayo B,-,in,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Juan Quero,26,Left Winger,UD Las Palmas,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Coke,24,Right-Back,Sevilla FC,£1.62m,out,1.62,Primera Division,2011,2011/2012
+Rayo Vallecano,Brayan Angulo,21,Left-Back,Atl. Baleares,Free Transfer,out,0,Primera Division,2011,2011/2012
+Rayo Vallecano,David Aganzo,30,Centre-Forward,Hércules CF,Free Transfer,out,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Néstor Susaeta,27,Right Winger,Lausanne-Sport,Free Transfer,out,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Koke,28,Centre-Forward,FC Baku,Free Transfer,out,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Borja García,20,Attacking Midfield,Córdoba CF,?,out,NA,Primera Division,2011,2011/2012
+Rayo Vallecano,Rafa García,25,Central Midfield,Xerez CD,Loan,out,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Juan Carlos,23,Goalkeeper,Hércules CF,?,out,NA,Primera Division,2011,2011/2012
+Rayo Vallecano,Yuma,25,Central Midfield,UD Salamanca,?,out,NA,Primera Division,2011,2011/2012
+Rayo Vallecano,Juli,29,Second Striker,Asteras Tripoli,Loan,out,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Juan Quero,26,Left Winger,Córdoba CF,Loan,out,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Salva,30,Centre-Back,Retired,-,out,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Carlos de la Vega,31,Right-Back,Without Club,-,out,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Pedro Botelho,22,Left-Back,Arsenal,"End of loanJan 19, 2012",out,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Jordi Figueras,24,Centre-Back,Rubin Kazan,"End of loanJan 19, 2012",out,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Emiliano Armenteros,25,Left Winger,Sevilla FC,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Óscar Trejo,23,Attacking Midfield,RCD Mallorca,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Rayo Vallecano,Antonio Amaya,28,Centre-Back,Wigan,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Sevilla FC,Manu del Moral,27,Centre-Forward,Getafe,£4.05m,in,4.05,Primera Division,2011,2011/2012
+Sevilla FC,José Antonio Reyes,28,Right Winger,Atlético Madrid,£3.15m,in,3.15,Primera Division,2011,2011/2012
+Sevilla FC,Baba Diawara,24,Centre-Forward,Marítimo,£2.70m,in,2.7,Primera Division,2011,2011/2012
+Sevilla FC,Martín Cáceres,24,Centre-Back,FC Barcelona,£2.70m,in,2.7,Primera Division,2011,2011/2012
+Sevilla FC,Emir Spahic,30,Centre-Back,Montpellier,£1.80m,in,1.8,Primera Division,2011,2011/2012
+Sevilla FC,Coke,24,Right-Back,Rayo Vallecano,£1.62m,in,1.62,Primera Division,2011,2011/2012
+Sevilla FC,Javi Hervás,22,Central Midfield,Córdoba CF,£1.08m,in,1.08,Primera Division,2011,2011/2012
+Sevilla FC,Piotr Trochowski,27,Attacking Midfield,Hamburger SV,Free Transfer,in,0,Primera Division,2011,2011/2012
+Sevilla FC,Juan Cala,22,Centre-Back,AEK Athens,"End of loanDec 31, 2011",in,0,Primera Division,2011,2011/2012
+Sevilla FC,Luis Alberto,18,Attacking Midfield,Sevilla Atl.,-,in,0,Primera Division,2011,2011/2012
+Sevilla FC,Bernardo Espinosa,21,Centre-Back,Sevilla Atl.,-,in,0,Primera Division,2011,2011/2012
+Sevilla FC,José Campaña,18,Central Midfield,Sevilla Atl.,-,in,0,Primera Division,2011,2011/2012
+Sevilla FC,Emiliano Armenteros,25,Left Winger,Rayo Vallecano,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Sevilla FC,Juan Cala,21,Centre-Back,FC Cartagena,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Sevilla FC,Tom De Mul,25,Right Midfield,Standard Liège,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Sevilla FC,José Carlos,23,Attacking Midfield,FC Cartagena,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Sevilla FC,David Prieto,28,Centre-Back,CD Tenerife,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Sevilla FC,Antonio Luna,20,Left-Back,UD Almería,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Sevilla FC,Didier Zokora,30,Defensive Midfield,Trabzonspor,£4.50m,out,4.5,Primera Division,2011,2011/2012
+Sevilla FC,Diego Capel,23,Left Winger,Sporting CP,£3.15m,out,3.15,Primera Division,2011,2011/2012
+Sevilla FC,Sergio Sánchez,25,Centre-Back,Málaga CF,£2.52m,out,2.52,Primera Division,2011,2011/2012
+Sevilla FC,Martín Cáceres,24,Centre-Back,Juventus,Loan fee:£1.35m,out,1.35,Primera Division,2011,2011/2012
+Sevilla FC,Rodri,21,Centre-Forward,FC Barcelona B,£1.35m,out,1.35,Primera Division,2011,2011/2012
+Sevilla FC,Mouhamadou Dabo,24,Right-Back,Olympique Lyon,£720k,out,0.72,Primera Division,2011,2011/2012
+Sevilla FC,Alejandro Alfaro,24,Left Winger,RCD Mallorca,£540k,out,0.54,Primera Division,2011,2011/2012
+Sevilla FC,Romaric,28,Defensive Midfield,Espanyol,Loan,out,0,Primera Division,2011,2011/2012
+Sevilla FC,Alexis,26,Centre-Back,Getafe,Loan,out,0,Primera Division,2011,2011/2012
+Sevilla FC,Javi Hervás,22,Central Midfield,Córdoba CF,Loan,out,0,Primera Division,2011,2011/2012
+Sevilla FC,José Carlos,23,Attacking Midfield,AEK Athens,Free Transfer,out,0,Primera Division,2011,2011/2012
+Sevilla FC,Arouna Koné,27,Centre-Forward,Levante,Loan,out,0,Primera Division,2011,2011/2012
+Sevilla FC,Juan Cala,21,Centre-Back,AEK Athens,Loan,out,0,Primera Division,2011,2011/2012
+Sevilla FC,David Prieto,28,Centre-Back,Córdoba CF,Free Transfer,out,0,Primera Division,2011,2011/2012
+Sevilla FC,Lautaro Acosta,23,Left Winger,Racing,Loan,out,0,Primera Division,2011,2011/2012
+Sevilla FC,Emiliano Armenteros,25,Left Winger,Rayo Vallecano,Loan,out,0,Primera Division,2011,2011/2012
+Sevilla FC,Bernardo Espinosa,22,Centre-Back,Racing,Loan,out,0,Primera Division,2011,2011/2012
+Sevilla FC,Ivica Dragutinovic,35,Centre-Back,Retired,-,out,0,Primera Division,2011,2011/2012
+Sevilla FC,Luca Cigarini,25,Defensive Midfield,SSC Napoli,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Sevilla FC,Martín Cáceres,24,Centre-Back,FC Barcelona,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Real Madrid,Fábio Coentrão,23,Left-Back,Benfica,£27.00m,in,27,Primera Division,2011,2011/2012
+Real Madrid,Nuri Sahin,22,Defensive Midfield,Bor. Dortmund,£9.00m,in,9,Primera Division,2011,2011/2012
+Real Madrid,Raphaël Varane,18,Centre-Back,Lens,£9.00m,in,9,Primera Division,2011,2011/2012
+Real Madrid,José Callejón,24,Right Winger,Espanyol,£4.50m,in,4.5,Primera Division,2011,2011/2012
+Real Madrid,Hamit Altintop,28,Right Midfield,Bayern Munich,Free Transfer,in,0,Primera Division,2011,2011/2012
+Real Madrid,Royston Drenthe,24,Left Midfield,Hércules CF,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Real Madrid,Ezequiel Garay,24,Centre-Back,Benfica,£4.95m,out,4.95,Primera Division,2011,2011/2012
+Real Madrid,Sergio Canales,20,Attacking Midfield,Valencia,Loan fee:£1.80m,out,1.8,Primera Division,2011,2011/2012
+Real Madrid,Fernando Gago,25,Defensive Midfield,AS Roma,Loan fee:£450k,out,0.45,Primera Division,2011,2011/2012
+Real Madrid,Royston Drenthe,24,Left Midfield,Everton,Loan,out,0,Primera Division,2011,2011/2012
+Real Madrid,Pedro León,24,Right Winger,Getafe,Loan,out,0,Primera Division,2011,2011/2012
+Real Madrid,Jerzy Dudek,38,Goalkeeper,Retired,-,out,0,Primera Division,2011,2011/2012
+Real Madrid,Emmanuel Adebayor,27,Centre-Forward,Man City,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Racing Santander,Khouma Babacar,18,Centre-Forward,Fiorentina,Loan fee:£315k,in,0.315,Primera Division,2011,2011/2012
+Racing Santander,Alexandros Tziolis,26,Defensive Midfield,Siena,Free Transfer,in,0,Primera Division,2011,2011/2012
+Racing Santander,Cristhian Stuani,24,Centre-Forward,Reggina,Loan,in,0,Primera Division,2011,2011/2012
+Racing Santander,Marcos Gullón,22,Central Midfield,Villarreal CF B,?,in,NA,Primera Division,2011,2011/2012
+Racing Santander,Bernardo Espinosa,22,Centre-Back,Sevilla FC,Loan,in,0,Primera Division,2011,2011/2012
+Racing Santander,Lautaro Acosta,23,Left Winger,Sevilla FC,Loan,in,0,Primera Division,2011,2011/2012
+Racing Santander,Julián Luque,19,Attacking Midfield,Racing B,-,in,0,Primera Division,2011,2011/2012
+Racing Santander,Damián Ísmodes,22,Attacking Midfield,Universitario,"End of loanDec 1, 2011",in,0,Primera Division,2011,2011/2012
+Racing Santander,Álvaro González,21,Centre-Back,Racing B,-,in,0,Primera Division,2011,2011/2012
+Racing Santander,César de la Hoz,19,Central Midfield,Racing B,-,in,0,Primera Division,2011,2011/2012
+Racing Santander,Jairo Samperio,17,Left Winger,Racing U19,-,in,0,Primera Division,2011,2011/2012
+Racing Santander,Brian Sarmiento,21,Attacking Midfield,UD Salamanca,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Racing Santander,Edu Bedia,22,Central Midfield,UD Salamanca,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Racing Santander,José Picón,23,Centre-Back,Pontevedra,"End of loanJun 1, 2011",in,0,Primera Division,2011,2011/2012
+Racing Santander,Ariel Nahuelpán,24,Centre-Forward,LDU Quito,£1.71m,out,1.71,Primera Division,2011,2011/2012
+Racing Santander,Alexandros Tziolis,26,Defensive Midfield,Monaco,£180k,out,0.18,Primera Division,2011,2011/2012
+Racing Santander,Mehdi Lacen,27,Defensive Midfield,Getafe,Free Transfer,out,0,Primera Division,2011,2011/2012
+Racing Santander,Óscar Serrano,30,Left Midfield,Levante,Free Transfer,out,0,Primera Division,2011,2011/2012
+Racing Santander,Fabio Coltorti,30,Goalkeeper,Lausanne-Sport,Free Transfer,out,0,Primera Division,2011,2011/2012
+Racing Santander,Toño,32,Goalkeeper,Granada CF,Free Transfer,out,0,Primera Division,2011,2011/2012
+Racing Santander,Brian Sarmiento,21,Attacking Midfield,Racing Club,?,out,NA,Primera Division,2011,2011/2012
+Racing Santander,Iván Bolado,21,Centre-Forward,FC Cartagena,?,out,NA,Primera Division,2011,2011/2012
+Racing Santander,Damián Ísmodes,22,Attacking Midfield,Cienciano,?,out,NA,Primera Division,2011,2011/2012
+Racing Santander,Pablo Pinillos,36,Right-Back,Retired,-,out,0,Primera Division,2011,2011/2012
+Racing Santander,Khouma Babacar,19,Centre-Forward,Fiorentina,"End of loanMay 9, 2012",out,0,Primera Division,2011,2011/2012
+Racing Santander,Alexandros Tziolis,26,Defensive Midfield,Siena,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Racing Santander,Henrique,24,Centre-Back,FC Barcelona,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Racing Santander,Giovani dos Santos,22,Second Striker,Spurs,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Racing Santander,Markus Rosenberg,28,Centre-Forward,Werder Bremen,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Real Sociedad,McDonald Mariga,24,Defensive Midfield,Inter,Loan fee:£1.35m,in,1.35,Primera Division,2011,2011/2012
+Real Sociedad,Carlos Vela,22,Right Winger,Arsenal,Loan,in,0,Primera Division,2011,2011/2012
+Real Sociedad,Rubén Pardo,19,Central Midfield,Real Sociedad B,-,in,0,Primera Division,2011,2011/2012
+Real Sociedad,Iñigo Martínez,20,Centre-Back,Real Sociedad B,-,in,0,Primera Division,2011,2011/2012
+Real Sociedad,Borja Viguera,24,Centre-Forward,Gimnàstic,"End of loanDec 1, 2011",in,0,Primera Division,2011,2011/2012
+Real Sociedad,Liassine Cadamuro,23,Centre-Back,Real Sociedad B,-,in,0,Primera Division,2011,2011/2012
+Real Sociedad,Iñigo Sarasola,24,Left-Back,Real Unión,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Real Sociedad,Mikel Labaka,30,Centre-Back,Rayo Vallecano,Free Transfer,out,0,Primera Division,2011,2011/2012
+Real Sociedad,Iñigo Sarasola,24,Left-Back,SD Beasain,Free Transfer,out,0,Primera Division,2011,2011/2012
+Real Sociedad,Paco Sutil,26,Attacking Midfield,Real Murcia,Free Transfer,out,0,Primera Division,2011,2011/2012
+Real Sociedad,Iosu Esnaola,24,Centre-Back,SD Noja,Free Transfer,out,0,Primera Division,2011,2011/2012
+Real Sociedad,Raúl Tamudo,33,Centre-Forward,Rayo Vallecano,Free Transfer,out,0,Primera Division,2011,2011/2012
+Real Sociedad,Diego Rivas,31,Central Midfield,Hércules CF,Free Transfer,out,0,Primera Division,2011,2011/2012
+Real Sociedad,Toño,25,Goalkeeper,CD Guadalajara,Free Transfer,out,0,Primera Division,2011,2011/2012
+Real Sociedad,Jeffrey Sarpong,23,Left Winger,NAC Breda,Loan,out,0,Primera Division,2011,2011/2012
+Real Sociedad,Borja Viguera,24,Centre-Forward,Albacete,Loan,out,0,Primera Division,2011,2011/2012
+Real Sociedad,McDonald Mariga,24,Defensive Midfield,Inter,"End of loanDec 1, 2011",out,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Juan Ángel Albín,24,Attacking Midfield,Getafe,£2.70m,in,2.7,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Héctor Moreno,23,Centre-Back,AZ Alkmaar,£2.25m,in,2.25,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Adrián Luna,19,Right Winger,Defensor,£900k,in,0.9,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Rui Fonte,21,Centre-Forward,Sporting CP,Free Transfer,in,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Romaric,28,Defensive Midfield,Sevilla FC,Loan,in,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Philippe Coutinho,19,Left Winger,Inter,Loan,in,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Víctor Sánchez,24,Central Midfield,Neuchâtel Xamax,Free Transfer,in,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Dídac Vilà,22,Left-Back,AC Milan,Loan,in,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Wálter Pandiani,35,Centre-Forward,CA Osasuna,Free Transfer,in,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Kalu Uche,29,Centre-Forward,Neuchâtel Xamax,Free Transfer,in,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Vladimir Weiss,21,Left Winger,Man City,Loan,in,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Adrián Luna,19,Right Winger,Gimnàstic,"End of loanDec 31, 2011",in,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Raúl Rodríguez,23,Centre-Back,RCD Espanyol B,-,in,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Thievy Bifouma,19,Left Winger,Espanyol U19,-,in,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Ben Sahar,21,Centre-Forward,Hapoel Tel Aviv,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Kiko Casilla,24,Goalkeeper,FC Cartagena,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Milan Smiljanic,24,Defensive Midfield,Partizan,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Ángel Martínez,25,Central Midfield,Girona,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Román Martínez,28,Central Midfield,Tigre,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Coro,28,Centre-Forward,CA Osasuna,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Daniel Osvaldo,25,Centre-Forward,AS Roma,£14.40m,out,14.4,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,José Callejón,24,Right Winger,Real Madrid,£4.50m,out,4.5,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Jesús Dátolo,27,Left Midfield,Internacional,£2.70m,out,2.7,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Luis García,30,Central Midfield,Real Zaragoza,£900k,out,0.9,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Carlos Kameni,27,Goalkeeper,Málaga CF,Free Transfer,out,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Iván Alonso,32,Centre-Forward,Toluca,Free Transfer,out,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Ángel Martínez,25,Central Midfield,Blackpool,Free Transfer,out,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,David García,30,Left-Back,Girona,Free Transfer,out,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Javi Chica,26,Right-Back,Real Betis,Free Transfer,out,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Manu Molina,19,Attacking Midfield,SD Huesca,Loan,out,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Aldo Duscher,32,Defensive Midfield,Barcelona SC,Free Transfer,out,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Coro,28,Centre-Forward,Girona,Free Transfer,out,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Román Martínez,28,Central Midfield,Tigre,Free Transfer,out,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Milan Smiljanic,24,Defensive Midfield,Partizan,Free Transfer,out,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Adrián Luna,19,Right Winger,CE Sabadell,Loan,out,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Adrián Luna,19,Right Winger,Gimnàstic,Loan,out,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Ben Sahar,21,Centre-Forward,AJ Auxerre,Loan,out,0,Primera Division,2011,2011/2012
+RCD Espanyol Barcelona,Iván de la Peña,35,Attacking Midfield,Retired,-,out,0,Primera Division,2011,2011/2012
+Valencia CF,Víctor Ruiz,22,Centre-Back,SSC Napoli,£7.20m,in,7.2,Primera Division,2011,2011/2012
+Valencia CF,Pablo Piatti,22,Left Winger,UD Almería,£6.75m,in,6.75,Primera Division,2011,2011/2012
+Valencia CF,Adil Rami,25,Centre-Back,LOSC Lille,£5.40m,in,5.4,Primera Division,2011,2011/2012
+Valencia CF,Dani Parejo,22,Central Midfield,Getafe,£5.40m,in,5.4,Primera Division,2011,2011/2012
+Valencia CF,Diego Alves,26,Goalkeeper,UD Almería,£2.70m,in,2.7,Primera Division,2011,2011/2012
+Valencia CF,Sergio Canales,20,Attacking Midfield,Real Madrid,Loan fee:£1.80m,in,1.8,Primera Division,2011,2011/2012
+Valencia CF,Antonio Barragán,24,Right-Back,Real Valladolid,£1.35m,in,1.35,Primera Division,2011,2011/2012
+Valencia CF,Cristiano,20,Goalkeeper,Braga,Loan,in,0,Primera Division,2011,2011/2012
+Valencia CF,Paco Alcácer,17,Centre-Forward,Valencia B,-,in,0,Primera Division,2011,2011/2012
+Valencia CF,Renan,26,Goalkeeper,Internacional,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Valencia CF,Sofiane Feghouli,21,Right Winger,UD Almería,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Valencia CF,Míchel,22,Attacking Midfield,Dep. La Coruña,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Valencia CF,Sunny,22,Defensive Midfield,CD Numancia,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Valencia CF,Asier del Horno,30,Left-Back,Levante,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Valencia CF,Aarón Ñíguez,22,Right Winger,Recr. Huelva,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Valencia CF,Manuel Fernandes,25,Attacking Midfield,Besiktas,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Valencia CF,Juan Mata,23,Attacking Midfield,Chelsea,£24.03m,out,24.03,Primera Division,2011,2011/2012
+Valencia CF,Joaquín,29,Right Winger,Málaga CF,£3.78m,out,3.78,Primera Division,2011,2011/2012
+Valencia CF,Manuel Fernandes,25,Attacking Midfield,Besiktas,£1.80m,out,1.8,Primera Division,2011,2011/2012
+Valencia CF,César Sánchez,39,Goalkeeper,Villarreal,Free Transfer,out,0,Primera Division,2011,2011/2012
+Valencia CF,Asier del Horno,30,Left-Back,Levante,Free Transfer,out,0,Primera Division,2011,2011/2012
+Valencia CF,Sunny,22,Defensive Midfield,CD Numancia,Free Transfer,out,0,Primera Division,2011,2011/2012
+Valencia CF,Renan,26,Goalkeeper,Internacional,Free Transfer,out,0,Primera Division,2011,2011/2012
+Valencia CF,Ignacio González,29,Attacking Midfield,Standard Liège,Free Transfer,out,0,Primera Division,2011,2011/2012
+Valencia CF,David Navarro,31,Centre-Back,Neuchâtel Xamax,Free Transfer,out,0,Primera Division,2011,2011/2012
+Valencia CF,Aarón Ñíguez,22,Right Winger,UD Almería,Free Transfer,out,0,Primera Division,2011,2011/2012
+Valencia CF,Alejandro Domínguez,30,Attacking Midfield,River Plate,Loan,out,0,Primera Division,2011,2011/2012
+Valencia CF,Míchel,22,Attacking Midfield,Hércules CF,Loan,out,0,Primera Division,2011,2011/2012
+Valencia CF,Miguel Ángel Moyà,27,Goalkeeper,Getafe,Loan,out,0,Primera Division,2011,2011/2012
+Valencia CF,Vicente,29,Left Winger,Without Club,-,out,0,Primera Division,2011,2011/2012
+Valencia CF,Marius Stankevicius,29,Centre-Back,Sampdoria,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Villarreal CF,Cristián Zapata,24,Centre-Back,Udinese Calcio,£8.10m,in,8.1,Primera Division,2011,2011/2012
+Villarreal CF,Jonathan de Guzmán,23,Central Midfield,RCD Mallorca,£7.20m,in,7.2,Primera Division,2011,2011/2012
+Villarreal CF,Borja Valero,26,Central Midfield,West Brom,£5.40m,in,5.4,Primera Division,2011,2011/2012
+Villarreal CF,Ikechukwu Uche,27,Centre-Forward,Real Zaragoza,£4.50m,in,4.5,Primera Division,2011,2011/2012
+Villarreal CF,Javier Camuñas,30,Right Winger,CA Osasuna,£2.07m,in,2.07,Primera Division,2011,2011/2012
+Villarreal CF,Florian Lejeune,20,Centre-Back,FC Istres,£900k,in,0.9,Primera Division,2011,2011/2012
+Villarreal CF,César Sánchez,39,Goalkeeper,Valencia,Free Transfer,in,0,Primera Division,2011,2011/2012
+Villarreal CF,Alejandro Martinuccio,24,Centre-Forward,Fluminense,Loan,in,0,Primera Division,2011,2011/2012
+Villarreal CF,Joselu,20,Centre-Forward,Villarreal CF B,-,in,0,Primera Division,2011,2011/2012
+Villarreal CF,Gerard Bordas,29,Centre-Forward,Villarreal CF B,-,in,0,Primera Division,2011,2011/2012
+Villarreal CF,Gonzalo Castellani,24,Attacking Midfield,Villarreal CF B,-,in,0,Primera Division,2011,2011/2012
+Villarreal CF,Hernán Pérez,22,Right Winger,Villarreal CF B,-,in,0,Primera Division,2011,2011/2012
+Villarreal CF,Iván Marcano,24,Centre-Back,Getafe,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Villarreal CF,Cristóbal Márquez,27,Attacking Midfield,Elche CF,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Villarreal CF,Jozy Altidore,21,Centre-Forward,Bursaspor,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Villarreal CF,Jefferson Montero,21,Left Winger,Levante,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Villarreal CF,Santi Cazorla,26,Central Midfield,Málaga CF,£20.70m,out,20.7,Primera Division,2011,2011/2012
+Villarreal CF,Jozy Altidore,21,Centre-Forward,AZ Alkmaar,£1.35m,out,1.35,Primera Division,2011,2011/2012
+Villarreal CF,Javier Matilla,23,Central Midfield,Real Betis,£1.22m,out,1.22,Primera Division,2011,2011/2012
+Villarreal CF,Iván Marcano,24,Centre-Back,Olympiacos,Loan fee:£900k,out,0.9,Primera Division,2011,2011/2012
+Villarreal CF,Cristóbal Márquez,27,Attacking Midfield,Karpaty,Free Transfer,out,0,Primera Division,2011,2011/2012
+Villarreal CF,Joan Capdevila,33,Left-Back,Benfica,Free Transfer,out,0,Primera Division,2011,2011/2012
+Villarreal CF,Ikechukwu Uche,27,Centre-Forward,Granada CF,Loan,out,0,Primera Division,2011,2011/2012
+Villarreal CF,Nicki Bille Nielsen,23,Centre-Forward,Elche CF,Loan,out,0,Primera Division,2011,2011/2012
+Villarreal CF,Jefferson Montero,21,Left Winger,Real Betis,Loan,out,0,Primera Division,2011,2011/2012
+Villarreal CF,Juan Carlos,23,Goalkeeper,Elche CF,Loan,out,0,Primera Division,2011,2011/2012
+Villarreal CF,Xavier Oliva,35,Goalkeeper,Retired,-,out,0,Primera Division,2011,2011/2012
+Villarreal CF,Gerard Bordas,30,Centre-Forward,Villarreal CF B,-,out,0,Primera Division,2011,2011/2012
+Villarreal CF,Borja Valero,26,Central Midfield,West Brom,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Villarreal CF,Cicinho,31,Right-Back,AS Roma,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Málaga CF,Santi Cazorla,26,Central Midfield,Villarreal,£20.70m,in,20.7,Primera Division,2011,2011/2012
+Málaga CF,Jérémy Toulalan,27,Defensive Midfield,Olympique Lyon,£9.90m,in,9.9,Primera Division,2011,2011/2012
+Málaga CF,Isco,19,Attacking Midfield,Valencia B,£5.40m,in,5.4,Primera Division,2011,2011/2012
+Málaga CF,Nacho Monreal,25,Left-Back,CA Osasuna,£5.40m,in,5.4,Primera Division,2011,2011/2012
+Málaga CF,Diego Buonanotte,23,Attacking Midfield,River Plate,£4.05m,in,4.05,Primera Division,2011,2011/2012
+Málaga CF,Joaquín,29,Right Winger,Valencia,£3.78m,in,3.78,Primera Division,2011,2011/2012
+Málaga CF,Sergio Sánchez,25,Centre-Back,Sevilla FC,£2.52m,in,2.52,Primera Division,2011,2011/2012
+Málaga CF,Joris Mathijsen,31,Centre-Back,Hamburger SV,£1.58m,in,1.58,Primera Division,2011,2011/2012
+Málaga CF,Ruud van Nistelrooy,35,Centre-Forward,Hamburger SV,Free Transfer,in,0,Primera Division,2011,2011/2012
+Málaga CF,Carlos Kameni,27,Goalkeeper,Espanyol,Free Transfer,in,0,Primera Division,2011,2011/2012
+Málaga CF,Javi López,23,Right Winger,Ponferradina,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Málaga CF,Edu Ramos,19,Central Midfield,CD Leganés,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Málaga CF,Daniel Toribio,22,Defensive Midfield,Ponferradina,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Málaga CF,David González,21,Central Midfield,Oviedo Vetusta,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Málaga CF,Jordi Pablo,21,Right Midfield,FC Cartagena,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Málaga CF,Edinho,28,Centre-Forward,Marítimo,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Málaga CF,Kris Stadsgaard,26,Centre-Back,FC Copenhagen,Free Transfer,out,0,Primera Division,2011,2011/2012
+Málaga CF,Manu Torres,21,Centre-Back,FC Cartagena,Free Transfer,out,0,Primera Division,2011,2011/2012
+Málaga CF,Edu Ramos,19,Central Midfield,FC Villarreal C,Free Transfer,out,0,Primera Division,2011,2011/2012
+Málaga CF,Patrick Mtiliga,30,Left-Back,Nordsjaelland,Free Transfer,out,0,Primera Division,2011,2011/2012
+Málaga CF,Apoño,27,Central Midfield,Real Zaragoza,Loan,out,0,Primera Division,2011,2011/2012
+Málaga CF,Javi López,23,Right Winger,Real Jaén CF,Loan,out,0,Primera Division,2011,2011/2012
+Málaga CF,David González,21,Central Midfield,Oviedo Vetusta,Free Transfer,out,0,Primera Division,2011,2011/2012
+Málaga CF,Jordi Pablo,21,Right Midfield,Villarreal CF B,Free Transfer,out,0,Primera Division,2011,2011/2012
+Málaga CF,Manolo Gaspar,30,Right-Back,FC Cartagena,Free Transfer,out,0,Primera Division,2011,2011/2012
+Málaga CF,Daniel Toribio,22,Defensive Midfield,Villarreal CF B,Free Transfer,out,0,Primera Division,2011,2011/2012
+Málaga CF,Edinho,29,Centre-Forward,Coimbra,Loan,out,0,Primera Division,2011,2011/2012
+Málaga CF,Sandro Silva,27,Defensive Midfield,Internacional,Loan,out,0,Primera Division,2011,2011/2012
+Málaga CF,Fernando,32,Attacking Midfield,Without Club,-,out,0,Primera Division,2011,2011/2012
+Málaga CF,Francesc Arnau,36,Goalkeeper,Retired,-,out,0,Primera Division,2011,2011/2012
+Málaga CF,Quincy Owusu-Abeyie,25,Left Winger,Al Sadd,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Málaga CF,Sergio Asenjo,22,Goalkeeper,Atlético Madrid,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Sporting Gijón,Óscar Trejo,23,Attacking Midfield,RCD Mallorca,£900k,in,0.9,Primera Division,2011,2011/2012
+Sporting Gijón,Damián Suárez,23,Right-Back,Defensor,£450k,in,0.45,Primera Division,2011,2011/2012
+Sporting Gijón,Ricardo León,28,Central Midfield,CD Tenerife,Free Transfer,in,0,Primera Division,2011,2011/2012
+Sporting Gijón,Adrián Colunga,27,Centre-Forward,Getafe,Loan,in,0,Primera Division,2011,2011/2012
+Sporting Gijón,Alejandro Gálvez,22,Centre-Back,Sporting B,-,in,0,Primera Division,2011,2011/2012
+Sporting Gijón,Pedro Orfila,23,Centre-Back,Sporting B,-,in,0,Primera Division,2011,2011/2012
+Sporting Gijón,Raúl Domínguez,25,Goalkeeper,Sporting B,-,in,0,Primera Division,2011,2011/2012
+Sporting Gijón,Formose Mendy,22,Right Midfield,Sporting B,-,in,0,Primera Division,2011,2011/2012
+Sporting Gijón,Marcos Landeira,24,Central Midfield,Real Unión,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Sporting Gijón,Jorge García,27,Centre-Back,Gimnàstic,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Sporting Gijón,José Ángel,21,Left-Back,AS Roma,£4.05m,out,4.05,Primera Division,2011,2011/2012
+Sporting Gijón,Diego Castro,28,Left Winger,Getafe,Free Transfer,out,0,Primera Division,2011,2011/2012
+Sporting Gijón,Jorge García,27,Centre-Back,Real Murcia,Free Transfer,out,0,Primera Division,2011,2011/2012
+Sporting Gijón,Nacho Novo,32,Right Winger,Legia Warszawa,Free Transfer,out,0,Primera Division,2011,2011/2012
+Sporting Gijón,Luis Morán,24,Centre-Forward,AEK Larnaca,Loan,out,0,Primera Division,2011,2011/2012
+Sporting Gijón,Rafael Sastre,35,Right-Back,SD Huesca,Free Transfer,out,0,Primera Division,2011,2011/2012
+Levante UD,Felipe Caicedo,22,Centre-Forward,Man City,£900k,in,0.9,Primera Division,2011,2011/2012
+Levante UD,Miguel Pallardó,24,Central Midfield,Getafe,£180k,in,0.18,Primera Division,2011,2011/2012
+Levante UD,Pedro López,27,Right-Back,Real Valladolid,£180k,in,0.18,Primera Division,2011,2011/2012
+Levante UD,Keylor Navas,24,Goalkeeper,Albacete,Loan fee:£135k,in,0.135,Primera Division,2011,2011/2012
+Levante UD,Nabil El Zhar,24,Right Winger,Liverpool,Free Transfer,in,0,Primera Division,2011,2011/2012
+Levante UD,Pedro Botelho,22,Left-Back,Arsenal,Loan,in,0,Primera Division,2011,2011/2012
+Levante UD,David Navarro,31,Centre-Back,Neuchâtel Xamax,Free Transfer,in,0,Primera Division,2011,2011/2012
+Levante UD,Asier del Horno,30,Left-Back,Valencia,Free Transfer,in,0,Primera Division,2011,2011/2012
+Levante UD,Gustavo Cabral,25,Centre-Back,Arsenal FC,Loan,in,0,Primera Division,2011,2011/2012
+Levante UD,Abdelkader Ghezzal,27,Centre-Forward,Bari,Loan,in,0,Primera Division,2011,2011/2012
+Levante UD,Arouna Koné,27,Centre-Forward,Sevilla FC,Loan,in,0,Primera Division,2011,2011/2012
+Levante UD,Óscar Serrano,30,Left Midfield,Racing,Free Transfer,in,0,Primera Division,2011,2011/2012
+Levante UD,José Javier Barkero,32,Attacking Midfield,CD Numancia,Free Transfer,in,0,Primera Division,2011,2011/2012
+Levante UD,Francisco Farinós,33,Defensive Midfield,Hércules CF,Free Transfer,in,0,Primera Division,2011,2011/2012
+Levante UD,Carlos Aranda,30,Centre-Forward,CA Osasuna,Free Transfer,in,0,Primera Division,2011,2011/2012
+Levante UD,Marc Mateu,21,Right Winger,CD Badajoz,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Levante UD,Felipe Caicedo,22,Centre-Forward,Loko Moscow,£6.75m,out,6.75,Primera Division,2011,2011/2012
+Levante UD,Nano,31,Centre-Back,GZ Renhe,£450k,out,0.45,Primera Division,2011,2011/2012
+Levante UD,Manolo Reina,26,Goalkeeper,FC Cartagena,Free Transfer,out,0,Primera Division,2011,2011/2012
+Levante UD,Gorka Larrea,27,Central Midfield,CD Numancia,Free Transfer,out,0,Primera Division,2011,2011/2012
+Levante UD,Héctor Rodas,23,Centre-Back,Elche CF,Loan,out,0,Primera Division,2011,2011/2012
+Levante UD,Rafa Jordá,28,Centre-Forward,GZ Renhe,Free Transfer,out,0,Primera Division,2011,2011/2012
+Levante UD,David Cerra,27,Right-Back,Córdoba CF,Free Transfer,out,0,Primera Division,2011,2011/2012
+Levante UD,Xisco Nadal,25,Right Winger,Unknown,Free Transfer,out,0,Primera Division,2011,2011/2012
+Levante UD,Carlos Aranda,31,Centre-Forward,Real Zaragoza,Free Transfer,out,0,Primera Division,2011,2011/2012
+Levante UD,Marc Mateu,21,Right Winger,Real Zaragoza B,Loan,out,0,Primera Division,2011,2011/2012
+Levante UD,Xisco,30,Second Striker,Dinamo Tbilisi,Free Transfer,out,0,Primera Division,2011,2011/2012
+Levante UD,Miquel Robusté,26,Centre-Back,Xerez CD,Free Transfer,out,0,Primera Division,2011,2011/2012
+Levante UD,Wellington Silva,18,Right Winger,Arsenal,"End of loanDec 31, 2011",out,0,Primera Division,2011,2011/2012
+Levante UD,Sergio,34,Central Midfield,Retired,-,out,0,Primera Division,2011,2011/2012
+Levante UD,Miguel Pérez,31,Right Midfield,Retired,-,out,0,Primera Division,2011,2011/2012
+Levante UD,Miguel Pallardó,24,Central Midfield,Getafe,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Levante UD,Felipe Caicedo,22,Centre-Forward,Man City,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Levante UD,Cristhian Stuani,24,Centre-Forward,Reggina,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Levante UD,Asier del Horno,30,Left-Back,Valencia,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Levante UD,Jefferson Montero,21,Left Winger,Villarreal,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Getafe CF,Pablo Sarabia,19,Attacking Midfield,RM Castilla,£2.70m,in,2.7,Primera Division,2011,2011/2012
+Getafe CF,Tsepo Masilela,26,Left-Back,Maccabi Haifa,Loan fee:£270k,in,0.27,Primera Division,2011,2011/2012
+Getafe CF,Míchel,25,Central Midfield,Birmingham,Free Transfer,in,0,Primera Division,2011,2011/2012
+Getafe CF,Dani Güiza,30,Centre-Forward,Fenerbahce,Free Transfer,in,0,Primera Division,2011,2011/2012
+Getafe CF,Juan Rodríguez,29,Defensive Midfield,Dep. La Coruña,Free Transfer,in,0,Primera Division,2011,2011/2012
+Getafe CF,Diego Castro,28,Left Winger,Sporting Gijón,Free Transfer,in,0,Primera Division,2011,2011/2012
+Getafe CF,Alberto Lopo,31,Centre-Back,Dep. La Coruña,Free Transfer,in,0,Primera Division,2011,2011/2012
+Getafe CF,Pedro León,24,Right Winger,Real Madrid,Loan,in,0,Primera Division,2011,2011/2012
+Getafe CF,Alexis,26,Centre-Back,Sevilla FC,Loan,in,0,Primera Division,2011,2011/2012
+Getafe CF,Mehdi Lacen,27,Defensive Midfield,Racing,Free Transfer,in,0,Primera Division,2011,2011/2012
+Getafe CF,Michelangelo Albertazzi,20,Left-Back,Milan U19,Loan,in,0,Primera Division,2011,2011/2012
+Getafe CF,Miguel Ángel Moyà,27,Goalkeeper,Valencia,Loan,in,0,Primera Division,2011,2011/2012
+Getafe CF,Rubén Pérez,22,Defensive Midfield,Atlético Madrid,Loan,in,0,Primera Division,2011,2011/2012
+Getafe CF,Juan Valera,26,Right-Back,Atlético Madrid,?,in,NA,Primera Division,2011,2011/2012
+Getafe CF,Javier Arizmendi,27,Centre-Forward,Neuchâtel Xamax,"End of loanDec 31, 2011",in,0,Primera Division,2011,2011/2012
+Getafe CF,Abdelaziz Barrada,22,Attacking Midfield,Getafe CF B,-,in,0,Primera Division,2011,2011/2012
+Getafe CF,Ibrahim Kas,23,Centre-Back,Besiktas,"End of loanJun 30, 2010",in,0,Primera Division,2011,2011/2012
+Getafe CF,Miguel Pallardó,24,Central Midfield,Levante,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Getafe CF,Dani Parejo,22,Central Midfield,Valencia,£5.40m,out,5.4,Primera Division,2011,2011/2012
+Getafe CF,Derek Boateng,28,Defensive Midfield,Dnipro,£4.39m,out,4.39,Primera Division,2011,2011/2012
+Getafe CF,Manu del Moral,27,Centre-Forward,Sevilla FC,£4.05m,out,4.05,Primera Division,2011,2011/2012
+Getafe CF,Juan Ángel Albín,24,Attacking Midfield,Espanyol,£2.70m,out,2.7,Primera Division,2011,2011/2012
+Getafe CF,Miguel Pallardó,24,Central Midfield,Levante,£180k,out,0.18,Primera Division,2011,2011/2012
+Getafe CF,Ibrahim Kas,24,Centre-Back,Bursaspor,Free Transfer,out,0,Primera Division,2011,2011/2012
+Getafe CF,Mario Álvarez,29,Centre-Back,Real Betis,Free Transfer,out,0,Primera Division,2011,2011/2012
+Getafe CF,Borja Fernández,30,Defensive Midfield,Dep. La Coruña,Loan,out,0,Primera Division,2011,2011/2012
+Getafe CF,Adrián Colunga,27,Centre-Forward,Sporting Gijón,Loan,out,0,Primera Division,2011,2011/2012
+Getafe CF,Adrián Sardinero,20,Right Winger,Hércules CF,Loan,out,0,Primera Division,2011,2011/2012
+Getafe CF,Pablo Pintos,24,Right-Back,Defensor,Loan,out,0,Primera Division,2011,2011/2012
+Getafe CF,Javier Arizmendi,27,Centre-Forward,Neuchâtel Xamax,Loan,out,0,Primera Division,2011,2011/2012
+Getafe CF,Pedro Mosquera,23,Central Midfield,RM Castilla,Loan,out,0,Primera Division,2011,2011/2012
+Getafe CF,Michelangelo Albertazzi,20,Left-Back,AC Milan,"End of loanDec 1, 2011",out,0,Primera Division,2011,2011/2012
+Getafe CF,Iván Marcano,24,Centre-Back,Villarreal,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Getafe CF,Víctor Sánchez,23,Central Midfield,FC Barcelona,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Granada CF,Pape Diakhaté,27,Centre-Back,Dynamo Kyiv,£4.05m,in,4.05,Primera Division,2011,2011/2012
+Granada CF,Gabriel Silva,20,Left-Back,Palmeiras,£3.60m,in,3.6,Primera Division,2011,2011/2012
+Granada CF,Daniel Pudil,26,Left-Back,KRC Genk,£900k,in,0.9,Primera Division,2011,2011/2012
+Granada CF,Fran Rico,23,Central Midfield,RM Castilla,£900k,in,0.9,Primera Division,2011,2011/2012
+Granada CF,Henrique Almeida,20,Centre-Forward,São Paulo,Loan fee:£450k,in,0.45,Primera Division,2011,2011/2012
+Granada CF,Yohan Mollo,22,Left Winger,Monaco,£450k,in,0.45,Primera Division,2011,2011/2012
+Granada CF,Franco Jara,23,Centre-Forward,Benfica,Loan fee:£360k,in,0.36,Primera Division,2011,2011/2012
+Granada CF,Toti,23,Attacking Midfield,UD Salamanca,£180k,in,0.18,Primera Division,2011,2011/2012
+Granada CF,Juanjo,25,Centre-Forward,CD Guadalajara,£81k,in,0.081,Primera Division,2011,2011/2012
+Granada CF,José María Cases,25,Attacking Midfield,Orihuela CF,Free Transfer,in,0,Primera Division,2011,2011/2012
+Granada CF,David de Coz,31,Right-Back,Córdoba CF,Free Transfer,in,0,Primera Division,2011,2011/2012
+Granada CF,Ikechi Anya,23,Left Midfield,Celta Vigo B,Free Transfer,in,0,Primera Division,2011,2011/2012
+Granada CF,Héctor Yuste,23,Centre-Back,UD Salamanca,Free Transfer,in,0,Primera Division,2011,2011/2012
+Granada CF,Gonzalo,23,Goalkeeper,Getafe CF B,Free Transfer,in,0,Primera Division,2011,2011/2012
+Granada CF,Matías Campos Toro,22,Left-Back,Audax Italiano,Free Transfer,in,0,Primera Division,2011,2011/2012
+Granada CF,Guilherme Siqueira,25,Left-Back,Udinese Calcio,Free Transfer,in,0,Primera Division,2011,2011/2012
+Granada CF,Jorge Ribeiro,29,Left-Back,Benfica,Free Transfer,in,0,Primera Division,2011,2011/2012
+Granada CF,David Cortés,31,Right-Back,Hércules CF,Free Transfer,in,0,Primera Division,2011,2011/2012
+Granada CF,Ikechukwu Uche,27,Centre-Forward,Villarreal,Loan,in,0,Primera Division,2011,2011/2012
+Granada CF,David Ferreiro,23,Right Winger,Zamora CF,Free Transfer,in,0,Primera Division,2011,2011/2012
+Granada CF,Toño,32,Goalkeeper,Racing,Free Transfer,in,0,Primera Division,2011,2011/2012
+Granada CF,Jaime Romero,20,Right Winger,Udinese Calcio,Loan,in,0,Primera Division,2011,2011/2012
+Granada CF,Hassan Yebda,27,Central Midfield,Benfica,Free Transfer,in,0,Primera Division,2011,2011/2012
+Granada CF,Moisés Hurtado,30,Defensive Midfield,Olympiacos,Free Transfer,in,0,Primera Division,2011,2011/2012
+Granada CF,Noé Pamarot,32,Centre-Back,Hércules CF,Free Transfer,in,0,Primera Division,2011,2011/2012
+Granada CF,Júlio César,24,Goalkeeper,Benfica,Loan,in,0,Primera Division,2011,2011/2012
+Granada CF,Álex Goikoetxea,28,Centre-Back,UD Salamanca,?,in,NA,Primera Division,2011,2011/2012
+Granada CF,Borja Gómez,23,Centre-Back,Karpaty,Loan,in,0,Primera Division,2011,2011/2012
+Granada CF,Carlos Martins,29,Attacking Midfield,Benfica,Loan,in,0,Primera Division,2011,2011/2012
+Granada CF,Kabiru Akinsola,20,Centre-Forward,UD Salamanca,?,in,NA,Primera Division,2011,2011/2012
+Granada CF,Pedro Barrancos,23,Attacking Midfield,Cádiz CF,"End of loanDec 31, 2011",in,0,Primera Division,2011,2011/2012
+Granada CF,Matías Alonso,26,Centre-Forward,CA Cerro,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Granada CF,Pedro Barrancos,23,Attacking Midfield,UD Logroñés,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Granada CF,Jonathan Rosales,21,Centre-Back,CD Guijuelo,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Granada CF,Yohan Mollo,22,Left Winger,AS Nancy,Loan fee:£135k,out,0.135,Primera Division,2011,2011/2012
+Granada CF,Matías Campos Toro,22,Left-Back,CDUC,Loan,out,0,Primera Division,2011,2011/2012
+Granada CF,Juan José Collantes,28,Right Winger,FC Cartagena,Free Transfer,out,0,Primera Division,2011,2011/2012
+Granada CF,David Ferreiro,23,Right Winger,Cádiz CF,Loan,out,0,Primera Division,2011,2011/2012
+Granada CF,Óscar Pérez,29,Central Midfield,Cádiz CF,Loan,out,0,Primera Division,2011,2011/2012
+Granada CF,José María Cases,25,Attacking Midfield,Cádiz CF,Loan,out,0,Primera Division,2011,2011/2012
+Granada CF,Gabriel Silva,20,Left-Back,Novara,Loan,out,0,Primera Division,2011,2011/2012
+Granada CF,Pedro Barrancos,23,Attacking Midfield,Cádiz CF,Loan,out,0,Primera Division,2011,2011/2012
+Granada CF,Toti,23,Attacking Midfield,Cádiz CF,Loan,out,0,Primera Division,2011,2011/2012
+Granada CF,Pedro Barrancos,23,Attacking Midfield,CF La Unión,Loan,out,0,Primera Division,2011,2011/2012
+Granada CF,Daniel Pudil,26,Left-Back,Cesena,Loan,out,0,Primera Division,2011,2011/2012
+Granada CF,Granada,31,Attacking Midfield,UD Melilla,Free Transfer,out,0,Primera Division,2011,2011/2012
+Granada CF,Rafa Martínez,24,Goalkeeper,Montañeros CF,?,out,NA,Primera Division,2011,2011/2012
+Granada CF,Kabiru Akinsola,20,Centre-Forward,Cádiz CF,Loan,out,0,Primera Division,2011,2011/2012
+Granada CF,Jeison Murillo,19,Centre-Back,Cádiz CF,Loan,out,0,Primera Division,2011,2011/2012
+Granada CF,Fabián Orellana,25,Right Winger,Celta de Vigo,Loan,out,0,Primera Division,2011,2011/2012
+Granada CF,Álex Goikoetxea,28,Centre-Back,Cádiz CF,Loan,out,0,Primera Division,2011,2011/2012
+Granada CF,Ikechi Anya,23,Left Midfield,Cádiz CF,Loan,out,0,Primera Division,2011,2011/2012
+Granada CF,Héctor Yuste,23,Centre-Back,Cádiz CF,Loan,out,0,Primera Division,2011,2011/2012
+Granada CF,Álex Cruz,21,Right Winger,CE Sabadell,Loan,out,0,Primera Division,2011,2011/2012
+Granada CF,Jonathan Rosales,21,Centre-Back,UD Maracena,?,out,NA,Primera Division,2011,2011/2012
+Granada CF,David de Coz,31,Right-Back,Cádiz CF,Loan,out,0,Primera Division,2011,2011/2012
+Granada CF,Matías Alonso,26,Centre-Forward,Zamora CF,?,out,NA,Primera Division,2011,2011/2012
+Granada CF,Juanjo,25,Centre-Forward,Cádiz CF,Loan,out,0,Primera Division,2011,2011/2012
+Granada CF,Gonzalo,23,Goalkeeper,Cádiz CF,Loan,out,0,Primera Division,2011,2011/2012
+Granada CF,Jorge Ribeiro,30,Left-Back,Without Club,-,out,0,Primera Division,2011,2011/2012
+Granada CF,Henrique Almeida,21,Centre-Forward,São Paulo,"End of loanMay 31, 2012",out,0,Primera Division,2011,2011/2012
+Granada CF,Jonathan Mensah,20,Centre-Back,Udinese Calcio,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Granada CF,Carlos Calvo,25,Attacking Midfield,Udinese Calcio,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Granada CF,Guilherme Siqueira,25,Left-Back,Udinese Calcio,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Granada CF,Rubén Párraga,26,Left-Back,Udinese Calcio,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Granada CF,Juande,24,Defensive Midfield,Real Betis,"End of loanJun 30, 2011",out,0,Primera Division,2011,2011/2012
+Athletic Bilbao,Ander Herrera,21,Central Midfield,Real Zaragoza,£6.75m,in,6.75,Primera Division,2011,2011/2012
+Athletic Bilbao,Ibai Gómez,21,Right Winger,Bilbao Athletic,-,in,0,Primera Division,2011,2011/2012
+Athletic Bilbao,Galder Cerrajería,22,Central Midfield,Bilbao Athletic,-,in,0,Primera Division,2011,2011/2012
+Athletic Bilbao,Iban Zubiaurre,28,Right-Back,Albacete,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Athletic Bilbao,Iñigo Pérez,23,Central Midfield,SD Huesca,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Athletic Bilbao,Ion Vélez,26,Centre-Forward,CD Numancia,"End of loanJun 30, 2011",in,0,Primera Division,2011,2011/2012
+Athletic Bilbao,Urko Vera,24,Centre-Forward,Hércules CF,Free Transfer,out,0,Primera Division,2011,2011/2012
+Athletic Bilbao,Mikel Balenziaga,23,Left-Back,Real Valladolid,Free Transfer,out,0,Primera Division,2011,2011/2012
+Athletic Bilbao,Ion Vélez,26,Centre-Forward,Girona,Free Transfer,out,0,Primera Division,2011,2011/2012
+Athletic Bilbao,Iñigo Díaz de Cerio,27,Centre-Forward,CD Numancia,Loan,out,0,Primera Division,2011,2011/2012
+Athletic Bilbao,Galder Cerrajería,22,Central Midfield,Real Murcia,Loan,out,0,Primera Division,2011,2011/2012
+Athletic Bilbao,Ustaritz,28,Centre-Back,Real Betis,Loan,out,0,Primera Division,2011,2011/2012
+Athletic Bilbao,Pablo Orbaiz,32,Defensive Midfield,Olympiacos,Loan,out,0,Primera Division,2011,2011/2012

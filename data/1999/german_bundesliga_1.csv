@@ -1,0 +1,375 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Bayern Munich,Paulo Sérgio,30,Left Winger,AS Roma,£5.94m,in,5.94,1 Bundesliga,1999,1999/2000
+Bayern Munich,Roque Santa Cruz,17,Centre-Forward,Olimpia,£4.50m,in,4.5,1 Bundesliga,1999,1999/2000
+Bayern Munich,Patrik Andersson,27,Centre-Back,Bor. M'gladbach,£2.70m,in,2.7,1 Bundesliga,1999,1999/2000
+Bayern Munich,Michael Wiesinger,26,Right Midfield,1.FC Nuremberg,£1.13m,in,1.13,1 Bundesliga,1999,1999/2000
+Bayern Munich,Slawomir Wojciechowski,26,Left Midfield,FC Aarau,£630k,in,0.63,1 Bundesliga,1999,1999/2000
+Bayern Munich,Stefan Wessels,20,Goalkeeper,FC Bayern II,-,in,0,1 Bundesliga,1999,1999/2000
+Bayern Munich,Berkant Göktan,18,Centre-Forward,Bor. M'gladbach,"End of loanJun 30, 1999",in,0,1 Bundesliga,1999,1999/2000
+Bayern Munich,Ali Daei,30,Centre-Forward,Hertha BSC,£2.43m,out,2.43,1 Bundesliga,1999,1999/2000
+Bayern Munich,Mario Basler,30,Right Midfield,1.FC K'lautern,£675k,out,0.675,1 Bundesliga,1999,1999/2000
+Bayern Munich,Lothar Matthäus,38,Defensive Midfield,MetroStars,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Bayern Munich,Berkant Göktan,18,Centre-Forward,Arm. Bielefeld,Loan,out,0,1 Bundesliga,1999,1999/2000
+Bayern Munich,Thomas Helmer,34,Centre-Back,Sunderland,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Mike Büskens,31,Left Midfield,FC Schalke 04,£450k,in,0.45,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Marijan Kovacevic,25,Centre-Back,VfL Wolfsburg,£387k,in,0.387,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Pavel Drsek,22,Centre-Back,Chmel Blsany,£270k,in,0.27,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Andreas Voss,20,Defensive Midfield,Bay. Leverkusen,Loan fee:£135k,in,0.135,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Michael Zeyer,31,Central Midfield,VfB Stuttgart,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Sercan Güvenisik,19,Centre-Forward,FC Augsburg,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Ralf Keidel,22,Right-Back,Newcastle,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Piotr Reiss,27,Centre-Forward,Hertha BSC,Loan,in,0,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Martin Schneider,30,Defensive Midfield,Bor. M'gladbach,?,in,NA,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Stefan Trienekens,28,Centre-Forward,Wegberg-Beeck,?,in,NA,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Rainer Torres,19,Defensive Midfield,Duisburg U19,-,in,0,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Slobodan Komljenovic,28,Centre-Back,1.FC K'lautern,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Stig Töfting,30,Defensive Midfield,Aarhus GF,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Martin Frydek,30,Central Midfield,FK Teplice,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Marius Ebbers,21,Centre-Forward,Wattenscheid 09,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Pascal Thüler,29,Left-Back,FC St. Gallen,?,out,NA,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Erik Bo Andersen,29,Centre-Forward,Vejle BK,Loan,out,0,1 Bundesliga,1999,1999/2000
+MSV Duisburg,Roberto Marquez,21,Attacking Midfield,Wuppertaler SV,?,out,NA,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Robson Ponté,22,Attacking Midfield,Guarani,£4.05m,in,4.05,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Oliver Neuville,26,Centre-Forward,Hansa Rostock,£4.05m,in,4.05,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Michael Ballack,22,Central Midfield,1.FC K'lautern,£3.60m,in,3.6,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Jurica Vranjes,19,Defensive Midfield,NK Osijek,£2.70m,in,2.7,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Marko Babic,18,Left Midfield,NK Osijek,£1.80m,in,1.8,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Bernd Schneider,25,Right Midfield,E. Frankfurt,£1.13m,in,1.13,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Vratislav Gresko,21,Left-Back,Inter Bratislava,£900k,in,0.9,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Frank Juric,25,Goalkeeper,F. Düsseldorf,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Thomas Brdaric,24,Centre-Forward,SC Fortuna Köln,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Torben Hoffmann,24,Centre-Back,SC Freiburg,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Miroslaw Spizak,20,Centre-Forward,KFC Uerdingen,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Markus Daun,18,Centre-Forward,Leverkusen U19,-,in,0,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Paulo Rink,26,Centre-Forward,Santos FC,"End of loanDec 31, 1999",in,0,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Paulo Rink,26,Centre-Forward,Santos FC,Loan fee:£630k,out,0.63,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Markus Happe,27,Centre-Back,FC Schalke 04,£450k,out,0.45,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Andreas Voss,20,Defensive Midfield,MSV Duisburg,Loan fee:£135k,out,0.135,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Jan Heintze,35,Left-Back,PSV Eindhoven,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Mehdi Pashazadeh,25,Centre-Back,SC Fortuna Köln,Loan,out,0,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Thomas Reichenberger,25,Centre-Forward,E. Frankfurt,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Niko Kovac,27,Defensive Midfield,Hamburger SV,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Erik Meijer,29,Centre-Forward,Liverpool,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Aaron Mokoena,18,Centre-Back,Ajax,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Dirk Heinen,29,Goalkeeper,E. Frankfurt,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Adam Ledwon,25,Defensive Midfield,SC Fortuna Köln,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Dariush Yazdani,22,Attacking Midfield,Esteghlal FC,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Bayer 04 Leverkusen,Hans-Peter Lehnhoff,35,Right Midfield,Leverkusen II,-,out,0,1 Bundesliga,1999,1999/2000
+Hertha BSC,Alex Alves,25,Centre-Forward,Cruzeiro,£6.84m,in,6.84,1 Bundesliga,1999,1999/2000
+Hertha BSC,Marko Rehmer,27,Right-Back,Hansa Rostock,£3.24m,in,3.24,1 Bundesliga,1999,1999/2000
+Hertha BSC,Ali Daei,30,Centre-Forward,Bayern Munich,£2.43m,in,2.43,1 Bundesliga,1999,1999/2000
+Hertha BSC,Sebastian Deisler,19,Right Midfield,Bor. M'gladbach,£1.80m,in,1.8,1 Bundesliga,1999,1999/2000
+Hertha BSC,Konstantinos Konstantinidis,26,Centre-Back,Panathinaikos,£1.17m,in,1.17,1 Bundesliga,1999,1999/2000
+Hertha BSC,Josip Simunic,21,Centre-Back,Hamburger SV,£158k,in,0.158,1 Bundesliga,1999,1999/2000
+Hertha BSC,Thomas Helmer,34,Centre-Back,Sunderland,Loan,in,0,1 Bundesliga,1999,1999/2000
+Hertha BSC,Kai Michalke,23,Left Winger,VfL Bochum,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+Hertha BSC,Joe Bacak,26,Midfielder,Vitesse,?,in,NA,1 Bundesliga,1999,1999/2000
+Hertha BSC,Ivica Olic,20,Centre-Forward,NK Marsonia,Loan fee:£90k,out,0.09,1 Bundesliga,1999,1999/2000
+Hertha BSC,Hendrik Herzog,30,Centre-Back,Unterhaching,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Hertha BSC,Piotr Reiss,27,Centre-Forward,MSV Duisburg,Loan,out,0,1 Bundesliga,1999,1999/2000
+Hertha BSC,Kjetil-André Rekdal,31,Defensive Midfield,Vålerenga,?,out,NA,1 Bundesliga,1999,1999/2000
+Hertha BSC,Alphonse Tchami,27,Centre-Forward,Without Club,-,out,0,1 Bundesliga,1999,1999/2000
+Hertha BSC,Thomas Helmer,34,Centre-Back,Sunderland,"End of loanDec 31, 1999",out,0,1 Bundesliga,1999,1999/2000
+Hertha BSC,Christian Saba,20,Centre-Back,FC Bayern II,"End of loanJun 30, 1999",out,0,1 Bundesliga,1999,1999/2000
+Borussia Dortmund,Christian Wörns,27,Centre-Back,Paris SG,£6.08m,in,6.08,1 Bundesliga,1999,1999/2000
+Borussia Dortmund,Evanilson,23,Right-Back,Cruzeiro,£5.85m,in,5.85,1 Bundesliga,1999,1999/2000
+Borussia Dortmund,Victor Ikpeba,26,Centre-Forward,Monaco,£5.40m,in,5.4,1 Bundesliga,1999,1999/2000
+Borussia Dortmund,Fredi Bobic,27,Centre-Forward,VfB Stuttgart,£5.18m,in,5.18,1 Bundesliga,1999,1999/2000
+Borussia Dortmund,Giuseppe Reina,27,Right Winger,Arm. Bielefeld,£1.98m,in,1.98,1 Bundesliga,1999,1999/2000
+Borussia Dortmund,Otto Addo,24,Attacking Midfield,Hannover 96,£225k,in,0.225,1 Bundesliga,1999,1999/2000
+Borussia Dortmund,Sead Kapetanovic,27,Right Midfield,VfL Wolfsburg,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+Borussia Dortmund,Thomas Hengen,25,Sweeper,Besiktas,"End of loanDec 1, 1999",in,0,1 Bundesliga,1999,1999/2000
+Borussia Dortmund,Jovan Kirovski,23,Right Winger,SC Fortuna Köln,"End of loanJun 30, 1999",in,0,1 Bundesliga,1999,1999/2000
+Borussia Dortmund,Bachirou Salou,28,Centre-Forward,E. Frankfurt,£3.24m,out,3.24,1 Bundesliga,1999,1999/2000
+Borussia Dortmund,Stéphane Chapuisat,30,Centre-Forward,Grasshoppers,£585k,out,0.585,1 Bundesliga,1999,1999/2000
+Borussia Dortmund,Christian Timm,20,Right Winger,1. FC Köln,£405k,out,0.405,1 Bundesliga,1999,1999/2000
+Borussia Dortmund,Thomas Hengen,24,Sweeper,Besiktas,Loan fee:£225k,out,0.225,1 Bundesliga,1999,1999/2000
+Borussia Dortmund,Manfred Binz,33,Sweeper,K. Offenbach,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Borussia Dortmund,René Schneider,26,Centre-Back,Hansa Rostock,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Borussia Dortmund,Thomas Häßler,33,Attacking Midfield,1860 Munich,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Borussia Dortmund,Thomas Hengen,25,Sweeper,VfL Wolfsburg,?,out,NA,1 Bundesliga,1999,1999/2000
+Borussia Dortmund,Harry Decheiver,29,Centre-Forward,Retired,-,out,0,1 Bundesliga,1999,1999/2000
+Borussia Dortmund,Frank Riethmann,23,Midfielder,B. Dortmund II,-,out,0,1 Bundesliga,1999,1999/2000
+1.FC Kaiserslautern,Jörgen Pettersson,23,Left Winger,Bor. M'gladbach,£1.89m,in,1.89,1 Bundesliga,1999,1999/2000
+1.FC Kaiserslautern,Youri Djorkaeff,31,Attacking Midfield,Inter,£1.35m,in,1.35,1 Bundesliga,1999,1999/2000
+1.FC Kaiserslautern,Mario Basler,30,Right Midfield,Bayern Munich,£675k,in,0.675,1 Bundesliga,1999,1999/2000
+1.FC Kaiserslautern,Georg Koch,27,Goalkeeper,Arm. Bielefeld,£450k,in,0.45,1 Bundesliga,1999,1999/2000
+1.FC Kaiserslautern,Slobodan Komljenovic,28,Centre-Back,MSV Duisburg,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+1.FC Kaiserslautern,Igli Tare,25,Centre-Forward,F. Düsseldorf,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+1.FC Kaiserslautern,Thomas Sobotzik,24,Attacking Midfield,E. Frankfurt,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+1.FC Kaiserslautern,Jeff Strasser,24,Centre-Back,FC Metz,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+1.FC Kaiserslautern,Silvio Adzic,18,Right Winger,K'lautern U19,-,in,0,1 Bundesliga,1999,1999/2000
+1.FC Kaiserslautern,Thomas Lechner,20,Centre-Back,K'lautern II,-,in,0,1 Bundesliga,1999,1999/2000
+1.FC Kaiserslautern,Roman Weidenfeller,18,Goalkeeper,K'lautern II,-,in,0,1 Bundesliga,1999,1999/2000
+1.FC Kaiserslautern,Michael Ballack,22,Central Midfield,Bay. Leverkusen,£3.60m,out,3.6,1 Bundesliga,1999,1999/2000
+1.FC Kaiserslautern,Thomas Sobotzik,25,Attacking Midfield,E. Frankfurt,£1.13m,out,1.13,1 Bundesliga,1999,1999/2000
+1.FC Kaiserslautern,Uwe Rösler,30,Centre-Forward,TeBe Berlin,£1.13m,out,1.13,1 Bundesliga,1999,1999/2000
+1.FC Kaiserslautern,Jürgen Rische,29,Centre-Forward,VfL Wolfsburg,£225k,out,0.225,1 Bundesliga,1999,1999/2000
+1.FC Kaiserslautern,Pascal Ojigwe,22,Defensive Midfield,1. FC Köln,£113k,out,0.113,1 Bundesliga,1999,1999/2000
+1.FC Kaiserslautern,Oliver Schäfer,30,Centre-Back,Besiktas,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+1.FC Kaiserslautern,Stefan Ertl,30,Centre-Forward,K. Offenbach,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+1.FC Kaiserslautern,Thomas Riedl,23,Defensive Midfield,1860 Munich,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+1.FC Kaiserslautern,Samir Kamouna,27,Sweeper,Bursaspor,?,out,NA,1 Bundesliga,1999,1999/2000
+1.FC Kaiserslautern,Lajos Szűcs,26,Goalkeeper,Ferencváros,?,out,NA,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Jonathan Akpoborie,30,Centre-Forward,VfB Stuttgart,£1.26m,in,1.26,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Marino Biliskov,23,Centre-Back,Hajduk Split,£900k,in,0.9,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Dorinel Munteanu,31,Central Midfield,1. FC Köln,£765k,in,0.765,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Jéan-Kasongo Banza,25,Centre-Forward,CS Sfaxien,£720k,in,0.72,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Markus Feldhoff,24,Centre-Forward,Bor. M'gladbach,£468k,in,0.468,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Zoltan Sebescen,23,Right-Back,Stuttg. Kickers,£383k,in,0.383,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Patrick Weiser,27,Left-Back,Stade Rennais,£338k,in,0.338,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Jürgen Rische,29,Centre-Forward,1.FC K'lautern,£225k,in,0.225,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Christian Wück,26,Second Striker,Karlsruher SC,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Christian Brand,27,Attacking Midfield,Werder Bremen,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Jonathan Akonnor,21,Left Midfield,VfL Osnabrück,£23k,in,0.023,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Thomas Hengen,25,Sweeper,Bor. Dortmund,?,in,NA,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Claudio Reyna,25,Central Midfield,Rangers,£2.70m,out,2.7,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Steffen Baumgart,27,Centre-Forward,Hansa Rostock,£450k,out,0.45,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Marijan Kovacevic,25,Centre-Back,MSV Duisburg,£387k,out,0.387,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Sead Kapetanovic,27,Right Midfield,Bor. Dortmund,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Uwe Zimmermann,37,Goalkeeper,E. Braunschweig,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,André Breitenreiter,26,Second Striker,Unterhaching,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Roy Präger,27,Centre-Forward,Hamburger SV,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Christian Brand,27,Attacking Midfield,Hansa Rostock,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Jonathan Akonnor,20,Left Midfield,VfL Osnabrück,?,out,NA,1 Bundesliga,1999,1999/2000
+VfL Wolfsburg,Peter Kleeschätzky,29,Centre-Back,Wolfsburg II,-,out,0,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Marcus Pürk,24,Centre-Forward,Rapid Vienna,£1.13m,in,1.13,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Tomas Votava,25,Centre-Back,Sparta Praha,£765k,in,0.765,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Martin Max,30,Centre-Forward,FC Schalke 04,£675k,in,0.675,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Uwe Ehlers,24,Centre-Back,Hansa Rostock,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Thomas Meggle,24,Attacking Midfield,FC St. Pauli,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Thomas Riedl,23,Defensive Midfield,1.FC K'lautern,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Filip Tapalovic,22,Defensive Midfield,FC Schalke 04,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Marcel Maison,19,Left-Back,Unterhaching II,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Stephan Paßlack,28,Centre-Back,Bor. M'gladbach,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Thomas Häßler,33,Attacking Midfield,Bor. Dortmund,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Christian Prosenik,31,Central Midfield,Rapid Vienna,?,in,NA,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Martin Stranzl,19,Centre-Back,1860 München II,-,in,0,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Nino Helbig,17,Midfielder,TSV 1860 U19,-,in,0,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Horst Heldt,29,Left Midfield,E. Frankfurt,£1.62m,out,1.62,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Stefan Malz,27,Left-Back,Arsenal,£1.04m,out,1.04,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Abderrahim Ouakili,28,Attacking Midfield,TeBe Berlin,£900k,out,0.9,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Bernd Hobsch,31,Centre-Forward,1.FC Nuremberg,£810k,out,0.81,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Jochen Kientz,27,Centre-Back,Panionios,Loan,out,0,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Bernd Meier,27,Goalkeeper,Bor. M'gladbach,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Thomas Richter,29,Defender,1.FC Magdeburg,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Manfred Bender,33,Attacking Midfield,Karlsruher SC,?,out,NA,1 Bundesliga,1999,1999/2000
+TSV 1860 Munich,Gerald Vanenburg,35,Right Winger,Retired,-,out,0,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Emile Mpenza,21,Centre-Forward,Standard Liège,£7.65m,in,7.65,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Ebbe Sand,26,Centre-Forward,Bröndby IF,£4.64m,in,4.64,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Niels Oude Kamphuis,21,Defensive Midfield,FC Twente,£3.06m,in,3.06,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Tomasz Waldoch,28,Centre-Back,VfL Bochum,£2.25m,in,2.25,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Gerald Asamoah,20,Centre-Forward,Hannover 96,£1.22m,in,1.22,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Markus Happe,27,Centre-Back,Bay. Leverkusen,£450k,in,0.45,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Thorsten Legat,31,Left Midfield,VfB Stuttgart,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Krisztián Szóllar,18,Midfielder,Schalke 04 U19,-,in,0,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Tamás Hajnal,18,Attacking Midfield,Schalke 04 U19,-,in,0,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Sérgio da Silva Pinto,18,Central Midfield,Schalke 04 U19,-,in,0,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Toni Tapalovic,18,Goalkeeper,Schalke 04 U19,-,in,0,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Frode Grodas,34,Goalkeeper,Racing,"End of loanJun 30, 1999",in,0,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Hami Mandirali,30,Centre-Forward,Trabzonspor,£2.03m,out,2.03,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Michaël Goossens,26,Centre-Forward,Standard Liège,£1.35m,out,1.35,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Martin Max,30,Centre-Forward,1860 Munich,£675k,out,0.675,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Mike Büskens,31,Left Midfield,MSV Duisburg,£450k,out,0.45,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Sascha Wolf,27,Centre-Forward,RW Essen,£315k,out,0.315,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Miguel Pereira,23,Centre-Forward,FC St. Pauli,£113k,out,0.113,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Filip Tapalovic,22,Defensive Midfield,1860 Munich,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Ingo Anderbrügge,35,Left Midfield,Spfr. Siegen,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+FC Schalke 04,Mark Schierenberg,26,Defensive Midfield,1.FSV Mainz 05,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+FC Schalke 04,René Eijkelkamp,35,Centre-Forward,Retired,-,out,0,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Didi,23,Centre-Forward,Corinthians,£2.25m,in,2.25,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Marcelo Bordon,23,Centre-Back,São Paulo,£2.03m,in,2.03,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Ionel Ganea,25,Centre-Forward,Rapid Bucharest,£1.58m,in,1.58,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Sean Dundee,26,Centre-Forward,Liverpool,£1.35m,in,1.35,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Pavel Kuka,30,Centre-Forward,1.FC Nuremberg,£1.13m,in,1.13,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Heiko Gerber,27,Left-Back,Arm. Bielefeld,£675k,in,0.675,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Srgjan Zaharievski,25,Central Midfield,Sileks,£360k,in,0.36,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Achim Hollerieth,25,Goalkeeper,KFC Uerdingen,£113k,in,0.113,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Jens Todt,29,Defensive Midfield,Werder Bremen,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Nico Frommer,22,Centre-Forward,Bor. M'gladbach,?,in,NA,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Roberto Pinto,20,Right Midfield,Stuttgart II,-,in,0,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Thomas Kies,23,Right-Back,Stuttgart II,-,in,0,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Giuseppe Catizone,21,Right Midfield,Stuttgart II,-,in,0,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Timo Hildebrand,20,Goalkeeper,Stuttgart II,-,in,0,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Fredi Bobic,27,Centre-Forward,Bor. Dortmund,£5.18m,out,5.18,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Frank Verlaat,31,Centre-Back,Ajax,£3.96m,out,3.96,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Jonathan Akpoborie,30,Centre-Forward,VfL Wolfsburg,£1.26m,out,1.26,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Thorsten Legat,31,Left Midfield,FC Schalke 04,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Nico Frommer,21,Centre-Forward,Bor. M'gladbach,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Kai Oswald,21,Centre-Back,Hansa Rostock,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Tobias Iseli,21,Left-Back,Unterhaching,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Michael Zeyer,31,Central Midfield,MSV Duisburg,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Marc Ziegler,23,Goalkeeper,Arm. Bielefeld,Loan,out,0,1 Bundesliga,1999,1999/2000
+VfB Stuttgart,Florin Raducioiu,29,Centre-Forward,Espanyol,"End of loanJun 30, 1999",out,0,1 Bundesliga,1999,1999/2000
+SC Freiburg,Oumar Kondé,19,Centre-Back,Blackburn,£540k,in,0.54,1 Bundesliga,1999,1999/2000
+SC Freiburg,Florian Bruns,19,Defensive Midfield,VfB Oldenburg,£59k,in,0.059,1 Bundesliga,1999,1999/2000
+SC Freiburg,Abder Ramdane,25,Centre-Forward,Hansa Rostock,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+SC Freiburg,Sascha Reiss,17,Midfielder,SV Kuppenheim,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+SC Freiburg,Björn Dreyer,21,Defensive Midfield,SC Norderstedt,£18k,in,0.018,1 Bundesliga,1999,1999/2000
+SC Freiburg,Andreas Zeyer,31,Defensive Midfield,VfL Bochum,?,in,NA,1 Bundesliga,1999,1999/2000
+SC Freiburg,László Kanyuk,20,Attacking Midfield,SC Freiburg II,-,in,0,1 Bundesliga,1999,1999/2000
+SC Freiburg,Manuel Schoppel,18,Goalkeeper,SC Freiburg U19,-,in,0,1 Bundesliga,1999,1999/2000
+SC Freiburg,Mike Rietpietsch,25,Right Midfield,VfL Bochum,£45k,out,0.045,1 Bundesliga,1999,1999/2000
+SC Freiburg,Jörn Schwinkendorf,28,Centre-Back,Waldh. Mannheim,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+SC Freiburg,Bosko Boskovic,30,Goalkeeper,Tabor Sezana,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+SC Freiburg,Miran Pavlin,27,Attacking Midfield,Karlsruher SC,Loan,out,0,1 Bundesliga,1999,1999/2000
+SC Freiburg,Gaoussou Diallo,21,Forward,Djoliba AC,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+SC Freiburg,Damir Buric,34,Centre-Back,Bor. M'gladbach,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+SC Freiburg,Torben Hoffmann,24,Centre-Back,Bay. Leverkusen,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+SC Freiburg,Uwe Wassmer,33,Centre-Forward,Waldh. Mannheim,£41k,out,0.041,1 Bundesliga,1999,1999/2000
+SC Freiburg,Dietmar Hummel,25,Goalkeeper,Dynamo Dresden,?,out,NA,1 Bundesliga,1999,1999/2000
+SC Freiburg,Marouene Guezmir,25,Midfielder,CA Bizertin,?,out,NA,1 Bundesliga,1999,1999/2000
+SV Werder Bremen,Claudio Pizarro,20,Centre-Forward,Alianza Lima,£1.35m,in,1.35,1 Bundesliga,1999,1999/2000
+SV Werder Bremen,Jacek Chanko,25,Defender,Stomil Olsztyn,£495k,in,0.495,1 Bundesliga,1999,1999/2000
+SV Werder Bremen,Frank Baumann,23,Defensive Midfield,1.FC Nuremberg,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+SV Werder Bremen,Júlio César,36,Centre-Back,Panathinaikos,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+SV Werder Bremen,Mamadou Masseye Thioub,19,Centre-Forward,AS Camberene,?,in,NA,1 Bundesliga,1999,1999/2000
+SV Werder Bremen,Razundara Tjikuzu,19,Defensive Midfield,W. Bremen II,-,in,0,1 Bundesliga,1999,1999/2000
+SV Werder Bremen,Sören Seidel,26,Central Midfield,Hannover 96,"End of loanJun 30, 1999",in,0,1 Bundesliga,1999,1999/2000
+SV Werder Bremen,Adrian Kunz,31,Centre-Forward,FC Zürich,"End of loanJun 30, 1999",in,0,1 Bundesliga,1999,1999/2000
+SV Werder Bremen,Dirk Weetendorf,27,Centre-Forward,E. Braunschweig,£180k,out,0.18,1 Bundesliga,1999,1999/2000
+SV Werder Bremen,Matthias Plump,21,Centre-Back,VfL Osnabrück,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+SV Werder Bremen,Jens Todt,29,Defensive Midfield,VfB Stuttgart,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+SV Werder Bremen,Sven Benken,29,Centre-Back,Hansa Rostock,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+SV Werder Bremen,Lodewijk Roembiak,30,Defensive Midfield,FC Aarau,Loan,out,0,1 Bundesliga,1999,1999/2000
+SV Werder Bremen,Christian Brand,27,Attacking Midfield,VfL Wolfsburg,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+SV Werder Bremen,Pawel Wojtala,27,Centre-Back,Legia Warszawa,?,out,NA,1 Bundesliga,1999,1999/2000
+SV Werder Bremen,Adrian Kunz,31,Centre-Forward,FC Aarau,?,out,NA,1 Bundesliga,1999,1999/2000
+SV Werder Bremen,Alexander Nouri,19,Attacking Midfield,W. Bremen II,-,out,0,1 Bundesliga,1999,1999/2000
+FC Hansa Rostock,Magnus Arvidsson,26,Centre-Forward,Trelleborg,£1.04m,in,1.04,1 Bundesliga,1999,1999/2000
+FC Hansa Rostock,Marcus Lantz,24,Central Midfield,Torino,£900k,in,0.9,1 Bundesliga,1999,1999/2000
+FC Hansa Rostock,Kreso Kovacec,29,Centre-Forward,TeBe Berlin,£585k,in,0.585,1 Bundesliga,1999,1999/2000
+FC Hansa Rostock,Steffen Baumgart,27,Centre-Forward,VfL Wolfsburg,£450k,in,0.45,1 Bundesliga,1999,1999/2000
+FC Hansa Rostock,Abdelaziz Ahanfouf,21,Centre-Forward,Unterhaching,£113k,in,0.113,1 Bundesliga,1999,1999/2000
+FC Hansa Rostock,Ronny Thielemann,25,Defensive Midfield,Erzgebirge Aue,£68k,in,0.068,1 Bundesliga,1999,1999/2000
+FC Hansa Rostock,Kai Oswald,21,Centre-Back,VfB Stuttgart,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+FC Hansa Rostock,René Schneider,26,Centre-Back,Bor. Dortmund,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+FC Hansa Rostock,Christian Brand,27,Attacking Midfield,VfL Wolfsburg,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+FC Hansa Rostock,Sven Benken,29,Centre-Back,Werder Bremen,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+FC Hansa Rostock,Aleksandar Jovic,27,Centre-Forward,Hapoel Haifa,"End of loanJun 30, 1999",in,0,1 Bundesliga,1999,1999/2000
+FC Hansa Rostock,Oliver Neuville,26,Centre-Forward,Bay. Leverkusen,£4.05m,out,4.05,1 Bundesliga,1999,1999/2000
+FC Hansa Rostock,Marko Rehmer,27,Right-Back,Hertha BSC,£3.24m,out,3.24,1 Bundesliga,1999,1999/2000
+FC Hansa Rostock,Jens Dowe,31,Left Midfield,Rapid Vienna,£270k,out,0.27,1 Bundesliga,1999,1999/2000
+FC Hansa Rostock,Zoran Milinkovic,30,Midfielder,Anorthosis,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+FC Hansa Rostock,Uwe Ehlers,24,Centre-Back,1860 Munich,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+FC Hansa Rostock,Aleksandar Jovic,27,Centre-Forward,K. Offenbach,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+FC Hansa Rostock,Abder Ramdane,25,Centre-Forward,SC Freiburg,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+FC Hansa Rostock,Miroslav Bicanic,29,Midfielder,H. Beer Sheva,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+FC Hansa Rostock,Thomas Gansauge,29,Centre-Back,Arm. Bielefeld,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+FC Hansa Rostock,Ralf Ewen,27,Right-Back,SC Paderborn,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Bachirou Salou,28,Centre-Forward,Bor. Dortmund,£3.24m,in,3.24,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Rolf-Christel Guié-Mien,21,Right Winger,Karlsruher SC,£2.25m,in,2.25,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Horst Heldt,29,Left Midfield,1860 Munich,£1.62m,in,1.62,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Thomas Sobotzik,25,Attacking Midfield,1.FC K'lautern,£1.13m,in,1.13,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Chen Yang,25,Centre-Forward,BJ Guoan,£900k,in,0.9,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Torsten Kracht,31,Centre-Back,VfL Bochum,£540k,in,0.54,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Erol Bulut,24,Left-Back,Fenerbahce,£540k,in,0.54,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Jens Rasiejewski,24,Sweeper,Hannover 96,£90k,in,0.09,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Tibor Dombi,25,Right Midfield,Debrecen,£90k,in,0.09,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Thomas Reichenberger,25,Centre-Forward,Bay. Leverkusen,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Dirk Heinen,29,Goalkeeper,Bay. Leverkusen,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Patrick Falk,19,Attacking Midfield,Leverkusen II,?,in,NA,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Michael Mutzel,19,Defensive Midfield,E. Frankfurt II,-,in,0,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Albert Streit,19,Attacking Midfield,Frankfurt U19,-,in,0,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Bernd Schneider,25,Right Midfield,Bay. Leverkusen,£1.13m,out,1.13,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Ansgar Brinkmann,29,Right Midfield,TeBe Berlin,£450k,out,0.45,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Donald Agu,24,Centre-Back,SSV Reutlingen,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Mourad Bounoua,26,Attacking Midfield,Hannover 96,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Adrian Dashi,23,Defender,VFC Plauen,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,István Pisont,29,Central Midfield,Hapoel Tel Aviv,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Eduard Martini,24,Attacking Midfield,KF Vllaznia,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Sascha Amstätter,21,Defensive Midfield,KFC Uerdingen,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Alexander Lorenz,20,Left Midfield,Aschaffenburg,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Thomas Sobotzik,24,Attacking Midfield,1.FC K'lautern,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Michael Eckhardt,20,Goalkeeper,Aschaffenburg,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Tore Pedersen,29,Centre-Back,Wimbledon FC,?,out,NA,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Thomas Epp,31,Centre-Forward,Admira Wacker,?,out,NA,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Olaf Janßen,33,Defensive Midfield,AC Bellinzona,?,out,NA,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Alexander Rosen,20,Defensive Midfield,FC Augsburg,Loan,out,0,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Zsolt Petry,32,Goalkeeper,MTK Hungária,?,out,NA,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Christoph Westerthaler,34,Second Striker,FSV Frankfurt,?,out,NA,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Burhanettin Kaymak,25,Centre-Back,Göztepe,?,out,NA,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Damir Stojak,24,Centre-Forward,SSC Napoli,"End of loanJul 1, 1999",out,0,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Patrick Glöckner,22,Right Midfield,Without Club,-,out,0,1 Bundesliga,1999,1999/2000
+Eintracht Frankfurt,Chen Yang,25,Centre-Forward,BJ Guoan,"End of loanJun 30, 1999",out,0,1 Bundesliga,1999,1999/2000
+Hamburger SV,Mehdi Mahdavikia,21,Right Midfield,Persepolis,Loan fee:£1.13m,in,1.13,1 Bundesliga,1999,1999/2000
+Hamburger SV,Vahid Hashemian,22,Centre-Forward,Pas Teheran,£338k,in,0.338,1 Bundesliga,1999,1999/2000
+Hamburger SV,Rasoul Khatibi,21,Centre-Forward,Pas Teheran,Loan fee:£68k,in,0.068,1 Bundesliga,1999,1999/2000
+Hamburger SV,Niko Kovac,27,Defensive Midfield,Bay. Leverkusen,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+Hamburger SV,Roy Präger,27,Centre-Forward,VfL Wolfsburg,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+Hamburger SV,Rodolfo Cardoso,30,Attacking Midfield,Estudiantes,"End of loanJun 30, 1999",in,0,1 Bundesliga,1999,1999/2000
+Hamburger SV,Allan Jepsen,22,Left Midfield,Heerenveen,£315k,out,0.315,1 Bundesliga,1999,1999/2000
+Hamburger SV,Josip Simunic,21,Centre-Back,Hertha BSC,£158k,out,0.158,1 Bundesliga,1999,1999/2000
+Hamburger SV,Oliver Straube,27,Left Midfield,Unterhaching,£113k,out,0.113,1 Bundesliga,1999,1999/2000
+Hamburger SV,Matthias Reincke,27,Centre-Forward,SC Norderstedt,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Hamburger SV,Marek Trejgis,24,Right Winger,FC St. Pauli,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Hamburger SV,Marko Kück,22,Centre-Back,VfL Osnabrück,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Hamburger SV,Thomas Vogel,32,Centre-Back,Bor. M'gladbach,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Hamburger SV,Sergey Kiryakov,29,Centre-Forward,TeBe Berlin,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Hamburger SV,Stefan Böger,33,Right-Back,Hamburger SV II,-,out,0,1 Bundesliga,1999,1999/2000
+Hamburger SV,Alexandru Curtianu,25,Attacking Midfield,Zenit S-Pb,"End of loanJun 30, 1999",out,0,1 Bundesliga,1999,1999/2000
+Hamburger SV,Martin Dahlin,31,Centre-Forward,Blackburn,"End of loanJun 30, 1999",out,0,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Artur Wichniarek,22,Centre-Forward,Widzew Lodz,£1.35m,in,1.35,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Markus Weissenberger,24,Attacking Midfield,LASK,£810k,in,0.81,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Márcio Borges,26,Centre-Back,Waldh. Mannheim,£90k,in,0.09,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Baya Baya,20,Attacking Midfield,TuS Celle FC,£45k,in,0.045,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Thomas Gansauge,29,Centre-Back,Hansa Rostock,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Josef Ivanovic,25,Centre-Forward,SV Meppen,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Dirk van der Ven,29,Centre-Forward,KFC Uerdingen,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Thorsten Lenze,23,Goalkeeper,FC Gütersloh,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Thorsten Nehrbauer,21,Defensive Midfield,F. Düsseldorf,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Alexander Klitzpera,21,Centre-Back,FC Bayern II,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Christian Saba,20,Centre-Back,FC Bayern II,Loan,in,0,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Bartosz Partyka,18,Left-Back,Blekitni,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Thijs Waterink,30,Centre-Back,FC Gütersloh,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Berkant Göktan,18,Centre-Forward,Bayern Munich,Loan,in,0,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Marc Ziegler,23,Goalkeeper,VfB Stuttgart,Loan,in,0,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Lukas Kwasniok,18,Defensive Midfield,Karlsruhe U19,?,in,NA,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Heiko Gerber,26,Left-Back,1.FC Nuremberg,"End of loanJun 30, 1999",in,0,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Giuseppe Reina,27,Right Winger,Bor. Dortmund,£1.98m,out,1.98,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Heiko Gerber,27,Left-Back,VfB Stuttgart,£675k,out,0.675,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Georg Koch,27,Goalkeeper,1.FC K'lautern,£450k,out,0.45,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Josef Ivanovic,25,Centre-Forward,1.FC Magdeburg,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Bernd Eigner,27,Centre-Back,E. Braunschweig,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Thorsten Nehrbauer,21,Defensive Midfield,1.FSV Mainz 05,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Sven Boy,22,Centre-Back,VfL Bochum,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Karim Bagheri,25,Defensive Midfield,Persepolis,?,out,NA,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Henryk Baluszynski,26,Centre-Forward,VfL Bochum,?,out,NA,1 Bundesliga,1999,1999/2000
+Arminia Bielefeld,Stefan Studtrucker,32,Centre-Forward,A. Bielefeld II,-,out,0,1 Bundesliga,1999,1999/2000
+SpVgg Unterhaching,Dennis Grassow,27,Centre-Back,1. FC Köln,£270k,in,0.27,1 Bundesliga,1999,1999/2000
+SpVgg Unterhaching,Oliver Straube,27,Left Midfield,Hamburger SV,£113k,in,0.113,1 Bundesliga,1999,1999/2000
+SpVgg Unterhaching,Tobias Iseli,21,Left-Back,VfB Stuttgart,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+SpVgg Unterhaching,Danny Schwarz,24,Defensive Midfield,Karlsruher SC,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+SpVgg Unterhaching,Marco Haber,27,Defensive Midfield,UD Las Palmas,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+SpVgg Unterhaching,Hendrik Herzog,30,Centre-Back,Hertha BSC,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+SpVgg Unterhaching,André Breitenreiter,26,Second Striker,VfL Wolfsburg,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+SpVgg Unterhaching,Ludwig Kögl,33,Left Midfield,FC Luzern,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+SpVgg Unterhaching,Alberto Méndez,24,Attacking Midfield,Arsenal,Loan,in,0,1 Bundesliga,1999,1999/2000
+SpVgg Unterhaching,Abdelaziz Ahanfouf,21,Centre-Forward,Hansa Rostock,£113k,out,0.113,1 Bundesliga,1999,1999/2000
+SpVgg Unterhaching,Matthias Lust,29,Left Midfield,VfL Bochum,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+SpVgg Unterhaching,Carsten Keuler,27,Centre-Back,Stuttg. Kickers,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+SpVgg Unterhaching,Matt Okoh,27,Centre-Forward,Colorado,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+SpVgg Unterhaching,Arne Tammen,27,Centre-Back,Revolution,£9k,out,0.009,1 Bundesliga,1999,1999/2000
+SpVgg Unterhaching,Sascha Lense,23,Attacking Midfield,Dynamo Dresden,?,out,NA,1 Bundesliga,1999,1999/2000
+SpVgg Unterhaching,Michael Spies,33,Attacking Midfield,VfB Lübeck,?,out,NA,1 Bundesliga,1999,1999/2000
+SpVgg Unterhaching,Ivica Vladimir,34,Centre-Back,Retired,-,out,0,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,János Radoki,27,Left-Back,Greuther Fürth,£450k,in,0.45,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Hans van de Haar,24,Centre-Forward,De Graafschap,£225k,in,0.225,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Evans Wise,25,Left Winger,Tampa Bay,£90k,in,0.09,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Leandro,24,Centre-Forward,Yverdon-Sport,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Uwe Grauer,29,Centre-Back,KFC Uerdingen,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Rui Marques,21,Centre-Back,FC Baden,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Oliver Tuzyna,30,Goalkeeper,TSF Ditzingen,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,David Zdrilic,25,Centre-Forward,FC Aarau,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Serdar Erdinc,20,Centre-Forward,SpVgg Au/Iller,Free Transfer,in,0,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Rainer Scharinger,32,Midfielder,Karlsruher SC,?,in,NA,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Holger Betz,21,Goalkeeper,SSV Ulm 1846 II,-,in,0,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Torsten Menck,27,Centre-Back,VfR Aalen,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Christian Schmid,15,Centre-Forward,St. Kickers II,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Simon Seslar,25,Defensive Midfield,NK Maribor,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Dragan Buterin,27,Midfielder,SC Pfullendorf,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Neno Rogosic,25,Centre-Forward,VfR Aalen,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Miguel Coulibaly,26,Centre-Forward,VfR Aalen,Free Transfer,out,0,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Ivica Piric,22,Centre-Back,NK Zagreb,?,out,NA,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Fritz Walter,38,Centre-Forward,Retired,-,out,0,1 Bundesliga,1999,1999/2000
+SSV Ulm 1846,Rainer Widmayer,32,Defender,Retired,-,out,0,1 Bundesliga,1999,1999/2000
