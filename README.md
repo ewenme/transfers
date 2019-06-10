@@ -1,8 +1,5 @@
-footy-transfer-data
+transfers
 ================
-
-Overview
---------
 
 Data on European football clubs' player transfers, through 1992/93 to 2018/19 seasons (as found on [Transfermarkt](https://www.transfermarkt.co.uk/)).
 
