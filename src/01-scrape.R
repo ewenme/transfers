@@ -5,7 +5,7 @@
 source("./src/00-setup.R")
 
 # seasons to scrape
-seasons <- 1992:2018
+seasons <- 2019
 
 # scrape ---------------------------------------------------
 
