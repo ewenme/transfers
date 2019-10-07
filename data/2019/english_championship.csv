@@ -4,31 +4,33 @@ Cardiff City,Aden Flint,30,Centre-Back,Middlesbrough,£4.01m,in,4.01,Championshi
 Cardiff City,Will Vaulks,25,Defensive Midfield,Rotherham,£2.12m,in,2.12,Championship,2019,2019/2020
 Cardiff City,Gavin Whyte,23,Right Winger,Oxford United,£1.98m,in,1.98,Championship,2019,2019/2020
 Cardiff City,Marlon Pack,28,Central Midfield,Bristol City,£734k,in,0.734,Championship,2019,2019/2020
-Cardiff City,Joe Day,28,Goalkeeper,Newport County,Free Transfer,in,0,Championship,2019,2019/2020
-Cardiff City,Curtis Nelson,26,Centre-Back,Oxford United,Free Transfer,in,0,Championship,2019,2019/2020
+Cardiff City,Joe Day,28,Goalkeeper,Newport County,Free transfer,in,NA,Championship,2019,2019/2020
+Cardiff City,Curtis Nelson,26,Centre-Back,Oxford United,Free transfer,in,NA,Championship,2019,2019/2020
+Cardiff City,Aaron Bolger,19,Central Midfield,Shamrock Rovers,?,in,NA,Championship,2019,2019/2020
 Cardiff City,Isaac Vassell,25,Centre-Forward,Birmingham,?,in,NA,Championship,2019,2019/2020
 Cardiff City,Greg Cunningham,29,Left-Back,Blackburn,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
-Cardiff City,Bobby Reid,27,Second Striker,Fulham,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
-Cardiff City,Aaron Bolger,19,Central Midfield,Cardiff U23,-,in,0,Championship,2019,2019/2020
+Cardiff City,Bobby Reid,27,Attacking Midfield,Fulham,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 Cardiff City,Kenneth Zohore,25,Centre-Forward,West Brom,£8.01m,out,8.01,Championship,2019,2019/2020
 Cardiff City,Bruno Ecuele Manga,31,Centre-Back,Dijon,£1.80m,out,1.8,Championship,2019,2019/2020
-Cardiff City,Aron Gunnarsson,30,Central Midfield,Al Arabi,Free Transfer,out,0,Championship,2019,2019/2020
-Cardiff City,Jack McKay,22,Centre-Forward,Chesterfield FC,Free Transfer,out,0,Championship,2019,2019/2020
-Cardiff City,Stuart O'Keefe,28,Central Midfield,Gillingham FC,Free Transfer,out,0,Championship,2019,2019/2020
-Cardiff City,Kadeem Harris,26,Right Midfield,Sheff Wed,Free Transfer,out,0,Championship,2019,2019/2020
-Cardiff City,Paul McKay,22,Centre-Back,Airdrieonians,Free Transfer,out,0,Championship,2019,2019/2020
-Cardiff City,Greg Cunningham,28,Left-Back,Blackburn,Loan,out,0,Championship,2019,2019/2020
-Cardiff City,Bobby Reid,26,Second Striker,Fulham,Loan,out,0,Championship,2019,2019/2020
+Cardiff City,Kadeem Harris,26,Right Midfield,Sheff Wed,Free transfer,out,NA,Championship,2019,2019/2020
+Cardiff City,Paul McKay,22,Centre-Back,Airdrieonians,Free transfer,out,NA,Championship,2019,2019/2020
+Cardiff City,Aron Gunnarsson,30,Central Midfield,Al Arabi,Free transfer,out,NA,Championship,2019,2019/2020
+Cardiff City,Jack McKay,22,Centre-Forward,Chesterfield FC,Free transfer,out,NA,Championship,2019,2019/2020
+Cardiff City,Stuart O'Keefe,28,Central Midfield,Gillingham FC,Free transfer,out,NA,Championship,2019,2019/2020
 Cardiff City,Rhys Healey,24,Centre-Forward,MK Dons,?,out,NA,Championship,2019,2019/2020
 Cardiff City,Loïc Damour,28,Central Midfield,Heart of Midl.,?,out,NA,Championship,2019,2019/2020
+Cardiff City,Greg Cunningham,28,Left-Back,Blackburn,Loan,out,0,Championship,2019,2019/2020
+Cardiff City,Bobby Reid,26,Attacking Midfield,Fulham,Loan,out,0,Championship,2019,2019/2020
 Cardiff City,Víctor Camarasa,25,Central Midfield,Real Betis,"End of loanJun 30, 2019",out,0,Championship,2019,2019/2020
 Cardiff City,Oumar Niasse,29,Centre-Forward,Everton,"End of loanJun 30, 2019",out,0,Championship,2019,2019/2020
+Fulham FC,Michael Hector,27,Centre-Back,Chelsea,£8.01m,in,8.01,Championship,2019,2019/2020
 Fulham FC,Josh Onomah,22,Attacking Midfield,Spurs,draft,in,NA,Championship,2019,2019/2020
-Fulham FC,Ivan Cavaleiro,25,Right Winger,Wolves,Loan,in,0,Championship,2019,2019/2020
-Fulham FC,Harrison Reed,24,Central Midfield,Southampton,Loan,in,0,Championship,2019,2019/2020
 Fulham FC,Anthony Knockaert,27,Right Winger,Brighton,Loan,in,0,Championship,2019,2019/2020
+Fulham FC,Harrison Reed,24,Central Midfield,Southampton,Loan,in,0,Championship,2019,2019/2020
+Fulham FC,Ivan Cavaleiro,25,Right Winger,Wolves,Loan,in,0,Championship,2019,2019/2020
 Fulham FC,Harry Arter,29,Central Midfield,Bournemouth,Loan,in,0,Championship,2019,2019/2020
-Fulham FC,Bobby Reid,26,Second Striker,Cardiff,Loan,in,0,Championship,2019,2019/2020
+Fulham FC,Bobby Reid,26,Attacking Midfield,Cardiff,Loan,in,0,Championship,2019,2019/2020
+Fulham FC,Magnus Norman,22,Goalkeeper,Fulham U23,-,in,0,Championship,2019,2019/2020
 Fulham FC,Matt O'Riley,18,Central Midfield,Fulham U23,-,in,0,Championship,2019,2019/2020
 Fulham FC,Steven Sessegnon,19,Right-Back,Fulham U23,-,in,0,Championship,2019,2019/2020
 Fulham FC,Marek Rodak,22,Goalkeeper,Fulham U23,-,in,0,Championship,2019,2019/2020
@@ -36,58 +38,66 @@ Fulham FC,Aboubakar Kamara,24,Centre-Forward,Y. Malatyaspor,"End of loanJun 30, 
 Fulham FC,Rui Fonte,29,Centre-Forward,LOSC Lille,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Fulham FC,Ryan Sessegnon,19,Left Midfield,Spurs,£24.30m,out,24.3,Championship,2019,2019/2020
 Fulham FC,Jean Michaël Seri,27,Central Midfield,Galatasaray,Loan fee:£1.35m,out,1.35,Championship,2019,2019/2020
-Fulham FC,Ryan Babel,32,Left Winger,Galatasaray,Free Transfer,out,0,Championship,2019,2019/2020
-Fulham FC,Rui Fonte,29,Centre-Forward,Braga,Free Transfer,out,0,Championship,2019,2019/2020
-Fulham FC,Berti Schötterl,24,Goalkeeper,Lok Leipzig,Free Transfer,out,0,Championship,2019,2019/2020
+Fulham FC,Berti Schötterl,24,Goalkeeper,Lok Leipzig,Free transfer,out,NA,Championship,2019,2019/2020
+Fulham FC,Marcelo Djaló,25,Centre-Back,CD Lugo,Free transfer,out,NA,Championship,2019,2019/2020
+Fulham FC,Ryan Babel,32,Left Winger,Galatasaray,Free transfer,out,NA,Championship,2019,2019/2020
+Fulham FC,Rui Fonte,29,Centre-Forward,Braga,Free transfer,out,NA,Championship,2019,2019/2020
+Fulham FC,Floyd Ayité,30,Left Winger,Genclerbirligi,?,out,NA,Championship,2019,2019/2020
+Fulham FC,Fabri,31,Goalkeeper,RCD Mallorca,Loan,out,0,Championship,2019,2019/2020
 Fulham FC,André Zambo Anguissa,23,Defensive Midfield,Villarreal,Loan,out,0,Championship,2019,2019/2020
-Fulham FC,Harry Arter,30,Central Midfield,Bournemouth,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
-Fulham FC,Ivan Cavaleiro,26,Right Winger,Wolves,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
-Fulham FC,Bobby Reid,27,Second Striker,Cardiff,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Fulham FC,Harrison Reed,25,Central Midfield,Southampton,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
-Fulham FC,Lazar Markovic,25,Right Winger,Without Club,-,out,0,Championship,2019,2019/2020
+Fulham FC,Harry Arter,30,Central Midfield,Bournemouth,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
+Fulham FC,Lazar Markovic,25,Left Winger,Without Club,-,out,0,Championship,2019,2019/2020
+Fulham FC,Ivan Cavaleiro,26,Right Winger,Wolves,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
+Fulham FC,Bobby Reid,27,Attacking Midfield,Cardiff,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
+Fulham FC,Luciano Vietto,25,Centre-Forward,Atlético Madrid,"End of loanJun 30, 2019",out,0,Championship,2019,2019/2020
 Fulham FC,Sergio Rico,25,Goalkeeper,Sevilla FC,"End of loanJun 30, 2019",out,0,Championship,2019,2019/2020
 Fulham FC,André Schürrle,28,Left Winger,Bor. Dortmund,"End of loanJun 30, 2019",out,0,Championship,2019,2019/2020
 Fulham FC,Havard Nordtveit,29,Defensive Midfield,TSG Hoffenheim,"End of loanJun 30, 2019",out,0,Championship,2019,2019/2020
-Fulham FC,Luciano Vietto,25,Centre-Forward,Atlético Madrid,"End of loanJun 30, 2019",out,0,Championship,2019,2019/2020
 Huddersfield Town,Isaac Mbenza,23,Right Winger,Montpellier,£11.25m,in,11.25,Championship,2019,2019/2020
-Huddersfield Town,Herbert Bockhorn,24,Right-Back,B. Dortmund II,£225k,in,0.225,Championship,2019,2019/2020
-Huddersfield Town,Reece Brown,23,Central Midfield,Forest Green,Free Transfer,in,0,Championship,2019,2019/2020
-Huddersfield Town,Tommy Elphick,31,Centre-Back,Aston Villa,Free Transfer,in,0,Championship,2019,2019/2020
-Huddersfield Town,Trevoh Chalobah,20,Centre-Back,Chelsea U23,Loan,in,0,Championship,2019,2019/2020
+Huddersfield Town,Herbert Bockhorn,24,Right-Back,B. Dortmund II,£270k,in,0.27,Championship,2019,2019/2020
+Huddersfield Town,Tommy Elphick,31,Centre-Back,Aston Villa,Free transfer,in,NA,Championship,2019,2019/2020
+Huddersfield Town,Reece Brown,23,Central Midfield,Forest Green,Free transfer,in,NA,Championship,2019,2019/2020
 Huddersfield Town,Josh Koroma,20,Centre-Forward,Leyton Orient,?,in,NA,Championship,2019,2019/2020
 Huddersfield Town,Kamil Grabara,20,Goalkeeper,Liverpool U23,Loan,in,0,Championship,2019,2019/2020
+Huddersfield Town,Trevoh Chalobah,20,Defensive Midfield,Chelsea U23,Loan,in,0,Championship,2019,2019/2020
 Huddersfield Town,Rarmani Edmonds-Green,20,Centre-Back,Huddersf. U23,-,in,0,Championship,2019,2019/2020
+Huddersfield Town,Jaden Brown,20,Left-Back,Huddersf. U23,-,in,0,Championship,2019,2019/2020
+Huddersfield Town,Danny Simpson,32,Right-Back,Without Club,-,in,0,Championship,2019,2019/2020
 Huddersfield Town,Ben Hamer,32,Goalkeeper,Derby,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 Huddersfield Town,Matty Daly,18,Attacking Midfield,Huddersf. U23,-,in,0,Championship,2019,2019/2020
+Huddersfield Town,Fraizer Campbell,31,Centre-Forward,Without Club,-,in,0,Championship,2019,2019/2020
 Huddersfield Town,Aaron Mooy,29,Central Midfield,Brighton,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 Huddersfield Town,Lewis O'Brien,20,Attacking Midfield,Huddersf. U23,-,in,0,Championship,2019,2019/2020
-Huddersfield Town,Fraizer Campbell,31,Centre-Forward,Without Club,-,in,0,Championship,2019,2019/2020
-Huddersfield Town,Collin Quaner,28,Centre-Forward,Ipswich,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Huddersfield Town,Ramadan Sobhi,22,Left Winger,Ahly,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
+Huddersfield Town,Collin Quaner,28,Centre-Forward,Ipswich,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Huddersfield Town,Philip Billing,23,Central Midfield,Bournemouth,£14.85m,out,14.85,Championship,2019,2019/2020
 Huddersfield Town,Tommy Smith,27,Right-Back,Stoke City,£4.01m,out,4.01,Championship,2019,2019/2020
 Huddersfield Town,Zanka,29,Centre-Back,Fenerbahce,£1.80m,out,1.8,Championship,2019,2019/2020
+Huddersfield Town,Rajiv van La Parra,28,Left Winger,Red Star,£1.08m,out,1.08,Championship,2019,2019/2020
+Huddersfield Town,Chris Löwe,30,Left-Back,Dynamo Dresden,£810k,out,0.81,Championship,2019,2019/2020
 Huddersfield Town,Ramadan Sobhi,22,Left Winger,Ahly,Loan fee:£675k,out,0.675,Championship,2019,2019/2020
-Huddersfield Town,Laurent Depoitre,30,Centre-Forward,KAA Gent,Free Transfer,out,0,Championship,2019,2019/2020
-Huddersfield Town,Jonas Lössl,30,Goalkeeper,Everton,Free Transfer,out,0,Championship,2019,2019/2020
-Huddersfield Town,Jack Payne,24,Attacking Midfield,Lincoln City,Free Transfer,out,0,Championship,2019,2019/2020
-Huddersfield Town,Abdelhamid Sabiri,22,Attacking Midfield,SC Paderborn,Free Transfer,out,0,Championship,2019,2019/2020
-Huddersfield Town,Erik Durm,27,Left-Back,E. Frankfurt,Free Transfer,out,0,Championship,2019,2019/2020
-Huddersfield Town,Chris Löwe,30,Left-Back,Dynamo Dresden,?,out,NA,Championship,2019,2019/2020
+Huddersfield Town,Laurent Depoitre,30,Centre-Forward,KAA Gent,Free transfer,out,NA,Championship,2019,2019/2020
+Huddersfield Town,Erik Durm,27,Left-Back,E. Frankfurt,Free transfer,out,NA,Championship,2019,2019/2020
+Huddersfield Town,Jonas Lössl,30,Goalkeeper,Everton,Free transfer,out,NA,Championship,2019,2019/2020
+Huddersfield Town,Abdelhamid Sabiri,22,Attacking Midfield,SC Paderborn,Free transfer,out,NA,Championship,2019,2019/2020
+Huddersfield Town,Jack Payne,24,Attacking Midfield,Lincoln City,Free transfer,out,NA,Championship,2019,2019/2020
 Huddersfield Town,Ben Hamer,31,Goalkeeper,Derby,Loan,out,0,Championship,2019,2019/2020
 Huddersfield Town,Aaron Mooy,28,Central Midfield,Brighton,Loan,out,0,Championship,2019,2019/2020
-Huddersfield Town,Kamil Grabara,21,Goalkeeper,Liverpool U23,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
-Huddersfield Town,Trevoh Chalobah,20,Centre-Back,Chelsea U23,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Huddersfield Town,Danny Williams,30,Defensive Midfield,Without Club,-,out,0,Championship,2019,2019/2020
+Huddersfield Town,Kamil Grabara,21,Goalkeeper,Liverpool U23,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
+Huddersfield Town,Trevoh Chalobah,20,Defensive Midfield,Chelsea U23,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Huddersfield Town,Jason Puncheon,33,Attacking Midfield,Crystal Palace,"End of loanJun 30, 2019",out,0,Championship,2019,2019/2020
 Huddersfield Town,Isaac Mbenza,23,Right Winger,Montpellier,"End of loanJun 30, 2019",out,0,Championship,2019,2019/2020
 Leeds United,Ben White,21,Centre-Back,Brighton U23,Loan,in,0,Championship,2019,2019/2020
-Leeds United,Liam McCarron,18,Centre-Forward,Carlisle United,?,in,NA,Championship,2019,2019/2020
 Leeds United,Illan Meslier,19,Goalkeeper,FC Lorient,Loan,in,0,Championship,2019,2019/2020
 Leeds United,Hélder Costa,25,Right Winger,Wolves,Loan,in,0,Championship,2019,2019/2020
 Leeds United,Eddie Nketiah,20,Centre-Forward,Arsenal,Loan,in,0,Championship,2019,2019/2020
+Leeds United,Liam McCarron,18,Centre-Forward,Carlisle United,?,in,NA,Championship,2019,2019/2020
 Leeds United,Lewie Coyle,24,Right-Back,Fleetwood,"End of loanDec 31, 2019",in,0,Championship,2019,2019/2020
-Leeds United,Jack Clarke,18,Right Winger,Spurs,Loan,in,0,Championship,2019,2019/2020
+Leeds United,Conor Shaughnessy,23,Centre-Back,Mansfield Town,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Leeds United,Laurens De Bock,27,Left-Back,Sunderland,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Leeds United,Jack Clarke,18,Left Winger,Spurs,Loan,in,0,Championship,2019,2019/2020
 Leeds United,Jay-Roy Grot,21,Centre-Forward,VVV-Venlo,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Leeds United,Ouasim Bouy,26,Defensive Midfield,PEC Zwolle,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Leeds United,Samu Sáiz,28,Attacking Midfield,Getafe,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
@@ -97,135 +107,146 @@ Leeds United,Hadi Sacko,25,Right Winger,Ankaragücü,"End of loanJun 30, 2019",i
 Leeds United,Yosuke Ideguchi,22,Central Midfield,Greuther Fürth,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Leeds United,Caleb Ekuban,25,Centre-Forward,Trabzonspor,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Leeds United,Paudie O'Connor,21,Centre-Back,Bradford,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
-Leeds United,Jack Clarke,18,Right Winger,Spurs,£9.90m,out,9.9,Championship,2019,2019/2020
+Leeds United,Jack Clarke,18,Left Winger,Spurs,£9.90m,out,9.9,Championship,2019,2019/2020
 Leeds United,Pontus Jansson,28,Centre-Back,Brentford,£5.54m,out,5.54,Championship,2019,2019/2020
 Leeds United,Kemar Roofe,26,Centre-Forward,RSC Anderlecht,£5.40m,out,5.4,Championship,2019,2019/2020
 Leeds United,Bailey Peacock-Farrell,22,Goalkeeper,Burnley,£2.48m,out,2.48,Championship,2019,2019/2020
 Leeds United,Samu Sáiz,28,Attacking Midfield,Girona,£2.25m,out,2.25,Championship,2019,2019/2020
 Leeds United,Caleb Ekuban,25,Centre-Forward,Trabzonspor,£900k,out,0.9,Championship,2019,2019/2020
 Leeds United,Tom Pearce,21,Left-Back,Wigan,£293k,out,0.293,Championship,2019,2019/2020
+Leeds United,Aapo Halme,21,Centre-Back,Barnsley FC,£203k,out,0.203,Championship,2019,2019/2020
+Leeds United,Paudie O'Connor,21,Centre-Back,Bradford,Free transfer,out,NA,Championship,2019,2019/2020
 Leeds United,Lewie Coyle,23,Right-Back,Fleetwood,Loan,out,0,Championship,2019,2019/2020
-Leeds United,Paudie O'Connor,21,Centre-Back,Bradford,Free Transfer,out,0,Championship,2019,2019/2020
+Leeds United,Tyler Denton,23,Left-Back,Stevenage,?,out,NA,Championship,2019,2019/2020
+Leeds United,Laurens De Bock,26,Left-Back,Sunderland,Loan,out,0,Championship,2019,2019/2020
+Leeds United,Hadi Sacko,25,Right Winger,Denizlispor,?,out,NA,Championship,2019,2019/2020
 Leeds United,Yosuke Ideguchi,22,Central Midfield,Gamba Osaka,?,out,NA,Championship,2019,2019/2020
 Leeds United,Pawel Cibicki,25,Centre-Forward,ADO Den Haag,Loan,out,0,Championship,2019,2019/2020
 Leeds United,Jay-Roy Grot,21,Centre-Forward,Vitesse,Loan,out,0,Championship,2019,2019/2020
+Leeds United,Conor Shaughnessy,23,Centre-Back,Mansfield Town,Loan,out,0,Championship,2019,2019/2020
 Leeds United,Sam Dalby,19,Centre-Forward,Watford,?,out,NA,Championship,2019,2019/2020
-Leeds United,Aapo Halme,21,Centre-Back,Barnsley FC,?,out,NA,Championship,2019,2019/2020
-Leeds United,Tyler Denton,23,Left-Back,Stevenage,?,out,NA,Championship,2019,2019/2020
-Leeds United,Hadi Sacko,25,Right Winger,Denizlispor,?,out,NA,Championship,2019,2019/2020
+Leeds United,Jack Clarke,19,Left Winger,Spurs,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
+Leeds United,Vurnon Anita,30,Defensive Midfield,Without Club,-,out,0,Championship,2019,2019/2020
+Leeds United,Ben White,22,Centre-Back,Brighton U23,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Leeds United,Jack Harrison,23,Left Winger,Man City,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Leeds United,Eddie Nketiah,21,Centre-Forward,Arsenal,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
-Leeds United,Jack Clarke,19,Right Winger,Spurs,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
-Leeds United,Ben White,22,Centre-Back,Brighton U23,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 West Bromwich Albion,Kenneth Zohore,25,Centre-Forward,Cardiff,£8.01m,in,8.01,Championship,2019,2019/2020
 West Bromwich Albion,Charlie Austin,30,Centre-Forward,Southampton,£3.87m,in,3.87,Championship,2019,2019/2020
 West Bromwich Albion,Romaine Sawyers,27,Attacking Midfield,Brentford,£2.88m,in,2.88,Championship,2019,2019/2020
 West Bromwich Albion,Darnell Furlong,23,Right-Back,QPR,£1.53m,in,1.53,Championship,2019,2019/2020
 West Bromwich Albion,Semi Ajayi,25,Centre-Back,Rotherham,£1.49m,in,1.49,Championship,2019,2019/2020
-West Bromwich Albion,Grady Diangana,21,Right Winger,West Ham,Loan,in,0,Championship,2019,2019/2020
-West Bromwich Albion,Matheus Pereira,23,Right Winger,Sporting CP,Loan,in,0,Championship,2019,2019/2020
 West Bromwich Albion,Chris Willock,21,Left Winger,Benfica B,Loan,in,0,Championship,2019,2019/2020
 West Bromwich Albion,Filip Krovinovic,23,Attacking Midfield,Benfica,Loan,in,0,Championship,2019,2019/2020
+West Bromwich Albion,Grady Diangana,21,Right Winger,West Ham,Loan,in,0,Championship,2019,2019/2020
+West Bromwich Albion,Matheus Pereira,23,Right Winger,Sporting CP,Loan,in,0,Championship,2019,2019/2020
+West Bromwich Albion,Dara O'Shea,20,Centre-Back,West Brom U23,-,in,0,Championship,2019,2019/2020
+West Bromwich Albion,Alex Palmer,23,Goalkeeper,Plymouth,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+West Bromwich Albion,Saul Shotton,18,Centre-Back,Without Club,-,in,0,Championship,2019,2019/2020
+West Bromwich Albion,Nathan Ferguson,18,Centre-Back,West Brom U23,-,in,0,Championship,2019,2019/2020
+West Bromwich Albion,Ali Al-Habsi,37,Goalkeeper,Without Club,-,in,0,Championship,2019,2019/2020
 West Bromwich Albion,Sam Field,22,Central Midfield,Charlton,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 West Bromwich Albion,Jonathan Leko,21,Right Winger,Charlton,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 West Bromwich Albion,Jack Fitzwater,21,Centre-Back,West Brom U23,-,in,0,Championship,2019,2019/2020
-West Bromwich Albion,Dara O'Shea,20,Centre-Back,West Brom U23,-,in,0,Championship,2019,2019/2020
-West Bromwich Albion,Alex Palmer,23,Goalkeeper,Plymouth,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
-West Bromwich Albion,Nathan Ferguson,18,Centre-Back,West Brom U23,-,in,0,Championship,2019,2019/2020
 West Bromwich Albion,Allan Nyom,31,Right-Back,CD Leganés,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 West Bromwich Albion,Oliver Burke,22,Right Winger,Celtic,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 West Bromwich Albion,Salomón Rondón,29,Centre-Forward,DL Yifang,£16.44m,out,16.44,Championship,2019,2019/2020
 West Bromwich Albion,Craig Dawson,29,Centre-Back,Watford,£5.40m,out,5.4,Championship,2019,2019/2020
 West Bromwich Albion,Jay Rodríguez,29,Centre-Forward,Burnley,£5.00m,out,5,Championship,2019,2019/2020
-West Bromwich Albion,Kyle Howkins,23,Centre-Back,Newport County,Free Transfer,out,0,Championship,2019,2019/2020
+West Bromwich Albion,Allan Nyom,31,Right-Back,Getafe,£2.70m,out,2.7,Championship,2019,2019/2020
+West Bromwich Albion,Wesley Hoolahan,37,Attacking Midfield,Newcastle,Free transfer,out,NA,Championship,2019,2019/2020
+West Bromwich Albion,Kyle Howkins,23,Centre-Back,Newport County,Free transfer,out,NA,Championship,2019,2019/2020
 West Bromwich Albion,Alex Palmer,22,Goalkeeper,Plymouth,Loan,out,0,Championship,2019,2019/2020
-West Bromwich Albion,Jonathan Leko,20,Right Winger,Charlton,Loan,out,0,Championship,2019,2019/2020
-West Bromwich Albion,Allan Nyom,31,Right-Back,Getafe,?,out,NA,Championship,2019,2019/2020
 West Bromwich Albion,Sam Field,21,Central Midfield,Charlton,Loan,out,0,Championship,2019,2019/2020
-West Bromwich Albion,Tyrone Mears,36,Right-Back,Without Club,-,out,0,Championship,2019,2019/2020
-West Bromwich Albion,Boaz Myhill,36,Goalkeeper,Without Club,-,out,0,Championship,2019,2019/2020
-West Bromwich Albion,Wesley Hoolahan,37,Attacking Midfield,Without Club,-,out,0,Championship,2019,2019/2020
-West Bromwich Albion,James Morrison,33,Central Midfield,Without Club,-,out,0,Championship,2019,2019/2020
+West Bromwich Albion,Jonathan Leko,20,Right Winger,Charlton,Loan,out,0,Championship,2019,2019/2020
+West Bromwich Albion,Oliver Burke,22,Right Winger,Alavés,Loan,out,0,Championship,2019,2019/2020
 West Bromwich Albion,Grady Diangana,22,Right Winger,West Ham,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
+West Bromwich Albion,James Morrison,33,Central Midfield,Without Club,-,out,0,Championship,2019,2019/2020
+West Bromwich Albion,Boaz Myhill,36,Goalkeeper,Retired,-,out,0,Championship,2019,2019/2020
 West Bromwich Albion,Gareth Barry,38,Defensive Midfield,Without Club,-,out,0,Championship,2019,2019/2020
+West Bromwich Albion,Tyrone Mears,36,Right-Back,Without Club,-,out,0,Championship,2019,2019/2020
 Derby County,Krystian Bielik,21,Centre-Back,Arsenal,£7.38m,in,7.38,Championship,2019,2019/2020
-Derby County,Graeme Shinnie,27,Defensive Midfield,Aberdeen FC,Free Transfer,in,0,Championship,2019,2019/2020
+Derby County,Graeme Shinnie,27,Defensive Midfield,Aberdeen FC,Free transfer,in,NA,Championship,2019,2019/2020
+Derby County,Wayne Rooney,34,Centre-Forward,D.C. United,?,in,NA,Championship,2019,2019/2020
 Derby County,Jamie Paterson,27,Second Striker,Bristol City,Loan,in,0,Championship,2019,2019/2020
 Derby County,Kieran Dowell,21,Attacking Midfield,Everton,Loan,in,0,Championship,2019,2019/2020
 Derby County,Matt Clarke,22,Centre-Back,Brighton,Loan,in,0,Championship,2019,2019/2020
 Derby County,Ben Hamer,31,Goalkeeper,Huddersfield,Loan,in,0,Championship,2019,2019/2020
-Derby County,Wayne Rooney,34,Centre-Forward,D.C. United,?,in,NA,Championship,2019,2019/2020
 Derby County,Lee Buchanan,18,Centre-Back,Derby U18,-,in,0,Championship,2019,2019/2020
 Derby County,Scott Carson,34,Goalkeeper,Man City,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 Derby County,George Thorne,26,Defensive Midfield,Oxford United,"End of loanJan 1, 2020",in,0,Championship,2019,2019/2020
 Derby County,Jason Knight,18,Central Midfield,Derby U18,-,in,0,Championship,2019,2019/2020
 Derby County,Nick Blackman,29,Right Winger,Sporting Gijón,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Derby County,Luke Thomas,20,Right Winger,Barnsley FC,£1.22m,out,1.22,Championship,2019,2019/2020
-Derby County,Bradley Johnson,32,Central Midfield,Blackburn,Free Transfer,out,0,Championship,2019,2019/2020
-Derby County,Craig Bryson,32,Central Midfield,Aberdeen FC,Free Transfer,out,0,Championship,2019,2019/2020
-Derby County,Jacob Butterfield,29,Central Midfield,Luton,Free Transfer,out,0,Championship,2019,2019/2020
-Derby County,Alex Pearce,30,Centre-Back,Millwall,Free Transfer,out,0,Championship,2019,2019/2020
-Derby County,Nick Blackman,29,Right Winger,M. Tel Aviv,Free Transfer,out,0,Championship,2019,2019/2020
-Derby County,David Nugent,34,Centre-Forward,Preston NE,Free Transfer,out,0,Championship,2019,2019/2020
+Derby County,Bradley Johnson,32,Central Midfield,Blackburn,Free transfer,out,NA,Championship,2019,2019/2020
+Derby County,Craig Bryson,32,Central Midfield,Aberdeen FC,Free transfer,out,NA,Championship,2019,2019/2020
+Derby County,Jacob Butterfield,29,Central Midfield,Luton,Free transfer,out,NA,Championship,2019,2019/2020
+Derby County,Alex Pearce,30,Centre-Back,Millwall,Free transfer,out,NA,Championship,2019,2019/2020
+Derby County,Nick Blackman,29,Right Winger,M. Tel Aviv,Free transfer,out,NA,Championship,2019,2019/2020
+Derby County,David Nugent,34,Centre-Forward,Preston NE,Free transfer,out,NA,Championship,2019,2019/2020
+Derby County,George Thorne,26,Defensive Midfield,Oxford United,Loan,out,0,Championship,2019,2019/2020
 Derby County,Kyle McAllister,20,Right Winger,St. Mirren,?,out,NA,Championship,2019,2019/2020
 Derby County,Scott Carson,33,Goalkeeper,Man City,Loan,out,0,Championship,2019,2019/2020
-Derby County,George Thorne,26,Defensive Midfield,Oxford United,Loan,out,0,Championship,2019,2019/2020
+Derby County,Kieran Dowell,22,Attacking Midfield,Everton,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
+Derby County,Ben Hamer,32,Goalkeeper,Huddersfield,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Derby County,Marcus Olsson,31,Left-Back,Without Club,-,out,0,Championship,2019,2019/2020
 Derby County,Ashley Cole,38,Left-Back,Retired,-,out,0,Championship,2019,2019/2020
 Derby County,Jamie Paterson,28,Second Striker,Bristol City,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Derby County,Efe Ambrose,30,Centre-Back,Without Club,-,out,0,Championship,2019,2019/2020
 Derby County,Matt Clarke,23,Centre-Back,Brighton,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
-Derby County,Kieran Dowell,22,Attacking Midfield,Everton,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
-Derby County,Ben Hamer,32,Goalkeeper,Huddersfield,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Derby County,Andy King,30,Central Midfield,Leicester,"End of loanJun 30, 2019",out,0,Championship,2019,2019/2020
 Middlesbrough FC,Anfernee Dijksteel,22,Right-Back,Charlton,£1.98m,in,1.98,Championship,2019,2019/2020
 Middlesbrough FC,Marcus Browne,21,Attacking Midfield,West Ham U23,£198k,in,0.198,Championship,2019,2019/2020
-Middlesbrough FC,Tomás Mejías,30,Goalkeeper,Omonia Nikosia,Free Transfer,in,0,Championship,2019,2019/2020
+Middlesbrough FC,Tomás Mejías,30,Goalkeeper,Omonia Nikosia,Free transfer,in,NA,Championship,2019,2019/2020
 Middlesbrough FC,Marc Bola,21,Left-Back,Blackpool,?,in,NA,Championship,2019,2019/2020
 Middlesbrough FC,Hayden Coulson,21,Left-Back,Boro U23,-,in,0,Championship,2019,2019/2020
+Middlesbrough FC,Stephen Walker,18,Second Striker,Boro U23,-,in,0,Championship,2019,2019/2020
 Middlesbrough FC,Aynsley Pears,21,Goalkeeper,Boro U23,-,in,0,Championship,2019,2019/2020
 Middlesbrough FC,Martin Braithwaite,28,Centre-Forward,CD Leganés,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Middlesbrough FC,Martin Braithwaite,28,Centre-Forward,CD Leganés,£8.82m,out,8.82,Championship,2019,2019/2020
 Middlesbrough FC,Aden Flint,30,Centre-Back,Cardiff,£4.01m,out,4.01,Championship,2019,2019/2020
-Middlesbrough FC,John Mikel Obi,32,Defensive Midfield,Trabzonspor,Free Transfer,out,0,Championship,2019,2019/2020
-Middlesbrough FC,Stewart Downing,34,Left Midfield,Blackburn,Free Transfer,out,0,Championship,2019,2019/2020
+Middlesbrough FC,Stewart Downing,34,Left Midfield,Blackburn,Free transfer,out,NA,Championship,2019,2019/2020
+Middlesbrough FC,John Mikel Obi,32,Defensive Midfield,Trabzonspor,Free transfer,out,NA,Championship,2019,2019/2020
 Middlesbrough FC,Luke Armstrong,23,Centre-Forward,Salford,?,out,NA,Championship,2019,2019/2020
-Middlesbrough FC,Dimitrios Konstantopoulos,40,Goalkeeper,Without Club,-,out,0,Championship,2019,2019/2020
 Middlesbrough FC,Andy Lonergan,35,Goalkeeper,Without Club,-,out,0,Championship,2019,2019/2020
+Middlesbrough FC,Dimitrios Konstantopoulos,40,Goalkeeper,Without Club,-,out,0,Championship,2019,2019/2020
 Bristol City,Tomas Kalas,26,Centre-Back,Chelsea,£8.10m,in,8.1,Championship,2019,2019/2020
 Bristol City,Han-Noah Massengo,18,Central Midfield,Monaco B,£7.20m,in,7.2,Championship,2019,2019/2020
 Bristol City,Kasey Palmer,22,Attacking Midfield,Chelsea U23,£3.42m,in,3.42,Championship,2019,2019/2020
 Bristol City,Ádám Nagy,24,Defensive Midfield,Bologna,£2.25m,in,2.25,Championship,2019,2019/2020
 Bristol City,Jay Dasilva,21,Left-Back,Chelsea U23,£2.16m,in,2.16,Championship,2019,2019/2020
 Bristol City,Daniel Bentley,25,Goalkeeper,Brentford,£1.98m,in,1.98,Championship,2019,2019/2020
-Bristol City,Sammie Szmodics,23,Attacking Midfield,Colchester Utd.,Free Transfer,in,0,Championship,2019,2019/2020
-Bristol City,Ashley Williams,35,Centre-Back,Everton,Free Transfer,in,0,Championship,2019,2019/2020
-Bristol City,Rene Gilmartin,32,Goalkeeper,Colchester Utd.,Free Transfer,in,0,Championship,2019,2019/2020
-Bristol City,Tommy Rowe,30,Left Midfield,Doncaster,Free Transfer,in,0,Championship,2019,2019/2020
-Bristol City,Pedro Pereira,21,Right-Back,Benfica B,Loan,in,0,Championship,2019,2019/2020
-Bristol City,Robbie Cundy,22,Centre-Back,Bath City,?,in,NA,Championship,2019,2019/2020
+Bristol City,Rene Gilmartin,32,Goalkeeper,Colchester Utd.,Free transfer,in,NA,Championship,2019,2019/2020
+Bristol City,Tommy Rowe,30,Left Midfield,Doncaster,Free transfer,in,NA,Championship,2019,2019/2020
+Bristol City,Sammie Szmodics,23,Attacking Midfield,Colchester Utd.,Free transfer,in,NA,Championship,2019,2019/2020
 Bristol City,Benik Afobe,26,Centre-Forward,Stoke City,Loan,in,0,Championship,2019,2019/2020
-Bristol City,Robbie Cundy,23,Centre-Back,Exeter City,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
-Bristol City,Zak Vyner,23,Right-Back,Aberdeen FC,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Bristol City,Pedro Pereira,21,Right-Back,Benfica,Loan,in,0,Championship,2019,2019/2020
+Bristol City,Robbie Cundy,22,Centre-Back,Bath City,?,in,NA,Championship,2019,2019/2020
+Bristol City,Jamie Paterson,28,Second Striker,Derby,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Bristol City,Ashley Williams,35,Centre-Back,Without Club,-,in,0,Championship,2019,2019/2020
+Bristol City,Robbie Cundy,23,Centre-Back,Torquay United,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 Bristol City,Max O'Leary,23,Goalkeeper,Shrewsbury,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Bristol City,Zak Vyner,23,Right-Back,Aberdeen FC,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Bristol City,Liam Walsh,22,Central Midfield,Coventry,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Bristol City,Joe Morrell,23,Central Midfield,Lincoln City,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 Bristol City,Joe Wollacott,23,Goalkeeper,Forest Green,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 Bristol City,Matty Taylor,30,Centre-Forward,Oxford United,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
-Bristol City,Joe Morrell,23,Central Midfield,Lincoln City,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Bristol City,Robbie Cundy,22,Centre-Back,Exeter City,"End of loanSep 2, 2019",in,0,Championship,2019,2019/2020
 Bristol City,Rory Holden,22,Centre-Forward,Walsall,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
-Bristol City,Jamie Paterson,28,Second Striker,Derby,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 Bristol City,Adam Webster,24,Centre-Back,Brighton,£19.67m,out,19.67,Championship,2019,2019/2020
 Bristol City,Lloyd Kelly,20,Left-Back,Bournemouth,£13.32m,out,13.32,Championship,2019,2019/2020
 Bristol City,Marlon Pack,28,Central Midfield,Cardiff,£734k,out,0.734,Championship,2019,2019/2020
-Bristol City,Frank Fielding,31,Goalkeeper,Millwall,Free Transfer,out,0,Championship,2019,2019/2020
-Bristol City,Stefan Marinovic,27,Goalkeeper,Wellington P.,Free Transfer,out,0,Championship,2019,2019/2020
+Bristol City,Frank Fielding,31,Goalkeeper,Millwall,Free transfer,out,NA,Championship,2019,2019/2020
+Bristol City,Stefan Marinovic,27,Goalkeeper,Wellington P.,Free transfer,out,NA,Championship,2019,2019/2020
 Bristol City,Joe Morrell,22,Central Midfield,Lincoln City,Loan,out,0,Championship,2019,2019/2020
 Bristol City,Robbie Cundy,22,Centre-Back,Exeter City,Loan,out,0,Championship,2019,2019/2020
 Bristol City,Joe Wollacott,22,Goalkeeper,Forest Green,Loan,out,0,Championship,2019,2019/2020
-Bristol City,Jamie Paterson,27,Second Striker,Derby,Loan,out,0,Championship,2019,2019/2020
+Bristol City,Robbie Cundy,22,Centre-Back,Torquay United,Loan,out,0,Championship,2019,2019/2020
+Bristol City,Liam Walsh,21,Central Midfield,Coventry,Loan,out,0,Championship,2019,2019/2020
 Bristol City,Rory Holden,21,Centre-Forward,Walsall,Loan,out,0,Championship,2019,2019/2020
 Bristol City,Zak Vyner,22,Right-Back,Aberdeen FC,Loan,out,0,Championship,2019,2019/2020
 Bristol City,Matty Taylor,29,Centre-Forward,Oxford United,Loan,out,0,Championship,2019,2019/2020
 Bristol City,Mo Eisa,24,Centre-Forward,Peterborough,?,out,NA,Championship,2019,2019/2020
+Bristol City,Jamie Paterson,27,Second Striker,Derby,Loan,out,0,Championship,2019,2019/2020
 Bristol City,Benik Afobe,27,Centre-Forward,Stoke City,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Bristol City,Eros Pisano,32,Right-Back,Without Club,-,out,0,Championship,2019,2019/2020
 Bristol City,Max O'Leary,22,Goalkeeper,Shrewsbury,Loan,out,0,Championship,2019,2019/2020
@@ -234,23 +255,29 @@ Nottingham Forest,Carl Jenkinson,27,Right-Back,Arsenal,£1.98m,in,1.98,Champions
 Nottingham Forest,Brice Samba,25,Goalkeeper,SM Caen,£1.89m,in,1.89,Championship,2019,2019/2020
 Nottingham Forest,Samba Sow,30,Defensive Midfield,Dinamo Moscow,£630k,in,0.63,Championship,2019,2019/2020
 Nottingham Forest,Chema,27,Centre-Back,Levante,£450k,in,0.45,Championship,2019,2019/2020
-Nottingham Forest,Albert Adomah,31,Right Midfield,Aston Villa,Free Transfer,in,0,Championship,2019,2019/2020
 Nottingham Forest,Arijanet Muric,20,Goalkeeper,Man City,Loan,in,0,Championship,2019,2019/2020
-Nottingham Forest,Sammy Ameobi,27,Centre-Forward,Bolton,Free Transfer,in,0,Championship,2019,2019/2020
-Nottingham Forest,Alfa Semedo,21,Defensive Midfield,Benfica,Loan,in,0,Championship,2019,2019/2020
-Nottingham Forest,Rafa Mir,22,Centre-Forward,Wolves,Loan,in,0,Championship,2019,2019/2020
+Nottingham Forest,Sammy Ameobi,27,Centre-Forward,Bolton,Free transfer,in,NA,Championship,2019,2019/2020
+Nottingham Forest,Albert Adomah,31,Right Winger,Aston Villa,Free transfer,in,NA,Championship,2019,2019/2020
 Nottingham Forest,Tiago Silva,26,Attacking Midfield,Feirense,?,in,NA,Championship,2019,2019/2020
 Nottingham Forest,John Bostock,27,Central Midfield,Toulouse,Loan,in,0,Championship,2019,2019/2020
 Nottingham Forest,Yuri Ribeiro,22,Left-Back,Benfica,?,in,NA,Championship,2019,2019/2020
+Nottingham Forest,Liam Bridcutt,30,Defensive Midfield,Bolton,"End of loanJan 5, 2020",in,0,Championship,2019,2019/2020
+Nottingham Forest,Alfa Semedo,21,Defensive Midfield,Benfica,Loan,in,0,Championship,2019,2019/2020
+Nottingham Forest,Rafa Mir,22,Centre-Forward,Wolves,Loan,in,0,Championship,2019,2019/2020
 Nottingham Forest,Luke Steele,35,Goalkeeper,Millwall,"End of loanJan 1, 2020",in,0,Championship,2019,2019/2020
 Nottingham Forest,Virgil Gomis,21,Centre-Forward,Macclesfield,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 Nottingham Forest,Tyler Walker,23,Centre-Forward,Lincoln City,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
-Nottingham Forest,Panagiotis Tachtsidis,28,Defensive Midfield,Lecce,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Nottingham Forest,Apostolos Vellios,27,Centre-Forward,Waasl.-Beveren,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
+Nottingham Forest,Panagiotis Tachtsidis,28,Defensive Midfield,Lecce,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
+Nottingham Forest,Arvin Appiah,18,Right Winger,UD Almería,£7.97m,out,7.97,Championship,2019,2019/2020
 Nottingham Forest,Ben Osborn,24,Left Midfield,Sheffield Utd.,£3.51m,out,3.51,Championship,2019,2019/2020
 Nottingham Forest,Panagiotis Tachtsidis,28,Defensive Midfield,Lecce,£450k,out,0.45,Championship,2019,2019/2020
-Nottingham Forest,Stephen Henderson,31,Goalkeeper,Crystal Palace,Free Transfer,out,0,Championship,2019,2019/2020
-Nottingham Forest,Apostolos Vellios,27,Centre-Forward,Atromitos Athen,Free Transfer,out,0,Championship,2019,2019/2020
+Nottingham Forest,Gboly Ariyibi,24,Right Winger,Panetolikos,Free transfer,out,NA,Championship,2019,2019/2020
+Nottingham Forest,Stephen Henderson,31,Goalkeeper,Crystal Palace,Free transfer,out,NA,Championship,2019,2019/2020
+Nottingham Forest,Daryl Murphy,36,Centre-Forward,Bolton,Free transfer,out,NA,Championship,2019,2019/2020
+Nottingham Forest,Apostolos Vellios,27,Centre-Forward,Atromitos Athen,Free transfer,out,NA,Championship,2019,2019/2020
+Nottingham Forest,Liam Bridcutt,30,Defensive Midfield,Bolton,Loan,out,0,Championship,2019,2019/2020
+Nottingham Forest,Jason Cummings,24,Centre-Forward,Shrewsbury,?,out,NA,Championship,2019,2019/2020
 Nottingham Forest,El Arbi Hillel Soudani,31,Right Winger,Olympiacos,?,out,NA,Championship,2019,2019/2020
 Nottingham Forest,Karim Ansarifard,29,Centre-Forward,Al Sailiya,?,out,NA,Championship,2019,2019/2020
 Nottingham Forest,Tyler Walker,22,Centre-Forward,Lincoln City,Loan,out,0,Championship,2019,2019/2020
@@ -262,37 +289,39 @@ Nottingham Forest,Liam Bossin,22,Goalkeeper,Without Club,-,out,0,Championship,20
 Nottingham Forest,Rafa Mir,22,Centre-Forward,Wolves,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Nottingham Forest,Jamie Ward,33,Left Winger,Without Club,-,out,0,Championship,2019,2019/2020
 Nottingham Forest,Juan Rafael Fuentes,29,Left-Back,Without Club,-,out,0,Championship,2019,2019/2020
-Nottingham Forest,Pelé,27,Defensive Midfield,Monaco,"End of loanJun 30, 2019",out,0,Championship,2019,2019/2020
-Nottingham Forest,Saidy Janko,23,Right-Back,FC Porto,"End of loanJun 30, 2019",out,0,Championship,2019,2019/2020
 Nottingham Forest,Diogo Gonçalves,22,Left Winger,Benfica,"End of loanJun 30, 2019",out,0,Championship,2019,2019/2020
 Nottingham Forest,Molla Wagué,28,Centre-Back,Udinese Calcio,"End of loanJun 30, 2019",out,0,Championship,2019,2019/2020
+Nottingham Forest,Pelé,27,Defensive Midfield,Monaco,"End of loanJun 30, 2019",out,0,Championship,2019,2019/2020
+Nottingham Forest,Saidy Janko,23,Right-Back,FC Porto,"End of loanJun 30, 2019",out,0,Championship,2019,2019/2020
 Swansea City,Kristoffer Peterson,24,Left Winger,Heracles Almelo,£495k,in,0.495,Championship,2019,2019/2020
-Swansea City,Jake Bidwell,26,Left-Back,QPR,Free Transfer,in,0,Championship,2019,2019/2020
-Swansea City,Aldo Kalulu,23,Right Winger,FC Basel,Loan,in,0,Championship,2019,2019/2020
+Swansea City,Jake Bidwell,26,Left-Back,QPR,Free transfer,in,NA,Championship,2019,2019/2020
 Swansea City,Freddie Woodman,22,Goalkeeper,Newcastle,Loan,in,0,Championship,2019,2019/2020
 Swansea City,Sam Surridge,21,Centre-Forward,Bournemouth,Loan,in,0,Championship,2019,2019/2020
 Swansea City,Ben Wilmot,19,Centre-Back,Watford,Loan,in,0,Championship,2019,2019/2020
-Swansea City,Courtney Baker-Richardson,24,Centre-Forward,Accrington,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Swansea City,Aldo Kalulu,23,Right Winger,FC Basel,Loan,in,0,Championship,2019,2019/2020
 Swansea City,Jefferson Montero,30,Left Winger,Birmingham,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Swansea City,Steven Benda,21,Goalkeeper,Swindon Town,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Swansea City,Courtney Baker-Richardson,24,Centre-Forward,Accrington,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 Swansea City,Borja Bastón,26,Centre-Forward,Alavés,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Swansea City,Wilfried Bony,30,Centre-Forward,Al Arabi,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Swansea City,André Ayew,29,Left Winger,Fenerbahce,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Swansea City,Oliver McBurnie,23,Centre-Forward,Sheffield Utd.,£17.19m,out,17.19,Championship,2019,2019/2020
 Swansea City,Daniel James,21,Left Winger,Man Utd,£15.30m,out,15.3,Championship,2019,2019/2020
 Swansea City,Jordan Ayew,27,Centre-Forward,Crystal Palace,£2.52m,out,2.52,Championship,2019,2019/2020
-Swansea City,Leroy Fer,29,Central Midfield,Feyenoord,Free Transfer,out,0,Championship,2019,2019/2020
-Swansea City,Luciano Narsingh,28,Right Winger,Feyenoord,Free Transfer,out,0,Championship,2019,2019/2020
-Swansea City,Botti Biabi,23,Centre-Forward,Unknown,Free Transfer,out,0,Championship,2019,2019/2020
-Swansea City,Adam King,23,Central Midfield,Dundee United,Free Transfer,out,0,Championship,2019,2019/2020
+Swansea City,Adam King,23,Central Midfield,Dundee United,Free transfer,out,NA,Championship,2019,2019/2020
+Swansea City,Leroy Fer,29,Central Midfield,Feyenoord,Free transfer,out,NA,Championship,2019,2019/2020
+Swansea City,Luciano Narsingh,28,Right Winger,Feyenoord,Free transfer,out,NA,Championship,2019,2019/2020
+Swansea City,Botti Biabi,23,Centre-Forward,Ebbsfleet Utd,Free transfer,out,NA,Championship,2019,2019/2020
+Swansea City,Steven Benda,20,Goalkeeper,Swindon Town,Loan,out,0,Championship,2019,2019/2020
 Swansea City,Jefferson Montero,29,Left Winger,Birmingham,Loan,out,0,Championship,2019,2019/2020
 Swansea City,Cian Harries,22,Centre-Back,Fortuna Sittard,Loan,out,0,Championship,2019,2019/2020
 Swansea City,Courtney Baker-Richardson,23,Centre-Forward,Accrington,Loan,out,0,Championship,2019,2019/2020
 Swansea City,Joel Asoro,20,Centre-Forward,FC Groningen,Loan,out,0,Championship,2019,2019/2020
+Swansea City,Ben Wilmot,20,Centre-Back,Watford,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Swansea City,Martin Olsson,31,Left-Back,Without Club,-,out,0,Championship,2019,2019/2020
 Swansea City,Sam Surridge,21,Centre-Forward,Bournemouth,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Swansea City,Freddie Woodman,23,Goalkeeper,Newcastle,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Swansea City,Wilfried Bony,30,Centre-Forward,Without Club,-,out,0,Championship,2019,2019/2020
-Swansea City,Ben Wilmot,20,Centre-Back,Watford,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Brentford FC,Bryan Mbeumo,19,Right Winger,Troyes,£5.85m,in,5.85,Championship,2019,2019/2020
 Brentford FC,Pontus Jansson,28,Centre-Back,Leeds,£5.54m,in,5.54,Championship,2019,2019/2020
 Brentford FC,Mathias Jensen,23,Central Midfield,Celta de Vigo,£3.42m,in,3.42,Championship,2019,2019/2020
@@ -301,102 +330,115 @@ Brentford FC,David Raya,23,Goalkeeper,Blackburn,£3.02m,in,3.02,Championship,201
 Brentford FC,Ethan Pinnock,26,Centre-Back,Barnsley FC,£3.02m,in,3.02,Championship,2019,2019/2020
 Brentford FC,Halil Dervisoglu,20,Centre-Forward,Sparta R.,£2.70m,in,2.7,Championship,2019,2019/2020
 Brentford FC,Joel Valencia,24,Attacking Midfield,Piast Gliwice,£1.80m,in,1.8,Championship,2019,2019/2020
-Brentford FC,Nikolaos Karelis,27,Centre-Forward,KRC Genk,Free Transfer,in,0,Championship,2019,2019/2020
 Brentford FC,Dru Yearwood,19,Central Midfield,Southend United,?,in,NA,Championship,2019,2019/2020
 Brentford FC,Dominic Thompson,19,Left-Back,Arsenal U23,?,in,NA,Championship,2019,2019/2020
+Brentford FC,Patrik Gunnarsson,18,Goalkeeper,Brentford B,-,in,0,Championship,2019,2019/2020
 Brentford FC,Luka Racic,20,Centre-Back,Brentford B,-,in,0,Championship,2019,2019/2020
+Brentford FC,Jan Zamburek,18,Central Midfield,Brentford B,-,in,0,Championship,2019,2019/2020
+Brentford FC,Marcus Forss,20,Centre-Forward,AFC Wimbledon,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Brentford FC,Nikolaos Karelis,27,Centre-Forward,Without Club,-,in,0,Championship,2019,2019/2020
 Brentford FC,Justin Shaibu,22,Centre-Forward,Boreham Wood,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Brentford FC,Emiliano Marcondes,24,Left Winger,FC Midtjylland,"End of loanDec 31, 2019",in,0,Championship,2019,2019/2020
 Brentford FC,Jaakko Oksanen,18,Central Midfield,Brentford B,-,in,0,Championship,2019,2019/2020
 Brentford FC,Neal Maupay,22,Centre-Forward,Brighton,£19.71m,out,19.71,Championship,2019,2019/2020
 Brentford FC,Ezri Konsa,21,Centre-Back,Aston Villa,£11.97m,out,11.97,Championship,2019,2019/2020
 Brentford FC,Romaine Sawyers,27,Attacking Midfield,West Brom,£2.88m,out,2.88,Championship,2019,2019/2020
 Brentford FC,Daniel Bentley,25,Goalkeeper,Bristol City,£1.98m,out,1.98,Championship,2019,2019/2020
-Brentford FC,Lewis MacLeod,25,Central Midfield,Wigan,Free Transfer,out,0,Championship,2019,2019/2020
-Brentford FC,Yoann Barbet,26,Centre-Back,QPR,Free Transfer,out,0,Championship,2019,2019/2020
-Brentford FC,Moses Odubajo,25,Right-Back,Sheff Wed,Free Transfer,out,0,Championship,2019,2019/2020
-Brentford FC,Jack Bonham,25,Goalkeeper,Gillingham FC,Free Transfer,out,0,Championship,2019,2019/2020
+Brentford FC,Lewis MacLeod,25,Central Midfield,Wigan,Free transfer,out,NA,Championship,2019,2019/2020
+Brentford FC,Yoann Barbet,26,Centre-Back,QPR,Free transfer,out,NA,Championship,2019,2019/2020
+Brentford FC,Moses Odubajo,25,Right-Back,Sheff Wed,Free transfer,out,NA,Championship,2019,2019/2020
+Brentford FC,Jack Bonham,25,Goalkeeper,Gillingham FC,Free transfer,out,NA,Championship,2019,2019/2020
+Brentford FC,Marcus Forss,20,Centre-Forward,AFC Wimbledon,Loan,out,0,Championship,2019,2019/2020
+Brentford FC,Chiedozie Ogbene,22,Left Winger,Rotherham,?,out,NA,Championship,2019,2019/2020
+Brentford FC,Ellery Balcombe,19,Goalkeeper,Viborg FF,Loan,out,0,Championship,2019,2019/2020
+Brentford FC,Emiliano Marcondes,24,Left Winger,FC Midtjylland,Loan,out,0,Championship,2019,2019/2020
 Brentford FC,Josh McEachran,26,Central Midfield,Without Club,-,out,0,Championship,2019,2019/2020
 Sheffield Wednesday,Massimo Luongo,26,Central Midfield,QPR,£990k,in,0.99,Championship,2019,2019/2020
-Sheffield Wednesday,Kadeem Harris,26,Right Midfield,Cardiff,Free Transfer,in,0,Championship,2019,2019/2020
-Sheffield Wednesday,Paul Jones,33,Goalkeeper,Fleetwood,Free Transfer,in,0,Championship,2019,2019/2020
-Sheffield Wednesday,Moses Odubajo,25,Right-Back,Brentford,Free Transfer,in,0,Championship,2019,2019/2020
-Sheffield Wednesday,Julian Börner,28,Centre-Back,Arm. Bielefeld,Free Transfer,in,0,Championship,2019,2019/2020
+Sheffield Wednesday,Julian Börner,28,Centre-Back,Arm. Bielefeld,Free transfer,in,NA,Championship,2019,2019/2020
+Sheffield Wednesday,Kadeem Harris,26,Right Midfield,Cardiff,Free transfer,in,NA,Championship,2019,2019/2020
+Sheffield Wednesday,Paul Jones,33,Goalkeeper,Fleetwood,Free transfer,in,NA,Championship,2019,2019/2020
+Sheffield Wednesday,Moses Odubajo,25,Right-Back,Brentford,Free transfer,in,NA,Championship,2019,2019/2020
+Sheffield Wednesday,Jack Stobbs,22,Centre-Forward,Livingston FC,"End of loanJan 31, 2020",in,0,Championship,2019,2019/2020
 Sheffield Wednesday,David Bates,22,Centre-Back,Hamburger SV,Loan,in,0,Championship,2019,2019/2020
 Sheffield Wednesday,Jacob Murphy,24,Right Winger,Newcastle,Loan,in,0,Championship,2019,2019/2020
-Sheffield Wednesday,Jack Stobbs,22,Centre-Forward,Livingston FC,"End of loanJan 31, 2020",in,0,Championship,2019,2019/2020
 Sheffield Wednesday,Connor Kirby,21,Midfielder,Macclesfield,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 Sheffield Wednesday,Lucas João,25,Centre-Forward,Reading,£4.86m,out,4.86,Championship,2019,2019/2020
-Sheffield Wednesday,George Boyd,33,Left Winger,Peterborough,Free Transfer,out,0,Championship,2019,2019/2020
+Sheffield Wednesday,George Boyd,33,Left Winger,Peterborough,Free transfer,out,NA,Championship,2019,2019/2020
 Sheffield Wednesday,Connor Kirby,20,Midfielder,Macclesfield,Loan,out,0,Championship,2019,2019/2020
-Sheffield Wednesday,Daniel Pudil,33,Left-Back,Mladá Boleslav,Free Transfer,out,0,Championship,2019,2019/2020
+Sheffield Wednesday,Daniel Pudil,33,Left-Back,Mladá Boleslav,Free transfer,out,NA,Championship,2019,2019/2020
 Sheffield Wednesday,Joost van Aken,25,Centre-Back,VfL Osnabrück,Loan,out,0,Championship,2019,2019/2020
 Sheffield Wednesday,Matt Penney,21,Left-Back,FC St. Pauli,Loan,out,0,Championship,2019,2019/2020
 Sheffield Wednesday,Jack Stobbs,22,Centre-Forward,Livingston FC,Loan,out,0,Championship,2019,2019/2020
-Sheffield Wednesday,Almen Abdi,32,Central Midfield,Without Club,-,out,0,Championship,2019,2019/2020
-Sheffield Wednesday,Gary Hooper,31,Centre-Forward,Without Club,-,out,0,Championship,2019,2019/2020
 Sheffield Wednesday,David Jones,34,Central Midfield,Without Club,-,out,0,Championship,2019,2019/2020
 Sheffield Wednesday,Connor O'Grady,21,Centre-Back,Without Club,-,out,0,Championship,2019,2019/2020
 Sheffield Wednesday,Jacob Murphy,25,Right Winger,Newcastle,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Sheffield Wednesday,Marco Matias,30,Right Winger,Without Club,-,out,0,Championship,2019,2019/2020
 Sheffield Wednesday,Frederik Fisker Nielsen,21,Centre-Back,Without Club,-,out,0,Championship,2019,2019/2020
+Sheffield Wednesday,Almen Abdi,32,Central Midfield,Without Club,-,out,0,Championship,2019,2019/2020
+Sheffield Wednesday,Gary Hooper,31,Centre-Forward,Without Club,-,out,0,Championship,2019,2019/2020
 Hull City,George Honeyman,24,Attacking Midfield,Sunderland,£396k,in,0.396,Championship,2019,2019/2020
-Hull City,Tom Eaves,27,Centre-Forward,Gillingham FC,Free Transfer,in,0,Championship,2019,2019/2020
-Hull City,Ryan Tafazolli,27,Centre-Back,Peterborough,Free Transfer,in,0,Championship,2019,2019/2020
-Hull City,Matthew Pennington,24,Centre-Back,Everton,Loan,in,0,Championship,2019,2019/2020
-Hull City,Matt Ingram,25,Goalkeeper,QPR,?,in,NA,Championship,2019,2019/2020
+Hull City,Matt Ingram,25,Goalkeeper,QPR,Free transfer,in,NA,Championship,2019,2019/2020
+Hull City,Ryan Tafazolli,27,Centre-Back,Peterborough,Free transfer,in,NA,Championship,2019,2019/2020
+Hull City,Tom Eaves,27,Centre-Forward,Gillingham FC,Free transfer,in,NA,Championship,2019,2019/2020
 Hull City,Sean McLoughlin,22,Centre-Back,Cork City,?,in,NA,Championship,2019,2019/2020
 Hull City,Leonardo da Silva Lopes,20,Central Midfield,Wigan,?,in,NA,Championship,2019,2019/2020
 Hull City,Callum Elder,24,Left-Back,Leicester,?,in,NA,Championship,2019,2019/2020
 Hull City,Josh Bowler,20,Right Winger,Everton U23,Loan,in,0,Championship,2019,2019/2020
 Hull City,Josh Magennis,28,Centre-Forward,Bolton,?,in,NA,Championship,2019,2019/2020
-Hull City,Brandon Fleming,19,Left-Back,Hull U23,-,in,0,Championship,2019,2019/2020
+Hull City,Matthew Pennington,24,Centre-Back,Everton,Loan,in,0,Championship,2019,2019/2020
+Hull City,Norbert Balogh,23,Centre-Forward,Without Club,-,in,0,Championship,2019,2019/2020
 Hull City,Sean McLoughlin,23,Centre-Back,St. Mirren,"End of loanDec 31, 2019",in,0,Championship,2019,2019/2020
 Hull City,Max Sheaf,19,Central Midfield,Cheltenham Town,"End of loanJan 1, 2020",in,0,Championship,2019,2019/2020
-Hull City,Will Keane,26,Centre-Forward,Ipswich,Free Transfer,out,0,Championship,2019,2019/2020
-Hull City,Evandro,32,Attacking Midfield,Santos FC,Free Transfer,out,0,Championship,2019,2019/2020
+Hull City,Brandon Fleming,19,Left-Back,Hull U23,-,in,0,Championship,2019,2019/2020
+Hull City,David Marshall,34,Goalkeeper,Wigan,Free transfer,out,NA,Championship,2019,2019/2020
+Hull City,James Weir,23,Left Midfield,Bolton,Free transfer,out,NA,Championship,2019,2019/2020
+Hull City,Callum Burton,22,Goalkeeper,Cambridge Utd.,Free transfer,out,NA,Championship,2019,2019/2020
+Hull City,Will Keane,26,Centre-Forward,Ipswich,Free transfer,out,NA,Championship,2019,2019/2020
+Hull City,Evandro,32,Attacking Midfield,Santos FC,Free transfer,out,NA,Championship,2019,2019/2020
 Hull City,Max Sheaf,19,Central Midfield,Cheltenham Town,Loan,out,0,Championship,2019,2019/2020
-Hull City,Liam Ridgewell,35,Centre-Back,Southend United,Free Transfer,out,0,Championship,2019,2019/2020
-Hull City,David Marshall,34,Goalkeeper,Wigan,Free Transfer,out,0,Championship,2019,2019/2020
-Hull City,James Weir,23,Left Midfield,Bolton,Free Transfer,out,0,Championship,2019,2019/2020
-Hull City,Callum Burton,22,Goalkeeper,Cambridge Utd.,Free Transfer,out,0,Championship,2019,2019/2020
+Hull City,Liam Ridgewell,35,Centre-Back,Southend United,Free transfer,out,NA,Championship,2019,2019/2020
 Hull City,Sean McLoughlin,22,Centre-Back,St. Mirren,Loan,out,0,Championship,2019,2019/2020
-Hull City,Josh Bowler,21,Right Winger,Everton U23,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
+Hull City,Nouha Dicko,27,Centre-Forward,Vitesse,Loan,out,0,Championship,2019,2019/2020
 Hull City,Ondrej Mazuch,30,Centre-Back,Without Club,-,out,0,Championship,2019,2019/2020
 Hull City,Matthew Pennington,25,Centre-Back,Everton,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Hull City,Fraizer Campbell,31,Centre-Forward,Without Club,-,out,0,Championship,2019,2019/2020
+Hull City,Josh Bowler,21,Right Winger,Everton U23,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Preston North End,Tom Bayliss,20,Central Midfield,Coventry,£1.98m,in,1.98,Championship,2019,2019/2020
-Preston North End,David Nugent,34,Centre-Forward,Derby,Free Transfer,in,0,Championship,2019,2019/2020
-Preston North End,Patrick Bauer,26,Centre-Back,Charlton,Free Transfer,in,0,Championship,2019,2019/2020
+Preston North End,David Nugent,34,Centre-Forward,Derby,Free transfer,in,NA,Championship,2019,2019/2020
+Preston North End,Patrick Bauer,26,Centre-Back,Charlton,Free transfer,in,NA,Championship,2019,2019/2020
 Preston North End,Andre Green,21,Left Winger,Aston Villa,Loan,in,0,Championship,2019,2019/2020
 Preston North End,Josh Earl,21,Left-Back,Bolton,"End of loanJan 5, 2020",in,0,Championship,2019,2019/2020
-Preston North End,Jack Baxter,18,Defensive Midfield,Preston U18,-,in,0,Championship,2019,2019/2020
 Preston North End,Jack Armer,18,Left-Back,Preston U18,-,in,0,Championship,2019,2019/2020
 Preston North End,Adam O'Reilly,18,Central Midfield,Preston U18,-,in,0,Championship,2019,2019/2020
+Preston North End,Connor Simpson,20,Centre-Forward,Accrington,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Preston North End,Jack Baxter,18,Defensive Midfield,Preston U18,-,in,0,Championship,2019,2019/2020
 Preston North End,Marnick Vermijl,27,Right-Back,MVV Maastricht,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Preston North End,Kevin O'Connor,24,Left-Back,Cork City,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Preston North End,Callum Robinson,24,Left Winger,Sheffield Utd.,£7.02m,out,7.02,Championship,2019,2019/2020
-Preston North End,Marnick Vermijl,27,Right-Back,MVV Maastricht,Free Transfer,out,0,Championship,2019,2019/2020
-Preston North End,Andy Boyle,28,Centre-Back,Dundalk FC,Free Transfer,out,0,Championship,2019,2019/2020
-Preston North End,Michael Howard,19,Centre-Forward,Morecambe FC,Free Transfer,out,0,Championship,2019,2019/2020
+Preston North End,Andy Boyle,28,Centre-Back,Dundalk FC,Free transfer,out,NA,Championship,2019,2019/2020
+Preston North End,Marnick Vermijl,27,Right-Back,MVV Maastricht,Free transfer,out,NA,Championship,2019,2019/2020
+Preston North End,Michael Howard,19,Centre-Forward,Morecambe FC,Free transfer,out,NA,Championship,2019,2019/2020
+Preston North End,Connor Simpson,19,Centre-Forward,Accrington,Loan,out,0,Championship,2019,2019/2020
 Preston North End,Chris Maxwell,28,Goalkeeper,Hibernian FC,Loan,out,0,Championship,2019,2019/2020
 Preston North End,Josh Earl,20,Left-Back,Bolton,Loan,out,0,Championship,2019,2019/2020
-Preston North End,Tom Stead,19,Centre-Back,Without Club,-,out,0,Championship,2019,2019/2020
-Preston North End,Andre Green,21,Left Winger,Aston Villa,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
-Preston North End,Tommy Spurr,31,Left-Back,Retired,-,out,0,Championship,2019,2019/2020
 Preston North End,Ben Pringle,29,Left Midfield,Without Club,-,out,0,Championship,2019,2019/2020
+Preston North End,Andre Green,21,Left Winger,Aston Villa,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
+Preston North End,Tom Stead,19,Centre-Back,Without Club,-,out,0,Championship,2019,2019/2020
+Preston North End,Tommy Spurr,31,Left-Back,Retired,-,out,0,Championship,2019,2019/2020
 Blackburn Rovers,Sam Gallagher,23,Centre-Forward,Southampton,£5.04m,in,5.04,Championship,2019,2019/2020
-Blackburn Rovers,Bradley Johnson,32,Central Midfield,Derby,Free Transfer,in,0,Championship,2019,2019/2020
-Blackburn Rovers,Stewart Downing,34,Left Midfield,Middlesbrough,Free Transfer,in,0,Championship,2019,2019/2020
-Blackburn Rovers,Tom White,22,Central Midfield,Gateshead FC,?,in,NA,Championship,2019,2019/2020
+Blackburn Rovers,Bradley Johnson,32,Central Midfield,Derby,Free transfer,in,NA,Championship,2019,2019/2020
+Blackburn Rovers,Stewart Downing,34,Left Midfield,Middlesbrough,Free transfer,in,NA,Championship,2019,2019/2020
 Blackburn Rovers,Tosin Adarabioyo,21,Centre-Back,Man City,Loan,in,0,Championship,2019,2019/2020
 Blackburn Rovers,Christian Walton,23,Goalkeeper,Brighton,Loan,in,0,Championship,2019,2019/2020
 Blackburn Rovers,Greg Cunningham,28,Left-Back,Cardiff,Loan,in,0,Championship,2019,2019/2020
-Blackburn Rovers,Charlie Mulgrew,34,Centre-Back,Wigan,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Blackburn Rovers,Tom White,22,Central Midfield,Gateshead FC,?,in,NA,Championship,2019,2019/2020
 Blackburn Rovers,Scott Wharton,22,Centre-Back,Northampt. Town,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Blackburn Rovers,Lewis Holtby,29,Attacking Midfield,Without Club,-,in,0,Championship,2019,2019/2020
+Blackburn Rovers,Charlie Mulgrew,34,Centre-Back,Wigan,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 Blackburn Rovers,David Raya,23,Goalkeeper,Brentford,£3.02m,out,3.02,Championship,2019,2019/2020
-Blackburn Rovers,Paul Downing,27,Centre-Back,Portsmouth,Free Transfer,out,0,Championship,2019,2019/2020
+Blackburn Rovers,Paul Downing,27,Centre-Back,Portsmouth,Free transfer,out,NA,Championship,2019,2019/2020
 Blackburn Rovers,Scott Wharton,21,Centre-Back,Northampt. Town,Loan,out,0,Championship,2019,2019/2020
-Blackburn Rovers,Charlie Albinson,22,Goalkeeper,Southport,Free Transfer,out,0,Championship,2019,2019/2020
+Blackburn Rovers,Charlie Albinson,22,Goalkeeper,Southport,Free transfer,out,NA,Championship,2019,2019/2020
 Blackburn Rovers,Charlie Mulgrew,33,Centre-Back,Wigan,Loan,out,0,Championship,2019,2019/2020
 Blackburn Rovers,Joe Nuttall,22,Centre-Forward,Blackpool,?,out,NA,Championship,2019,2019/2020
 Blackburn Rovers,Christian Walton,24,Goalkeeper,Brighton,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
@@ -407,30 +449,35 @@ Blackburn Rovers,Tosin Adarabioyo,22,Centre-Back,Man City,"End of loanMay 31, 20
 Blackburn Rovers,Jack Rodwell,28,Defensive Midfield,Without Club,-,out,0,Championship,2019,2019/2020
 Stoke City,Tommy Smith,27,Right-Back,Huddersfield,£4.01m,in,4.01,Championship,2019,2019/2020
 Stoke City,Liam Lindsay,23,Centre-Back,Barnsley FC,£2.03m,in,2.03,Championship,2019,2019/2020
-Stoke City,Adam Davies,26,Goalkeeper,Barnsley FC,Free Transfer,in,0,Championship,2019,2019/2020
-Stoke City,Nick Powell,25,Attacking Midfield,Wigan,Free Transfer,in,0,Championship,2019,2019/2020
-Stoke City,Stephen Ward,33,Left-Back,Burnley,Free Transfer,in,0,Championship,2019,2019/2020
-Stoke City,Jordan Cousins,25,Central Midfield,QPR,Free Transfer,in,0,Championship,2019,2019/2020
-Stoke City,Lee Gregory,30,Centre-Forward,Millwall,Free Transfer,in,0,Championship,2019,2019/2020
-Stoke City,Cameron Carter-Vickers,21,Centre-Back,Spurs,Loan,in,0,Championship,2019,2019/2020
+Stoke City,Lee Gregory,30,Centre-Forward,Millwall,Free transfer,in,NA,Championship,2019,2019/2020
+Stoke City,Adam Davies,26,Goalkeeper,Barnsley FC,Free transfer,in,NA,Championship,2019,2019/2020
+Stoke City,Nick Powell,25,Attacking Midfield,Wigan,Free transfer,in,NA,Championship,2019,2019/2020
+Stoke City,Stephen Ward,33,Left-Back,Burnley,Free transfer,in,NA,Championship,2019,2019/2020
+Stoke City,Jordan Cousins,25,Central Midfield,QPR,Free transfer,in,NA,Championship,2019,2019/2020
 Stoke City,Scott Hogan,27,Centre-Forward,Aston Villa,Loan,in,0,Championship,2019,2019/2020
 Stoke City,Mark Duffy,33,Right Midfield,Sheffield Utd.,Loan,in,0,Championship,2019,2019/2020
-Stoke City,Nathan Collins,18,Centre-Back,Stoke U23,-,in,0,Championship,2019,2019/2020
+Stoke City,Cameron Carter-Vickers,21,Centre-Back,Spurs,Loan,in,0,Championship,2019,2019/2020
+Stoke City,Thibaud Verlinden,20,Right Winger,Bolton,"End of loanJan 5, 2020",in,0,Championship,2019,2019/2020
+Stoke City,Moritz Bauer,28,Right-Back,Celtic,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 Stoke City,Benik Afobe,27,Centre-Forward,Bristol City,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
-Stoke City,Thibaud Verlinden,19,Right Winger,Stoke U23,-,in,0,Championship,2019,2019/2020
+Stoke City,Nathan Collins,18,Centre-Back,Stoke U23,-,in,0,Championship,2019,2019/2020
 Stoke City,Harry Souttar,21,Centre-Back,Fleetwood,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
-Stoke City,Badou Ndiaye,28,Central Midfield,Galatasaray,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Stoke City,Kevin Wimmer,26,Centre-Back,Hannover 96,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Stoke City,Erik Pieters,30,Left-Back,SC Amiens,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Stoke City,Giannelli Imbula,26,Defensive Midfield,Rayo Vallecano,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
+Stoke City,Badou Ndiaye,28,Central Midfield,Galatasaray,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Stoke City,Erik Pieters,30,Left-Back,Burnley,£990k,out,0.99,Championship,2019,2019/2020
-Stoke City,Geoff Cameron,34,Defensive Midfield,QPR,Free Transfer,out,0,Championship,2019,2019/2020
-Stoke City,Charlie Adam,33,Central Midfield,Reading,Free Transfer,out,0,Championship,2019,2019/2020
-Stoke City,Saido Berahino,26,Centre-Forward,Zulte Waregem,Free Transfer,out,0,Championship,2019,2019/2020
-Stoke City,Bojan Krkic,28,Second Striker,Montreal Impact,Free Transfer,out,0,Championship,2019,2019/2020
+Stoke City,Bojan Krkic,28,Second Striker,Montreal Impact,Free transfer,out,NA,Championship,2019,2019/2020
+Stoke City,Geoff Cameron,34,Defensive Midfield,QPR,Free transfer,out,NA,Championship,2019,2019/2020
+Stoke City,Charlie Adam,33,Central Midfield,Reading,Free transfer,out,NA,Championship,2019,2019/2020
+Stoke City,Saido Berahino,26,Centre-Forward,Zulte Waregem,Free transfer,out,NA,Championship,2019,2019/2020
+Stoke City,Giannelli Imbula,26,Defensive Midfield,Lecce,Loan,out,0,Championship,2019,2019/2020
+Stoke City,Harry Souttar,20,Centre-Back,Fleetwood,Loan,out,0,Championship,2019,2019/2020
+Stoke City,Moritz Bauer,27,Right-Back,Celtic,Loan,out,0,Championship,2019,2019/2020
+Stoke City,Thibaud Verlinden,20,Right Winger,Bolton,Loan,out,0,Championship,2019,2019/2020
 Stoke City,Josh Tymon,20,Left-Back,Famalicão,Loan,out,0,Championship,2019,2019/2020
 Stoke City,Benik Afobe,26,Centre-Forward,Bristol City,Loan,out,0,Championship,2019,2019/2020
-Stoke City,Harry Souttar,20,Centre-Back,Fleetwood,Loan,out,0,Championship,2019,2019/2020
+Stoke City,Kevin Wimmer,26,Centre-Back,Mouscron,Loan,out,0,Championship,2019,2019/2020
 Stoke City,Scott Hogan,28,Centre-Forward,Aston Villa,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Stoke City,Darren Fletcher,35,Central Midfield,Without Club,-,out,0,Championship,2019,2019/2020
 Stoke City,Mark Duffy,34,Right Midfield,Sheffield Utd.,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
@@ -439,242 +486,264 @@ Stoke City,Jakob Haugaard,27,Goalkeeper,Without Club,-,out,0,Championship,2019,2
 Birmingham City,Ivan Sunjic,22,Defensive Midfield,Dinamo Zagreb,£7.20m,in,7.2,Championship,2019,2019/2020
 Birmingham City,Álvaro Giménez,28,Centre-Forward,UD Almería,£1.35m,in,1.35,Championship,2019,2019/2020
 Birmingham City,Dan Crowley,21,Attacking Midfield,Willem II,£702k,in,0.702,Championship,2019,2019/2020
-Birmingham City,Agus Medina,24,Central Midfield,UE Cornellà,Free Transfer,in,0,Championship,2019,2019/2020
-Birmingham City,Iván Guzmán,28,Right Winger,UE Olot,Free Transfer,in,0,Championship,2019,2019/2020
+Birmingham City,Agus Medina,24,Central Midfield,UE Cornellà,Free transfer,in,NA,Championship,2019,2019/2020
+Birmingham City,Iván Guzmán,28,Right Winger,UE Olot,Free transfer,in,NA,Championship,2019,2019/2020
+Birmingham City,Fran Villalba,21,Attacking Midfield,Valencia,?,in,NA,Championship,2019,2019/2020
+Birmingham City,Jake Clarke-Salter,21,Centre-Back,Chelsea U23,Loan,in,0,Championship,2019,2019/2020
+Birmingham City,Jefferson Montero,29,Left Winger,Swansea,Loan,in,0,Championship,2019,2019/2020
 Birmingham City,Gary Gardner,27,Central Midfield,Aston Villa,?,in,NA,Championship,2019,2019/2020
 Birmingham City,Moha Ramos,19,Goalkeeper,RM Castilla,Loan,in,0,Championship,2019,2019/2020
-Birmingham City,Jefferson Montero,29,Left Winger,Swansea,Loan,in,0,Championship,2019,2019/2020
-Birmingham City,Jake Clarke-Salter,21,Centre-Back,Chelsea U23,Loan,in,0,Championship,2019,2019/2020
-Birmingham City,Fran Villalba,21,Attacking Midfield,Valencia,?,in,NA,Championship,2019,2019/2020
 Birmingham City,Odin Bailey,19,Attacking Midfield,Birmingham U23,-,in,0,Championship,2019,2019/2020
 Birmingham City,Charlie Lakin,21,Attacking Midfield,Stevenage,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 Birmingham City,Corey O'Keeffe,21,Right-Back,Birmingham U23,-,in,0,Championship,2019,2019/2020
 Birmingham City,Corey O'Keeffe,21,Right-Back,Macclesfield,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Birmingham City,Josh McEachran,26,Central Midfield,Without Club,-,in,0,Championship,2019,2019/2020
 Birmingham City,Steve Seddon,21,Left-Back,Birmingham U23,-,in,0,Championship,2019,2019/2020
+Birmingham City,Jude Bellingham,16,Central Midfield,Birmingham U18,-,in,0,Championship,2019,2019/2020
 Birmingham City,Josh Cogley,24,Right-Back,Crawley Town,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 Birmingham City,Cheikh N'Doye,33,Central Midfield,SCO Angers,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Birmingham City,Cheick Keita,23,Left-Back,KAS Eupen,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Birmingham City,Che Adams,22,Centre-Forward,Southampton,£15.03m,out,15.03,Championship,2019,2019/2020
 Birmingham City,Jota,28,Right Winger,Aston Villa,£4.05m,out,4.05,Championship,2019,2019/2020
-Birmingham City,Bez Lubala,21,Centre-Forward,Crawley Town,Free Transfer,out,0,Championship,2019,2019/2020
-Birmingham City,Michael Morrison,31,Centre-Back,Reading,Free Transfer,out,0,Championship,2019,2019/2020
-Birmingham City,Greg Stewart,29,Centre-Forward,Rangers,Free Transfer,out,0,Championship,2019,2019/2020
-Birmingham City,Viv Solomon-Otabor,23,Right Winger,CSKA Sofia,Free Transfer,out,0,Championship,2019,2019/2020
+Birmingham City,Viv Solomon-Otabor,23,Right Winger,CSKA Sofia,Free transfer,out,NA,Championship,2019,2019/2020
 Birmingham City,Josh Cogley,23,Right-Back,Crawley Town,Loan,out,0,Championship,2019,2019/2020
 Birmingham City,Charlie Lakin,20,Attacking Midfield,Stevenage,Loan,out,0,Championship,2019,2019/2020
 Birmingham City,Corey O'Keeffe,21,Right-Back,Macclesfield,Loan,out,0,Championship,2019,2019/2020
-Birmingham City,Isaac Vassell,25,Centre-Forward,Cardiff,?,out,NA,Championship,2019,2019/2020
+Birmingham City,Bez Lubala,21,Centre-Forward,Crawley Town,Free transfer,out,NA,Championship,2019,2019/2020
+Birmingham City,Michael Morrison,31,Centre-Back,Reading,Free transfer,out,NA,Championship,2019,2019/2020
+Birmingham City,Greg Stewart,29,Centre-Forward,Rangers,Free transfer,out,NA,Championship,2019,2019/2020
 Birmingham City,Iván Guzmán,28,Right Winger,UE Cornellà,Loan,out,0,Championship,2019,2019/2020
-Birmingham City,Cheikh N'Doye,33,Central Midfield,Without Club,-,out,0,Championship,2019,2019/2020
+Birmingham City,Isaac Vassell,25,Centre-Forward,Cardiff,?,out,NA,Championship,2019,2019/2020
 Birmingham City,Jefferson Montero,30,Left Winger,Swansea,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Birmingham City,Jake Clarke-Salter,22,Centre-Back,Chelsea U23,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Birmingham City,Tomasz Kuszczak,37,Goalkeeper,Without Club,-,out,0,Championship,2019,2019/2020
+Birmingham City,Cheikh N'Doye,33,Central Midfield,Without Club,-,out,0,Championship,2019,2019/2020
 Birmingham City,Gary Gardner,27,Central Midfield,Aston Villa,"End of loanJun 30, 2019",out,0,Championship,2019,2019/2020
-Wigan Athletic,Jamal Lowe,25,Right Winger,Portsmouth,£2.43m,in,2.43,Championship,2019,2019/2020
 Wigan Athletic,Kieffer Moore,26,Centre-Forward,Barnsley FC,£2.43m,in,2.43,Championship,2019,2019/2020
+Wigan Athletic,Jamal Lowe,25,Right Winger,Portsmouth,£2.43m,in,2.43,Championship,2019,2019/2020
 Wigan Athletic,Antonee Robinson,21,Left-Back,Everton U23,£1.98m,in,1.98,Championship,2019,2019/2020
 Wigan Athletic,Tom Pearce,21,Left-Back,Leeds,£293k,in,0.293,Championship,2019,2019/2020
-Wigan Athletic,David Marshall,34,Goalkeeper,Hull City,Free Transfer,in,0,Championship,2019,2019/2020
-Wigan Athletic,Lewis MacLeod,25,Central Midfield,Brentford,Free Transfer,in,0,Championship,2019,2019/2020
-Wigan Athletic,Dániel Gyollai,22,Goalkeeper,Stoke U23,Free Transfer,in,0,Championship,2019,2019/2020
-Wigan Athletic,Bright Enobakhare,21,Centre-Forward,Wolves,Loan,in,0,Championship,2019,2019/2020
+Wigan Athletic,Dániel Gyollai,22,Goalkeeper,Stoke U23,Free transfer,in,NA,Championship,2019,2019/2020
+Wigan Athletic,David Marshall,34,Goalkeeper,Hull City,Free transfer,in,NA,Championship,2019,2019/2020
+Wigan Athletic,Lewis MacLeod,25,Central Midfield,Brentford,Free transfer,in,NA,Championship,2019,2019/2020
 Wigan Athletic,Joe Williams,22,Central Midfield,Everton U23,?,in,NA,Championship,2019,2019/2020
 Wigan Athletic,Dujon Sterling,19,Right-Back,Chelsea U23,Loan,in,0,Championship,2019,2019/2020
 Wigan Athletic,Charlie Mulgrew,33,Centre-Back,Blackburn,Loan,in,0,Championship,2019,2019/2020
-Wigan Athletic,Devante Cole,24,Centre-Forward,Motherwell FC,"End of loanJan 4, 2020",in,0,Championship,2019,2019/2020
-Wigan Athletic,Emeka Obi,18,Centre-Back,Wigan U18,-,in,0,Championship,2019,2019/2020
-Wigan Athletic,Jensen Weir,17,Central Midfield,Wigan U18,-,in,0,Championship,2019,2019/2020
+Wigan Athletic,Bright Enobakhare,21,Centre-Forward,Wolves,Loan,in,0,Championship,2019,2019/2020
 Wigan Athletic,Charlie Jolley,18,Centre-Forward,Wigan U18,-,in,0,Championship,2019,2019/2020
-Wigan Athletic,Owen Evans,23,Goalkeeper,Macclesfield,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Wigan Athletic,Callum Lang,21,Second Striker,Shrewsbury,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 Wigan Athletic,Kyle Joseph,17,Forward,Wigan U18,-,in,0,Championship,2019,2019/2020
 Wigan Athletic,Joe Gelhardt,17,Centre-Forward,Wigan U18,-,in,0,Championship,2019,2019/2020
-Wigan Athletic,Nick Powell,25,Attacking Midfield,Stoke City,Free Transfer,out,0,Championship,2019,2019/2020
-Wigan Athletic,James Vaughan,30,Centre-Forward,Bradford,Free Transfer,out,0,Championship,2019,2019/2020
-Wigan Athletic,Shaun MacDonald,31,Central Midfield,Rotherham,Free Transfer,out,0,Championship,2019,2019/2020
-Wigan Athletic,Callum McManaman,28,Right Winger,Luton,Free Transfer,out,0,Championship,2019,2019/2020
-Wigan Athletic,Jamie Walker,26,Left Winger,Heart of Midl.,Free Transfer,out,0,Championship,2019,2019/2020
-Wigan Athletic,Dan Lavercombe,22,Goalkeeper,Fylde,Free Transfer,out,0,Championship,2019,2019/2020
+Wigan Athletic,Owen Evans,23,Goalkeeper,Macclesfield,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Wigan Athletic,Emeka Obi,18,Centre-Back,Wigan U18,-,in,0,Championship,2019,2019/2020
+Wigan Athletic,Jensen Weir,17,Central Midfield,Wigan U18,-,in,0,Championship,2019,2019/2020
+Wigan Athletic,Devante Cole,24,Centre-Forward,Motherwell FC,"End of loanJan 4, 2020",in,0,Championship,2019,2019/2020
+Wigan Athletic,Callum McManaman,28,Right Winger,Luton,Free transfer,out,NA,Championship,2019,2019/2020
+Wigan Athletic,Jamie Walker,26,Left Winger,Heart of Midl.,Free transfer,out,NA,Championship,2019,2019/2020
+Wigan Athletic,Dan Lavercombe,22,Goalkeeper,Fylde,Free transfer,out,NA,Championship,2019,2019/2020
+Wigan Athletic,Nick Powell,25,Attacking Midfield,Stoke City,Free transfer,out,NA,Championship,2019,2019/2020
+Wigan Athletic,James Vaughan,30,Centre-Forward,Bradford,Free transfer,out,NA,Championship,2019,2019/2020
+Wigan Athletic,Shaun MacDonald,31,Central Midfield,Rotherham,Free transfer,out,NA,Championship,2019,2019/2020
 Wigan Athletic,Owen Evans,22,Goalkeeper,Macclesfield,Loan,out,0,Championship,2019,2019/2020
+Wigan Athletic,Callum Lang,20,Second Striker,Shrewsbury,Loan,out,0,Championship,2019,2019/2020
 Wigan Athletic,Devante Cole,24,Centre-Forward,Motherwell FC,Loan,out,0,Championship,2019,2019/2020
 Wigan Athletic,Leonardo da Silva Lopes,20,Central Midfield,Hull City,?,out,NA,Championship,2019,2019/2020
-Wigan Athletic,Jonas Olsson,36,Centre-Back,Without Club,-,out,0,Championship,2019,2019/2020
-Wigan Athletic,Bright Enobakhare,22,Centre-Forward,Wolves,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Wigan Athletic,Dujon Sterling,20,Right-Back,Chelsea U23,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Wigan Athletic,Darron Gibson,31,Central Midfield,Without Club,-,out,0,Championship,2019,2019/2020
 Wigan Athletic,Charlie Mulgrew,34,Centre-Back,Blackburn,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
-Queens Park Rangers,Yoann Barbet,26,Centre-Back,Brentford,Free Transfer,in,0,Championship,2019,2019/2020
-Queens Park Rangers,Conor Masterson,20,Centre-Back,Liverpool U23,Free Transfer,in,0,Championship,2019,2019/2020
-Queens Park Rangers,Luke Amos,22,Defensive Midfield,Tottenham U23,Loan,in,0,Championship,2019,2019/2020
-Queens Park Rangers,Dominic Ball,23,Centre-Back,Rotherham,Free Transfer,in,0,Championship,2019,2019/2020
-Queens Park Rangers,Lee Wallace,31,Left-Back,Rangers,Free Transfer,in,0,Championship,2019,2019/2020
-Queens Park Rangers,Marc Pugh,32,Left Winger,Bournemouth,Free Transfer,in,0,Championship,2019,2019/2020
-Queens Park Rangers,Todd Kane,25,Right-Back,Chelsea,Free Transfer,in,0,Championship,2019,2019/2020
+Wigan Athletic,Jonas Olsson,36,Centre-Back,Without Club,-,out,0,Championship,2019,2019/2020
+Wigan Athletic,Bright Enobakhare,22,Centre-Forward,Wolves,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
+Queens Park Rangers,Marc Pugh,32,Left Winger,Bournemouth,Free transfer,in,NA,Championship,2019,2019/2020
+Queens Park Rangers,Todd Kane,25,Right-Back,Chelsea,Free transfer,in,NA,Championship,2019,2019/2020
 Queens Park Rangers,Matt Smith,19,Defensive Midfield,Man City U23,Loan,in,0,Championship,2019,2019/2020
-Queens Park Rangers,Geoff Cameron,34,Defensive Midfield,Stoke City,Free Transfer,in,0,Championship,2019,2019/2020
+Queens Park Rangers,Geoff Cameron,34,Defensive Midfield,Stoke City,Free transfer,in,NA,Championship,2019,2019/2020
+Queens Park Rangers,Yoann Barbet,26,Centre-Back,Brentford,Free transfer,in,NA,Championship,2019,2019/2020
+Queens Park Rangers,Conor Masterson,20,Centre-Back,Liverpool U23,Free transfer,in,NA,Championship,2019,2019/2020
+Queens Park Rangers,Luke Amos,22,Defensive Midfield,Tottenham U23,Loan,in,0,Championship,2019,2019/2020
+Queens Park Rangers,Dominic Ball,23,Centre-Back,Rotherham,Free transfer,in,NA,Championship,2019,2019/2020
+Queens Park Rangers,Lee Wallace,31,Left-Back,Rangers,Free transfer,in,NA,Championship,2019,2019/2020
+Queens Park Rangers,Dillon Barnes,23,Goalkeeper,Colchester Utd.,?,in,NA,Championship,2019,2019/2020
+Queens Park Rangers,Liam Kelly,23,Goalkeeper,Livingston FC,?,in,NA,Championship,2019,2019/2020
 Queens Park Rangers,Nahki Wells,29,Centre-Forward,Burnley,Loan,in,0,Championship,2019,2019/2020
 Queens Park Rangers,Jan Mlakar,20,Centre-Forward,Brighton,Loan,in,0,Championship,2019,2019/2020
 Queens Park Rangers,Jordan Hugill,27,Centre-Forward,West Ham,Loan,in,0,Championship,2019,2019/2020
-Queens Park Rangers,Dillon Barnes,23,Goalkeeper,Colchester Utd.,?,in,NA,Championship,2019,2019/2020
-Queens Park Rangers,Liam Kelly,23,Goalkeeper,Livingston FC,?,in,NA,Championship,2019,2019/2020
 Queens Park Rangers,Seny Dieng,25,Goalkeeper,Doncaster,"End of loanJan 4, 2020",in,0,Championship,2019,2019/2020
-Queens Park Rangers,Niko Hämäläinen,23,Left-Back,Kilmarnock FC,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Queens Park Rangers,Giles Phillips,22,Centre-Back,Wycombe,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 Queens Park Rangers,Paul Smyth,22,Centre-Forward,Wycombe,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Queens Park Rangers,Osman Kakay,22,Right-Back,Partick Thistle,"End of loanJan 6, 2020",in,0,Championship,2019,2019/2020
+Queens Park Rangers,Niko Hämäläinen,23,Left-Back,Kilmarnock FC,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 Queens Park Rangers,Niko Hämäläinen,22,Left-Back,Los Angeles FC,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Queens Park Rangers,Luke Freeman,27,Attacking Midfield,Sheffield Utd.,£5.04m,out,5.04,Championship,2019,2019/2020
 Queens Park Rangers,Darnell Furlong,23,Right-Back,West Brom,£1.53m,out,1.53,Championship,2019,2019/2020
 Queens Park Rangers,Massimo Luongo,26,Central Midfield,Sheff Wed,£990k,out,0.99,Championship,2019,2019/2020
-Queens Park Rangers,Alex Baptiste,33,Centre-Back,Doncaster,Free Transfer,out,0,Championship,2019,2019/2020
-Queens Park Rangers,Jordan Cousins,25,Central Midfield,Stoke City,Free Transfer,out,0,Championship,2019,2019/2020
-Queens Park Rangers,Jake Bidwell,26,Left-Back,Swansea,Free Transfer,out,0,Championship,2019,2019/2020
-Queens Park Rangers,Joel Lynch,31,Centre-Back,Sunderland,Free Transfer,out,0,Championship,2019,2019/2020
+Queens Park Rangers,Alex Baptiste,33,Centre-Back,Doncaster,Free transfer,out,NA,Championship,2019,2019/2020
+Queens Park Rangers,Matt Ingram,25,Goalkeeper,Hull City,Free transfer,out,NA,Championship,2019,2019/2020
+Queens Park Rangers,Giles Phillips,22,Centre-Back,Wycombe,Loan,out,0,Championship,2019,2019/2020
+Queens Park Rangers,Joel Lynch,31,Centre-Back,Sunderland,Free transfer,out,NA,Championship,2019,2019/2020
+Queens Park Rangers,Jordan Cousins,25,Central Midfield,Stoke City,Free transfer,out,NA,Championship,2019,2019/2020
+Queens Park Rangers,Pawel Wszolek,27,Right Winger,Legia Warszawa,Free transfer,out,NA,Championship,2019,2019/2020
+Queens Park Rangers,Jake Bidwell,26,Left-Back,Swansea,Free transfer,out,NA,Championship,2019,2019/2020
+Queens Park Rangers,David Wheeler,28,Right Midfield,Wycombe,Free transfer,out,NA,Championship,2019,2019/2020
 Queens Park Rangers,Paul Smyth,21,Centre-Forward,Wycombe,Loan,out,0,Championship,2019,2019/2020
-Queens Park Rangers,David Wheeler,28,Right Midfield,Wycombe,Free Transfer,out,0,Championship,2019,2019/2020
 Queens Park Rangers,Seny Dieng,24,Goalkeeper,Doncaster,Loan,out,0,Championship,2019,2019/2020
 Queens Park Rangers,Niko Hämäläinen,22,Left-Back,Kilmarnock FC,Loan,out,0,Championship,2019,2019/2020
 Queens Park Rangers,Sean Goss,23,Central Midfield,Shrewsbury,?,out,NA,Championship,2019,2019/2020
+Queens Park Rangers,Osman Kakay,22,Right-Back,Partick Thistle,Loan,out,0,Championship,2019,2019/2020
 Queens Park Rangers,Matt Smith,30,Centre-Forward,Millwall,?,out,NA,Championship,2019,2019/2020
-Queens Park Rangers,Matt Ingram,25,Goalkeeper,Hull City,?,out,NA,Championship,2019,2019/2020
 Queens Park Rangers,Jordan Hugill,27,Centre-Forward,West Ham,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Queens Park Rangers,Luke Amos,23,Defensive Midfield,Tottenham U23,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
-Queens Park Rangers,Pawel Wszolek,27,Right Midfield,Without Club,-,out,0,Championship,2019,2019/2020
 Queens Park Rangers,Nahki Wells,29,Centre-Forward,Burnley,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Reading FC,George Puscas,23,Centre-Forward,Inter,£7.20m,in,7.2,Championship,2019,2019/2020
 Reading FC,Lucas João,25,Centre-Forward,Sheff Wed,£4.86m,in,4.86,Championship,2019,2019/2020
-Reading FC,Rafael,29,Goalkeeper,Sampdoria,Free Transfer,in,0,Championship,2019,2019/2020
-Reading FC,Michael Morrison,31,Centre-Back,Birmingham,Free Transfer,in,0,Championship,2019,2019/2020
-Reading FC,Charlie Adam,33,Central Midfield,Stoke City,Free Transfer,in,0,Championship,2019,2019/2020
-Reading FC,Matt Miazga,24,Centre-Back,Chelsea,Loan,in,0,Championship,2019,2019/2020
+Reading FC,Rafael,29,Goalkeeper,Sampdoria,Free transfer,in,NA,Championship,2019,2019/2020
+Reading FC,Charlie Adam,33,Central Midfield,Stoke City,Free transfer,in,NA,Championship,2019,2019/2020
+Reading FC,Michael Morrison,31,Centre-Back,Birmingham,Free transfer,in,NA,Championship,2019,2019/2020
 Reading FC,Lucas Boyé,23,Centre-Forward,Torino,Loan,in,0,Championship,2019,2019/2020
-Reading FC,João Virgínia,19,Goalkeeper,Everton U23,Loan,in,0,Championship,2019,2019/2020
+Reading FC,Matt Miazga,24,Centre-Back,Chelsea,Loan,in,0,Championship,2019,2019/2020
 Reading FC,Pelé,27,Defensive Midfield,Monaco,Loan,in,0,Championship,2019,2019/2020
+Reading FC,João Virgínia,19,Goalkeeper,Everton U23,Loan,in,0,Championship,2019,2019/2020
 Reading FC,Ovie Ejaria,21,Central Midfield,Liverpool,Loan,in,0,Championship,2019,2019/2020
-Reading FC,Marc McNulty,27,Centre-Forward,Sunderland,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
-Reading FC,Jordan Holsgrove,19,Central Midfield,Reading U23,-,in,0,Championship,2019,2019/2020
-Reading FC,Vito Mannone,31,Goalkeeper,Minnesota Utd.,"End of loanDec 31, 2019",in,0,Championship,2019,2019/2020
-Reading FC,Sone Aluko,30,Second Striker,BJ Renhe,"End of loanJul 19, 2019",in,0,Championship,2019,2019/2020
-Reading FC,Teddy Howe,20,Right-Back,Reading U23,-,in,0,Championship,2019,2019/2020
-Reading FC,Ryan East,20,Defensive Midfield,Reading U23,-,in,0,Championship,2019,2019/2020
 Reading FC,Sam Smith,22,Centre-Forward,Cambridge Utd.,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 Reading FC,Michael Olise,17,Attacking Midfield,Reading U18,-,in,0,Championship,2019,2019/2020
 Reading FC,Tom McIntyre,20,Centre-Back,Reading U23,-,in,0,Championship,2019,2019/2020
-Reading FC,Joey van den Berg,33,Defensive Midfield,NEC Nijmegen,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
-Reading FC,Andrija Novakovich,22,Centre-Forward,Fortuna Sittard,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
+Reading FC,Marc McNulty,27,Centre-Forward,Sunderland,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Reading FC,Vito Mannone,31,Goalkeeper,Minnesota Utd.,"End of loanDec 31, 2019",in,0,Championship,2019,2019/2020
+Reading FC,Jordan Holsgrove,19,Central Midfield,Reading U23,-,in,0,Championship,2019,2019/2020
+Reading FC,Josh Barrett,21,Attacking Midfield,Reading U23,-,in,0,Championship,2019,2019/2020
+Reading FC,Tennai Watson,22,Right-Back,Coventry,"End of loanJan 2, 2020",in,0,Championship,2019,2019/2020
+Reading FC,Sone Aluko,30,Second Striker,BJ Renhe,"End of loanJul 19, 2019",in,0,Championship,2019,2019/2020
+Reading FC,Teddy Howe,20,Right-Back,Reading U23,-,in,0,Championship,2019,2019/2020
+Reading FC,Ryan East,20,Defensive Midfield,Reading U23,-,in,0,Championship,2019,2019/2020
 Reading FC,Danzell Gravenberch,25,Centre-Back,KSV Roeselare,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Reading FC,Adrian Popa,30,Right Winger,Ludogorets,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
+Reading FC,Joey van den Berg,33,Defensive Midfield,NEC Nijmegen,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
+Reading FC,Andrija Novakovich,22,Centre-Forward,Fortuna Sittard,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
 Reading FC,Jón Dadi Bödvarsson,27,Centre-Forward,Millwall,£765k,out,0.765,Championship,2019,2019/2020
-Reading FC,Anssi Jaakkola,32,Goalkeeper,Bristol Rovers,Free Transfer,out,0,Championship,2019,2019/2020
-Reading FC,Liam Kelly,23,Attacking Midfield,Feyenoord,Free Transfer,out,0,Championship,2019,2019/2020
+Reading FC,Andrija Novakovich,22,Centre-Forward,Frosinone,Free transfer,out,NA,Championship,2019,2019/2020
+Reading FC,Liam Kelly,23,Attacking Midfield,Feyenoord,Free transfer,out,NA,Championship,2019,2019/2020
+Reading FC,Anssi Jaakkola,32,Goalkeeper,Bristol Rovers,Free transfer,out,NA,Championship,2019,2019/2020
+Reading FC,Joey van den Berg,33,Defensive Midfield,NEC Nijmegen,Free transfer,out,NA,Championship,2019,2019/2020
+Reading FC,Danzell Gravenberch,25,Centre-Back,TOP Oss,Free transfer,out,NA,Championship,2019,2019/2020
 Reading FC,Adrian Popa,31,Right Winger,FCSB,Loan,out,0,Championship,2019,2019/2020
-Reading FC,Joey van den Berg,33,Defensive Midfield,NEC Nijmegen,Free Transfer,out,0,Championship,2019,2019/2020
-Reading FC,Marc McNulty,26,Centre-Forward,Sunderland,Loan,out,0,Championship,2019,2019/2020
 Reading FC,Modou Barrow,26,Left Winger,Denizlispor,Loan,out,0,Championship,2019,2019/2020
-Reading FC,Sam Smith,21,Centre-Forward,Cambridge Utd.,Loan,out,0,Championship,2019,2019/2020
+Reading FC,Tennai Watson,22,Right-Back,Coventry,Loan,out,0,Championship,2019,2019/2020
+Reading FC,Marc McNulty,26,Centre-Forward,Sunderland,Loan,out,0,Championship,2019,2019/2020
 Reading FC,Jordan Holsgrove,19,Central Midfield,Atl. Baleares,Loan,out,0,Championship,2019,2019/2020
-Reading FC,George Legg,23,Goalkeeper,Without Club,-,out,0,Championship,2019,2019/2020
+Reading FC,Sam Smith,21,Centre-Forward,Cambridge Utd.,Loan,out,0,Championship,2019,2019/2020
 Reading FC,Ovie Ejaria,22,Central Midfield,Liverpool,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
-Reading FC,Danzell Gravenberch,25,Centre-Back,Without Club,-,out,0,Championship,2019,2019/2020
-Reading FC,Paul McShane,33,Centre-Back,Without Club,-,out,0,Championship,2019,2019/2020
+Reading FC,George Legg,23,Goalkeeper,Without Club,-,out,0,Championship,2019,2019/2020
+Reading FC,Callum Harriott,25,Left Winger,Without Club,-,out,0,Championship,2019,2019/2020
 Reading FC,Matt Miazga,24,Centre-Back,Chelsea,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Reading FC,John O'Shea,38,Centre-Back,Retired,-,out,0,Championship,2019,2019/2020
-Reading FC,Callum Harriott,25,Left Winger,Without Club,-,out,0,Championship,2019,2019/2020
-Reading FC,David Meyler,30,Central Midfield,Without Club,-,out,0,Championship,2019,2019/2020
+Reading FC,David Meyler,30,Central Midfield,Retired,-,out,0,Championship,2019,2019/2020
+Reading FC,Paul McShane,33,Centre-Back,Without Club,-,out,0,Championship,2019,2019/2020
 Reading FC,Saeid Ezatolahi,22,Defensive Midfield,Rostov,"End of loanJun 30, 2019",out,0,Championship,2019,2019/2020
 Millwall FC,Connor Mahoney,22,Right Winger,Bournemouth,£990k,in,0.99,Championship,2019,2019/2020
 Millwall FC,Jón Dadi Bödvarsson,27,Centre-Forward,Reading,£765k,in,0.765,Championship,2019,2019/2020
-Millwall FC,Harvey Bradbury,20,Centre-Forward,Oxford United,Free Transfer,in,0,Championship,2019,2019/2020
+Millwall FC,Harvey Bradbury,20,Centre-Forward,Oxford United,Free transfer,in,NA,Championship,2019,2019/2020
 Millwall FC,Jayson Molumby,19,Central Midfield,Brighton U23,Loan,in,0,Championship,2019,2019/2020
-Millwall FC,Frank Fielding,31,Goalkeeper,Bristol City,Free Transfer,in,0,Championship,2019,2019/2020
-Millwall FC,Alex Pearce,30,Centre-Back,Derby,Free Transfer,in,0,Championship,2019,2019/2020
+Millwall FC,Frank Fielding,31,Goalkeeper,Bristol City,Free transfer,in,NA,Championship,2019,2019/2020
+Millwall FC,Alex Pearce,30,Centre-Back,Derby,Free transfer,in,NA,Championship,2019,2019/2020
 Millwall FC,Matt Smith,30,Centre-Forward,QPR,?,in,NA,Championship,2019,2019/2020
 Millwall FC,Bartosz Bialkowski,32,Goalkeeper,Ipswich,Loan,in,0,Championship,2019,2019/2020
 Millwall FC,Jason McCarthy,23,Centre-Back,Wycombe,?,in,NA,Championship,2019,2019/2020
 Millwall FC,Luke Steele,34,Goalkeeper,Nottm Forest,Loan,in,0,Championship,2019,2019/2020
 Millwall FC,Steve Morison,35,Centre-Forward,Shrewsbury,"End of loanAug 7, 2019",in,0,Championship,2019,2019/2020
 Millwall FC,Sid Nelson,23,Centre-Back,Tranmere Rovers,"End of loanJun 30, 2019",in,0,Championship,2019,2019/2020
-Millwall FC,David Martin,33,Goalkeeper,West Ham,Free Transfer,out,0,Championship,2019,2019/2020
-Millwall FC,Lee Gregory,30,Centre-Forward,Stoke City,Free Transfer,out,0,Championship,2019,2019/2020
-Millwall FC,Sid Nelson,23,Centre-Back,Tranmere Rovers,Free Transfer,out,0,Championship,2019,2019/2020
-Millwall FC,Ryan Tunnicliffe,26,Central Midfield,Luton,Free Transfer,out,0,Championship,2019,2019/2020
-Millwall FC,Lazar Stojsavljevic,21,Centre-Back,Newport County,Free Transfer,out,0,Championship,2019,2019/2020
-Millwall FC,Conor McLaughlin,27,Right-Back,Sunderland,Free Transfer,out,0,Championship,2019,2019/2020
-Millwall FC,Tom King,24,Goalkeeper,Newport County,Free Transfer,out,0,Championship,2019,2019/2020
+Millwall FC,Tom King,24,Goalkeeper,Newport County,Free transfer,out,NA,Championship,2019,2019/2020
+Millwall FC,David Martin,33,Goalkeeper,West Ham,Free transfer,out,NA,Championship,2019,2019/2020
+Millwall FC,Lee Gregory,30,Centre-Forward,Stoke City,Free transfer,out,NA,Championship,2019,2019/2020
+Millwall FC,Sid Nelson,23,Centre-Back,Tranmere Rovers,Free transfer,out,NA,Championship,2019,2019/2020
+Millwall FC,Ryan Tunnicliffe,26,Central Midfield,Luton,Free transfer,out,NA,Championship,2019,2019/2020
+Millwall FC,Lazar Stojsavljevic,21,Centre-Back,Newport County,Free transfer,out,NA,Championship,2019,2019/2020
+Millwall FC,Conor McLaughlin,27,Right-Back,Sunderland,Free transfer,out,NA,Championship,2019,2019/2020
 Millwall FC,Fred Onyedinma,22,Right Midfield,Wycombe,?,out,NA,Championship,2019,2019/2020
 Millwall FC,Steve Morison,35,Centre-Forward,Shrewsbury,Loan,out,0,Championship,2019,2019/2020
 Millwall FC,Steve Morison,35,Centre-Forward,Shrewsbury,?,out,NA,Championship,2019,2019/2020
+Millwall FC,James Meredith,31,Left-Back,Without Club,-,out,0,Championship,2019,2019/2020
+Millwall FC,Luke Steele,35,Goalkeeper,Nottm Forest,"End of loanJan 1, 2020",out,0,Championship,2019,2019/2020
 Millwall FC,Bartosz Bialkowski,32,Goalkeeper,Ipswich,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Millwall FC,Jayson Molumby,20,Central Midfield,Brighton U23,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Millwall FC,Jordan Archer,26,Goalkeeper,Without Club,-,out,0,Championship,2019,2019/2020
-Millwall FC,James Meredith,31,Left-Back,Without Club,-,out,0,Championship,2019,2019/2020
-Millwall FC,Luke Steele,35,Goalkeeper,Nottm Forest,"End of loanJan 1, 2020",out,0,Championship,2019,2019/2020
 Luton Town,Simon Sluga,26,Goalkeeper,HNK Rijeka,£1.53m,in,1.53,Championship,2019,2019/2020
-Luton Town,Callum McManaman,28,Right Winger,Wigan,Free Transfer,in,0,Championship,2019,2019/2020
-Luton Town,Martin Cranie,32,Centre-Back,Sheffield Utd.,Free Transfer,in,0,Championship,2019,2019/2020
-Luton Town,Brendan Galloway,23,Left-Back,Everton,Free Transfer,in,0,Championship,2019,2019/2020
-Luton Town,Ryan Tunnicliffe,26,Central Midfield,Millwall,Free Transfer,in,0,Championship,2019,2019/2020
-Luton Town,Jacob Butterfield,29,Central Midfield,Derby,Free Transfer,in,0,Championship,2019,2019/2020
+Luton Town,Martin Cranie,32,Centre-Back,Sheffield Utd.,Free transfer,in,NA,Championship,2019,2019/2020
+Luton Town,Brendan Galloway,23,Left-Back,Everton,Free transfer,in,NA,Championship,2019,2019/2020
+Luton Town,Ryan Tunnicliffe,26,Central Midfield,Millwall,Free transfer,in,NA,Championship,2019,2019/2020
+Luton Town,Jacob Butterfield,29,Central Midfield,Derby,Free transfer,in,NA,Championship,2019,2019/2020
+Luton Town,Callum McManaman,28,Right Winger,Wigan,Free transfer,in,NA,Championship,2019,2019/2020
+Luton Town,Luke Bolton,19,Right Midfield,Man City U23,Loan,in,0,Championship,2019,2019/2020
 Luton Town,Izzy Brown,22,Second Striker,Chelsea U23,Loan,in,0,Championship,2019,2019/2020
 Luton Town,James Bree,21,Right-Back,Aston Villa,Loan,in,0,Championship,2019,2019/2020
-Luton Town,Luke Bolton,19,Right Winger,Man City U23,Loan,in,0,Championship,2019,2019/2020
+Luton Town,Donervon Daniels,26,Centre-Back,Doncaster,"End of loanJan 1, 2020",in,0,Championship,2019,2019/2020
+Luton Town,Josh Neufville,18,Midfielder,Luton U18,-,in,0,Championship,2019,2019/2020
+Luton Town,Jake Jervis,28,Right Winger,Salford,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Luton Town,Josh Neufville,18,Midfielder,Solihull Moors,"End of loanJan 4, 2020",in,0,Championship,2019,2019/2020
+Luton Town,Donervon Daniels,25,Centre-Back,Without Club,-,in,0,Championship,2019,2019/2020
 Luton Town,James Justin,21,Right-Back,Leicester,£6.03m,out,6.03,Championship,2019,2019/2020
 Luton Town,Jack Stacey,23,Right-Back,Bournemouth,£4.01m,out,4.01,Championship,2019,2019/2020
-Luton Town,Arthur Read,19,Attacking Midfield,Brentford B,Free Transfer,out,0,Championship,2019,2019/2020
-Luton Town,Luke Gambin,26,Left Winger,Colchester Utd.,Free Transfer,out,0,Championship,2019,2019/2020
-Luton Town,Alan McCormack,35,Defensive Midfield,Northampt. Town,Free Transfer,out,0,Championship,2019,2019/2020
-Luton Town,Aaron Jarvis,21,Centre-Forward,Sutton Utd,Free Transfer,out,0,Championship,2019,2019/2020
+Luton Town,Alan McCormack,35,Defensive Midfield,Northampt. Town,Free transfer,out,NA,Championship,2019,2019/2020
+Luton Town,Aaron Jarvis,21,Centre-Forward,Sutton Utd,Free transfer,out,NA,Championship,2019,2019/2020
+Luton Town,Arthur Read,19,Attacking Midfield,Brentford B,Free transfer,out,NA,Championship,2019,2019/2020
+Luton Town,Josh Neufville,18,Midfielder,Solihull Moors,Loan,out,0,Championship,2019,2019/2020
+Luton Town,Luke Gambin,26,Left Winger,Colchester Utd.,Free transfer,out,NA,Championship,2019,2019/2020
+Luton Town,Donervon Daniels,25,Centre-Back,Doncaster,Loan,out,0,Championship,2019,2019/2020
+Luton Town,Jake Jervis,27,Right Winger,Salford,Loan,out,0,Championship,2019,2019/2020
+Luton Town,Luke Bolton,20,Right Midfield,Man City U23,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
+Luton Town,Jack Senior,22,Left-Back,Without Club,-,out,0,Championship,2019,2019/2020
 Luton Town,Izzy Brown,23,Second Striker,Chelsea U23,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Luton Town,Jack James,19,Right-Back,Without Club,-,out,0,Championship,2019,2019/2020
 Luton Town,James Bree,22,Right-Back,Aston Villa,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
-Luton Town,Luke Bolton,20,Right Winger,Man City U23,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
-Luton Town,Jack Senior,22,Left-Back,Without Club,-,out,0,Championship,2019,2019/2020
 Barnsley FC,Luke Thomas,20,Right Winger,Derby,£1.22m,in,1.22,Championship,2019,2019/2020
 Barnsley FC,Patrick Schmidt,21,Centre-Forward,Admira Wacker,£1.08m,in,1.08,Championship,2019,2019/2020
 Barnsley FC,Mallik Wilks,20,Left Winger,Leeds U23,£990k,in,0.99,Championship,2019,2019/2020
 Barnsley FC,Mads Juel Andersen,21,Centre-Back,AC Horsens,£900k,in,0.9,Championship,2019,2019/2020
+Barnsley FC,Aapo Halme,21,Centre-Back,Leeds,£203k,in,0.203,Championship,2019,2019/2020
+Barnsley FC,Toby Sibbick,20,Right-Back,AFC Wimbledon,£203k,in,0.203,Championship,2019,2019/2020
 Barnsley FC,Mike Bähre,23,Attacking Midfield,Hannover 96,£135k,in,0.135,Championship,2019,2019/2020
-Barnsley FC,Samuel Sahin-Radlinger,26,Goalkeeper,Hannover 96,Free Transfer,in,0,Championship,2019,2019/2020
-Barnsley FC,Brad Collins,22,Goalkeeper,Chelsea U23,Free Transfer,in,0,Championship,2019,2019/2020
-Barnsley FC,Aapo Halme,21,Centre-Back,Leeds,?,in,NA,Championship,2019,2019/2020
-Barnsley FC,Conor Chaplin,22,Centre-Forward,Coventry,?,in,NA,Championship,2019,2019/2020
-Barnsley FC,Toby Sibbick,20,Right-Back,AFC Wimbledon,?,in,NA,Championship,2019,2019/2020
+Barnsley FC,Brad Collins,22,Goalkeeper,Chelsea U23,Free transfer,in,NA,Championship,2019,2019/2020
+Barnsley FC,Samuel Sahin-Radlinger,26,Goalkeeper,Hannover 96,Free transfer,in,NA,Championship,2019,2019/2020
 Barnsley FC,Bambo Diaby,21,Centre-Back,KSC Lokeren,?,in,NA,Championship,2019,2019/2020
 Barnsley FC,Clarke Oduor,20,Left-Back,Leeds U23,?,in,NA,Championship,2019,2019/2020
-Barnsley FC,George Miller,21,Centre-Forward,Scunthorpe Utd.,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Barnsley FC,Conor Chaplin,22,Centre-Forward,Coventry,?,in,NA,Championship,2019,2019/2020
 Barnsley FC,Victor Adeboyejo,22,Centre-Forward,Bristol Rovers,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
+Barnsley FC,George Miller,21,Centre-Forward,Scunthorpe Utd.,"End of loanMay 31, 2020",in,0,Championship,2019,2019/2020
 Barnsley FC,Ethan Pinnock,26,Centre-Back,Brentford,£3.02m,out,3.02,Championship,2019,2019/2020
 Barnsley FC,Kieffer Moore,26,Centre-Forward,Wigan,£2.43m,out,2.43,Championship,2019,2019/2020
 Barnsley FC,Liam Lindsay,23,Centre-Back,Stoke City,£2.03m,out,2.03,Championship,2019,2019/2020
-Barnsley FC,Zeki Fryers,26,Left-Back,Swindon Town,Free Transfer,out,0,Championship,2019,2019/2020
-Barnsley FC,Adam Davies,26,Goalkeeper,Stoke City,Free Transfer,out,0,Championship,2019,2019/2020
+Barnsley FC,Lloyd Isgrove,26,Left Winger,Swindon Town,Free transfer,out,NA,Championship,2019,2019/2020
+Barnsley FC,Ryan Hedges,23,Right Winger,Aberdeen FC,Free transfer,out,NA,Championship,2019,2019/2020
+Barnsley FC,Adam Jackson,25,Centre-Back,Hibernian FC,Free transfer,out,NA,Championship,2019,2019/2020
+Barnsley FC,Zeki Fryers,26,Left-Back,Swindon Town,Free transfer,out,NA,Championship,2019,2019/2020
+Barnsley FC,Adam Davies,26,Goalkeeper,Stoke City,Free transfer,out,NA,Championship,2019,2019/2020
 Barnsley FC,Victor Adeboyejo,21,Centre-Forward,Bristol Rovers,Loan,out,0,Championship,2019,2019/2020
-Barnsley FC,Lloyd Isgrove,26,Left Winger,Swindon Town,Free Transfer,out,0,Championship,2019,2019/2020
-Barnsley FC,Ryan Hedges,23,Right Winger,Aberdeen FC,Free Transfer,out,0,Championship,2019,2019/2020
-Barnsley FC,Adam Jackson,25,Centre-Back,Hibernian FC,Free Transfer,out,0,Championship,2019,2019/2020
 Barnsley FC,George Miller,21,Centre-Forward,Scunthorpe Utd.,Loan,out,0,Championship,2019,2019/2020
 Barnsley FC,Mike Bähre,23,Attacking Midfield,Hannover 96,"End of loanJun 30, 2019",out,0,Championship,2019,2019/2020
 Charlton Athletic,Macauley Bonne,23,Centre-Forward,Leyton Orient,£203k,in,0.203,Championship,2019,2019/2020
-Charlton Athletic,Tomer Hemed,32,Centre-Forward,Brighton,Free Transfer,in,0,Championship,2019,2019/2020
-Charlton Athletic,Tom Lockyer,24,Centre-Back,Bristol Rovers,Free Transfer,in,0,Championship,2019,2019/2020
-Charlton Athletic,Chuks Aneke,25,Second Striker,MK Dons,Free Transfer,in,0,Championship,2019,2019/2020
-Charlton Athletic,Adedeji Oshilaja,26,Centre-Back,AFC Wimbledon,Free Transfer,in,0,Championship,2019,2019/2020
-Charlton Athletic,Erhun Oztumer,28,Attacking Midfield,Bolton,Free Transfer,in,0,Championship,2019,2019/2020
-Charlton Athletic,Ben Amos,29,Goalkeeper,Bolton,Free Transfer,in,0,Championship,2019,2019/2020
-Charlton Athletic,Jonathan Leko,20,Right Winger,West Brom,Loan,in,0,Championship,2019,2019/2020
-Charlton Athletic,Josh Cullen,23,Central Midfield,West Ham,Loan,in,0,Championship,2019,2019/2020
-Charlton Athletic,Beram Kayal,31,Central Midfield,Brighton,Loan,in,0,Championship,2019,2019/2020
-Charlton Athletic,Nathan Harness,19,Goalkeeper,Stevenage U18,?,in,NA,Championship,2019,2019/2020
+Charlton Athletic,Tom Lockyer,24,Centre-Back,Bristol Rovers,Free transfer,in,NA,Championship,2019,2019/2020
+Charlton Athletic,Tomer Hemed,32,Centre-Forward,Brighton,Free transfer,in,NA,Championship,2019,2019/2020
+Charlton Athletic,Chuks Aneke,25,Second Striker,MK Dons,Free transfer,in,NA,Championship,2019,2019/2020
+Charlton Athletic,Adedeji Oshilaja,26,Centre-Back,AFC Wimbledon,Free transfer,in,NA,Championship,2019,2019/2020
+Charlton Athletic,Erhun Oztumer,28,Attacking Midfield,Bolton,Free transfer,in,NA,Championship,2019,2019/2020
+Charlton Athletic,Ben Amos,29,Goalkeeper,Bolton,Free transfer,in,NA,Championship,2019,2019/2020
 Charlton Athletic,Ben Purrington,23,Left-Back,Rotherham,?,in,NA,Championship,2019,2019/2020
 Charlton Athletic,Conor Gallagher,19,Defensive Midfield,Chelsea U23,Loan,in,0,Championship,2019,2019/2020
 Charlton Athletic,Sam Field,21,Central Midfield,West Brom,Loan,in,0,Championship,2019,2019/2020
+Charlton Athletic,Jonathan Leko,20,Right Winger,West Brom,Loan,in,0,Championship,2019,2019/2020
+Charlton Athletic,Josh Cullen,23,Central Midfield,West Ham,Loan,in,0,Championship,2019,2019/2020
+Charlton Athletic,Beram Kayal,31,Central Midfield,Brighton,Loan,in,0,Championship,2019,2019/2020
+Charlton Athletic,Adam Matthews,27,Right-Back,Without Club,-,in,0,Championship,2019,2019/2020
+Charlton Athletic,Ashley Maynard-Brewer,20,Goalkeeper,Dulwich Hamlet FC,"End of loanOct 5, 2019",in,0,Championship,2019,2019/2020
 Charlton Athletic,Anfernee Dijksteel,22,Right-Back,Middlesbrough,£1.98m,out,1.98,Championship,2019,2019/2020
-Charlton Athletic,Igor Vetokele,27,Centre-Forward,KVC Westerlo,Free Transfer,out,0,Championship,2019,2019/2020
-Charlton Athletic,Jamie Mascoll,22,Left-Back,Wycombe,Free Transfer,out,0,Championship,2019,2019/2020
-Charlton Athletic,Mark Marshall,33,Right Winger,Gillingham FC,Free Transfer,out,0,Championship,2019,2019/2020
-Charlton Athletic,Joe Aribo,22,Central Midfield,Rangers,Free Transfer,out,0,Championship,2019,2019/2020
-Charlton Athletic,Ben Reeves,27,Attacking Midfield,MK Dons,Free Transfer,out,0,Championship,2019,2019/2020
-Charlton Athletic,Nicky Ajose,27,Centre-Forward,Exeter City,Free Transfer,out,0,Championship,2019,2019/2020
-Charlton Athletic,Patrick Bauer,26,Centre-Back,Preston NE,Free Transfer,out,0,Championship,2019,2019/2020
-Charlton Athletic,Josh Parker,28,Centre-Forward,Wycombe,Free Transfer,out,0,Championship,2019,2019/2020
-Charlton Athletic,Tariqe Fosu,23,Left Winger,Oxford United,?,out,NA,Championship,2019,2019/2020
+Charlton Athletic,Ashley Maynard-Brewer,20,Goalkeeper,Dulwich Hamlet FC,Loan,out,0,Championship,2019,2019/2020
+Charlton Athletic,Igor Vetokele,27,Centre-Forward,KVC Westerlo,Free transfer,out,NA,Championship,2019,2019/2020
+Charlton Athletic,Jamie Mascoll,22,Left-Back,Wycombe,Free transfer,out,NA,Championship,2019,2019/2020
+Charlton Athletic,Tariqe Fosu,23,Left Winger,Oxford United,Free transfer,out,NA,Championship,2019,2019/2020
+Charlton Athletic,Mark Marshall,33,Right Winger,Gillingham FC,Free transfer,out,NA,Championship,2019,2019/2020
+Charlton Athletic,Joe Aribo,22,Central Midfield,Rangers,Free transfer,out,NA,Championship,2019,2019/2020
+Charlton Athletic,Ben Reeves,27,Attacking Midfield,MK Dons,Free transfer,out,NA,Championship,2019,2019/2020
+Charlton Athletic,Nicky Ajose,27,Centre-Forward,Exeter City,Free transfer,out,NA,Championship,2019,2019/2020
+Charlton Athletic,Patrick Bauer,26,Centre-Back,Preston NE,Free transfer,out,NA,Championship,2019,2019/2020
+Charlton Athletic,Josh Parker,28,Centre-Forward,Wycombe,Free transfer,out,NA,Championship,2019,2019/2020
 Charlton Athletic,Conor Gallagher,20,Defensive Midfield,Chelsea U23,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Charlton Athletic,Sam Field,22,Central Midfield,West Brom,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020
 Charlton Athletic,Jonathan Leko,21,Right Winger,West Brom,"End of loanMay 31, 2020",out,0,Championship,2019,2019/2020

@@ -1,0 +1,456 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Zenit St. Petersburg,Malcom,22,Right Winger,FC Barcelona,£36.00m,in,36,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Douglas Santos,25,Left-Back,Hamburger SV,£10.80m,in,10.8,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Vyacheslav Karavaev,24,Right-Back,Vitesse,£7.20m,in,7.2,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Aleksey Sutormin,25,Right Winger,Rubin Kazan,£2.70m,in,2.7,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Daniil Krugovoy,21,Left-Back,Ufa,£1.80m,in,1.8,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Yordan Osorio,25,Centre-Back,FC Porto,Loan fee:£900k,in,0.9,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Aleksandr Vasyutin,24,Goalkeeper,Sarpsborg 08,£630k,in,0.63,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Leon Musaev,20,Defensive Midfield,Zenit 2 S-Pb,-,in,0,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Luka Djordjevic,24,Centre-Forward,Arsenal Tula,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Andrey Panyukov,24,Centre-Forward,Ural,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Yuri Lodygin,29,Goalkeeper,Olympiacos,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Ibragim Tsallagov,28,Defensive Midfield,Rubin Kazan,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Ivan Novoseltsev,27,Centre-Back,Rostov,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Dmitri Poloz,27,Centre-Forward,Rubin Kazan,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Egor Baburin,25,Goalkeeper,Rubin Kazan,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Miha Mevlja,29,Centre-Back,Rostov,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Miha Mevlja,29,Centre-Back,Sochi,£3.60m,out,3.6,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Dmitri Poloz,27,Centre-Forward,Sochi,£2.70m,out,2.7,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Elmir Nabiullin,24,Left-Back,Sochi,£2.70m,out,2.7,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Luka Djordjevic,25,Centre-Forward,Loko Moscow,£2.25m,out,2.25,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Hernani,25,Defensive Midfield,Parma,Loan fee:£900k,out,0.9,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Ibragim Tsallagov,28,Defensive Midfield,Sochi,£720k,out,0.72,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Ivan Novoseltsev,27,Centre-Back,Sochi,£630k,out,0.63,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Christian Noboa,34,Central Midfield,Sochi,£450k,out,0.45,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Egor Baburin,25,Goalkeeper,Rostov,£450k,out,0.45,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Emiliano Rigoni,26,Right Winger,Sampdoria,Loan fee:£450k,out,0.45,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Andrey Panyukov,24,Centre-Forward,Ural,£270k,out,0.27,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Yuri Lodygin,29,Goalkeeper,Gaziantep FK,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Luís Neto,31,Centre-Back,Sporting CP,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Anton Zabolotny,28,Centre-Forward,Sochi,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Denis Terentjev,27,Right-Back,Ufa,Loan,out,0,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Daniil Krugovoy,21,Left-Back,Ufa,Loan,out,0,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Aleksandr Anyukov,36,Right-Back,KS Samara,Loan,out,0,Premier Liga,2019,2019/2020
+Zenit St. Petersburg,Claudio Marchisio,33,Central Midfield,Retired,-,out,0,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,Grzegorz Krychowiak,29,Defensive Midfield,Paris SG,£10.80m,in,10.8,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,Luka Djordjevic,25,Centre-Forward,Zenit S-Pb,£2.25m,in,2.25,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,Murilo Cerqueira,22,Centre-Back,Cruzeiro,£2.25m,in,2.25,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,Dmitri Zhivoglyadov,25,Right-Back,Ufa,£2.25m,in,2.25,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,João Mário,26,Central Midfield,Inter,Loan,in,0,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,Roman Tugarev,20,Left Winger,Kazanka,-,in,0,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,Alan Kasaev,33,Left Winger,Sochi,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,Vitali Denisov,32,Left-Back,KS Samara,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,Timofey Margasov,27,Right-Back,Sochi,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,Arshak Koryan,24,Right Winger,Khimki,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,Igor Portnyagin,30,Centre-Forward,Baltika,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,Arshak Koryan,24,Right Winger,Khimki,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,Vitali Denisov,32,Left-Back,Rubin Kazan,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,Igor Portnyagin,30,Centre-Forward,Nizhny Novgorod,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,Manuel Fernandes,33,Attacking Midfield,Krasnodar,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,Alan Kasaev,33,Left Winger,Avangard Kursk,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,Timofey Margasov,27,Right-Back,Sochi,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,Taras Mykhalyk,35,Centre-Back,Volyn Lutsk,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,Igor Denisov,35,Defensive Midfield,Retired,-,out,0,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,Dmitri Tarasov,32,Defensive Midfield,Without Club,-,out,0,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,Grzegorz Krychowiak,29,Defensive Midfield,Paris SG,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+Lokomotiv Moscow,Khvicha Kvaratskhelia,18,Left Winger,Rustavi,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+FK Krasnodar,Rémy Cabella,29,Attacking Midfield,Saint-Étienne,£10.80m,in,10.8,Premier Liga,2019,2019/2020
+FK Krasnodar,Tonny Vilhena,24,Central Midfield,Feyenoord,£8.10m,in,8.1,Premier Liga,2019,2019/2020
+FK Krasnodar,Egor Sorokin,23,Centre-Back,Rubin Kazan,£3.60m,in,3.6,Premier Liga,2019,2019/2020
+FK Krasnodar,Kaio,23,Defensive Midfield,Santa Clara,£2.70m,in,2.7,Premier Liga,2019,2019/2020
+FK Krasnodar,Younes Namli,25,Attacking Midfield,PEC Zwolle,£1.80m,in,1.8,Premier Liga,2019,2019/2020
+FK Krasnodar,Ruslan Kambolov,29,Defensive Midfield,Rubin Kazan,£360k,in,0.36,Premier Liga,2019,2019/2020
+FK Krasnodar,Marcus Berg,32,Centre-Forward,Al-Ain FC,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Krasnodar,Manuel Fernandes,33,Attacking Midfield,Loko Moscow,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Krasnodar,Christian Cueva,28,Attacking Midfield,Santos FC,"End of loanJan 30, 2020",in,0,Premier Liga,2019,2019/2020
+FK Krasnodar,Artem Golubev,20,Defensive Midfield,Krasnodar 2,-,in,0,Premier Liga,2019,2019/2020
+FK Krasnodar,Pavel Mamaev,30,Central Midfield,Ban,-,in,0,Premier Liga,2019,2019/2020
+FK Krasnodar,Daniil Utkin,19,Central Midfield,Krasnodar 2,-,in,0,Premier Liga,2019,2019/2020
+FK Krasnodar,Andrei Ivan,22,Left Winger,Rapid Vienna,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FK Krasnodar,Roman Shishkin,32,Right-Back,KS Samara,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FK Krasnodar,Ilya Zhigulev,23,Central Midfield,Ural,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FK Krasnodar,Aleksey Gritsaenko,24,Centre-Back,Enisey,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FK Krasnodar,Stefan Strandberg,28,Centre-Back,Ural,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FK Krasnodar,Christian Cueva,28,Attacking Midfield,Santos FC,£5.40m,out,5.4,Premier Liga,2019,2019/2020
+FK Krasnodar,Andrei Ivan,22,Left Winger,CS U Craiova,£1.35m,out,1.35,Premier Liga,2019,2019/2020
+FK Krasnodar,Tornike Okriashvili,27,Attacking Midfield,Anorthosis,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Krasnodar,Charles Kaboré,31,Defensive Midfield,Dinamo Moscow,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Krasnodar,Mauricio Pereyra,29,Attacking Midfield,Orlando City SC,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Krasnodar,Roman Shishkin,32,Right-Back,Torpedo Moscow,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Krasnodar,Egor Sorokin,23,Centre-Back,Rubin Kazan,Loan,out,0,Premier Liga,2019,2019/2020
+FK Krasnodar,Stefan Strandberg,28,Centre-Back,Without Club,-,out,0,Premier Liga,2019,2019/2020
+FK Krasnodar,Aleksey Gritsaenko,24,Centre-Back,Tambov,Loan,out,0,Premier Liga,2019,2019/2020
+FK Krasnodar,Pavel Mamaev,30,Central Midfield,Ban,-,out,0,Premier Liga,2019,2019/2020
+FK Krasnodar,Artem Golubev,20,Defensive Midfield,Ufa,Loan,out,0,Premier Liga,2019,2019/2020
+FK Krasnodar,Pavel Mamaev,31,Central Midfield,Without Club,-,out,0,Premier Liga,2019,2019/2020
+FK Krasnodar,Nikolay Markov,34,Right-Back,Krasnodar 2,-,out,0,Premier Liga,2019,2019/2020
+CSKA Moscow,Nikola Vlasic,21,Attacking Midfield,Everton,£14.13m,in,14.13,Premier Liga,2019,2019/2020
+CSKA Moscow,Igor Diveev,19,Centre-Back,Ufa,£1.35m,in,1.35,Premier Liga,2019,2019/2020
+CSKA Moscow,Cédric Gogoua,25,Centre-Back,Tambov,£360k,in,0.36,Premier Liga,2019,2019/2020
+CSKA Moscow,Lucas Santos,20,Left Winger,Vasco da Gama,Loan fee:£180k,in,0.18,Premier Liga,2019,2019/2020
+CSKA Moscow,Zvonimir Sarlija,22,Centre-Back,Slaven Belupo,Loan fee:£135k,in,0.135,Premier Liga,2019,2019/2020
+CSKA Moscow,Astemir Gordyushenko,22,Central Midfield,Tyumen,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+CSKA Moscow,Konstantin Bazelyuk,26,Centre-Forward,SKA Khabarovsk,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+CSKA Moscow,Sergey Tkachev,30,Attacking Midfield,Arsenal Tula,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+CSKA Moscow,Aleksandr Makarov,23,Right Winger,Avangard Kursk,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+CSKA Moscow,Sergey Tkachev,30,Attacking Midfield,Arsenal Tula,£1.80m,out,1.8,Premier Liga,2019,2019/2020
+CSKA Moscow,Nikita Chernov,23,Centre-Back,KS Samara,£450k,out,0.45,Premier Liga,2019,2019/2020
+CSKA Moscow,Konstantin Bazelyuk,26,Centre-Forward,Mordovia,Free transfer,out,NA,Premier Liga,2019,2019/2020
+CSKA Moscow,Abel Hernández,28,Centre-Forward,Al Ahli,Free transfer,out,NA,Premier Liga,2019,2019/2020
+CSKA Moscow,Georgiy Kyrnats,21,Goalkeeper,SKA Khabarovsk,£18k,out,0.018,Premier Liga,2019,2019/2020
+CSKA Moscow,Aleksandr Makarov,23,Right Winger,Avangard Kursk,?,out,NA,Premier Liga,2019,2019/2020
+CSKA Moscow,Vitali Zhironkin,19,Centre-Forward,Baltika,Loan,out,0,Premier Liga,2019,2019/2020
+CSKA Moscow,Lucas Santos,20,Left Winger,Vasco da Gama,"End of loanDec 31, 2019",out,0,Premier Liga,2019,2019/2020
+CSKA Moscow,Igor Diveev,19,Centre-Back,Ufa,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+CSKA Moscow,Nikola Vlasic,21,Attacking Midfield,Everton,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+CSKA Moscow,Rodrigo Becão,23,Centre-Back,EC Bahia,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+Spartak Moscow,Guus Til,21,Attacking Midfield,AZ Alkmaar,£16.20m,in,16.2,Premier Liga,2019,2019/2020
+Spartak Moscow,Alex Kral,21,Defensive Midfield,Slavia Prag,£10.80m,in,10.8,Premier Liga,2019,2019/2020
+Spartak Moscow,Reziuan Mirzov,26,Left Winger,Rostov,£3.60m,in,3.6,Premier Liga,2019,2019/2020
+Spartak Moscow,Jordan Larsson,22,Centre-Forward,Norrköping,£3.60m,in,3.6,Premier Liga,2019,2019/2020
+Spartak Moscow,Ezequiel Ponce,22,Centre-Forward,AS Roma,£2.70m,in,2.7,Premier Liga,2019,2019/2020
+Spartak Moscow,André Schürrle,28,Left Winger,Bor. Dortmund,Loan fee:£900k,in,0.9,Premier Liga,2019,2019/2020
+Spartak Moscow,Fernando,27,Defensive Midfield,BJ Sinobo Guoan,"End of loanDec 31, 2019",in,0,Premier Liga,2019,2019/2020
+Spartak Moscow,Pedro Rocha,25,Left Winger,Cruzeiro,"End of loanDec 31, 2019",in,0,Premier Liga,2019,2019/2020
+Spartak Moscow,Ilya Gaponov,21,Centre-Back,Spartak 2,-,in,0,Premier Liga,2019,2019/2020
+Spartak Moscow,Georgi Tigiev,24,Left-Back,Dinamo Minsk,"End of loanDec 31, 2019",in,0,Premier Liga,2019,2019/2020
+Spartak Moscow,Zelimkhan Bakaev,22,Right Winger,Arsenal Tula,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Spartak Moscow,Jano Ananidze,26,Attacking Midfield,KS Samara,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Spartak Moscow,Fernando,27,Defensive Midfield,BJ Sinobo Guoan,£8.64m,out,8.64,Premier Liga,2019,2019/2020
+Spartak Moscow,Zé Luís,28,Centre-Forward,FC Porto,£7.65m,out,7.65,Premier Liga,2019,2019/2020
+Spartak Moscow,Fernando,27,Defensive Midfield,BJ Sinobo Guoan,Loan fee:£4.86m,out,4.86,Premier Liga,2019,2019/2020
+Spartak Moscow,Sofiane Hanni,28,Attacking Midfield,Al Gharafa,£3.15m,out,3.15,Premier Liga,2019,2019/2020
+Spartak Moscow,Luiz Adriano,32,Centre-Forward,Palmeiras,£900k,out,0.9,Premier Liga,2019,2019/2020
+Spartak Moscow,Salvatore Bocchetti,32,Centre-Back,Hellas Verona,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Spartak Moscow,Denis Glushakov,32,Central Midfield,Akhmat Grozny,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Spartak Moscow,Dmitri Kombarov,32,Left-Back,KS Samara,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Spartak Moscow,Aleksandr Tashaev,25,Right Winger,Rubin Kazan,Loan,out,0,Premier Liga,2019,2019/2020
+Spartak Moscow,Georgi Melkadze,22,Second Striker,Tambov,Loan,out,0,Premier Liga,2019,2019/2020
+Spartak Moscow,Aleksandr Lomovitskiy,21,Right Winger,Arsenal Tula,Loan,out,0,Premier Liga,2019,2019/2020
+Arsenal Tula,Sergey Tkachev,30,Attacking Midfield,CSKA Moscow,£1.80m,in,1.8,Premier Liga,2019,2019/2020
+Arsenal Tula,Goran Causic,27,Central Midfield,Red Star,£450k,in,0.45,Premier Liga,2019,2019/2020
+Arsenal Tula,Alexandru Tudorie,23,Centre-Forward,FC Voluntari,£270k,in,0.27,Premier Liga,2019,2019/2020
+Arsenal Tula,Kings Kangwa,20,Attacking Midfield,Buildcon FC,£225k,in,0.225,Premier Liga,2019,2019/2020
+Arsenal Tula,Lameck Banda,18,Right Winger,ZESCO United FC,£225k,in,0.225,Premier Liga,2019,2019/2020
+Arsenal Tula,Vladislav Panteleev,22,Central Midfield,Rubin Kazan,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Arsenal Tula,Evgeni Lutsenko,32,Centre-Forward,Dinamo Moscow,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Arsenal Tula,Aleksandr Dovbnya,23,Centre-Back,Pafos FC,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Arsenal Tula,Robert Bauer,24,Right-Back,Werder Bremen,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Arsenal Tula,Aleksandr Lomovitskiy,21,Right Winger,Spartak Moscow,Loan,in,0,Premier Liga,2019,2019/2020
+Arsenal Tula,Artem Sokol,22,Centre-Back,Tromsø,"End of loanDec 31, 2019",in,0,Premier Liga,2019,2019/2020
+Arsenal Tula,Mihail Aleksandrov,30,Left-Back,Arda Kardzhali,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Arsenal Tula,Yaroslav Ivakin,20,Right Winger,Khimik-Arsenal,-,out,0,Premier Liga,2019,2019/2020
+Arsenal Tula,Sergey Tkachev,30,Attacking Midfield,CSKA Moscow,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+Arsenal Tula,Zelimkhan Bakaev,22,Right Winger,Spartak Moscow,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+Arsenal Tula,Mohammed Kadiri,23,Defensive Midfield,Austria Vienna,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+Arsenal Tula,Ognjen Ozegovic,25,Centre-Forward,Partizan,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+Arsenal Tula,Luka Djordjevic,24,Centre-Forward,Zenit S-Pb,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+Arsenal Tula,Reziuan Mirzov,26,Left Winger,Rostov,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+FK Orenburg,Adi Gotlieb,26,Centre-Back,Hapoel Tel Aviv,£378k,in,0.378,Premier Liga,2019,2019/2020
+FK Orenburg,Andrey Klimovich,31,Goalkeeper,Soligorsk,£252k,in,0.252,Premier Liga,2019,2019/2020
+FK Orenburg,Filip Rogic,26,Central Midfield,Örebro SK,£171k,in,0.171,Premier Liga,2019,2019/2020
+FK Orenburg,Joel Fameyeh,22,Centre-Forward,Dynamo Brest,£135k,in,0.135,Premier Liga,2019,2019/2020
+FK Orenburg,Timur Ayupov,25,Defensive Midfield,Nizhny Novgorod,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Orenburg,Ivan Lapshov,20,Centre-Back,Kazanka,£17k,in,0.017,Premier Liga,2019,2019/2020
+FK Orenburg,Ziga Skoflek,25,Right Winger,Rudar Velenje,?,in,NA,Premier Liga,2019,2019/2020
+FK Orenburg,Georgi Zotov,29,Right-Back,KS Samara,Loan,in,0,Premier Liga,2019,2019/2020
+FK Orenburg,Vladimir Moskvichev,19,Defensive Midfield,Dinamo Moscow,Loan,in,0,Premier Liga,2019,2019/2020
+FK Orenburg,Uros Radakovic,25,Centre-Back,Sparta Praha,Loan,in,0,Premier Liga,2019,2019/2020
+FK Orenburg,Fedor Chernykh,28,Right Winger,Dinamo Moscow,Loan,in,0,Premier Liga,2019,2019/2020
+FK Orenburg,Danil Lipovoy,19,Left Midfield,Dinamo Moscow,Loan,in,0,Premier Liga,2019,2019/2020
+FK Orenburg,Aleksey Sutormin,25,Right Winger,Rubin Kazan,£1.80m,out,1.8,Premier Liga,2019,2019/2020
+FK Orenburg,Silvije Begic,26,Centre-Back,Rubin Kazan,£1.08m,out,1.08,Premier Liga,2019,2019/2020
+FK Orenburg,Mikhail Bakaev,31,Defensive Midfield,Shinnik,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Orenburg,Ade,36,Centre-Back,Tambov,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Orenburg,Evgeni Frolov,31,Goalkeeper,Sochi,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Orenburg,Denis Popovic,29,Central Midfield,FC Zürich,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Orenburg,Grigori Chirkin,33,Defensive Midfield,Avangard Kursk,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Orenburg,Andrey Kozlov,30,Centre-Forward,Ufa,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Orenburg,Sergey Breev,32,Central Midfield,Avangard Kursk,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Orenburg,Dmitri Andreev,38,Centre-Back,Retired,-,out,0,Premier Liga,2019,2019/2020
+Akhmat Grozny,Konrad Michalak,21,Right Winger,Lechia Gdansk,£1.35m,in,1.35,Premier Liga,2019,2019/2020
+Akhmat Grozny,Aleksandr Melikhov,21,Goalkeeper,Tom Tomsk,£90k,in,0.09,Premier Liga,2019,2019/2020
+Akhmat Grozny,Denis Glushakov,32,Central Midfield,Spartak Moscow,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Akhmat Grozny,Magomed Musalov,25,Right-Back,Anzhi,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Akhmat Grozny,Andrés Ponce,22,Centre-Forward,Anzhi,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Akhmat Grozny,Pavel Kaloshin,21,Centre-Back,Anzhi,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Akhmat Grozny,Abubakar Kadyrov,22,Centre-Forward,Akhmat II,-,in,0,Premier Liga,2019,2019/2020
+Akhmat Grozny,Apti Akhyadov,25,Right Winger,Chaika Pes.,"End of loanAug 20, 2019",in,0,Premier Liga,2019,2019/2020
+Akhmat Grozny,Lechii Sadulaev,19,Defensive Midfield,Akhmat II,-,in,0,Premier Liga,2019,2019/2020
+Akhmat Grozny,Idris Umaev,20,Centre-Forward,FK Palanga,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Akhmat Grozny,Ayub Batsuev,22,Central Midfield,Chaika Pes.,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Akhmat Grozny,Apti Akhyadov,25,Right Winger,Anzhi,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Akhmat Grozny,Zaur Sadaev,29,Centre-Forward,Ankaragücü,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Akhmat Grozny,Roland Gigolaev,29,Left Midfield,Anzhi,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Akhmat Grozny,Zaurbek Pliev,27,Left-Back,Dinamo Moscow,£1.08m,out,1.08,Premier Liga,2019,2019/2020
+Akhmat Grozny,Bekim Balaj,28,Centre-Forward,Sturm Graz,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Akhmat Grozny,Zaur Sadaev,29,Centre-Forward,Ankaragücü,Loan,out,0,Premier Liga,2019,2019/2020
+Akhmat Grozny,Milad Mohammadi,25,Left-Back,KAA Gent,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Akhmat Grozny,Pavel Kaloshin,21,Centre-Back,Torpedo Moscow,Loan,out,0,Premier Liga,2019,2019/2020
+Akhmat Grozny,Rodolfo,36,Centre-Back,Retired,-,out,0,Premier Liga,2019,2019/2020
+Akhmat Grozny,Apti Akhyadov,25,Right Winger,Chaika Pes.,Loan,out,0,Premier Liga,2019,2019/2020
+Akhmat Grozny,Aleksandr Sheplyakov,23,Goalkeeper,Without Club,-,out,0,Premier Liga,2019,2019/2020
+Akhmat Grozny,Idris Umaev,20,Centre-Forward,Khimki,Loan,out,0,Premier Liga,2019,2019/2020
+Akhmat Grozny,Ayub Batsuev,22,Central Midfield,I. Cherkessk,Loan,out,0,Premier Liga,2019,2019/2020
+Akhmat Grozny,Magomed Musalov,25,Right-Back,Anzhi,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+FK Rostov,Egor Baburin,25,Goalkeeper,Zenit S-Pb,£450k,in,0.45,Premier Liga,2019,2019/2020
+FK Rostov,Nikolay Poyarkov,19,Left-Back,Kazanka,£270k,in,0.27,Premier Liga,2019,2019/2020
+FK Rostov,Dmitri Chistyakov,25,Centre-Back,Tambov,£113k,in,0.113,Premier Liga,2019,2019/2020
+FK Rostov,Aleksandr Saplinov,21,Second Striker,Baltika,£77k,in,0.077,Premier Liga,2019,2019/2020
+FK Rostov,Aleksey Kozlov,32,Right-Back,Dinamo Moscow,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Rostov,Kirill Malyarov,22,Right-Back,Rotor Volgograd,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Rostov,Danila Proshlyakov,19,Centre-Forward,Spartak 2,£11k,in,0.011,Premier Liga,2019,2019/2020
+FK Rostov,Danila Vedernikov,18,Left-Back,Krasnodar II,£11k,in,0.011,Premier Liga,2019,2019/2020
+FK Rostov,Aleksandr Dolgov,20,Centre-Forward,Kazanka,£11k,in,0.011,Premier Liga,2019,2019/2020
+FK Rostov,Vidar Örn Kjartansson,29,Centre-Forward,Hammarby,"End of loanJul 16, 2019",in,0,Premier Liga,2019,2019/2020
+FK Rostov,Anton Salétros,23,Defensive Midfield,AIK,"End of loanDec 31, 2019",in,0,Premier Liga,2019,2019/2020
+FK Rostov,Pavel Mamaev,31,Central Midfield,Without Club,-,in,0,Premier Liga,2019,2019/2020
+FK Rostov,Khoren Bayramyan,27,Left Midfield,Rubin Kazan,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FK Rostov,Reziuan Mirzov,26,Left Winger,Arsenal Tula,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FK Rostov,Aleksandr Troshechkin,23,Defensive Midfield,Avangard Kursk,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FK Rostov,Saeid Ezatolahi,22,Defensive Midfield,Reading,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FK Rostov,Matija Boben,25,Centre-Back,AS Livorno,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FK Rostov,Reziuan Mirzov,26,Left Winger,Spartak Moscow,£3.60m,out,3.6,Premier Liga,2019,2019/2020
+FK Rostov,Matija Boben,25,Centre-Back,AS Livorno,£405k,out,0.405,Premier Liga,2019,2019/2020
+FK Rostov,Sergey Parshivlyuk,30,Right-Back,Dinamo Moscow,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Rostov,Ilya Abaev,37,Goalkeeper,Chertanovo,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Rostov,Aleksandr Troshechkin,23,Defensive Midfield,Khimki,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Rostov,Alexandru Gatcan,35,Defensive Midfield,KS Samara,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Rostov,Saeid Ezatolahi,22,Defensive Midfield,KAS Eupen,Loan,out,0,Premier Liga,2019,2019/2020
+FK Rostov,Artem Shchadin,26,Left-Back,Torpedo Zhodino,?,out,NA,Premier Liga,2019,2019/2020
+FK Rostov,Konstantin Pliev,22,Centre-Back,Rubin Kazan,Loan,out,0,Premier Liga,2019,2019/2020
+FK Rostov,Vidar Örn Kjartansson,29,Centre-Forward,Rubin Kazan,Loan,out,0,Premier Liga,2019,2019/2020
+FK Rostov,Aleksandr Zuev,23,Left Winger,Rubin Kazan,Loan,out,0,Premier Liga,2019,2019/2020
+FK Rostov,Timofey Kalachev,38,Right Midfield,Retired,-,out,0,Premier Liga,2019,2019/2020
+FK Rostov,Nikolay Poyarkov,19,Left-Back,Rubin Kazan,Loan,out,0,Premier Liga,2019,2019/2020
+FK Rostov,Miha Mevlja,29,Centre-Back,Zenit S-Pb,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+FK Rostov,Ivan Novoseltsev,27,Centre-Back,Zenit S-Pb,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Rafal Augustyniak,25,Defensive Midfield,Miedz Legnica,£450k,in,0.45,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Andrey Panyukov,24,Centre-Forward,Zenit S-Pb,£270k,in,0.27,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Michal Kucharczyk,28,Left Winger,Legia Warszawa,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Nikita Chistyakov,18,Left-Back,Anzhi,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Artem Mamin,22,Centre-Back,Spartak 2,£11k,in,0.011,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Islamzhan Nasyrov,21,Left-Back,Nosta,?,in,NA,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Vladimir Khozin,29,Centre-Back,Ararat-Armenia,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Dmitri Arapov,26,Goalkeeper,Chaika Pes.,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Aleksandr Lomakin,24,Central Midfield,Fakel Voronezh,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Artem Yusupov,22,Centre-Forward,Zenit 2 S-Pb,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Vladimir Khozin,29,Centre-Back,Nizhny Novgorod,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Dmitri Arapov,26,Goalkeeper,Chaika Pes.,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Sergey Bryzgalov,26,Centre-Back,Fakel Voronezh,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Anatoli Katrich,25,Right Midfield,Luch,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Aleksandr Dantsev,34,Left-Back,Retired,-,out,0,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Dominik Dinga,21,Centre-Back,Partizan,Loan,out,0,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Marco Aratore,28,Left Midfield,FC Lugano,Loan,out,0,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Gregor Balazic,31,Centre-Back,Without Club,-,out,0,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Aleksandr Lomakin,24,Central Midfield,Enisey,Loan,out,0,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Andrey Panyukov,24,Centre-Forward,Zenit S-Pb,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Stefan Strandberg,28,Centre-Back,Krasnodar,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+Ural Yekaterinburg,Ilya Zhigulev,23,Central Midfield,Krasnodar,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+Rubin Kazan,Aleksey Sutormin,25,Right Winger,Orenburg,£1.80m,in,1.8,Premier Liga,2019,2019/2020
+Rubin Kazan,Silvije Begic,26,Centre-Back,Orenburg,£1.08m,in,1.08,Premier Liga,2019,2019/2020
+Rubin Kazan,Carl Starfelt,24,Centre-Back,IFK Göteborg,£900k,in,0.9,Premier Liga,2019,2019/2020
+Rubin Kazan,Kamil Zakirov,20,Central Midfield,Anzhi,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Rubin Kazan,Vitali Denisov,32,Left-Back,Loko Moscow,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Rubin Kazan,Oleg Danchenko,24,Right-Back,Shakhtar D.,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Rubin Kazan,Khvicha Kvaratskhelia,18,Left Winger,Rustavi,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Rubin Kazan,Yuri Dyupin,31,Goalkeeper,Anzhi,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Rubin Kazan,Beka Mikeltadze,21,Centre-Forward,Anorthosis,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Rubin Kazan,Nikolay Kipiani,22,Left Winger,Rustavi,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Rubin Kazan,Egor Sorokin,23,Centre-Back,Krasnodar,Loan,in,0,Premier Liga,2019,2019/2020
+Rubin Kazan,Zurab Davitashvili,18,Attacking Midfield,FC Locomotive,?,in,NA,Premier Liga,2019,2019/2020
+Rubin Kazan,Aleksandr Tashaev,25,Right Winger,Spartak Moscow,Loan,in,0,Premier Liga,2019,2019/2020
+Rubin Kazan,Evgeni Markov,24,Centre-Forward,Dinamo Moscow,Loan,in,0,Premier Liga,2019,2019/2020
+Rubin Kazan,Vidar Örn Kjartansson,29,Centre-Forward,Rostov,Loan,in,0,Premier Liga,2019,2019/2020
+Rubin Kazan,Aleksandr Zuev,23,Left Winger,Rostov,Loan,in,0,Premier Liga,2019,2019/2020
+Rubin Kazan,Nikolay Poyarkov,19,Left-Back,Rostov,Loan,in,0,Premier Liga,2019,2019/2020
+Rubin Kazan,Konstantin Pliev,22,Centre-Back,Rostov,Loan,in,0,Premier Liga,2019,2019/2020
+Rubin Kazan,Timur Akmurzin,21,Goalkeeper,Ufa,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Rubin Kazan,Aleksey Gorodovoy,25,Goalkeeper,Zenit 2 S-Pb,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Rubin Kazan,Egor Sorokin,23,Centre-Back,Krasnodar,£3.60m,out,3.6,Premier Liga,2019,2019/2020
+Rubin Kazan,Aleksey Sutormin,25,Right Winger,Zenit S-Pb,£2.70m,out,2.7,Premier Liga,2019,2019/2020
+Rubin Kazan,Igor Kalinin,23,Left-Back,Dinamo Moscow,£450k,out,0.45,Premier Liga,2019,2019/2020
+Rubin Kazan,Ruslan Kambolov,29,Defensive Midfield,Krasnodar,£360k,out,0.36,Premier Liga,2019,2019/2020
+Rubin Kazan,Timur Akmurzin,21,Goalkeeper,Spartak 2,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Rubin Kazan,Vladislav Panteleev,22,Central Midfield,Arsenal Tula,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Rubin Kazan,Reza Shekari,21,Central Midfield,Tractor,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Rubin Kazan,Vitali Ustinov,28,Right-Back,Atyrau,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Rubin Kazan,Rail Abdullin,18,Right-Back,Neftekhimik,Loan,out,0,Premier Liga,2019,2019/2020
+Rubin Kazan,Aleksandr Bukharov,34,Centre-Forward,Without Club,-,out,0,Premier Liga,2019,2019/2020
+Rubin Kazan,Artur Sagitov,19,Centre-Forward,Nizhny Novgorod,Loan,out,0,Premier Liga,2019,2019/2020
+Rubin Kazan,Ibragim Tsallagov,28,Defensive Midfield,Zenit S-Pb,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+Rubin Kazan,Dmitri Poloz,27,Centre-Forward,Zenit S-Pb,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+Rubin Kazan,Khoren Bayramyan,27,Left Midfield,Rostov,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+Rubin Kazan,Egor Baburin,25,Goalkeeper,Zenit S-Pb,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+Dinamo Moscow,Maximilian Philipp,25,Second Striker,Bor. Dortmund,£18.00m,in,18,Premier Liga,2019,2019/2020
+Dinamo Moscow,Clinton N'Jie,25,Centre-Forward,Marseille,£5.40m,in,5.4,Premier Liga,2019,2019/2020
+Dinamo Moscow,Sebastian Szymanski,20,Attacking Midfield,Legia Warszawa,£4.95m,in,4.95,Premier Liga,2019,2019/2020
+Dinamo Moscow,Sly,28,Centre-Forward,Ufa,Loan fee:£1.35m,in,1.35,Premier Liga,2019,2019/2020
+Dinamo Moscow,Zaurbek Pliev,27,Left-Back,Akhmat Grozny,£1.08m,in,1.08,Premier Liga,2019,2019/2020
+Dinamo Moscow,Igor Kalinin,23,Left-Back,Rubin Kazan,£450k,in,0.45,Premier Liga,2019,2019/2020
+Dinamo Moscow,Oscar Hiljemark,27,Central Midfield,Genoa,Loan fee:£450k,in,0.45,Premier Liga,2019,2019/2020
+Dinamo Moscow,Ivan Ordets,26,Centre-Back,Shakhtar D.,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Dinamo Moscow,Charles Kaboré,31,Defensive Midfield,Krasnodar,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Dinamo Moscow,Ramil Sheydaev,23,Centre-Forward,KS Samara,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Dinamo Moscow,Roman Neustädter,31,Defensive Midfield,Fenerbahce,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Dinamo Moscow,Sergey Parshivlyuk,30,Right-Back,Rostov,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Dinamo Moscow,Aleksandr Sheplyakov,23,Goalkeeper,Without Club,-,in,0,Premier Liga,2019,2019/2020
+Dinamo Moscow,Danil Lipovoy,19,Left Midfield,Dinamo M II,-,in,0,Premier Liga,2019,2019/2020
+Dinamo Moscow,Maksim Kuzmin,23,Central Midfield,Fakel Voronezh,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Dinamo Moscow,Nikolay Obolskiy,22,Centre-Forward,Sochi,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Dinamo Moscow,Aleksandr Zotov,28,Central Midfield,Enisey,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Dinamo Moscow,Samba Sow,30,Defensive Midfield,Nottm Forest,£630k,out,0.63,Premier Liga,2019,2019/2020
+Dinamo Moscow,Abdul-Aziz Tetteh,29,Defensive Midfield,Gaziantep FK,£360k,out,0.36,Premier Liga,2019,2019/2020
+Dinamo Moscow,Sebastian Holmén,27,Centre-Back,Willem II,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Dinamo Moscow,Aleksey Kozlov,32,Right-Back,Rostov,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Dinamo Moscow,Aleksandr Zotov,28,Central Midfield,Enisey,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Dinamo Moscow,Ivan Temnikov,30,Right-Back,Nizhny Novgorod,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Dinamo Moscow,Evgeni Lutsenko,32,Centre-Forward,Arsenal Tula,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Dinamo Moscow,Maksim Kuzmin,23,Central Midfield,Baltika,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Dinamo Moscow,Evgeni Markov,24,Centre-Forward,Rubin Kazan,Loan,out,0,Premier Liga,2019,2019/2020
+Dinamo Moscow,Danil Lipovoy,19,Left Midfield,Orenburg,Loan,out,0,Premier Liga,2019,2019/2020
+Dinamo Moscow,Vladimir Moskvichev,19,Defensive Midfield,Orenburg,Loan,out,0,Premier Liga,2019,2019/2020
+Dinamo Moscow,Anton Terekhov,21,Right Winger,KS Samara,Loan,out,0,Premier Liga,2019,2019/2020
+Dinamo Moscow,Fedor Chernykh,28,Right Winger,Orenburg,Loan,out,0,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Nikita Chernov,23,Centre-Back,CSKA Moscow,£450k,in,0.45,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Vitali Lystsov,24,Centre-Back,Benfica B,£135k,in,0.135,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Alexandru Gatcan,35,Defensive Midfield,Rostov,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Dmitri Kabutov,27,Right Winger,SKA Khabarovsk,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Denis Yakuba,23,Defensive Midfield,Rotor Volgograd,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Radu Ginsari,27,Attacking Midfield,Hapoel Haifa,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Dmitri Kombarov,32,Left-Back,Spartak Moscow,Free transfer,in,NA,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Dmitri Molchanov,18,Centre-Forward,Chertanovo,£18k,in,0.018,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Dejan Radonjic,28,Centre-Forward,NK Lokomotiva,?,in,NA,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Aleksandr Anyukov,36,Right-Back,Zenit S-Pb,Loan,in,0,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Gennadi Kiselev,20,Central Midfield,KS Samara II,-,in,0,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Anton Terekhov,21,Right Winger,Dinamo Moscow,Loan,in,0,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Aleksandr Sobolev,22,Centre-Forward,Enisey,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Vitali Shilnikov,21,Goalkeeper,Syzran-2003,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Ilya Viznovich,21,Centre-Forward,Luch,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Agustín Rogel,21,Centre-Back,Toulouse,£2.25m,out,2.25,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Ilya Viznovich,21,Centre-Forward,Shinnik,£63k,out,0.063,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Vitali Shilnikov,21,Goalkeeper,Nizhny Novgorod,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Denis Tkachuk,30,Left Midfield,Rotor Volgograd,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Ramil Sheydaev,23,Centre-Forward,Dinamo Moscow,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Miral Samardzic,32,Centre-Back,NK Olimpija,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Vanja Vucicevic,21,Centre-Forward,Sindjelic Bg,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Mohammed Rabiu,29,Defensive Midfield,Paris FC,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Mikhail Tikhonov,20,Right-Back,Khimki 2,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Pavel Yakovlev,28,Left Winger,Fakel Voronezh,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Aleksandr Samedov,35,Right Winger,Znamya Noginsk,Free transfer,out,NA,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Sergey Kornilenko,36,Centre-Forward,Retired,-,out,0,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Georgi Zotov,29,Right-Back,Orenburg,Loan,out,0,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Ali Gadzhibekov,30,Centre-Back,Nizhny Novgorod,Loan,out,0,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Vitali Denisov,32,Left-Back,Loko Moscow,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Roman Shishkin,32,Right-Back,Krasnodar,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+Krylya Sovetov Samara,Jano Ananidze,26,Attacking Midfield,Spartak Moscow,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+FK Ufa,Daniil Fomin,22,Defensive Midfield,Krasnodar 2,£252k,in,0.252,Premier Liga,2019,2019/2020
+FK Ufa,Nikolay Giorgobiani,21,Attacking Midfield,Chaika Pes.,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Ufa,Andrey Kozlov,30,Centre-Forward,Orenburg,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Ufa,Turgay Mokhbaliev,19,Right-Back,Spartak II,£8k,in,0.008,Premier Liga,2019,2019/2020
+FK Ufa,Kirill Folmer,19,Central Midfield,Spartak 2,?,in,NA,Premier Liga,2019,2019/2020
+FK Ufa,Denis Terentjev,27,Right-Back,Zenit S-Pb,Loan,in,0,Premier Liga,2019,2019/2020
+FK Ufa,Daniil Krugovoy,21,Left-Back,Zenit S-Pb,Loan,in,0,Premier Liga,2019,2019/2020
+FK Ufa,Danila Emeljanov,19,Central Midfield,FK Ufa 2,-,in,0,Premier Liga,2019,2019/2020
+FK Ufa,Artem Golubev,20,Defensive Midfield,Krasnodar,Loan,in,0,Premier Liga,2019,2019/2020
+FK Ufa,Igor Diveev,19,Centre-Back,CSKA Moscow,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FK Ufa,Erkebulan Seydakhmet,19,Centre-Forward,Levski Sofia,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FK Ufa,Dmitri Zhivoglyadov,25,Right-Back,Loko Moscow,£2.25m,out,2.25,Premier Liga,2019,2019/2020
+FK Ufa,Daniil Krugovoy,21,Left-Back,Zenit S-Pb,£1.80m,out,1.8,Premier Liga,2019,2019/2020
+FK Ufa,Igor Diveev,19,Centre-Back,CSKA Moscow,£1.35m,out,1.35,Premier Liga,2019,2019/2020
+FK Ufa,Sly,28,Centre-Forward,Dinamo Moscow,Loan fee:£1.35m,out,1.35,Premier Liga,2019,2019/2020
+FK Ufa,Erkebulan Seydakhmet,19,Centre-Forward,Kairat Almaty,£270k,out,0.27,Premier Liga,2019,2019/2020
+FK Ufa,Azamat Zaseev,31,Defensive Midfield,Alania Vl.,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Ufa,Ondrej Vanek,29,Central Midfield,Zbrojovka Brno,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Ufa,Veroljub Salatic,33,Defensive Midfield,Grasshoppers,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Ufa,Ivan Paurevic,28,Defensive Midfield,SV Sandhausen,?,out,NA,Premier Liga,2019,2019/2020
+FK Ufa,Igor Bezdenezhnykh,22,Central Midfield,Chaika Pes.,Loan,out,0,Premier Liga,2019,2019/2020
+FK Ufa,Timur Akmurzin,21,Goalkeeper,Rubin Kazan,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+FK Tambov,Soslan Takazov,26,Centre-Back,Armavir,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Tambov,Mikhail Kostyukov,27,Right Winger,Enisey,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Tambov,Maksim Osipenko,25,Centre-Back,Fakel Voronezh,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Tambov,Vladimir Sugrobov,22,Goalkeeper,Baltika,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Tambov,Guram Tetrashvili,30,Right-Back,Gomel,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Tambov,Vladimir Obukhov,27,Centre-Forward,Sochi,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Tambov,Ishkhan Geloyan,26,Left Winger,Shinnik,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Tambov,Mohamed Konaté,21,Centre-Forward,Pyunik Erevan,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Tambov,Ade,36,Centre-Back,Orenburg,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Tambov,Vladislav Kulik,34,Central Midfield,Anzhi,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Tambov,Cédric Gogoua,24,Centre-Back,Daugavpils,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Tambov,Usman Mohammed,25,Right Winger,Pyunik Erevan,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Tambov,Ivan Markelov,31,Left Winger,Anzhi,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Tambov,Sulley Muniru,26,Central Midfield,Dinamo Minsk,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Tambov,Pavel Karasev,26,Defensive Midfield,Anzhi,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FK Tambov,Georgi Melkadze,22,Second Striker,Spartak Moscow,Loan,in,0,Premier Liga,2019,2019/2020
+FK Tambov,Evgeni Shlyakov,28,Right-Back,SKA Khabarovsk,"End of loanJun 30, 2020",in,0,Premier Liga,2019,2019/2020
+FK Tambov,Aleksey Gritsaenko,24,Centre-Back,Krasnodar,Loan,in,0,Premier Liga,2019,2019/2020
+FK Tambov,Artem Arkhipov,23,Centre-Forward,Gorodeya,"End of loanDec 31, 2019",in,0,Premier Liga,2019,2019/2020
+FK Tambov,Sergey Arkhipov,22,Centre-Forward,Zorkiy,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FK Tambov,Konstantin Garbuz,31,Left-Back,SKA Khabarovsk,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FK Tambov,Aleksey Baev,26,Centre-Forward,FK Ryazan,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FK Tambov,Artem Arkhipov,22,Centre-Forward,Zorkiy,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FK Tambov,Dmitri Vyalov,20,Goalkeeper,Syzran-2003,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FK Tambov,Oleg Smirnov,28,Goalkeeper,Tom Tomsk,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FK Tambov,Ivan Sergeev,24,Centre-Forward,Torpedo Moscow,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FK Tambov,Svyatoslav Shabanov,26,Centre-Back,Zorkiy,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FK Tambov,Andrey Chasovskikh,28,Centre-Forward,Luch,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FK Tambov,Cédric Gogoua,25,Centre-Back,CSKA Moscow,£360k,out,0.36,Premier Liga,2019,2019/2020
+FK Tambov,Dmitri Chistyakov,25,Centre-Back,Rostov,£113k,out,0.113,Premier Liga,2019,2019/2020
+FK Tambov,Mikhail Mishchenko,30,Left-Back,Torpedo Zhodino,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Tambov,Oleg Smirnov,28,Goalkeeper,Mordovia,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Tambov,Konstantin Garbuz,31,Left-Back,Enisey,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Tambov,Aleksandr Gorbatyuk,34,Centre-Back,Tom Tomsk,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Tambov,Andrey Murnin,34,Central Midfield,Khimki,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Tambov,Mladen Kascelan,36,Defensive Midfield,Baltika,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Tambov,Svyatoslav Shabanov,26,Centre-Back,Chita,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Tambov,Mohamed Konaté,21,Centre-Forward,Khimki,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Tambov,Ivan Sergeev,24,Centre-Forward,Torpedo Moscow,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Tambov,Denis Vavilin,36,Goalkeeper,Tom Tomsk,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Tambov,Ilnur Alshin,25,Right Winger,Baltika,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Tambov,Sekou Doumbia,25,Defensive Midfield,Armavir,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Tambov,Aleksey Baev,26,Centre-Forward,Veles Moskau,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Tambov,Dmitri Vyalov,20,Goalkeeper,Zenit Izhevsk,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Tambov,Evgeni Ovsienko,31,Centre-Back,Baltika,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FK Tambov,Andrey Yakovlev,24,Left-Back,Without Club,?,out,NA,Premier Liga,2019,2019/2020
+FK Tambov,Sergey Arkhipov,22,Centre-Forward,M. Lipetsk,Loan,out,0,Premier Liga,2019,2019/2020
+FK Tambov,Evgeni Shlyakov,27,Right-Back,SKA Khabarovsk,Loan,out,0,Premier Liga,2019,2019/2020
+FK Tambov,Evgeni Ragulkin,19,Right Winger,Tyumen,Loan,out,0,Premier Liga,2019,2019/2020
+FK Tambov,Vagiz Galiulin,31,Right Midfield,Neftekhimik,Loan,out,0,Premier Liga,2019,2019/2020
+FK Tambov,Ivan Markelov,31,Left Winger,Without Club,-,out,0,Premier Liga,2019,2019/2020
+FK Tambov,Maksim Lazutkin,20,Attacking Midfield,Without Club,-,out,0,Premier Liga,2019,2019/2020
+FK Tambov,Artem Arkhipov,22,Centre-Forward,Gorodeya,Loan,out,0,Premier Liga,2019,2019/2020
+FK Tambov,Vladimir Obukhov,27,Centre-Forward,Mordovia,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+FK Tambov,Sergey Zuykov,25,Right-Back,Zenit 2 S-Pb,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+FC Sochi,Miha Mevlja,29,Centre-Back,Zenit S-Pb,£3.60m,in,3.6,Premier Liga,2019,2019/2020
+FC Sochi,Dmitri Poloz,27,Centre-Forward,Zenit S-Pb,£2.70m,in,2.7,Premier Liga,2019,2019/2020
+FC Sochi,Elmir Nabiullin,24,Left-Back,Zenit S-Pb,£2.70m,in,2.7,Premier Liga,2019,2019/2020
+FC Sochi,Ibragim Tsallagov,28,Defensive Midfield,Zenit S-Pb,£720k,in,0.72,Premier Liga,2019,2019/2020
+FC Sochi,Ivan Novoseltsev,27,Centre-Back,Zenit S-Pb,£630k,in,0.63,Premier Liga,2019,2019/2020
+FC Sochi,Christian Noboa,34,Central Midfield,Zenit S-Pb,£450k,in,0.45,Premier Liga,2019,2019/2020
+FC Sochi,Vladimir Obukhov,27,Centre-Forward,Mordovia,£90k,in,0.09,Premier Liga,2019,2019/2020
+FC Sochi,Aleksandr Karapetyan,31,Centre-Forward,Pr. Niederkorn,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FC Sochi,Evgeni Frolov,31,Goalkeeper,Orenburg,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FC Sochi,Fedor Kudryashov,32,Left-Back,Basaksehir,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FC Sochi,Anton Zabolotny,28,Centre-Forward,Zenit S-Pb,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FC Sochi,Soslan Dzhanaev,32,Goalkeeper,Miedz Legnica,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FC Sochi,Timofey Margasov,27,Right-Back,Loko Moscow,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FC Sochi,Pavel Shakuro,21,Left-Back,Tyumen,Free transfer,in,NA,Premier Liga,2019,2019/2020
+FC Sochi,Andrey Mostovoy,21,Left Winger,Zenit 2 S-Pb,Loan,in,0,Premier Liga,2019,2019/2020
+FC Sochi,Maksim Sklyarov,21,Right-Back,Volga Uljanovsk,"End of loanJun 30, 2019",in,0,Premier Liga,2019,2019/2020
+FC Sochi,Roman Kosyanchuk,25,Right Winger,Fakel Voronezh,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FC Sochi,Andrey Zajtsev,28,Goalkeeper,Chernomorets N.,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FC Sochi,Yan Kazaev,27,Central Midfield,Baltika,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FC Sochi,Igor Gorbunov,24,Left Midfield,Rotor Volgograd,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FC Sochi,Andrey Bychkov,30,Centre-Back,Chaika Pes.,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FC Sochi,Valeri Pochivalin,27,Left-Back,Khimki,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FC Sochi,Evgeni Pesegov,30,Central Midfield,Rotor Volgograd,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FC Sochi,Arkadi Kalaydzhyan,26,Defensive Midfield,Ararat Yerevan,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FC Sochi,Steven Alfred,21,Centre-Forward,Pyunik Erevan,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FC Sochi,Nikita Salamatov,25,Central Midfield,Luch,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FC Sochi,Vladimir Obukhov,27,Centre-Forward,Tambov,Free transfer,out,NA,Premier Liga,2019,2019/2020
+FC Sochi,Rostislav Soldatenko,22,Goalkeeper,Alania Vl.,Loan,out,0,Premier Liga,2019,2019/2020
+FC Sochi,Maksim Sklyarov,21,Right-Back,Without Club,Loan,out,0,Premier Liga,2019,2019/2020
+FC Sochi,Timofey Margasov,27,Right-Back,Loko Moscow,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+FC Sochi,Alan Kasaev,33,Left Winger,Loko Moscow,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020
+FC Sochi,Nikolay Obolskiy,22,Centre-Forward,Dinamo Moscow,"End of loanJun 30, 2019",out,0,Premier Liga,2019,2019/2020

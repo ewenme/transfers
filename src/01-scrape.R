@@ -15,6 +15,12 @@ epl_transfers <- map_dfr(
   league_name = "premier-league", league_id = "GB1"
   )
 
+# eng championship transfers
+championship_transfers <- map_dfr(
+  seasons, scrape_season_transfers, 
+  league_name = "championship", league_id = "GB2"
+)
+
 # la liga transfers
 laliga_transfers <- map_dfr(
   seasons, scrape_season_transfers, 
@@ -38,12 +44,6 @@ ligue1_transfers <- map_dfr(
   seasons, scrape_season_transfers, 
   league_name = "ligue-1", league_id = "FR1"
   )
-
-# eng championship transfers
-championship_transfers <- map_dfr(
-  seasons, scrape_season_transfers, 
-  league_name = "championship", league_id = "GB2"
-)
 
 # prt liga nos transfers
 liga_nos_transfers <- map_dfr(
