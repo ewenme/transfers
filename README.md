@@ -27,7 +27,7 @@ Common variables:
 -   `club_involved_name` (other club involved in transfer)
 -   `fee` (raw transfer fee information)
 -   `transfer_movement` (transfer in/out)
--   `fee_cleaned` (transformed `fee`)
+-   `fee_cleaned` (numeric `fee`, GBP)
 -   `league_name` (league)
 -   `year` (year)
 -   `season` (season, interpolated from `year`)
