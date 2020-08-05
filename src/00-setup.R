@@ -25,7 +25,7 @@ scrape_season_transfers <- function(league_id, league_name, season_id) {
   clubs <- transfers_html %>% 
     html_nodes(".table-header") %>%
     html_text() 
-  clubs <- clubs[2:length(clubs)]
+  clubs <- clubs[4:length(clubs)-1]
   
   # get leagues transfers
   transfers <- html_table(transfers_html, ".responsive-table", 
