@@ -1,22 +1,14 @@
-# scrape a league seasons transfers
-scrape_season_transfers <- function(league_id, league_name, season_id) {
-  
-  # scrape ------------------------------------------------------------------
-  
-  # set transfers url
-  transfers_url <- glue('https://www.transfermarkt.co.uk/{league_name}/transfers/wettbewerb/{league_id}/saison_id/{season_id}')
-  
-  # read page
-  transfers_html <- read_html(transfers_url)
+# extract transfers data from page
+extract_transfers <- function(page) {
   
   # isolate leagues club names
-  clubs <- transfers_html %>% 
+  clubs <- page %>% 
     html_nodes(".table-header") %>%
     html_text() 
   clubs <- clubs[4:length(clubs)-1]
   
   # get leagues transfers
-  transfers <- html_table(transfers_html, ".responsive-table", 
+  transfers <- html_table(page, ".responsive-table", 
                           header = TRUE, fill = TRUE, trim = TRUE)
   
   # return elements with expected transfer table form
@@ -24,13 +16,11 @@ scrape_season_transfers <- function(league_id, league_name, season_id) {
   transfers <- transfers[cond]
   
   # get player names (which get botched in the table above)
-  player_names <- transfers_html %>% 
+  player_names <- page %>% 
     html_nodes(".responsive-table") %>% 
     html_nodes("[class='spielprofil_tooltip']") %>% 
     html_attr("title") %>% 
     .[c(TRUE, FALSE)]
-  
-  # tidy --------------------------------------------------------------------
   
   clubs_tidy <- rep(clubs, each = 2)
   
@@ -46,8 +36,8 @@ scrape_season_transfers <- function(league_id, league_name, season_id) {
     data$transfer_movement <- case_when(
       "in" %in% colnames(data) ~ "in",
       "out" %in% colnames(data) ~ "out"
-      )
-
+    )
+    
     # deal with buy/sell data structure differences
     if ("in" %in% colnames(data)) {
       
@@ -61,10 +51,10 @@ scrape_season_transfers <- function(league_id, league_name, season_id) {
       
       data <- rename(data, player_name='out', 
                      club_involved_name=joined_2)
-        
+      
       data$club_name <- clubs_tidy[[x]]
       data$joined <- NULL
-
+      
     }
     
     # select columns to keep
@@ -78,18 +68,47 @@ scrape_season_transfers <- function(league_id, league_name, season_id) {
     
   })
   
-  # clean -------------------------------------------------------------------
+  # remove duplicate player name thing
+  transfers_tidy$player_name <- player_names
   
-  transfers_tidy <- transfers_tidy %>% 
+  return(transfers_tidy)
+  
+}
+
+# scrape a league seasons transfers
+scrape_season_transfers <- function(league_id, league_name, season_id) {
+  
+  summer_transfers_url <- glue(
+    "https://www.transfermarkt.co.uk/{league_name}/transfers/wettbewerb/{league_id}/plus/?saison_id={season_id}&s_w=s"
+    )
+  winter_transfers_url <- glue(
+    "https://www.transfermarkt.co.uk/{league_name}/transfers/wettbewerb/{league_id}/plus/?saison_id={season_id}&s_w=w"
+  )
+  
+  # read page
+  summer_transfers_page <- read_html(summer_transfers_url)
+  winter_transfers_page <- read_html(winter_transfers_url)
+  
+  # get transfers data
+  summer_transfers <- extract_transfers(summer_transfers_page)
+  winter_transfers <- extract_transfers(winter_transfers_page)
+  
+  # mark period
+  summer_transfers$transfer_period <- "Summer"
+  winter_transfers$transfer_period <- "Winter"
+  
+  # merge 
+  transfers <- bind_rows(summer_transfers, winter_transfers)
+  
+  # tidy --------------------------------------------------------------------
+  
+  transfers_tidy <- transfers %>% 
     # remove whitespace from chr vars
     mutate_if(is.character, str_trim) %>% 
     # remove clubs w/ no moves
-    filter(!club_name %in% c("No departures", "No arrivals"),
-           !player_name %in% c("No departures", "No arrivals"))
+    filter(!club_name %in% c("No departures", "No arrivals", "No new arrivals"),
+           !player_name %in% c("No departures", "No arrivals", "No new arrivals"))
   
-  # remove duplicate player name thing
-  transfers_tidy$player_name <- player_names
-
   # deal with fees
   transfers_tidy <- mutate(transfers_tidy, fee_cleaned = case_when(
     str_sub(fee, -1, -1) == "m" ~ suppressWarnings(as.numeric(str_extract(fee, "\\d+\\.*\\d*"))),
