@@ -1,0 +1,447 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,fee_cleaned,league_name,year,season
+Paris Saint-Germain,Mauro Icardi,27,Centre-Forward,Inter,£45.00m,in,45,Ligue 1,2020,2020/2021
+Paris Saint-Germain,Sergio Rico,27,Goalkeeper,Sevilla FC,£5.40m,in,5.4,Ligue 1,2020,2020/2021
+Paris Saint-Germain,Alessandro Florenzi,29,Right-Back,AS Roma,Loan fee:£900Th.,in,0.9,Ligue 1,2020,2020/2021
+Paris Saint-Germain,Kays Ruiz-Atil,17,Attacking Midfield,Paris SG U19,-,in,0,Ligue 1,2020,2020/2021
+Paris Saint-Germain,Arnaud Kalimuendo,18,Centre-Forward,Paris SG U19,-,in,0,Ligue 1,2020,2020/2021
+Paris Saint-Germain,Timothée Pembélé,17,Centre-Back,Paris SG U19,-,in,0,Ligue 1,2020,2020/2021
+Paris Saint-Germain,Alphonse Areola,27,Goalkeeper,Real Madrid,"End of loanAug 11, 2020",in,0,Ligue 1,2020,2020/2021
+Paris Saint-Germain,Loïc Mbe Soh,19,Centre-Back,Nottm Forest,£4.50m,out,4.5,Ligue 1,2020,2020/2021
+Paris Saint-Germain,Thomas Meunier,28,Right-Back,Bor. Dortmund,Free transfer,out,0,Ligue 1,2020,2020/2021
+Paris Saint-Germain,Tanguy Nianzou,18,Centre-Back,Bayern Munich,Free transfer,out,0,Ligue 1,2020,2020/2021
+Paris Saint-Germain,Adil Aouchiche,18,Attacking Midfield,Saint-Étienne,Free transfer,out,0,Ligue 1,2020,2020/2021
+Paris Saint-Germain,Thiago Silva,35,Centre-Back,Chelsea,Free transfer,out,0,Ligue 1,2020,2020/2021
+Paris Saint-Germain,Alphonse Areola,27,Goalkeeper,Fulham,Loan,out,0,Ligue 1,2020,2020/2021
+Paris Saint-Germain,Edinson Cavani,33,Centre-Forward,Without Club,-,out,0,Ligue 1,2020,2020/2021
+Paris Saint-Germain,Eric Maxim Choupo-Moting,31,Centre-Forward,Without Club,-,out,0,Ligue 1,2020,2020/2021
+Paris Saint-Germain,Mauro Icardi,27,Centre-Forward,Inter,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+Olympique Marseille,Álvaro González,30,Centre-Back,Villarreal,£3.60m,in,3.6,Ligue 1,2020,2020/2021
+Olympique Marseille,Leonardo Balerdi,21,Centre-Back,Bor. Dortmund,Loan fee:£900Th.,in,0.9,Ligue 1,2020,2020/2021
+Olympique Marseille,Yuto Nagatomo,33,Left-Back,Galatasaray,Free transfer,in,0,Ligue 1,2020,2020/2021
+Olympique Marseille,Pape Gueye,21,Defensive Midfield,AC Le Havre,Free transfer,in,0,Ligue 1,2020,2020/2021
+Olympique Marseille,Jorès Rahou,17,Attacking Midfield,Marseille B,-,in,0,Ligue 1,2020,2020/2021
+Olympique Marseille,Nassim Ahmed,19,Defensive Midfield,Marseille B,-,in,0,Ligue 1,2020,2020/2021
+Olympique Marseille,Ugo Bertelli,16,Central Midfield,Marseille Yth,-,in,0,Ligue 1,2020,2020/2021
+Olympique Marseille,Cheick Souaré,17,Central Midfield,Marseille U19,-,in,0,Ligue 1,2020,2020/2021
+Olympique Marseille,Richecard Richard,18,Right-Back,Marseille U19,-,in,0,Ligue 1,2020,2020/2021
+Olympique Marseille,Aaron Kamardin,18,Centre-Back,Marseille U19,-,in,0,Ligue 1,2020,2020/2021
+Olympique Marseille,Konstantinos Mitroglou,32,Centre-Forward,PSV Eindhoven,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+Olympique Marseille,Christopher Rocchia,22,Left-Back,FC Sochaux,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+Olympique Marseille,Grégory Sertic,30,Defensive Midfield,Without Club,-,out,0,Ligue 1,2020,2020/2021
+Olympique Marseille,Álvaro González,30,Centre-Back,Villarreal,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+Stade Rennais FC,Serhou Guirassy,24,Centre-Forward,Amiens SC,£13.50m,in,13.5,Ligue 1,2020,2020/2021
+Stade Rennais FC,Martin Terrier,23,Left Winger,Olympique Lyon,£10.80m,in,10.8,Ligue 1,2020,2020/2021
+Stade Rennais FC,Nayef Aguerd,24,Centre-Back,Dijon,£3.60m,in,3.6,Ligue 1,2020,2020/2021
+Stade Rennais FC,Lilian Brassier,20,Centre-Back,Rennes B,-,in,0,Ligue 1,2020,2020/2021
+Stade Rennais FC,Adrien Truffert,18,Left-Back,Rennes B,-,in,0,Ligue 1,2020,2020/2021
+Stade Rennais FC,Georginio Rutter,18,Centre-Forward,Rennes B,-,in,0,Ligue 1,2020,2020/2021
+Stade Rennais FC,Brandon Soppy,18,Right-Back,Rennes B,-,in,0,Ligue 1,2020,2020/2021
+Stade Rennais FC,Namakoro Diallo,24,Left-Back,US Avranches,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+Stade Rennais FC,Denis Will Poha,23,Central Midfield,Vit. Guimarães,"End of loanJul 31, 2020",in,0,Ligue 1,2020,2020/2021
+Stade Rennais FC,Jordan Tell,23,Centre-Forward,SM Caen,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+Stade Rennais FC,Armand Laurienté,21,Right Winger,FC Lorient,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+Stade Rennais FC,Hakim El Mokeddem,21,Attacking Midfield,Stade Lavallois,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+Stade Rennais FC,Souleyman Doumbia,23,Left-Back,SCO Angers,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+Stade Rennais FC,Souleyman Doumbia,23,Left-Back,SCO Angers,£2.70m,out,2.7,Ligue 1,2020,2020/2021
+Stade Rennais FC,Armand Laurienté,21,Right Winger,FC Lorient,£2.70m,out,2.7,Ligue 1,2020,2020/2021
+Stade Rennais FC,Denis Will Poha,23,Central Midfield,Vit. Guimarães,£270Th.,out,0.27,Ligue 1,2020,2020/2021
+Stade Rennais FC,Jakob Johansson,30,Central Midfield,IFK Göteborg,Free transfer,out,0,Ligue 1,2020,2020/2021
+Stade Rennais FC,Jérémy Morel,36,Centre-Back,FC Lorient,Free transfer,out,0,Ligue 1,2020,2020/2021
+Stade Rennais FC,Hakim El Mokeddem,21,Attacking Midfield,FC Sète 34,Loan,out,0,Ligue 1,2020,2020/2021
+Stade Rennais FC,Jordan Tell,23,Centre-Forward,Clermont Foot,Free transfer,out,0,Ligue 1,2020,2020/2021
+Stade Rennais FC,Metehan Güçlü,21,Centre-Forward,Valenciennes FC,Loan,out,0,Ligue 1,2020,2020/2021
+Stade Rennais FC,Rafik Guitane,21,Attacking Midfield,Marítimo,Loan,out,0,Ligue 1,2020,2020/2021
+Stade Rennais FC,Jordan Siebatcheu,24,Centre-Forward,BSC Young Boys,Loan,out,0,Ligue 1,2020,2020/2021
+Stade Rennais FC,Riffi Mandanda,27,Goalkeeper,Without Club,-,out,0,Ligue 1,2020,2020/2021
+Stade Rennais FC,Namakoro Diallo,24,Left-Back,Rennes B,-,out,0,Ligue 1,2020,2020/2021
+Stade Rennais FC,Joris Gnagnon,23,Centre-Back,Sevilla FC,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+LOSC Lille,Jonathan David,20,Attacking Midfield,KAA Gent,£28.80m,in,28.8,Ligue 1,2020,2020/2021
+LOSC Lille,Orestis Karnezis,35,Goalkeeper,SSC Napoli,£4.50m,in,4.5,Ligue 1,2020,2020/2021
+LOSC Lille,Isaac Lihadji,18,Right Winger,Marseille B,£270Th.,in,0.27,Ligue 1,2020,2020/2021
+LOSC Lille,Burak Yilmaz,35,Centre-Forward,Besiktas,Free transfer,in,0,Ligue 1,2020,2020/2021
+LOSC Lille,Eugenio Pizzuto,18,Defensive Midfield,CF Pachuca U20,Free transfer,in,0,Ligue 1,2020,2020/2021
+LOSC Lille,Angel Gomes,19,Attacking Midfield,Man Utd U23,Free transfer,in,0,Ligue 1,2020,2020/2021
+LOSC Lille,Sven Botman,20,Centre-Back,Ajax U21,Loan,in,0,Ligue 1,2020,2020/2021
+LOSC Lille,Cheikh Niasse,20,Defensive Midfield,LOSC Lille B,-,in,0,Ligue 1,2020,2020/2021
+LOSC Lille,Fadiga Ouattara,18,Centre-Forward,LOSC Lille B,-,in,0,Ligue 1,2020,2020/2021
+LOSC Lille,Lucas Chevalier,18,Goalkeeper,LOSC Lille B,-,in,0,Ligue 1,2020,2020/2021
+LOSC Lille,Júnior Alonso,27,Centre-Back,Boca Juniors,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+LOSC Lille,Hervé Koffi,23,Goalkeeper,Belenenses SAD,"End of loanJul 31, 2020",in,0,Ligue 1,2020,2020/2021
+LOSC Lille,Kouadio-Yves Dabila,23,Centre-Back,Cercle Brugge,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+LOSC Lille,Show,21,Defensive Midfield,Belenenses SAD,"End of loanJul 31, 2020",in,0,Ligue 1,2020,2020/2021
+LOSC Lille,Rominigue Kouamé,23,Central Midfield,Troyes,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+LOSC Lille,Adama Soumaoro,28,Centre-Back,Genoa,"End of loanAug 31, 2020",in,0,Ligue 1,2020,2020/2021
+LOSC Lille,Victor Osimhen,21,Centre-Forward,SSC Napoli,£63.00m,out,63,Ligue 1,2020,2020/2021
+LOSC Lille,Gabriel Magalhães,22,Centre-Back,Arsenal,£23.40m,out,23.4,Ligue 1,2020,2020/2021
+LOSC Lille,Júnior Alonso,27,Centre-Back,Atlético-MG,£2.70m,out,2.7,Ligue 1,2020,2020/2021
+LOSC Lille,Nico Gaitán,32,Attacking Midfield,Braga,Free transfer,out,0,Ligue 1,2020,2020/2021
+LOSC Lille,Hervé Koffi,23,Goalkeeper,Mouscron,Loan,out,0,Ligue 1,2020,2020/2021
+LOSC Lille,Saad Agouzoul,22,Centre-Back,Mouscron,Loan,out,0,Ligue 1,2020,2020/2021
+LOSC Lille,Kouadio-Yves Dabila,23,Centre-Back,Mouscron,Loan,out,0,Ligue 1,2020,2020/2021
+LOSC Lille,Loïc Rémy,33,Centre-Forward,C. Rizespor,Free transfer,out,0,Ligue 1,2020,2020/2021
+LOSC Lille,Rominigue Kouamé,23,Central Midfield,Troyes,Loan,out,0,Ligue 1,2020,2020/2021
+LOSC Lille,Angel Gomes,19,Attacking Midfield,Boavista,Loan,out,0,Ligue 1,2020,2020/2021
+LOSC Lille,Léo Jardim,25,Goalkeeper,Boavista,Loan,out,0,Ligue 1,2020,2020/2021
+LOSC Lille,Show,21,Defensive Midfield,Boavista,Loan,out,0,Ligue 1,2020,2020/2021
+OGC Nice,Robson Bambu,22,Centre-Back,Athletico-PR,£7.20m,in,7.2,Ligue 1,2020,2020/2021
+OGC Nice,Amine Gouiri,20,Centre-Forward,Olympique Lyon,£6.30m,in,6.3,Ligue 1,2020,2020/2021
+OGC Nice,Jordan Lotomba,21,Right-Back,BSC Young Boys,£5.40m,in,5.4,Ligue 1,2020,2020/2021
+OGC Nice,Hassane Kamara,26,Left-Back,Stade Reims,£3.60m,in,3.6,Ligue 1,2020,2020/2021
+OGC Nice,Morgan Schneiderlin,30,Defensive Midfield,Everton,£2.00m,in,2,Ligue 1,2020,2020/2021
+OGC Nice,Flavius Daniliuc,19,Centre-Back,FC Bayern U19,Free transfer,in,0,Ligue 1,2020,2020/2021
+OGC Nice,Rony Lopes,24,Right Winger,Sevilla FC,Loan,in,0,Ligue 1,2020,2020/2021
+OGC Nice,Teddy Boulhendi,19,Goalkeeper,OGC Nice B,-,in,0,Ligue 1,2020,2020/2021
+OGC Nice,Ibrahim Cissé,21,Centre-Back,OGC Nice B,-,in,0,Ligue 1,2020,2020/2021
+OGC Nice,Pedro Brazão,17,Left Winger,OGC Nice B,-,in,0,Ligue 1,2020,2020/2021
+OGC Nice,Yanis Hamache,20,Left-Back,OGC Nice B,-,in,0,Ligue 1,2020,2020/2021
+OGC Nice,Evann Guessand,19,Centre-Forward,OGC Nice B,-,in,0,Ligue 1,2020,2020/2021
+OGC Nice,Ihsan Sacko,22,Attacking Midfield,Troyes,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+OGC Nice,Jean-Victor Makengo,22,Central Midfield,Toulouse,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+OGC Nice,Eddy Sylvestre,20,Right Winger,AJ Auxerre,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+OGC Nice,Racine Coly,24,Left-Back,Famalicão,"End of loanJul 31, 2020",in,0,Ligue 1,2020,2020/2021
+OGC Nice,Dan Ndoye,19,Right Winger,Lausanne-Sport,"End of loanAug 1, 2020",in,0,Ligue 1,2020,2020/2021
+OGC Nice,Ignatius Ganago,21,Centre-Forward,Lens,£5.40m,out,5.4,Ligue 1,2020,2020/2021
+OGC Nice,Christophe Hérelle,27,Centre-Back,Stade Brest 29,£3.60m,out,3.6,Ligue 1,2020,2020/2021
+OGC Nice,Adrien Tamèze,26,Defensive Midfield,Hellas Verona,£3.15m,out,3.15,Ligue 1,2020,2020/2021
+OGC Nice,Ibrahim Cissé,21,Centre-Back,LB Châteauroux,Loan,out,0,Ligue 1,2020,2020/2021
+OGC Nice,Malang Sarr,21,Centre-Back,Chelsea,Free transfer,out,0,Ligue 1,2020,2020/2021
+OGC Nice,Ihsan Sacko,23,Attacking Midfield,Cosenza,Loan,out,0,Ligue 1,2020,2020/2021
+OGC Nice,Gautier Lloris,24,Centre-Back,AJ Auxerre,?,out,NA,Ligue 1,2020,2020/2021
+OGC Nice,Yanis Hamache,21,Left-Back,Boavista,?,out,NA,Ligue 1,2020,2020/2021
+OGC Nice,Yannis Clementia,22,Goalkeeper,Without Club,-,out,0,Ligue 1,2020,2020/2021
+OGC Nice,Arnaud Lusamba,23,Central Midfield,Without Club,-,out,0,Ligue 1,2020,2020/2021
+OGC Nice,Adam Ounas,23,Right Winger,SSC Napoli,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+OGC Nice,Riza Durmisi,26,Left-Back,Lazio,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+OGC Nice,Moussa Wagué,21,Right-Back,FC Barcelona,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+Stade Reims,Valon Berisha,27,Central Midfield,Lazio,£3.87m,in,3.87,Ligue 1,2020,2020/2021
+Stade Reims,Anastasios Donis,23,Centre-Forward,VfB Stuttgart,£3.60m,in,3.6,Ligue 1,2020,2020/2021
+Stade Reims,Fraser Hornby,20,Attacking Midfield,Everton U23,£1.80m,in,1.8,Ligue 1,2020,2020/2021
+Stade Reims,Thibault De Smet,22,Left-Back,Sint-Truiden,£630Th.,in,0.63,Ligue 1,2020,2020/2021
+Stade Reims,Ilan Kebbal,21,Attacking Midfield,Stade Reims B,-,in,0,Ligue 1,2020,2020/2021
+Stade Reims,Dialy Ndiaye,20,Goalkeeper,Stade Reims B,-,in,0,Ligue 1,2020,2020/2021
+Stade Reims,Wout Faes,22,Centre-Back,KV Oostende,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+Stade Reims,Axel Disasi,22,Centre-Back,Monaco,£11.70m,out,11.7,Ligue 1,2020,2020/2021
+Stade Reims,Hassane Kamara,26,Left-Back,OGC Nice,£3.60m,out,3.6,Ligue 1,2020,2020/2021
+Stade Reims,Nolan Mbemba,25,Defensive Midfield,AC Le Havre,Free transfer,out,0,Ligue 1,2020,2020/2021
+Stade Reims,Nicolas Lemaître,23,Goalkeeper,Quevilly-Rouen,Loan,out,0,Ligue 1,2020,2020/2021
+Stade Reims,Ilan Kebbal,21,Attacking Midfield,USL Dunkerque,Loan,out,0,Ligue 1,2020,2020/2021
+Stade Reims,Timothé Nkada,21,Centre-Forward,Aalborg BK,Loan,out,0,Ligue 1,2020,2020/2021
+Stade Reims,Alaixys Romao,36,Defensive Midfield,Guingamp,Free transfer,out,0,Ligue 1,2020,2020/2021
+Stade Reims,Anastasios Donis,23,Centre-Forward,VfB Stuttgart,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+Olympique Lyon,Karl Toko Ekambi,27,Centre-Forward,Villarreal,£10.35m,in,10.35,Ligue 1,2020,2020/2021
+Olympique Lyon,Cenk Özkacar,19,Centre-Back,Altay SK,£1.35m,in,1.35,Ligue 1,2020,2020/2021
+Olympique Lyon,Julian Pollersbeck,26,Goalkeeper,Hamburger SV,£225Th.,in,0.225,Ligue 1,2020,2020/2021
+Olympique Lyon,Boris Essele,20,Goalkeeper,Amiens SC,?,in,NA,Ligue 1,2020,2020/2021
+Olympique Lyon,Yaya Soumaré,20,Right Winger,Olymp. Lyon B,-,in,0,Ligue 1,2020,2020/2021
+Olympique Lyon,Melvin Bard,19,Left-Back,Olymp. Lyon B,-,in,0,Ligue 1,2020,2020/2021
+Olympique Lyon,Sinaly Diomandé,19,Centre-Back,Olymp. Lyon B,-,in,0,Ligue 1,2020,2020/2021
+Olympique Lyon,Lenny Pintor,19,Centre-Forward,Troyes,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+Olympique Lyon,Pape Cheikh,22,Central Midfield,Celta de Vigo,"End of loanJul 20, 2020",in,0,Ligue 1,2020,2020/2021
+Olympique Lyon,Tino Kadewere,24,Centre-Forward,AC Le Havre,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+Olympique Lyon,Bertrand Traoré,25,Right Winger,Aston Villa,£16.56m,out,16.56,Ligue 1,2020,2020/2021
+Olympique Lyon,Martin Terrier,23,Left Winger,Stade Rennais,£10.80m,out,10.8,Ligue 1,2020,2020/2021
+Olympique Lyon,Amine Gouiri,20,Centre-Forward,OGC Nice,£6.30m,out,6.3,Ligue 1,2020,2020/2021
+Olympique Lyon,Oumar Solet,20,Centre-Back,RB Salzburg,£4.05m,out,4.05,Ligue 1,2020,2020/2021
+Olympique Lyon,Kenny Tete,24,Right-Back,Fulham,£2.88m,out,2.88,Ligue 1,2020,2020/2021
+Olympique Lyon,Marçal,31,Left-Back,Wolves,£1.80m,out,1.8,Ligue 1,2020,2020/2021
+Olympique Lyon,Ciprian Tatarusanu,34,Goalkeeper,AC Milan,£450Th.,out,0.45,Ligue 1,2020,2020/2021
+Olympique Lyon,Rafael,30,Right-Back,Basaksehir,Free transfer,out,0,Ligue 1,2020,2020/2021
+Olympique Lyon,Lenny Pintor,20,Centre-Forward,Troyes,Loan,out,0,Ligue 1,2020,2020/2021
+Olympique Lyon,Boris Essele,20,Goalkeeper,Bourg-en-Bresse,Loan,out,0,Ligue 1,2020,2020/2021
+Olympique Lyon,Pape Cheikh,22,Central Midfield,Dijon,Loan,out,0,Ligue 1,2020,2020/2021
+Olympique Lyon,Mapou Yanga-Mbiwa,31,Centre-Back,Without Club,-,out,0,Ligue 1,2020,2020/2021
+Olympique Lyon,Karl Toko Ekambi,27,Centre-Forward,Villarreal,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+Olympique Lyon,Lucas Tousart,23,Defensive Midfield,Hertha BSC,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+Montpellier HSC,Stephy Mavididi,22,Centre-Forward,Juventus U23,£5.67m,in,5.67,Ligue 1,2020,2020/2021
+Montpellier HSC,Jonas Omlin,26,Goalkeeper,FC Basel,£5.40m,in,5.4,Ligue 1,2020,2020/2021
+Montpellier HSC,Samy Benchama,20,Central Midfield,HSC Montpellier B,-,in,0,Ligue 1,2020,2020/2021
+Montpellier HSC,Mathías Suárez,24,Right-Back,Nacional,"End of loanDec 31, 2020",in,0,Ligue 1,2020,2020/2021
+Montpellier HSC,Yanis Ammour,21,Centre-Forward,AS Béziers,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+Montpellier HSC,Killian Sanson,23,Defensive Midfield,Quevilly-Rouen,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+Montpellier HSC,Bastian Badu,20,Centre-Forward,FC Chambly,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+Montpellier HSC,Petar Skuletic,30,Centre-Forward,Sivasspor,"End of loanAug 3, 2020",in,0,Ligue 1,2020,2020/2021
+Montpellier HSC,Kylian Kaïboué,21,Defensive Midfield,FC Sète 34,Loan,out,0,Ligue 1,2020,2020/2021
+Montpellier HSC,Bilal Boutobba,21,Right Winger,Chamois Niort,Free transfer,out,0,Ligue 1,2020,2020/2021
+Montpellier HSC,Souleymane Camara,37,Right Winger,Retired,-,out,0,Ligue 1,2020,2020/2021
+Montpellier HSC,Gero Rulli,28,Goalkeeper,Real Sociedad,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+RC Strasbourg Alsace,Majeed Waris,28,Centre-Forward,FC Porto B,£1.80m,in,1.8,Ligue 1,2020,2020/2021
+RC Strasbourg Alsace,Mahame Siby,23,Defensive Midfield,Valenciennes FC,?,in,NA,Ligue 1,2020,2020/2021
+RC Strasbourg Alsace,Idriss Saadi,28,Centre-Forward,Cercle Brugge,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+RC Strasbourg Alsace,Moataz Zemzemi,20,Left Midfield,Club Africain,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+RC Strasbourg Alsace,Mehdi Chahiri,23,Left Winger,Red Star FC,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+RC Strasbourg Alsace,Louis Pelletier,20,Goalkeeper,Stade Reims B,Free transfer,out,0,Ligue 1,2020,2020/2021
+RC Strasbourg Alsace,Abdallah Ndour,26,Left-Back,FC Sochaux,Free transfer,out,0,Ligue 1,2020,2020/2021
+RC Strasbourg Alsace,Moataz Zemzemi,21,Left Midfield,US Avranches,Loan,out,0,Ligue 1,2020,2020/2021
+RC Strasbourg Alsace,Benjamin Corgnet,33,Attacking Midfield,Without Club,-,out,0,Ligue 1,2020,2020/2021
+RC Strasbourg Alsace,Jérémy Grimm,33,Defensive Midfield,Without Club,-,out,0,Ligue 1,2020,2020/2021
+RC Strasbourg Alsace,Majeed Waris,28,Centre-Forward,FC Porto B,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+AS Monaco,Kevin Volland,28,Centre-Forward,Bay. Leverkusen,£13.95m,in,13.95,Ligue 1,2020,2020/2021
+AS Monaco,Axel Disasi,22,Centre-Back,Stade Reims,£11.70m,in,11.7,Ligue 1,2020,2020/2021
+AS Monaco,Caio Henrique,23,Left-Back,Atlético Madrid,£7.20m,in,7.2,Ligue 1,2020,2020/2021
+AS Monaco,Anthony Musaba,19,Right Winger,NEC Nijmegen,£2.25m,in,2.25,Ligue 1,2020,2020/2021
+AS Monaco,Vito Mannone,32,Goalkeeper,Reading,Free transfer,in,0,Ligue 1,2020,2020/2021
+AS Monaco,Julien Serrano,23,Left-Back,Livingston FC,"End of loanMay 31, 2021",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Jordi Mboula,21,Right Winger,SD Huesca,"End of loanJul 21, 2020",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Enzo Millot,17,Central Midfield,Monaco B,-,in,0,Ligue 1,2020,2020/2021
+AS Monaco,Eliot Matazo,18,Central Midfield,Monaco B,-,in,0,Ligue 1,2020,2020/2021
+AS Monaco,Chrislain Matsima,18,Centre-Back,Monaco B,-,in,0,Ligue 1,2020,2020/2021
+AS Monaco,Lyle Foster,19,Centre-Forward,Cercle Brugge,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Loïc Badiashile,22,Goalkeeper,Amiens SC,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Gil Dias,23,Right Winger,Granada CF,"End of loanJul 20, 2020",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Adrien Bongiovanni,20,Attacking Midfield,Cercle Brugge,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Radoslaw Majecki,20,Goalkeeper,Legia Warszawa,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Julien Serrano,22,Left-Back,Cercle Brugge,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Henry Onyekuru,23,Left Winger,Galatasaray,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Strahinja Pavlovic,19,Centre-Back,Partizan,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Sofiane Diop,20,Attacking Midfield,FC Sochaux,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Adama Traoré,25,Central Midfield,FC Metz,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Kévin N'Doram,24,Defensive Midfield,FC Metz,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Jonathan Panzo,19,Centre-Back,Cercle Brugge,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Youssef Aït Bennasser,23,Central Midfield,G. Bordeaux,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Nacer Chadli,30,Left Winger,RSC Anderlecht,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Djibril Sidibé,28,Right-Back,Everton,"End of loanJul 31, 2020",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Pelé,28,Defensive Midfield,Reading,"End of loanAug 5, 2020",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Jean-Eudes Aholou,26,Defensive Midfield,Saint-Étienne,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Samuel Grandsir,23,Right Winger,Stade Brest 29,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Antonio Barreca,25,Left-Back,Genoa,"End of loanAug 31, 2020",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Giulian Biancone,20,Right-Back,Cercle Brugge,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Monaco,Kévin N'Doram,24,Defensive Midfield,FC Metz,£4.05m,out,4.05,Ligue 1,2020,2020/2021
+AS Monaco,Jonathan Panzo,19,Centre-Back,Dijon,£3.06m,out,3.06,Ligue 1,2020,2020/2021
+AS Monaco,Kamil Glik,32,Centre-Back,Benevento,£2.70m,out,2.7,Ligue 1,2020,2020/2021
+AS Monaco,Lyle Foster,19,Centre-Forward,Vit. Guimarães,£1.08m,out,1.08,Ligue 1,2020,2020/2021
+AS Monaco,Julien Serrano,22,Left-Back,Livingston FC,Loan,out,0,Ligue 1,2020,2020/2021
+AS Monaco,Moussa Sylla,20,Centre-Forward,FC Utrecht,Free transfer,out,0,Ligue 1,2020,2020/2021
+AS Monaco,Nacer Chadli,31,Left Winger,Basaksehir,?,out,NA,Ligue 1,2020,2020/2021
+AS Monaco,Jean Marcelin,20,Centre-Back,Cercle Brugge,Loan,out,0,Ligue 1,2020,2020/2021
+AS Monaco,Adrien Bongiovanni,20,Attacking Midfield,FC Den Bosch,Loan,out,0,Ligue 1,2020,2020/2021
+AS Monaco,Adama Traoré,25,Central Midfield,Hatayspor,?,out,NA,Ligue 1,2020,2020/2021
+AS Monaco,Jordi Mboula,21,Right Winger,RCD Mallorca,?,out,NA,Ligue 1,2020,2020/2021
+AS Monaco,Anthony Musaba,19,Right Winger,Cercle Brugge,Loan,out,0,Ligue 1,2020,2020/2021
+AS Monaco,Benjamin Henrichs,23,Right-Back,RB Leipzig,Loan,out,0,Ligue 1,2020,2020/2021
+AS Monaco,Diego Benaglio,36,Goalkeeper,Retired,-,out,0,Ligue 1,2020,2020/2021
+AS Monaco,Danijel Subasic,35,Goalkeeper,Without Club,-,out,0,Ligue 1,2020,2020/2021
+AS Monaco,Seydou Sy,24,Goalkeeper,Without Club,-,out,0,Ligue 1,2020,2020/2021
+AS Monaco,Islam Slimani,32,Centre-Forward,Leicester,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+AS Monaco,Adrien Silva,31,Central Midfield,Leicester,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+AS Monaco,Tiemoué Bakayoko,25,Defensive Midfield,Chelsea,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+SCO Angers,Paul Bernardoni,23,Goalkeeper,G. Bordeaux,£6.75m,in,6.75,Ligue 1,2020,2020/2021
+SCO Angers,Souleyman Doumbia,23,Left-Back,Stade Rennais,£2.70m,in,2.7,Ligue 1,2020,2020/2021
+SCO Angers,Enzo Ebosse,21,Left-Back,Le Mans FC,£450Th.,in,0.45,Ligue 1,2020,2020/2021
+SCO Angers,Loïs Diony,27,Centre-Forward,Saint-Étienne,Free transfer,in,0,Ligue 1,2020,2020/2021
+SCO Angers,Kevin Bemanga,22,Right Winger,Paris FC B,?,in,NA,Ligue 1,2020,2020/2021
+SCO Angers,Lassana Coulibaly,24,Central Midfield,Cercle Brugge,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+SCO Angers,Elhadji Pape Diaw,25,Centre-Back,SM Caen,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+SCO Angers,Harrison Manzala,26,Right Winger,Le Mans FC,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+SCO Angers,Baptiste Guillaume,25,Centre-Forward,Valenciennes FC,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+SCO Angers,Thomas Touré,26,Left Winger,FC Sochaux,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+SCO Angers,Vincent Pajot,29,Defensive Midfield,FC Metz,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+SCO Angers,Ibrahim Cissé,24,Centre-Back,Paris FC,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+SCO Angers,Baptiste Santamaria,25,Defensive Midfield,SC Freiburg,£9.00m,out,9,Ligue 1,2020,2020/2021
+SCO Angers,Vincent Pajot,29,Defensive Midfield,FC Metz,£630Th.,out,0.63,Ligue 1,2020,2020/2021
+SCO Angers,Baptiste Guillaume,25,Centre-Forward,Valenciennes FC,Free transfer,out,0,Ligue 1,2020,2020/2021
+SCO Angers,Ibrahim Cissé,24,Centre-Back,USL Dunkerque,Free transfer,out,0,Ligue 1,2020,2020/2021
+SCO Angers,Anthony Mandréa,23,Goalkeeper,SO Cholet,Loan,out,0,Ligue 1,2020,2020/2021
+SCO Angers,Harrison Manzala,26,Right Winger,Kayserispor,Free transfer,out,0,Ligue 1,2020,2020/2021
+SCO Angers,Casimir Ninga,27,Left Winger,Sivasspor,Loan,out,0,Ligue 1,2020,2020/2021
+SCO Angers,Wilfried Kanga,22,Centre-Forward,Kayserispor,?,out,NA,Ligue 1,2020,2020/2021
+SCO Angers,Théo Pellenard,26,Left-Back,Without Club,-,out,0,Ligue 1,2020,2020/2021
+SCO Angers,Souleyman Doumbia,23,Left-Back,Stade Rennais,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+FC Girondins Bordeaux,Mehdi Zerkane,20,Attacking Midfield,G. Bordeaux B,-,in,0,Ligue 1,2020,2020/2021
+FC Girondins Bordeaux,Alexandre Lauray,23,Centre-Back,G. Bordeaux B,-,in,0,Ligue 1,2020,2020/2021
+FC Girondins Bordeaux,Paul Bernardoni,23,Goalkeeper,Nîmes Olympique,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Girondins Bordeaux,Over Mandanda,21,Goalkeeper,US Créteil,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Girondins Bordeaux,Alexandre Mendy,26,Centre-Forward,Stade Brest 29,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Girondins Bordeaux,Yassine Benrahou,21,Attacking Midfield,Nîmes Olympique,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Girondins Bordeaux,Paul Bernardoni,23,Goalkeeper,SCO Angers,£6.75m,out,6.75,Ligue 1,2020,2020/2021
+FC Girondins Bordeaux,François Kamano,24,Left Winger,Loko Moscow,£4.95m,out,4.95,Ligue 1,2020,2020/2021
+FC Girondins Bordeaux,Yassine Benrahou,21,Attacking Midfield,Nîmes Olympique,£1.35m,out,1.35,Ligue 1,2020,2020/2021
+FC Girondins Bordeaux,Aaron Boupendza,23,Centre-Forward,Hatayspor,Free transfer,out,0,Ligue 1,2020,2020/2021
+FC Girondins Bordeaux,Albert Lottin,19,Defensive Midfield,Utrecht U21,Free transfer,out,0,Ligue 1,2020,2020/2021
+FC Girondins Bordeaux,Alexandre Lauray,23,Centre-Back,FC Villefranche,Loan,out,0,Ligue 1,2020,2020/2021
+FC Girondins Bordeaux,Youssef Aït Bennasser,23,Central Midfield,Monaco,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+FC Nantes,Moses Simon,24,Left Winger,Levante,£4.50m,in,4.5,Ligue 1,2020,2020/2021
+FC Nantes,Jean-Charles Castelletto,25,Centre-Back,Stade Brest 29,Free transfer,in,0,Ligue 1,2020,2020/2021
+FC Nantes,Pedro Chirivella,23,Defensive Midfield,Liverpool U23,Free transfer,in,0,Ligue 1,2020,2020/2021
+FC Nantes,Charly Jan,21,Goalkeeper,FC Nantes B,-,in,0,Ligue 1,2020,2020/2021
+FC Nantes,Quentin Braat,22,Goalkeeper,Chamois Niort,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Nantes,Maxime Dupé,27,Goalkeeper,Clermont Foot,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Nantes,Randal Kolo Muani,21,Centre-Forward,US Boulogne,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Nantes,Abou Ba,21,Defensive Midfield,Aris Saloniki,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Nantes,Maxime Dupé,27,Goalkeeper,Toulouse,£450Th.,out,0.45,Ligue 1,2020,2020/2021
+FC Nantes,Alexandre Olliero,24,Goalkeeper,Pau FC,Loan,out,0,Ligue 1,2020,2020/2021
+FC Nantes,Molla Wagué,29,Centre-Back,Amiens SC,Loan,out,0,Ligue 1,2020,2020/2021
+FC Nantes,Thody Élie Youan,21,Centre-Forward,FC St. Gallen,Loan,out,0,Ligue 1,2020,2020/2021
+FC Nantes,Quentin Braat,23,Goalkeeper,Chamois Niort,?,out,NA,Ligue 1,2020,2020/2021
+FC Nantes,Lucas Evangelista,25,Central Midfield,RB Bragantino,Loan,out,0,Ligue 1,2020,2020/2021
+FC Nantes,Rene Krhin,30,Central Midfield,Without Club,-,out,0,Ligue 1,2020,2020/2021
+FC Nantes,Abou Ba,21,Defensive Midfield,FC Nantes B,-,out,0,Ligue 1,2020,2020/2021
+FC Nantes,Cristian Benavente,26,Attacking Midfield,Pyramids FC,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+FC Nantes,Moses Simon,24,Left Winger,Levante,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+Stade Brest 29,Franck Honorat,23,Right Winger,Saint-Étienne,£4.50m,in,4.5,Ligue 1,2020,2020/2021
+Stade Brest 29,Steve Mounié,25,Centre-Forward,Huddersfield,£4.50m,in,4.5,Ligue 1,2020,2020/2021
+Stade Brest 29,Christophe Hérelle,27,Centre-Back,OGC Nice,£3.60m,in,3.6,Ligue 1,2020,2020/2021
+Stade Brest 29,Heriberto Tavares,23,Left Winger,Benfica B,£1.08m,in,1.08,Ligue 1,2020,2020/2021
+Stade Brest 29,Romain Faivre,21,Central Midfield,Monaco B,£360Th.,in,0.36,Ligue 1,2020,2020/2021
+Stade Brest 29,Jérémy Le Douaron,22,Left Winger,Stade Briochin,Free transfer,in,0,Ligue 1,2020,2020/2021
+Stade Brest 29,Ronaël Pierre-Gabriel,22,Right-Back,1.FSV Mainz 05,Loan,in,0,Ligue 1,2020,2020/2021
+Stade Brest 29,Idrissa Dioh,21,Defensive Midfield,Brest B,-,in,0,Ligue 1,2020,2020/2021
+Stade Brest 29,Rafiki Saïd,20,Centre-Forward,Brest B,-,in,0,Ligue 1,2020,2020/2021
+Stade Brest 29,Guillaume Buon,22,Centre-Back,US Avranches,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+Stade Brest 29,Derick Osei Yaw,21,Centre-Forward,AS Béziers,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+Stade Brest 29,Donovan Léon,27,Goalkeeper,AJ Auxerre,Free transfer,out,0,Ligue 1,2020,2020/2021
+Stade Brest 29,Mathias Autret,29,Attacking Midfield,AJ Auxerre,Free transfer,out,0,Ligue 1,2020,2020/2021
+Stade Brest 29,Jean-Charles Castelletto,25,Centre-Back,FC Nantes,Free transfer,out,0,Ligue 1,2020,2020/2021
+Stade Brest 29,Gaëtan Belaud,33,Right-Back,Paris FC,Free transfer,out,0,Ligue 1,2020,2020/2021
+Stade Brest 29,Guillaume Buon,22,Centre-Back,Bastia-Borgo,Loan,out,0,Ligue 1,2020,2020/2021
+Stade Brest 29,Derick Osei Yaw,21,Centre-Forward,Oxford United,Free transfer,out,0,Ligue 1,2020,2020/2021
+Stade Brest 29,Kevin Mayi,27,Centre-Forward,Ümraniyespor,Free transfer,out,0,Ligue 1,2020,2020/2021
+Stade Brest 29,Yoann Court,30,Left Midfield,SM Caen,Free transfer,out,0,Ligue 1,2020,2020/2021
+Stade Brest 29,David Kiki,26,Left-Back,Without Club,-,out,0,Ligue 1,2020,2020/2021
+Stade Brest 29,Samuel Grandsir,23,Right Winger,Monaco,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+Stade Brest 29,Alexandre Mendy,26,Centre-Forward,G. Bordeaux,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+FC Metz,Kévin N'Doram,24,Defensive Midfield,Monaco,£4.05m,in,4.05,Ligue 1,2020,2020/2021
+FC Metz,Kiki Kouyaté,23,Centre-Back,Troyes,£3.15m,in,3.15,Ligue 1,2020,2020/2021
+FC Metz,Vagner,24,Right Winger,Saint-Étienne,£2.70m,in,2.7,Ligue 1,2020,2020/2021
+FC Metz,Thierry Ambrose,23,Centre-Forward,Man City U23,£1.80m,in,1.8,Ligue 1,2020,2020/2021
+FC Metz,Warren Tchimbembé,22,Right Midfield,Troyes,£900Th.,in,0.9,Ligue 1,2020,2020/2021
+FC Metz,Vincent Pajot,29,Defensive Midfield,SCO Angers,£630Th.,in,0.63,Ligue 1,2020,2020/2021
+FC Metz,Marc-Aurèle Caillard,26,Goalkeeper,Guingamp,Free transfer,in,0,Ligue 1,2020,2020/2021
+FC Metz,Lamine Gueye,22,Right Winger,Génération Foot,?,in,NA,Ligue 1,2020,2020/2021
+FC Metz,Youssef Maziz,22,Left Midfield,FC Metz B,-,in,0,Ligue 1,2020,2020/2021
+FC Metz,Amadou Ndiaye,21,Centre-Forward,RFC Seraing,"End of loanJun 30, 2021",in,0,Ligue 1,2020,2020/2021
+FC Metz,Lenny Lacroix,17,Centre-Back,FC Metz B,-,in,0,Ligue 1,2020,2020/2021
+FC Metz,Leverton Pierre,22,Defensive Midfield,FC Metz B,-,in,0,Ligue 1,2020,2020/2021
+FC Metz,Gerónimo Poblete,27,Defensive Midfield,San Lorenzo,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Metz,Vincent Thill,20,Attacking Midfield,US Orléans,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Metz,Gauthier Hein,23,Right Winger,Valenciennes FC,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Metz,Laurent Jans,27,Right-Back,SC Paderborn,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Metz,Cheikh Tidiane Sabaly,21,Left Winger,Pau FC,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Metz,Raouf Mroivili,21,Defensive Midfield,RFC Seraing,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Metz,Ablie Jallow,21,Right Winger,AC Ajaccio,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Metz,Amadou Ndiaye,20,Centre-Forward,FC Sochaux,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Metz,Guillaume Dietsch,19,Goalkeeper,RFC Seraing,Loan,out,0,Ligue 1,2020,2020/2021
+FC Metz,Sami Lahssaini,21,Central Midfield,RFC Seraing,Loan,out,0,Ligue 1,2020,2020/2021
+FC Metz,Marvin Gakpa,26,Central Midfield,Paris FC,?,out,NA,Ligue 1,2020,2020/2021
+FC Metz,Gauthier Hein,23,Right Winger,AJ Auxerre,?,out,NA,Ligue 1,2020,2020/2021
+FC Metz,Leverton Pierre,22,Defensive Midfield,USL Dunkerque,?,out,NA,Ligue 1,2020,2020/2021
+FC Metz,Ablie Jallow,21,Right Winger,RFC Seraing,Loan,out,0,Ligue 1,2020,2020/2021
+FC Metz,Vincent Thill,20,Attacking Midfield,Nacional,?,out,NA,Ligue 1,2020,2020/2021
+FC Metz,Renaud Cohade,35,Central Midfield,Without Club,-,out,0,Ligue 1,2020,2020/2021
+FC Metz,Raouf Mroivili,21,Defensive Midfield,Without Club,-,out,0,Ligue 1,2020,2020/2021
+FC Metz,Kévin N'Doram,24,Defensive Midfield,Monaco,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+FC Metz,Thierry Ambrose,23,Centre-Forward,Man City U23,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+FC Metz,Adama Traoré,25,Central Midfield,Monaco,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+FC Metz,Vincent Pajot,29,Defensive Midfield,SCO Angers,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+Dijon FCO,Roger Assalé,26,Centre-Forward,BSC Young Boys,£3.60m,in,3.6,Ligue 1,2020,2020/2021
+Dijon FCO,Jonathan Panzo,19,Centre-Back,Monaco,£3.06m,in,3.06,Ligue 1,2020,2020/2021
+Dijon FCO,Bersant Celina,24,Attacking Midfield,Swansea,£2.70m,in,2.7,Ligue 1,2020,2020/2021
+Dijon FCO,Alex Dobre,21,Left Winger,Bournemouth U21,£900Th.,in,0.9,Ligue 1,2020,2020/2021
+Dijon FCO,Éric Ebimbe,19,Right Midfield,Paris SG B,Loan,in,0,Ligue 1,2020,2020/2021
+Dijon FCO,Pape Cheikh,22,Central Midfield,Olympique Lyon,Loan,in,0,Ligue 1,2020,2020/2021
+Dijon FCO,Aníbal Chalá,24,Left-Back,Toluca,Loan,in,0,Ligue 1,2020,2020/2021
+Dijon FCO,Rayan Philippe,19,Centre-Forward,FCO Dijon B,-,in,0,Ligue 1,2020,2020/2021
+Dijon FCO,Ahmad Ngouyamsa,19,Right-Back,FCO Dijon B,-,in,0,Ligue 1,2020,2020/2021
+Dijon FCO,Enzo Loiodice,19,Central Midfield,Wolves U23,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+Dijon FCO,Aurélien Scheidler,22,Centre-Forward,US Orléans,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+Dijon FCO,Nayef Aguerd,24,Centre-Back,Stade Rennais,£3.60m,out,3.6,Ligue 1,2020,2020/2021
+Dijon FCO,Julio Tavarès,31,Centre-Forward,Faisaly,£900Th.,out,0.9,Ligue 1,2020,2020/2021
+Dijon FCO,Bryan Soumaré,21,Attacking Midfield,FC Sochaux,Loan,out,0,Ligue 1,2020,2020/2021
+Dijon FCO,Théo Barbet,19,Centre-Back,Bastia-Borgo,Loan,out,0,Ligue 1,2020,2020/2021
+Dijon FCO,Enzo Loiodice,19,Central Midfield,UD Las Palmas,Free transfer,out,0,Ligue 1,2020,2020/2021
+Dijon FCO,Mickaël Alphonse,31,Right-Back,Amiens SC,?,out,NA,Ligue 1,2020,2020/2021
+Dijon FCO,Florent Balmont,40,Central Midfield,Retired,-,out,0,Ligue 1,2020,2020/2021
+Dijon FCO,Hamza Mendyl,22,Left-Back,FC Schalke 04,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+Dijon FCO,Stephy Mavididi,22,Centre-Forward,Juventus U23,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+Dijon FCO,Jhonder Cádiz,24,Centre-Forward,Benfica,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Timothée Kolodziejczak,28,Centre-Back,Tigres UANL,£4.05m,in,4.05,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Jean-Philippe Krasso,22,Centre-Forward,SAS Epinal,Free transfer,in,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Adil Aouchiche,18,Attacking Midfield,Paris SG,Free transfer,in,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Yvan Neyou,23,Defensive Midfield,Braga B,Loan,in,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Lamine Ghezali,20,Right Winger,Saint-Étienne B,-,in,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Alexandros Katranis,22,Left-Back,Atromitos Athen,"End of loanJul 31, 2020",in,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Alexis Guendouz,24,Goalkeeper,Pau FC,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Oussama Tannane,26,Right Winger,Vitesse,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Vagner,24,Right Winger,AS Nancy,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Makhtar Gueye,22,Centre-Forward,AS Nancy,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Alpha Sissoko,23,Right-Back,Le Puy Foot,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Harold Moukoudi,22,Centre-Back,Middlesbrough,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Franck Honorat,23,Right Winger,Stade Brest 29,£4.50m,out,4.5,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Vagner,24,Right Winger,FC Metz,£2.70m,out,2.7,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Makhtar Gueye,22,Centre-Forward,KV Oostende,£900Th.,out,0.9,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Oussama Tannane,26,Right Winger,Vitesse,Free transfer,out,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Yann M'Vila,30,Defensive Midfield,Olympiacos,Free transfer,out,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Loïs Diony,27,Centre-Forward,SCO Angers,Free transfer,out,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Lamine Ghezali,21,Right Winger,SC Lyon,Loan,out,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Théo Vermot,23,Goalkeeper,US Orléans,Free transfer,out,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Alexandros Katranis,22,Left-Back,Hatayspor,Loan,out,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Assane Dioussé,22,Defensive Midfield,Ankaragücü,Loan,out,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Loïc Perrin,34,Centre-Back,Retired,-,out,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Yohan Cabaye,34,Central Midfield,Without Club,-,out,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Léo Lacroix,28,Centre-Back,Without Club,-,out,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,William Saliba,19,Centre-Back,Arsenal,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Jean-Eudes Aholou,26,Defensive Midfield,Monaco,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+AS Saint-Étienne,Timothée Kolodziejczak,28,Centre-Back,Tigres UANL,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+Nîmes Olympique,Andrés Cubas,24,Defensive Midfield,CA Talleres,£2.61m,in,2.61,Ligue 1,2020,2020/2021
+Nîmes Olympique,Yassine Benrahou,21,Attacking Midfield,G. Bordeaux,£1.35m,in,1.35,Ligue 1,2020,2020/2021
+Nîmes Olympique,Birger Meling,25,Left-Back,Rosenborg BK,£900Th.,in,0.9,Ligue 1,2020,2020/2021
+Nîmes Olympique,Baptiste Reynet,29,Goalkeeper,Toulouse,£315Th.,in,0.315,Ligue 1,2020,2020/2021
+Nîmes Olympique,Théo Sainte-Luce,21,Left-Back,G. Ajaccio,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+Nîmes Olympique,Théo Sainte-Luce,21,Left-Back,Red Star FC,Loan,out,0,Ligue 1,2020,2020/2021
+Nîmes Olympique,Vlatko Stojanovski,23,Centre-Forward,FC Chambly,Loan,out,0,Ligue 1,2020,2020/2021
+Nîmes Olympique,Théo Valls,24,Central Midfield,Without Club,-,out,0,Ligue 1,2020,2020/2021
+Nîmes Olympique,Paul Bernardoni,23,Goalkeeper,G. Bordeaux,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+Nîmes Olympique,Yassine Benrahou,21,Attacking Midfield,G. Bordeaux,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+FC Lorient,Adrian Grbic,23,Centre-Forward,Clermont Foot,£8.10m,in,8.1,Ligue 1,2020,2020/2021
+FC Lorient,Armand Laurienté,21,Right Winger,Stade Rennais,£2.70m,in,2.7,Ligue 1,2020,2020/2021
+FC Lorient,Stéphane Diarra,21,Right Winger,Le Mans FC,£2.25m,in,2.25,Ligue 1,2020,2020/2021
+FC Lorient,Quentin Boisgard,23,Attacking Midfield,Toulouse,£1.80m,in,1.8,Ligue 1,2020,2020/2021
+FC Lorient,Thomas Monconduit,29,Defensive Midfield,Amiens SC,£1.80m,in,1.8,Ligue 1,2020,2020/2021
+FC Lorient,Jérémy Morel,36,Centre-Back,Stade Rennais,Free transfer,in,0,Ligue 1,2020,2020/2021
+FC Lorient,Matthieu Dreyer,31,Goalkeeper,Amiens SC,Free transfer,in,0,Ligue 1,2020,2020/2021
+FC Lorient,Trevoh Chalobah,21,Defensive Midfield,Chelsea U23,Loan,in,0,Ligue 1,2020,2020/2021
+FC Lorient,Illan Meslier,20,Goalkeeper,Leeds,"End of loanJul 23, 2020",in,0,Ligue 1,2020,2020/2021
+FC Lorient,Teddy Bartouche,23,Goalkeeper,Lorient B,-,in,0,Ligue 1,2020,2020/2021
+FC Lorient,Moussa Guel,21,Right Midfield,Quevilly-Rouen,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Lorient,Gaëtan Courtet,31,Centre-Forward,AC Ajaccio,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Lorient,Wilfried Ebane,28,Left-Back,USL Dunkerque,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Lorient,Mamadou Kamissoko,27,Left-Back,Pau FC,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Lorient,Mohamed Mara,23,Left Winger,Paris FC,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Lorient,Peter Ouaneh,22,Centre-Back,Le Puy Foot,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+FC Lorient,Illan Meslier,20,Goalkeeper,Leeds,£5.85m,out,5.85,Ligue 1,2020,2020/2021
+FC Lorient,Mamadou Kamissoko,27,Left-Back,Pau FC,Free transfer,out,0,Ligue 1,2020,2020/2021
+FC Lorient,Maxime Pattier,24,Goalkeeper,Stade Briochin,Loan,out,0,Ligue 1,2020,2020/2021
+FC Lorient,Quentin Lecoeuche,26,Left-Back,AC Ajaccio,Loan,out,0,Ligue 1,2020,2020/2021
+FC Lorient,Maxime Etuin,24,Central Midfield,Le Mans FC,Free transfer,out,0,Ligue 1,2020,2020/2021
+FC Lorient,Romain Cagnon,23,Goalkeeper,US Créteil,Free transfer,out,0,Ligue 1,2020,2020/2021
+FC Lorient,Mohamed Mara,23,Left Winger,Thonon Évian,Free transfer,out,0,Ligue 1,2020,2020/2021
+FC Lorient,Peter Ouaneh,22,Centre-Back,Concarneau,?,out,NA,Ligue 1,2020,2020/2021
+FC Lorient,Moussa Guel,21,Right Midfield,Valenciennes FC,?,out,NA,Ligue 1,2020,2020/2021
+FC Lorient,Gaëtan Courtet,31,Centre-Forward,AC Ajaccio,?,out,NA,Ligue 1,2020,2020/2021
+FC Lorient,Jimmy Cabot,26,Right Midfield,Without Club,-,out,0,Ligue 1,2020,2020/2021
+FC Lorient,Joris Sainati,31,Centre-Back,Without Club,-,out,0,Ligue 1,2020,2020/2021
+FC Lorient,Jonathan Martins Pereira,34,Right-Back,Retired,-,out,0,Ligue 1,2020,2020/2021
+FC Lorient,Wilfried Ebane,28,Left-Back,Without Club,-,out,0,Ligue 1,2020,2020/2021
+FC Lorient,Yann Kitala,22,Centre-Forward,Olymp. Lyon B,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+FC Lorient,Armand Laurienté,21,Right Winger,Stade Rennais,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+RC Lens,Seko Fofana,25,Central Midfield,Udinese Calcio,£7.65m,in,7.65,Ligue 1,2020,2020/2021
+RC Lens,Ignatius Ganago,21,Centre-Forward,OGC Nice,£5.40m,in,5.4,Ligue 1,2020,2020/2021
+RC Lens,Facundo Medina,21,Centre-Back,CA Talleres,£3.15m,in,3.15,Ligue 1,2020,2020/2021
+RC Lens,Corentin Jean,24,Right Winger,Toulouse,£900Th.,in,0.9,Ligue 1,2020,2020/2021
+RC Lens,Jonathan Clauss,27,Right-Back,Arm. Bielefeld,Free transfer,in,0,Ligue 1,2020,2020/2021
+RC Lens,Loïc Badé,20,Centre-Back,AC Le Havre,Free transfer,in,0,Ligue 1,2020,2020/2021
+RC Lens,Gaël Kakuta,29,Attacking Midfield,Amiens SC,Loan,in,0,Ligue 1,2020,2020/2021
+RC Lens,Issiaga Sylla,26,Left-Back,Toulouse,Loan,in,0,Ligue 1,2020,2020/2021
+RC Lens,Wuilker Fariñez,22,Goalkeeper,Millonarios,Loan,in,0,Ligue 1,2020,2020/2021
+RC Lens,Tom Ducrocq,20,Defensive Midfield,RC Lens B,-,in,0,Ligue 1,2020,2020/2021
+RC Lens,Adam Oudjani,18,Attacking Midfield,RC Lens B,-,in,0,Ligue 1,2020,2020/2021
+RC Lens,David Costa,19,Left Winger,RC Lens B,-,in,0,Ligue 1,2020,2020/2021
+RC Lens,Cyrille Bayala,24,Right Winger,AC Ajaccio,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+RC Lens,Arial Mendy,25,Left-Back,US Orléans,"End of loanJun 30, 2020",in,0,Ligue 1,2020,2020/2021
+RC Lens,Guillaume Gillet,36,Defensive Midfield,RSC Charleroi,Free transfer,out,0,Ligue 1,2020,2020/2021
+RC Lens,Tom Ducrocq,20,Defensive Midfield,SC Bastia,Loan,out,0,Ligue 1,2020,2020/2021
+RC Lens,Thomas Vincensini,26,Goalkeeper,SC Bastia,Loan,out,0,Ligue 1,2020,2020/2021
+RC Lens,Jules Keita,22,Left Winger,CSKA Sofia,Loan,out,0,Ligue 1,2020,2020/2021
+RC Lens,Arial Mendy,25,Left-Back,Servette FC,?,out,NA,Ligue 1,2020,2020/2021
+RC Lens,Mouaad Madri,30,Centre-Forward,Without Club,-,out,0,Ligue 1,2020,2020/2021
+RC Lens,Vítor Costa,25,Left-Back,Inter de Lages,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021
+RC Lens,Corentin Jean,24,Right Winger,Toulouse,"End of loanJun 30, 2020",out,0,Ligue 1,2020,2020/2021

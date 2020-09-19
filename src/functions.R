@@ -94,9 +94,10 @@ scrape_season_transfers <- function(league_id, league_name, season_id) {
   transfers_tidy <- mutate(transfers_tidy, fee_cleaned = case_when(
     str_sub(fee, -1, -1) == "m" ~ suppressWarnings(as.numeric(str_extract(fee, "\\d+\\.*\\d*"))),
     str_sub(fee, -1, -1) == "k" ~ suppressWarnings(as.numeric(str_extract(fee, "\\d+\\.*\\d*")))/1000,
+    str_sub(fee, -3, -1) == "Th." ~ suppressWarnings(as.numeric(str_extract(fee, "\\d+\\.*\\d*")))/1000,
     str_detect(fee, "End of loan") ~ 0,
     fee == "Loan" ~ 0,
-    fee == "Free Transfer" ~ 0,
+    fee %in% c("Free Transfer", "Free transfer") ~ 0,
     fee == "-" ~ 0
   ))
   
