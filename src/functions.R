@@ -1,15 +1,3 @@
-
-# dependencies ------------------------------------------------------------
-
-# install pacman if missing
-if (!require("pacman")) install.packages("pacman")
-
-# load / install required libs
-pacman::p_load("rvest", "dplyr", "purrr", "janitor", "tidyr", "forcats",
-               "readr", "stringr", "glue")
-
-# functions ---------------------------------------------------------------
-
 # scrape a league seasons transfers
 scrape_season_transfers <- function(league_id, league_name, season_id) {
   
@@ -157,4 +145,18 @@ season_clubs <- function(league_name, league_id, season_id) {
   
   return(clubs)
   
-  }
+}
+
+# export data function
+export_data <- function(data, filename) {
+  
+  data <- split(data, data$year)
+  
+  invisible(
+    lapply(names(data), 
+           function(x) {
+             write_csv(data[[x]], path = glue("data/{x}/{filename}.csv"))
+           } 
+    )
+  )
+}

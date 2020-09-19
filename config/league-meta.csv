@@ -1,0 +1,10 @@
+league_name,league_id,file_name
+premier-league,GB1,english_premier_league
+championship,GB2,english_championship
+primera-division,ES1,spanish_primera_division
+1-bundesliga,L1,german_bundesliga_1
+serie-a,IT1,italian_serie_a
+ligue-1,FR1,french_ligue_1
+liga-nos,PO1,portugese_liga_nos
+eredivisie,NL1,dutch_eredivisie
+premier-liga,RU1,russian_premier_liga
