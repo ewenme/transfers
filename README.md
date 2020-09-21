@@ -1,7 +1,7 @@
 transfers
 ================
 
-Data on European football clubs' player transfers, through 1992/93 to 2019/20 seasons (as found on [Transfermarkt](https://www.transfermarkt.co.uk/)).
+Data on European football clubs' player transfers, through 1992/93 to 2020/21 seasons (as found on [Transfermarkt](https://www.transfermarkt.co.uk/)).
 
 Data
 ----
@@ -27,6 +27,7 @@ Common variables:
 -   `club_involved_name` (other club involved in transfer)
 -   `fee` (raw transfer fee information)
 -   `transfer_movement` (transfer in/out)
+-   `transfer_period` (transfer window)
 -   `fee_cleaned` (numeric `fee`, GBP)
 -   `league_name` (league)
 -   `year` (year)

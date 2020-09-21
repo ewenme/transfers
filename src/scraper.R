@@ -19,7 +19,7 @@ transfers <- map2(
             league_name = .x, league_id = .y)
   )
 
-# export ------------------------------------------------------------------
+# export ---------------------------------------------------
 
 # create directory tree
 fs::dir_create(path = file.path("data", seasons))
