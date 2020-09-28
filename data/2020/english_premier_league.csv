@@ -1,12 +1,14 @@
 club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
-Arsenal FC,Gabriel Magalhães,22,Centre-Back,LOSC Lille,£23.40m,in,Summer,23.4,Premier League,2020,2020/2021
+Arsenal FC,Gabriel,22,Centre-Back,LOSC Lille,£23.40m,in,Summer,23.4,Premier League,2020,2020/2021
 Arsenal FC,Pablo Marí,26,Centre-Back,Flamengo,£7.20m,in,Summer,7.2,Premier League,2020,2020/2021
+Arsenal FC,Rúnar Alex Rúnarsson,25,Goalkeeper,Dijon,£1.80m,in,Summer,1.8,Premier League,2020,2020/2021
 Arsenal FC,Cédric Soares,28,Right-Back,Southampton,Free transfer,in,Summer,0,Premier League,2020,2020/2021
 Arsenal FC,Willian,32,Right Winger,Chelsea,Free transfer,in,Summer,0,Premier League,2020,2020/2021
 Arsenal FC,Emile Smith Rowe,20,Attacking Midfield,Arsenal U23,-,in,Summer,0,Premier League,2020,2020/2021
 Arsenal FC,William Saliba,19,Centre-Back,Saint-Étienne,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
 Arsenal FC,Mohamed Elneny,28,Defensive Midfield,Besiktas,"End of loanAug 3, 2020",in,Summer,0,Premier League,2020,2020/2021
 Arsenal FC,Henrikh Mkhitaryan,31,Attacking Midfield,AS Roma,"End of loanAug 31, 2020",in,Summer,0,Premier League,2020,2020/2021
+Arsenal FC,Dejan Iliev,25,Goalkeeper,Jagiellonia,"End of loanJul 31, 2020",in,Summer,0,Premier League,2020,2020/2021
 Arsenal FC,Emiliano Martínez,28,Goalkeeper,Aston Villa,£15.66m,out,Summer,15.66,Premier League,2020,2020/2021
 Arsenal FC,Konstantinos Mavropanos,22,Centre-Back,VfB Stuttgart,Loan fee:£225Th.,out,Summer,0.225,Premier League,2020,2020/2021
 Arsenal FC,Henrikh Mkhitaryan,31,Attacking Midfield,AS Roma,Free transfer,out,Summer,0,Premier League,2020,2020/2021
@@ -24,14 +26,13 @@ Aston Villa,James Chester,31,Centre-Back,Stoke City,Free transfer,out,Summer,0,P
 Aston Villa,Borja Bastón,28,Centre-Forward,CD Leganés,Free transfer,out,Summer,0,Premier League,2020,2020/2021
 Aston Villa,James Bree,22,Right-Back,Luton,?,out,Summer,NA,Premier League,2020,2020/2021
 Aston Villa,Scott Hogan,28,Centre-Forward,Birmingham,?,out,Summer,NA,Premier League,2020,2020/2021
+Aston Villa,Mbwana Samatta,27,Centre-Forward,Fenerbahce,Loan,out,Summer,0,Premier League,2020,2020/2021
 Aston Villa,Andre Green,22,Left Winger,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
 Aston Villa,Danny Drinkwater,30,Central Midfield,Chelsea,"End of loanJun 30, 2020",out,Summer,0,Premier League,2020,2020/2021
 Aston Villa,Pepe Reina,37,Goalkeeper,AC Milan,"End of loanJul 31, 2020",out,Summer,0,Premier League,2020,2020/2021
 Brighton & Hove Albion,Jan Paul van Hecke,20,Centre-Back,NAC Breda,£1.80m,in,Summer,1.8,Premier League,2020,2020/2021
 Brighton & Hove Albion,Joël Veltman,28,Centre-Back,Ajax,£900Th.,in,Summer,0.9,Premier League,2020,2020/2021
-Brighton & Hove Albion,Jensen Weir,18,Central Midfield,Wigan,£495Th.,in,Summer,0.495,Premier League,2020,2020/2021
 Brighton & Hove Albion,Adam Lallana,32,Attacking Midfield,Liverpool,Free transfer,in,Summer,0,Premier League,2020,2020/2021
-Brighton & Hove Albion,Ulrick Eneme Ella,19,Attacking Midfield,Amiens SC,Free transfer,in,Summer,0,Premier League,2020,2020/2021
 Brighton & Hove Albion,Matt Clarke,24,Centre-Back,Derby,"End of loanMay 31, 2021",in,Summer,0,Premier League,2020,2020/2021
 Brighton & Hove Albion,Leo Östigard,21,Centre-Back,Coventry,"End of loanMay 31, 2021",in,Summer,0,Premier League,2020,2020/2021
 Brighton & Hove Albion,Glenn Murray,37,Centre-Forward,Watford,"End of loanMay 31, 2021",in,Summer,0,Premier League,2020,2020/2021
@@ -40,30 +41,33 @@ Brighton & Hove Albion,Robert Sánchez,22,Goalkeeper,Brighton U23,-,in,Summer,0,
 Brighton & Hove Albion,Max Sanders,21,Central Midfield,Brighton U23,-,in,Summer,0,Premier League,2020,2020/2021
 Brighton & Hove Albion,Jayson Molumby,20,Central Midfield,Brighton U23,-,in,Summer,0,Premier League,2020,2020/2021
 Brighton & Hove Albion,Ben White,22,Centre-Back,Leeds,"End of loanJul 31, 2020",in,Summer,0,Premier League,2020,2020/2021
-Brighton & Hove Albion,Tudor Baluta,21,Defensive Midfield,ADO Den Haag,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
-Brighton & Hove Albion,Florin Andone,27,Centre-Forward,Galatasaray,"End of loanAug 5, 2020",in,Summer,0,Premier League,2020,2020/2021
-Brighton & Hove Albion,Matt Clarke,23,Centre-Back,Derby,"End of loanJul 31, 2020",in,Summer,0,Premier League,2020,2020/2021
-Brighton & Hove Albion,Percy Tau,26,Centre-Forward,Club Brugge,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
-Brighton & Hove Albion,Viktor Gyökeres,22,Centre-Forward,FC St. Pauli,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
-Brighton & Hove Albion,Christian Walton,24,Goalkeeper,Blackburn,"End of loanJul 24, 2020",in,Summer,0,Premier League,2020,2020/2021
-Brighton & Hove Albion,Anthony Knockaert,28,Right Winger,Fulham,"End of loanJul 26, 2020",in,Summer,0,Premier League,2020,2020/2021
 Brighton & Hove Albion,Leo Östigard,20,Centre-Back,FC St. Pauli,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
+Brighton & Hove Albion,Anthony Knockaert,28,Right Winger,Fulham,"End of loanJul 26, 2020",in,Summer,0,Premier League,2020,2020/2021
+Brighton & Hove Albion,Christian Walton,24,Goalkeeper,Blackburn,"End of loanJul 24, 2020",in,Summer,0,Premier League,2020,2020/2021
+Brighton & Hove Albion,Viktor Gyökeres,22,Centre-Forward,FC St. Pauli,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
+Brighton & Hove Albion,Percy Tau,26,Centre-Forward,Club Brugge,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
+Brighton & Hove Albion,Matt Clarke,23,Centre-Back,Derby,"End of loanJul 31, 2020",in,Summer,0,Premier League,2020,2020/2021
+Brighton & Hove Albion,Florin Andone,27,Centre-Forward,Galatasaray,"End of loanAug 5, 2020",in,Summer,0,Premier League,2020,2020/2021
+Brighton & Hove Albion,Tudor Baluta,21,Defensive Midfield,ADO Den Haag,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
 Brighton & Hove Albion,Jan Mlakar,21,Centre-Forward,Wigan,"End of loanJul 31, 2020",in,Summer,0,Premier League,2020,2020/2021
 Brighton & Hove Albion,Anthony Knockaert,28,Right Winger,Fulham,£10.53m,out,Summer,10.53,Premier League,2020,2020/2021
 Brighton & Hove Albion,Aaron Mooy,29,Central Midfield,SH SIPG,£4.05m,out,Summer,4.05,Premier League,2020,2020/2021
 Brighton & Hove Albion,Shane Duffy,28,Centre-Back,Celtic,Loan fee:£1.98m,out,Summer,1.98,Premier League,2020,2020/2021
 Brighton & Hove Albion,David Button,31,Goalkeeper,West Brom,£990Th.,out,Summer,0.99,Premier League,2020,2020/2021
+Brighton & Hove Albion,Dale Stephens,31,Central Midfield,Burnley,£990Th.,out,Summer,0.99,Premier League,2020,2020/2021
 Brighton & Hove Albion,Martín Montoya,29,Right-Back,Real Betis,Free transfer,out,Summer,0,Premier League,2020,2020/2021
-Brighton & Hove Albion,Percy Tau,26,Centre-Forward,RSC Anderlecht,Loan,out,Summer,0,Premier League,2020,2020/2021
-Brighton & Hove Albion,Jan Mlakar,21,Centre-Forward,NK Maribor,Loan,out,Summer,0,Premier League,2020,2020/2021
 Brighton & Hove Albion,Matt Clarke,23,Centre-Back,Derby,Loan,out,Summer,0,Premier League,2020,2020/2021
-Brighton & Hove Albion,Leo Östigard,20,Centre-Back,Coventry,Loan,out,Summer,0,Premier League,2020,2020/2021
+Brighton & Hove Albion,Jan Mlakar,21,Centre-Forward,NK Maribor,Loan,out,Summer,0,Premier League,2020,2020/2021
+Brighton & Hove Albion,Percy Tau,26,Centre-Forward,RSC Anderlecht,Loan,out,Summer,0,Premier League,2020,2020/2021
 Brighton & Hove Albion,Glenn Murray,36,Centre-Forward,Watford,Loan,out,Summer,0,Premier League,2020,2020/2021
 Brighton & Hove Albion,Jan Paul van Hecke,20,Centre-Back,Heerenveen,Loan,out,Summer,0,Premier League,2020,2020/2021
-Brighton & Hove Albion,Ezequiel Schelotto,31,Right-Back,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
+Brighton & Hove Albion,Leo Östigard,20,Centre-Back,Coventry,Loan,out,Summer,0,Premier League,2020,2020/2021
 Brighton & Hove Albion,Beram Kayal,32,Central Midfield,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
+Brighton & Hove Albion,Ezequiel Schelotto,31,Right-Back,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
+Burnley FC,Dale Stephens,31,Central Midfield,Brighton,£990Th.,in,Summer,0.99,Premier League,2020,2020/2021
 Burnley FC,Will Norris,27,Goalkeeper,Wolves,?,in,Summer,NA,Premier League,2020,2020/2021
 Burnley FC,Ben Gibson,28,Centre-Back,Norwich,"End of loanMay 31, 2021",in,Summer,0,Premier League,2020,2020/2021
+Burnley FC,Jimmy Dunne,22,Centre-Back,Burnley U23,-,in,Summer,0,Premier League,2020,2020/2021
 Burnley FC,Aiden O'Neill,21,Central Midfield,Brisbane Roar,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
 Burnley FC,Jeff Hendrick,28,Central Midfield,Newcastle,Free transfer,out,Summer,0,Premier League,2020,2020/2021
 Burnley FC,Joe Hart,33,Goalkeeper,Spurs,Free transfer,out,Summer,0,Premier League,2020,2020/2021
@@ -75,23 +79,25 @@ Chelsea FC,Kai Havertz,21,Attacking Midfield,Bay. Leverkusen,£72.00m,in,Summer,
 Chelsea FC,Timo Werner,24,Centre-Forward,RB Leipzig,£47.70m,in,Summer,47.7,Premier League,2020,2020/2021
 Chelsea FC,Ben Chilwell,23,Left-Back,Leicester,£45.18m,in,Summer,45.18,Premier League,2020,2020/2021
 Chelsea FC,Hakim Ziyech,27,Right Winger,Ajax,£36.00m,in,Summer,36,Premier League,2020,2020/2021
-Chelsea FC,Malang Sarr,21,Centre-Back,OGC Nice,Free transfer,in,Summer,0,Premier League,2020,2020/2021
+Chelsea FC,Edouard Mendy,28,Goalkeeper,Stade Rennais,£21.60m,in,Summer,21.6,Premier League,2020,2020/2021
 Chelsea FC,Thiago Silva,35,Centre-Back,Paris SG,Free transfer,in,Summer,0,Premier League,2020,2020/2021
-Chelsea FC,Jamie Cumming,21,Goalkeeper,Stevenage,"End of loanMay 31, 2021",in,Summer,0,Premier League,2020,2020/2021
-Chelsea FC,Jamal Blackman,27,Goalkeeper,Rotherham,"End of loanMay 31, 2021",in,Summer,0,Premier League,2020,2020/2021
-Chelsea FC,Ethan Ampadu,20,Centre-Back,Sheffield Utd.,"End of loanMay 31, 2021",in,Summer,0,Premier League,2020,2020/2021
+Chelsea FC,Malang Sarr,21,Centre-Back,OGC Nice,Free transfer,in,Summer,0,Premier League,2020,2020/2021
+Chelsea FC,Nathan Baxter,21,Goalkeeper,Chelsea U23,-,in,Summer,0,Premier League,2020,2020/2021
 Chelsea FC,Michy Batshuayi,27,Centre-Forward,Crystal Palace,"End of loanMay 31, 2021",in,Summer,0,Premier League,2020,2020/2021
+Chelsea FC,Ethan Ampadu,20,Centre-Back,Sheff Utd,"End of loanMay 31, 2021",in,Summer,0,Premier League,2020,2020/2021
+Chelsea FC,Jamal Blackman,27,Goalkeeper,Rotherham,"End of loanMay 31, 2021",in,Summer,0,Premier League,2020,2020/2021
+Chelsea FC,Jamie Cumming,21,Goalkeeper,Stevenage,"End of loanMay 31, 2021",in,Summer,0,Premier League,2020,2020/2021
 Chelsea FC,Nathan,24,Left Winger,Atlético-MG,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
-Chelsea FC,Kenedy,24,Left Winger,Getafe,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
-Chelsea FC,Victor Moses,29,Right Midfield,Inter,"End of loanAug 31, 2020",in,Summer,0,Premier League,2020,2020/2021
-Chelsea FC,Danny Drinkwater,30,Central Midfield,Aston Villa,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
-Chelsea FC,Abdul Rahman Baba,25,Left-Back,RCD Mallorca,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
-Chelsea FC,Tiemoué Bakayoko,25,Defensive Midfield,Monaco,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
-Chelsea FC,Davide Zappacosta,28,Right-Back,AS Roma,"End of loanAug 4, 2020",in,Summer,0,Premier League,2020,2020/2021
-Chelsea FC,Ethan Ampadu,19,Centre-Back,RB Leipzig,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
-Chelsea FC,Álvaro Morata,27,Centre-Forward,Atlético Madrid,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
-Chelsea FC,Charly Musonda Jr.,23,Attacking Midfield,Vitesse,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
 Chelsea FC,Mario Pasalic,25,Central Midfield,Atalanta,"End of loanAug 31, 2020",in,Summer,0,Premier League,2020,2020/2021
+Chelsea FC,Charly Musonda Jr.,23,Attacking Midfield,Vitesse,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
+Chelsea FC,Álvaro Morata,27,Centre-Forward,Atlético Madrid,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
+Chelsea FC,Ethan Ampadu,19,Centre-Back,RB Leipzig,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
+Chelsea FC,Davide Zappacosta,28,Right-Back,AS Roma,"End of loanAug 4, 2020",in,Summer,0,Premier League,2020,2020/2021
+Chelsea FC,Tiemoué Bakayoko,25,Defensive Midfield,Monaco,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
+Chelsea FC,Abdul Rahman Baba,25,Left-Back,RCD Mallorca,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
+Chelsea FC,Danny Drinkwater,30,Central Midfield,Aston Villa,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
+Chelsea FC,Victor Moses,29,Right Midfield,Inter,"End of loanAug 31, 2020",in,Summer,0,Premier League,2020,2020/2021
+Chelsea FC,Kenedy,24,Left Winger,Getafe,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
 Chelsea FC,Matt Miazga,25,Centre-Back,Reading,"End of loanJul 23, 2020",in,Summer,0,Premier League,2020,2020/2021
 Chelsea FC,Álvaro Morata,27,Centre-Forward,Atlético Madrid,£50.40m,out,Summer,50.4,Premier League,2020,2020/2021
 Chelsea FC,Mario Pasalic,25,Central Midfield,Atalanta,£13.50m,out,Summer,13.5,Premier League,2020,2020/2021
@@ -103,7 +109,7 @@ Chelsea FC,Willian,32,Right Winger,Arsenal,Free transfer,out,Summer,0,Premier Le
 Chelsea FC,Davide Zappacosta,28,Right-Back,Genoa,Loan,out,Summer,0,Premier League,2020,2020/2021
 Chelsea FC,Jamal Blackman,26,Goalkeeper,Rotherham,Loan,out,Summer,0,Premier League,2020,2020/2021
 Chelsea FC,Jamie Cumming,20,Goalkeeper,Stevenage,Loan,out,Summer,0,Premier League,2020,2020/2021
-Chelsea FC,Ethan Ampadu,19,Centre-Back,Sheffield Utd.,Loan,out,Summer,0,Premier League,2020,2020/2021
+Chelsea FC,Ethan Ampadu,19,Centre-Back,Sheff Utd,Loan,out,Summer,0,Premier League,2020,2020/2021
 Chelsea FC,Kenedy,24,Left Winger,Granada CF,Loan,out,Summer,0,Premier League,2020,2020/2021
 Chelsea FC,Michy Batshuayi,26,Centre-Forward,Crystal Palace,Loan,out,Summer,0,Premier League,2020,2020/2021
 Crystal Palace,Eberechi Eze,22,Attacking Midfield,QPR,£16.02m,in,Summer,16.02,Premier League,2020,2020/2021
@@ -112,13 +118,16 @@ Crystal Palace,Michy Batshuayi,26,Centre-Forward,Chelsea,Loan,in,Summer,0,Premie
 Crystal Palace,Brandon Pierrick,18,Attacking Midfield,Palace U23,-,in,Summer,0,Premier League,2020,2020/2021
 Crystal Palace,Tyrick Mitchell,20,Left-Back,Palace U23,-,in,Summer,0,Premier League,2020,2020/2021
 Crystal Palace,Sam Woods,21,Centre-Back,Palace U23,-,in,Summer,0,Premier League,2020,2020/2021
+Crystal Palace,Alexander Sörloth,24,Centre-Forward,Trabzonspor,"End of loanSep 21, 2020",in,Summer,0,Premier League,2020,2020/2021
 Crystal Palace,Jaroslaw Jach,26,Centre-Back,Rakow,"End of loanJul 31, 2020",in,Summer,0,Premier League,2020,2020/2021
 Crystal Palace,Connor Wickham,27,Centre-Forward,Sheff Wed,"End of loanJul 31, 2020",in,Summer,0,Premier League,2020,2020/2021
+Crystal Palace,Alexander Sörloth,24,Centre-Forward,RB Leipzig,£18.00m,out,Summer,18,Premier League,2020,2020/2021
 Crystal Palace,Michy Batshuayi,27,Centre-Forward,Chelsea,"End of loanMay 31, 2021",out,Summer,0,Premier League,2020,2020/2021
 Everton FC,Allan,29,Central Midfield,SSC Napoli,£22.50m,in,Summer,22.5,Premier League,2020,2020/2021
 Everton FC,Abdoulaye Doucouré,27,Central Midfield,Watford,£19.89m,in,Summer,19.89,Premier League,2020,2020/2021
 Everton FC,Niels Nkounkou,19,Left-Back,Marseille B,£243Th.,in,Summer,0.243,Premier League,2020,2020/2021
 Everton FC,James Rodríguez,29,Attacking Midfield,Real Madrid,Free transfer,in,Summer,0,Premier League,2020,2020/2021
+Everton FC,João Virgínia,20,Goalkeeper,Everton U23,-,in,Summer,0,Premier League,2020,2020/2021
 Everton FC,Jonjoe Kenny,23,Right-Back,FC Schalke 04,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
 Everton FC,Sandro Ramírez,25,Centre-Forward,Real Valladolid,"End of loanJul 20, 2020",in,Summer,0,Premier League,2020,2020/2021
 Everton FC,Matthew Pennington,25,Centre-Back,Hull City,"End of loanJul 31, 2020",in,Summer,0,Premier League,2020,2020/2021
@@ -127,8 +136,8 @@ Everton FC,Jonas Lössl,31,Goalkeeper,Huddersfield,"End of loanJul 31, 2020",in,
 Everton FC,Morgan Schneiderlin,30,Defensive Midfield,OGC Nice,£2.00m,out,Summer,2,Premier League,2020,2020/2021
 Everton FC,Kieran Dowell,22,Attacking Midfield,Norwich,£1.98m,out,Summer,1.98,Premier League,2020,2020/2021
 Everton FC,Maarten Stekelenburg,37,Goalkeeper,Ajax,Free transfer,out,Summer,0,Premier League,2020,2020/2021
+Everton FC,Luke Garbutt,27,Left-Back,Blackpool,Free transfer,out,Summer,0,Premier League,2020,2020/2021
 Everton FC,Oumar Niasse,30,Centre-Forward,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
-Everton FC,Luke Garbutt,27,Left-Back,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
 Everton FC,Cuco Martina,30,Right-Back,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
 Everton FC,Leighton Baines,35,Left-Back,Retired,-,out,Summer,0,Premier League,2020,2020/2021
 Everton FC,Djibril Sidibé,28,Right-Back,Monaco,"End of loanJul 31, 2020",out,Summer,0,Premier League,2020,2020/2021
@@ -139,12 +148,12 @@ Fulham FC,Ola Aina,23,Right-Back,Torino,Loan fee:£2.25m,in,Summer,2.25,Premier 
 Fulham FC,Mario Lemina,26,Defensive Midfield,Southampton,Loan fee:£1.98m,in,Summer,1.98,Premier League,2020,2020/2021
 Fulham FC,Antonee Robinson,23,Left-Back,Wigan,£1.89m,in,Summer,1.89,Premier League,2020,2020/2021
 Fulham FC,Alphonse Areola,27,Goalkeeper,Paris SG,Loan,in,Summer,0,Premier League,2020,2020/2021
-Fulham FC,George Wickens,18,Goalkeeper,Fulham U23,-,in,Summer,0,Premier League,2020,2020/2021
-Fulham FC,Sylvester Jasper,18,Left Winger,Fulham U23,-,in,Summer,0,Premier League,2020,2020/2021
-Fulham FC,Cyrus Christie,28,Right-Back,Nottm Forest,"End of loanMay 31, 2021",in,Summer,0,Premier League,2020,2020/2021
-Fulham FC,Marcus Bettinelli,29,Goalkeeper,Middlesbrough,"End of loanMay 31, 2021",in,Summer,0,Premier League,2020,2020/2021
-Fulham FC,Steven Sessegnon,21,Right-Back,Bristol City,"End of loanMay 31, 2021",in,Summer,0,Premier League,2020,2020/2021
 Fulham FC,Alfie Mawson,27,Centre-Back,Bristol City,"End of loanMay 31, 2021",in,Summer,0,Premier League,2020,2020/2021
+Fulham FC,Steven Sessegnon,21,Right-Back,Bristol City,"End of loanMay 31, 2021",in,Summer,0,Premier League,2020,2020/2021
+Fulham FC,Marcus Bettinelli,29,Goalkeeper,Middlesbrough,"End of loanMay 31, 2021",in,Summer,0,Premier League,2020,2020/2021
+Fulham FC,Cyrus Christie,28,Right-Back,Nottm Forest,"End of loanMay 31, 2021",in,Summer,0,Premier League,2020,2020/2021
+Fulham FC,Sylvester Jasper,18,Left Winger,Fulham U23,-,in,Summer,0,Premier League,2020,2020/2021
+Fulham FC,George Wickens,18,Goalkeeper,Fulham U23,-,in,Summer,0,Premier League,2020,2020/2021
 Fulham FC,Jean Michaël Seri,29,Central Midfield,Galatasaray,"End of loanAug 3, 2020",in,Summer,0,Premier League,2020,2020/2021
 Fulham FC,André Zambo Anguissa,24,Defensive Midfield,Villarreal,"End of loanJul 20, 2020",in,Summer,0,Premier League,2020,2020/2021
 Fulham FC,Fabri,32,Goalkeeper,RCD Mallorca,"End of loanJul 20, 2020",in,Summer,0,Premier League,2020,2020/2021
@@ -162,15 +171,18 @@ Fulham FC,Harry Arter,30,Central Midfield,Bournemouth,"End of loanAug 5, 2020",o
 Fulham FC,Harrison Reed,25,Defensive Midfield,Southampton,"End of loanAug 5, 2020",out,Summer,0,Premier League,2020,2020/2021
 Fulham FC,Terence Kongolo,26,Centre-Back,Huddersfield,"End of loanAug 5, 2020",out,Summer,0,Premier League,2020,2020/2021
 Leeds United,Rodrigo,29,Centre-Forward,Valencia,£27.00m,in,Summer,27,Premier League,2020,2020/2021
+Leeds United,Diego Llorente,27,Centre-Back,Real Sociedad,£18.00m,in,Summer,18,Premier League,2020,2020/2021
 Leeds United,Hélder Costa,26,Right Winger,Wolves,£15.93m,in,Summer,15.93,Premier League,2020,2020/2021
 Leeds United,Robin Koch,24,Centre-Back,SC Freiburg,£11.70m,in,Summer,11.7,Premier League,2020,2020/2021
 Leeds United,Illan Meslier,20,Goalkeeper,FC Lorient,£5.85m,in,Summer,5.85,Premier League,2020,2020/2021
 Leeds United,Joe Gelhardt,18,Centre-Forward,Wigan,£900Th.,in,Summer,0.9,Premier League,2020,2020/2021
 Leeds United,Jack Harrison,23,Left Winger,Man City,Loan,in,Summer,0,Premier League,2020,2020/2021
+Leeds United,Jordan Stevens,21,Right Winger,Swindon Town,"End of loanMay 31, 2021",in,Summer,0,Premier League,2020,2020/2021
 Leeds United,Pascal Struijk,20,Centre-Back,Leeds U23,-,in,Summer,0,Premier League,2020,2020/2021
 Leeds United,Jay-Roy Grot,22,Centre-Forward,Vitesse,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
 Leeds United,Laurens De Bock,27,Left-Back,ADO Den Haag,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
 Leeds United,Laurens De Bock,27,Left-Back,Zulte Waregem,Loan,out,Summer,0,Premier League,2020,2020/2021
+Leeds United,Jordan Stevens,20,Right Winger,Swindon Town,Loan,out,Summer,0,Premier League,2020,2020/2021
 Leeds United,Jack Harrison,24,Left Winger,Man City,"End of loanMay 31, 2021",out,Summer,0,Premier League,2020,2020/2021
 Leeds United,Jack Harrison,23,Left Winger,Man City,"End of loanJul 31, 2020",out,Summer,0,Premier League,2020,2020/2021
 Leeds United,Illan Meslier,20,Goalkeeper,FC Lorient,"End of loanJul 23, 2020",out,Summer,0,Premier League,2020,2020/2021
@@ -181,6 +193,7 @@ Leeds United,Ben White,22,Centre-Back,Brighton,"End of loanJul 31, 2020",out,Sum
 Leeds United,Hélder Costa,26,Right Winger,Wolves,"End of loanJun 30, 2020",out,Summer,0,Premier League,2020,2020/2021
 Leeds United,Jean-Kévin Augustin,23,Centre-Forward,RB Leipzig,"End of loanJun 30, 2020",out,Summer,0,Premier League,2020,2020/2021
 Leicester City,Timothy Castagne,24,Right-Back,Atalanta,£21.60m,in,Summer,21.6,Premier League,2020,2020/2021
+Leicester City,Cengiz Ünder,23,Right Winger,AS Roma,Loan fee:£2.70m,in,Summer,2.7,Premier League,2020,2020/2021
 Leicester City,Andy King,31,Central Midfield,Huddersfield,"End of loanJul 23, 2020",in,Summer,0,Premier League,2020,2020/2021
 Leicester City,Islam Slimani,32,Centre-Forward,Monaco,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
 Leicester City,Adrien Silva,31,Central Midfield,Monaco,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
@@ -189,6 +202,7 @@ Leicester City,Fousseni Diabaté,24,Right Winger,Amiens SC,"End of loanJun 30, 2
 Leicester City,George Thomas,23,Attacking Midfield,ADO Den Haag,"End of loanMay 31, 2020",in,Summer,0,Premier League,2020,2020/2021
 Leicester City,Filip Benkovic,23,Centre-Back,Bristol City,"End of loanJul 31, 2020",in,Summer,0,Premier League,2020,2020/2021
 Leicester City,Ben Chilwell,23,Left-Back,Chelsea,£45.18m,out,Summer,45.18,Premier League,2020,2020/2021
+Leicester City,Fousseni Diabaté,24,Right Winger,Trabzonspor,£1.42m,out,Summer,1.42,Premier League,2020,2020/2021
 Leicester City,George Thomas,23,Attacking Midfield,QPR,Free transfer,out,Summer,0,Premier League,2020,2020/2021
 Leicester City,Bartosz Kapustka,23,Attacking Midfield,Legia Warszawa,Free transfer,out,Summer,0,Premier League,2020,2020/2021
 Leicester City,Andy King,31,Central Midfield,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
@@ -202,13 +216,14 @@ Liverpool FC,Marko Grujic,24,Central Midfield,Hertha BSC,"End of loanJun 30, 202
 Liverpool FC,Ben Woodburn,20,Attacking Midfield,Oxford United,"End of loanJul 14, 2020",in,Summer,0,Premier League,2020,2020/2021
 Liverpool FC,Harry Wilson,23,Right Winger,Bournemouth,"End of loanJul 31, 2020",in,Summer,0,Premier League,2020,2020/2021
 Liverpool FC,Taiwo Awoniyi,22,Centre-Forward,1.FSV Mainz 05,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
-Liverpool FC,Ovie Ejaria,22,Central Midfield,Reading,"End of loanJul 31, 2020",in,Summer,0,Premier League,2020,2020/2021
+Liverpool FC,Ovie Ejaria,22,Left Winger,Reading,"End of loanJul 31, 2020",in,Summer,0,Premier League,2020,2020/2021
 Liverpool FC,Rhian Brewster,20,Centre-Forward,Swansea,"End of loanJul 31, 2020",in,Summer,0,Premier League,2020,2020/2021
 Liverpool FC,Dejan Lovren,31,Centre-Back,Zenit S-Pb,£10.80m,out,Summer,10.8,Premier League,2020,2020/2021
-Liverpool FC,Ovie Ejaria,22,Central Midfield,Reading,£3.51m,out,Summer,3.51,Premier League,2020,2020/2021
+Liverpool FC,Ovie Ejaria,22,Left Winger,Reading,£3.51m,out,Summer,3.51,Premier League,2020,2020/2021
 Liverpool FC,Adam Lallana,32,Attacking Midfield,Brighton,Free transfer,out,Summer,0,Premier League,2020,2020/2021
 Liverpool FC,Sheyi Ojo,23,Right Winger,Cardiff,Loan,out,Summer,0,Premier League,2020,2020/2021
 Liverpool FC,Taiwo Awoniyi,23,Centre-Forward,Union Berlin,Loan,out,Summer,0,Premier League,2020,2020/2021
+Liverpool FC,Loris Karius,27,Goalkeeper,Union Berlin,Loan,out,Summer,0,Premier League,2020,2020/2021
 Liverpool FC,Nathaniel Clyne,29,Right-Back,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
 Liverpool FC,Andy Lonergan,36,Goalkeeper,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
 Manchester City,Nathan Aké,25,Centre-Back,Bournemouth,£40.77m,in,Summer,40.77,Premier League,2020,2020/2021
@@ -219,16 +234,17 @@ Manchester City,Issa Kaboré,19,Right-Back,KV Mechelen,£4.05m,in,Summer,4.05,Pr
 Manchester City,Jack Harrison,24,Left Winger,Leeds,"End of loanMay 31, 2021",in,Summer,0,Premier League,2020,2020/2021
 Manchester City,Jack Harrison,23,Left Winger,Leeds,"End of loanJul 31, 2020",in,Summer,0,Premier League,2020,2020/2021
 Manchester City,Taylor Harwood-Bellis,18,Centre-Back,Man City U23,-,in,Summer,0,Premier League,2020,2020/2021
+Manchester City,Tommy Doyle,18,Central Midfield,Man City U23,-,in,Summer,0,Premier League,2020,2020/2021
 Manchester City,Daniel Arzani,21,Left Winger,Celtic,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
-Manchester City,Ko Itakura,23,Centre-Back,FC Groningen,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
-Manchester City,Ante Palaversa,20,Defensive Midfield,KV Oostende,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
-Manchester City,Zack Steffen,25,Goalkeeper,F. Düsseldorf,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
-Manchester City,Philippe Sandler,23,Centre-Back,RSC Anderlecht,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
-Manchester City,Luka Ilic,20,Attacking Midfield,NAC Breda,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
-Manchester City,Tosin Adarabioyo,22,Centre-Back,Blackburn,"End of loanJul 24, 2020",in,Summer,0,Premier League,2020,2020/2021
-Manchester City,Marlos Moreno,23,Left Winger,Portimonense,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
-Manchester City,Pedro Porro,20,Right-Back,Real Valladolid,"End of loanJul 20, 2020",in,Summer,0,Premier League,2020,2020/2021
 Manchester City,Aleix García,23,Central Midfield,Mouscron,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
+Manchester City,Pedro Porro,20,Right-Back,Real Valladolid,"End of loanJul 20, 2020",in,Summer,0,Premier League,2020,2020/2021
+Manchester City,Marlos Moreno,23,Left Winger,Portimonense,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
+Manchester City,Tosin Adarabioyo,22,Centre-Back,Blackburn,"End of loanJul 24, 2020",in,Summer,0,Premier League,2020,2020/2021
+Manchester City,Luka Ilic,20,Attacking Midfield,NAC Breda,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
+Manchester City,Philippe Sandler,23,Centre-Back,RSC Anderlecht,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
+Manchester City,Zack Steffen,25,Goalkeeper,F. Düsseldorf,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
+Manchester City,Ante Palaversa,20,Defensive Midfield,KV Oostende,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
+Manchester City,Ko Itakura,23,Centre-Back,FC Groningen,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
 Manchester City,Patrick Roberts,23,Right Winger,Middlesbrough,"End of loanJul 31, 2020",in,Summer,0,Premier League,2020,2020/2021
 Manchester City,Leroy Sané,24,Left Winger,Bayern Munich,£40.50m,out,Summer,40.5,Premier League,2020,2020/2021
 Manchester City,David Silva,34,Attacking Midfield,Real Sociedad,Free transfer,out,Summer,0,Premier League,2020,2020/2021
@@ -242,6 +258,8 @@ Manchester City,Ante Palaversa,20,Defensive Midfield,Getafe,Loan,out,Summer,0,Pr
 Manchester City,Ryotaro Meshino,22,Attacking Midfield,Rio Ave FC,Loan,out,Summer,0,Premier League,2020,2020/2021
 Manchester City,Arijanet Muric,21,Goalkeeper,Girona,Loan,out,Summer,0,Premier League,2020,2020/2021
 Manchester City,Pablo Moreno,18,Centre-Forward,Girona,Loan,out,Summer,0,Premier League,2020,2020/2021
+Manchester City,Yan Couto,18,Right-Back,Girona,Loan,out,Summer,0,Premier League,2020,2020/2021
+Manchester City,Marlos Moreno,24,Left Winger,Lommel SK,Loan,out,Summer,0,Premier League,2020,2020/2021
 Manchester City,Scott Carson,35,Goalkeeper,Derby,"End of loanMay 31, 2021",out,Summer,0,Premier League,2020,2020/2021
 Manchester City,Aleix García,23,Central Midfield,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
 Manchester United,Donny van de Beek,23,Central Midfield,Ajax,£35.10m,in,Summer,35.1,Premier League,2020,2020/2021
@@ -272,6 +290,7 @@ Newcastle United,Yoshinori Muto,28,Centre-Forward,SD Eibar,Loan,out,Summer,0,Pre
 Newcastle United,Jamie Sterry,24,Right-Back,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
 Newcastle United,Rob Elliot,34,Goalkeeper,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
 Newcastle United,Jetro Willems,26,Left-Back,E. Frankfurt,"End of loanJun 30, 2020",out,Summer,0,Premier League,2020,2020/2021
+Newcastle United,Nabil Bentaleb,25,Central Midfield,FC Schalke 04,"End of loanJul 31, 2020",out,Summer,0,Premier League,2020,2020/2021
 Newcastle United,Valentino Lazaro,24,Right Midfield,Inter,"End of loanJul 31, 2020",out,Summer,0,Premier League,2020,2020/2021
 Newcastle United,Danny Rose,30,Left-Back,Spurs,"End of loanJul 31, 2020",out,Summer,0,Premier League,2020,2020/2021
 Sheffield United,Aaron Ramsdale,22,Goalkeeper,Bournemouth,£18.45m,in,Summer,18.45,Premier League,2020,2020/2021
@@ -286,19 +305,19 @@ Sheffield United,Regan Slater,20,Defensive Midfield,Sheff Utd U23,-,in,Summer,0,
 Sheffield United,Callum Robinson,25,Left Winger,West Brom,"End of loanJul 31, 2020",in,Summer,0,Premier League,2020,2020/2021
 Sheffield United,Ravel Morrison,27,Attacking Midfield,Middlesbrough,"End of loanJul 31, 2020",in,Summer,0,Premier League,2020,2020/2021
 Sheffield United,Mark Duffy,34,Right Midfield,ADO Den Haag,"End of loanJun 30, 2020",in,Summer,0,Premier League,2020,2020/2021
-Sheffield United,Ismaila Coulibaly,19,Central Midfield,Beerschot V.A.,Loan,out,Summer,0,Premier League,2020,2020/2021
 Sheffield United,Mark Duffy,34,Right Midfield,Fleetwood,Free transfer,out,Summer,0,Premier League,2020,2020/2021
-Sheffield United,Callum Robinson,25,Left Winger,West Brom,?,out,Summer,NA,Premier League,2020,2020/2021
-Sheffield United,Luke Freeman,28,Attacking Midfield,Nottm Forest,Loan,out,Summer,0,Premier League,2020,2020/2021
+Sheffield United,Leon Clarke,35,Centre-Forward,Shrewsbury,Free transfer,out,Summer,0,Premier League,2020,2020/2021
+Sheffield United,Ismaila Coulibaly,19,Central Midfield,Beerschot V.A.,Loan,out,Summer,0,Premier League,2020,2020/2021
+Sheffield United,Ravel Morrison,27,Attacking Midfield,ADO Den Haag,Free transfer,out,Summer,0,Premier League,2020,2020/2021
 Sheffield United,Jake Eastwood,23,Goalkeeper,Kilmarnock FC,Loan,out,Summer,0,Premier League,2020,2020/2021
-Sheffield United,Ravel Morrison,27,Attacking Midfield,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
-Sheffield United,Leon Clarke,35,Centre-Forward,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
-Sheffield United,Kieron Freeman,28,Right-Back,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
-Sheffield United,Nathan Thomas,25,Left Winger,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
-Sheffield United,Ben Heneghan,26,Centre-Back,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
-Sheffield United,Ricky Holmes,33,Left Winger,Retired,-,out,Summer,0,Premier League,2020,2020/2021
-Sheffield United,Dean Henderson,23,Goalkeeper,Man Utd U23,"End of loanJul 31, 2020",out,Summer,0,Premier League,2020,2020/2021
+Sheffield United,Luke Freeman,28,Attacking Midfield,Nottm Forest,Loan,out,Summer,0,Premier League,2020,2020/2021
+Sheffield United,Callum Robinson,25,Left Winger,West Brom,?,out,Summer,NA,Premier League,2020,2020/2021
 Sheffield United,Ethan Ampadu,20,Centre-Back,Chelsea,"End of loanMay 31, 2021",out,Summer,0,Premier League,2020,2020/2021
+Sheffield United,Dean Henderson,23,Goalkeeper,Man Utd U23,"End of loanJul 31, 2020",out,Summer,0,Premier League,2020,2020/2021
+Sheffield United,Ricky Holmes,33,Left Winger,Retired,-,out,Summer,0,Premier League,2020,2020/2021
+Sheffield United,Ben Heneghan,26,Centre-Back,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
+Sheffield United,Nathan Thomas,25,Left Winger,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
+Sheffield United,Kieron Freeman,28,Right-Back,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
 Sheffield United,Panagiotis Retsos,21,Centre-Back,Bay. Leverkusen,"End of loanJun 30, 2020",out,Summer,0,Premier League,2020,2020/2021
 Southampton FC,Kyle Walker-Peters,23,Right-Back,Spurs,£11.97m,in,Summer,11.97,Premier League,2020,2020/2021
 Southampton FC,Mohammed Salisu,21,Centre-Back,Real Valladolid,£10.80m,in,Summer,10.8,Premier League,2020,2020/2021
@@ -320,6 +339,7 @@ Southampton FC,Mario Lemina,26,Defensive Midfield,Fulham,Loan fee:£1.98m,out,Su
 Southampton FC,Cédric Soares,28,Right-Back,Arsenal,Free transfer,out,Summer,0,Premier League,2020,2020/2021
 Southampton FC,Jack Rose,25,Goalkeeper,Walsall,Free transfer,out,Summer,0,Premier League,2020,2020/2021
 Southampton FC,Maya Yoshida,32,Centre-Back,Sampdoria,Free transfer,out,Summer,0,Premier League,2020,2020/2021
+Southampton FC,Josh Sims,23,Right Winger,Southampton B,-,out,Summer,0,Premier League,2020,2020/2021
 Southampton FC,Kevin Danso,21,Centre-Back,FC Augsburg,"End of loanJun 30, 2020",out,Summer,0,Premier League,2020,2020/2021
 Southampton FC,Kyle Walker-Peters,23,Right-Back,Spurs,"End of loanJul 31, 2020",out,Summer,0,Premier League,2020,2020/2021
 Tottenham Hotspur,Giovani Lo Celso,24,Central Midfield,Real Betis,£28.80m,in,Summer,28.8,Premier League,2020,2020/2021
@@ -342,7 +362,7 @@ West Bromwich Albion,Matheus Pereira,24,Right Winger,Sporting CP,£8.19m,in,Summ
 West Bromwich Albion,Cédric Kipré,23,Centre-Back,Wigan,£990Th.,in,Summer,0.99,Premier League,2020,2020/2021
 West Bromwich Albion,David Button,31,Goalkeeper,Brighton,£990Th.,in,Summer,0.99,Premier League,2020,2020/2021
 West Bromwich Albion,Branislav Ivanovic,36,Centre-Back,Zenit S-Pb,Free transfer,in,Summer,0,Premier League,2020,2020/2021
-West Bromwich Albion,Callum Robinson,25,Left Winger,Sheffield Utd.,?,in,Summer,NA,Premier League,2020,2020/2021
+West Bromwich Albion,Callum Robinson,25,Left Winger,Sheff Utd,?,in,Summer,NA,Premier League,2020,2020/2021
 West Bromwich Albion,Conor Gallagher,20,Central Midfield,Chelsea U23,Loan,in,Summer,0,Premier League,2020,2020/2021
 West Bromwich Albion,Alex Palmer,24,Goalkeeper,Lincoln City,"End of loanMay 31, 2021",in,Summer,0,Premier League,2020,2020/2021
 West Bromwich Albion,Oliver Burke,23,Right Winger,Alavés,"End of loanJul 20, 2020",in,Summer,0,Premier League,2020,2020/2021
@@ -350,14 +370,14 @@ West Bromwich Albion,Jonathan Leko,21,Right Winger,Birmingham,£990Th.,out,Summe
 West Bromwich Albion,Nathan Ferguson,19,Right-Back,Crystal Palace,Free transfer,out,Summer,0,Premier League,2020,2020/2021
 West Bromwich Albion,Chris Brunt,35,Central Midfield,Bristol City,Free transfer,out,Summer,0,Premier League,2020,2020/2021
 West Bromwich Albion,Alex Palmer,24,Goalkeeper,Lincoln City,Loan,out,Summer,0,Premier League,2020,2020/2021
-West Bromwich Albion,Oliver Burke,23,Right Winger,Sheffield Utd.,?,out,Summer,NA,Premier League,2020,2020/2021
+West Bromwich Albion,Oliver Burke,23,Right Winger,Sheff Utd,?,out,Summer,NA,Premier League,2020,2020/2021
 West Bromwich Albion,Conor Gallagher,21,Central Midfield,Chelsea U23,"End of loanMay 31, 2021",out,Summer,0,Premier League,2020,2020/2021
 West Bromwich Albion,Matheus Pereira,24,Right Winger,Sporting CP,"End of loanJul 31, 2020",out,Summer,0,Premier League,2020,2020/2021
 West Bromwich Albion,Ali Al Habsi,38,Goalkeeper,Retired,-,out,Summer,0,Premier League,2020,2020/2021
 West Bromwich Albion,Gareth Barry,39,Defensive Midfield,Retired,-,out,Summer,0,Premier League,2020,2020/2021
 West Bromwich Albion,Filip Krovinovic,24,Attacking Midfield,Benfica,"End of loanJul 31, 2020",out,Summer,0,Premier League,2020,2020/2021
 West Bromwich Albion,Grady Diangana,22,Left Winger,West Ham,"End of loanJul 31, 2020",out,Summer,0,Premier League,2020,2020/2021
-West Bromwich Albion,Callum Robinson,25,Left Winger,Sheffield Utd.,"End of loanJul 31, 2020",out,Summer,0,Premier League,2020,2020/2021
+West Bromwich Albion,Callum Robinson,25,Left Winger,Sheff Utd,"End of loanJul 31, 2020",out,Summer,0,Premier League,2020,2020/2021
 West Ham United,Tomas Soucek,25,Defensive Midfield,Slavia Prague,£14.58m,in,Summer,14.58,Premier League,2020,2020/2021
 West Ham United,Ben Johnson,20,Right-Back,West Ham U23,-,in,Summer,0,Premier League,2020,2020/2021
 West Ham United,Sead Haksabanovic,21,Left Midfield,Norrköping,"End of loanJun 11, 2020",in,Summer,0,Premier League,2020,2020/2021
@@ -373,6 +393,7 @@ West Ham United,Pablo Zabaleta,35,Right-Back,Without Club,-,out,Summer,0,Premier
 West Ham United,Carlos Sánchez,34,Defensive Midfield,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
 West Ham United,Tomas Soucek,25,Defensive Midfield,Slavia Prague,"End of loanJul 26, 2020",out,Summer,0,Premier League,2020,2020/2021
 Wolverhampton Wanderers,Fábio Silva,18,Centre-Forward,FC Porto,£36.00m,in,Summer,36,Premier League,2020,2020/2021
+Wolverhampton Wanderers,Nélson Semedo,26,Right-Back,FC Barcelona,£27.00m,in,Summer,27,Premier League,2020,2020/2021
 Wolverhampton Wanderers,Ki-Jana Hoever,18,Right-Back,Liverpool U23,£8.82m,in,Summer,8.82,Premier League,2020,2020/2021
 Wolverhampton Wanderers,Marçal,31,Left-Back,Olympique Lyon,£1.80m,in,Summer,1.8,Premier League,2020,2020/2021
 Wolverhampton Wanderers,Matija Sarkic,23,Goalkeeper,Aston Villa,Free transfer,in,Summer,0,Premier League,2020,2020/2021
@@ -388,13 +409,14 @@ Wolverhampton Wanderers,Hélder Costa,26,Right Winger,Leeds,£15.93m,out,Summer,
 Wolverhampton Wanderers,Matt Doherty,28,Right-Back,Spurs,£15.12m,out,Summer,15.12,Premier League,2020,2020/2021
 Wolverhampton Wanderers,Jordan Graham,25,Left Winger,Gillingham FC,Free transfer,out,Summer,0,Premier League,2020,2020/2021
 Wolverhampton Wanderers,Ming-Yang Yang,25,Central Midfield,Grasshoppers,Free transfer,out,Summer,0,Premier League,2020,2020/2021
-Wolverhampton Wanderers,Will Norris,27,Goalkeeper,Burnley,?,out,Summer,NA,Premier League,2020,2020/2021
-Wolverhampton Wanderers,Renat Dadashov,21,Centre-Forward,Grasshoppers,Loan,out,Summer,0,Premier League,2020,2020/2021
-Wolverhampton Wanderers,Connor Ronan,22,Central Midfield,Grasshoppers,Loan,out,Summer,0,Premier League,2020,2020/2021
-Wolverhampton Wanderers,Morgan Gibbs-White,20,Central Midfield,Swansea,Loan,out,Summer,0,Premier League,2020,2020/2021
-Wolverhampton Wanderers,Matija Sarkic,23,Goalkeeper,Shrewsbury,Loan,out,Summer,0,Premier League,2020,2020/2021
-Wolverhampton Wanderers,Bruno Jordão,21,Central Midfield,Famalicão,Loan,out,Summer,0,Premier League,2020,2020/2021
 Wolverhampton Wanderers,Leonardo Campana,20,Centre-Forward,Famalicão,Loan,out,Summer,0,Premier League,2020,2020/2021
+Wolverhampton Wanderers,Bruno Jordão,21,Central Midfield,Famalicão,Loan,out,Summer,0,Premier League,2020,2020/2021
+Wolverhampton Wanderers,Matija Sarkic,23,Goalkeeper,Shrewsbury,Loan,out,Summer,0,Premier League,2020,2020/2021
+Wolverhampton Wanderers,Morgan Gibbs-White,20,Central Midfield,Swansea,Loan,out,Summer,0,Premier League,2020,2020/2021
+Wolverhampton Wanderers,Connor Ronan,22,Central Midfield,Grasshoppers,Loan,out,Summer,0,Premier League,2020,2020/2021
+Wolverhampton Wanderers,Renat Dadashov,21,Centre-Forward,Grasshoppers,Loan,out,Summer,0,Premier League,2020,2020/2021
+Wolverhampton Wanderers,Will Norris,27,Goalkeeper,Burnley,?,out,Summer,NA,Premier League,2020,2020/2021
+Wolverhampton Wanderers,Léo Bonatini,26,Centre-Forward,Grasshoppers,Loan,out,Summer,0,Premier League,2020,2020/2021
 Wolverhampton Wanderers,Phil Ofosu-Ayeh,28,Right-Back,Without Club,-,out,Summer,0,Premier League,2020,2020/2021
 Brighton & Hove Albion,Billy Arce,22,Left Winger,LDU Quito,"End of loanDec 31, 2020",in,Winter,0,Premier League,2020,2020/2021
 Leeds United,Ryan Edmondson,19,Centre-Forward,Aberdeen FC,"End of loanDec 31, 2020",in,Winter,0,Premier League,2020,2020/2021

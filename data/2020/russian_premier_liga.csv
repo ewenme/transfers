@@ -55,9 +55,9 @@ FK Krasnodar,Artem Golubev,21,Defensive Midfield,Ufa,"End of loanJul 9, 2020",in
 FK Krasnodar,Aleksey Gritsaenko,25,Centre-Back,Tambov,"End of loanJul 31, 2020",in,Summer,0,Premier Liga,2020,2020/2021
 FK Krasnodar,Artem Golubev,21,Defensive Midfield,Ufa,£630Th.,out,Summer,0.63,Premier Liga,2020,2020/2021
 FK Krasnodar,Aleksey Gritsaenko,25,Centre-Back,Tambov,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
+FK Krasnodar,Jon Gudni Fjóluson,31,Centre-Back,SK Brann,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
 FK Krasnodar,Uros Spajic,27,Centre-Back,Feyenoord,Loan,out,Summer,0,Premier Liga,2020,2020/2021
 FK Krasnodar,Stanislav Kritsyuk,29,Goalkeeper,Without Club,-,out,Summer,0,Premier Liga,2020,2020/2021
-FK Krasnodar,Jon Gudni Fjóluson,31,Centre-Back,Without Club,-,out,Summer,0,Premier Liga,2020,2020/2021
 FK Krasnodar,Manuel Fernandes,34,Attacking Midfield,Without Club,-,out,Summer,0,Premier Liga,2020,2020/2021
 FK Krasnodar,Ilya Zhigulev,24,Central Midfield,Rotor Volgograd,Loan,out,Summer,0,Premier Liga,2020,2020/2021
 FK Rostov,David Tosevski,19,Centre-Forward,Rabotnicki,£900Th.,in,Summer,0.9,Premier Liga,2020,2020/2021
@@ -81,6 +81,9 @@ FK Rostov,Vidar Örn Kjartansson,30,Centre-Forward,Vålerenga,Free transfer,out,
 FK Rostov,Danila Vedernikov,19,Left-Back,Volgar,Loan,out,Summer,0,Premier Liga,2020,2020/2021
 FK Rostov,Danila Proshlyakov,20,Centre-Forward,Torpedo Moscow,Loan,out,Summer,0,Premier Liga,2020,2020/2021
 FK Rostov,Aleksandr Saplinov,23,Second Striker,Rotor Volgograd,Loan,out,Summer,0,Premier Liga,2020,2020/2021
+FK Rostov,Konstantin Kovalev,20,Right-Back,Baltika,Loan,out,Summer,0,Premier Liga,2020,2020/2021
+FK Rostov,Konstantin Pliev,23,Centre-Back,Ufa,Loan,out,Summer,0,Premier Liga,2020,2020/2021
+FK Rostov,Aleksandr Smirnov,24,Left-Back,Orenburg,Loan,out,Summer,0,Premier Liga,2020,2020/2021
 Dynamo Moscow,Nikola Moro,22,Defensive Midfield,Dinamo Zagreb,£7.65m,in,Summer,7.65,Premier Liga,2020,2020/2021
 Dynamo Moscow,Daniil Fomin,23,Defensive Midfield,Ufa,£3.15m,in,Summer,3.15,Premier Liga,2020,2020/2021
 Dynamo Moscow,Sly,29,Centre-Forward,Ufa,£1.80m,in,Summer,1.8,Premier Liga,2020,2020/2021
@@ -95,23 +98,26 @@ Dynamo Moscow,Vyacheslav Grulev,21,Left Winger,Nizhny Novgorod,"End of loanJun 1
 Dynamo Moscow,Nikolay Obolskiy,23,Centre-Forward,Nizhny Novgorod,"End of loanJun 30, 2020",in,Summer,0,Premier Liga,2020,2020/2021
 Dynamo Moscow,Miguel Cardoso,25,Right Winger,Tambov,"End of loanJun 1, 2020",in,Summer,0,Premier Liga,2020,2020/2021
 Dynamo Moscow,Toni Sunjic,31,Centre-Back,BJ Sinobo Guoan,£315Th.,out,Summer,0.315,Premier Liga,2020,2020/2021
-Dynamo Moscow,Nikolay Obolskiy,23,Centre-Forward,Barakaldo CF,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
-Dynamo Moscow,Kirill Panchenko,30,Second Striker,Tambov,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
-Dynamo Moscow,Vladimir Rykov,32,Centre-Back,Ural,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
-Dynamo Moscow,Joãozinho,31,Left Winger,Sochi,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
-Dynamo Moscow,Artur Yusupov,31,Central Midfield,Sochi,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
 Dynamo Moscow,Fedor Chernykh,29,Right Winger,Jagiellonia,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
-Dynamo Moscow,Roman Neustädter,32,Defensive Midfield,Without Club,-,out,Summer,0,Premier Liga,2020,2020/2021
+Dynamo Moscow,Artur Yusupov,31,Central Midfield,Sochi,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
+Dynamo Moscow,Joãozinho,31,Left Winger,Sochi,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
+Dynamo Moscow,Vladimir Rykov,32,Centre-Back,Ural,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
+Dynamo Moscow,Kirill Panchenko,30,Second Striker,Tambov,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
+Dynamo Moscow,Nikolay Obolskiy,23,Centre-Forward,Barakaldo CF,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
 Dynamo Moscow,Anton Sosnin,30,Central Midfield,Without Club,-,out,Summer,0,Premier Liga,2020,2020/2021
 Dynamo Moscow,Danil Lipovoy,20,Left Midfield,Khimki,Loan,out,Summer,0,Premier Liga,2020,2020/2021
 Dynamo Moscow,Miguel Cardoso,26,Right Winger,Belenenses SAD,Loan,out,Summer,0,Premier Liga,2020,2020/2021
+Dynamo Moscow,Roman Neustädter,32,Defensive Midfield,Without Club,-,out,Summer,0,Premier Liga,2020,2020/2021
 Dynamo Moscow,Sly,29,Centre-Forward,Ufa,"End of loanJul 26, 2020",out,Summer,0,Premier Liga,2020,2020/2021
 Dynamo Moscow,Oscar Hiljemark,28,Central Midfield,Genoa,"End of loanJul 31, 2020",out,Summer,0,Premier Liga,2020,2020/2021
 FK Ufa,Artem Golubev,21,Defensive Midfield,Krasnodar,£630Th.,in,Summer,0.63,Premier Liga,2020,2020/2021
 FK Ufa,Timur Zhamaletdinov,23,Centre-Forward,CSKA Moscow,£243Th.,in,Summer,0.243,Premier Liga,2020,2020/2021
+FK Ufa,Vladislav Kamilov,25,Central Midfield,SKA Khabarovsk,£243Th.,in,Summer,0.243,Premier Liga,2020,2020/2021
 FK Ufa,Aleksey Chernov,22,Goalkeeper,FK Ufa 2,-,in,Summer,0,Premier Liga,2020,2020/2021
 FK Ufa,Oleg Danchenko,26,Right-Back,Rubin Kazan,Loan,in,Summer,0,Premier Liga,2020,2020/2021
 FK Ufa,Sergey Borodin,21,Centre-Back,Krasnodar 2,Loan,in,Summer,0,Premier Liga,2020,2020/2021
+FK Ufa,Akhmed Alibekov,22,Defensive Midfield,Dynamo Kyiv,Loan,in,Summer,0,Premier Liga,2020,2020/2021
+FK Ufa,Konstantin Pliev,23,Centre-Back,Rostov,Loan,in,Summer,0,Premier Liga,2020,2020/2021
 FK Ufa,Andrey Batyutin,25,Left Winger,Avangard Kursk,"End of loanJun 30, 2020",in,Summer,0,Premier Liga,2020,2020/2021
 FK Ufa,Igor Bezdenezhnykh,23,Central Midfield,Chaika Pes.,"End of loanJun 15, 2020",in,Summer,0,Premier Liga,2020,2020/2021
 FK Ufa,Sly,29,Centre-Forward,Dynamo Moscow,"End of loanJul 26, 2020",in,Summer,0,Premier Liga,2020,2020/2021
@@ -201,18 +207,20 @@ Ural Yekaterinburg,Nikita Glushkov,26,Left Winger,Baltika,"End of loanJun 30, 20
 Ural Yekaterinburg,Aleksandr Lomakin,25,Central Midfield,Enisey,"End of loanJun 30, 2020",in,Summer,0,Premier Liga,2020,2020/2021
 Ural Yekaterinburg,Marco Aratore,29,Left Midfield,FC Lugano,"End of loanJul 31, 2020",in,Summer,0,Premier Liga,2020,2020/2021
 Ural Yekaterinburg,Mikhail Merkulov,26,Left-Back,Rubin Kazan,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
-Ural Yekaterinburg,Michal Kucharczyk,29,Right Winger,Pogon Szczecin,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
-Ural Yekaterinburg,Maciej Wilusz,31,Centre-Back,Rakow,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
-Ural Yekaterinburg,Nikita Glushkov,26,Left Winger,Enisey,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
 Ural Yekaterinburg,Aleksandr Lomakin,25,Central Midfield,Enisey,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
+Ural Yekaterinburg,Nikita Glushkov,26,Left Winger,Enisey,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
+Ural Yekaterinburg,Maciej Wilusz,31,Centre-Back,Rakow,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
+Ural Yekaterinburg,Michal Kucharczyk,29,Right Winger,Pogon Szczecin,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
 Ural Yekaterinburg,Petrus Boumal,27,Defensive Midfield,BB Erzurumspor,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
-Ural Yekaterinburg,Pavel Pogrebnyak,36,Centre-Forward,Without Club,-,out,Summer,0,Premier Liga,2020,2020/2021
+Ural Yekaterinburg,Marco Aratore,29,Left Midfield,FC Aarau,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
 Ural Yekaterinburg,Nikolay Dimitrov,32,Right Winger,Retired,-,out,Summer,0,Premier Liga,2020,2020/2021
+Ural Yekaterinburg,Pavel Pogrebnyak,36,Centre-Forward,Without Club,-,out,Summer,0,Premier Liga,2020,2020/2021
 Ural Yekaterinburg,Artem Fidler,37,Defensive Midfield,Retired,-,out,Summer,0,Premier Liga,2020,2020/2021
 Ural Yekaterinburg,Islamzhan Nasyrov,22,Left-Back,Orenburg,Loan,out,Summer,0,Premier Liga,2020,2020/2021
 Ural Yekaterinburg,Artem Mamin,23,Centre-Back,Orenburg,Loan,out,Summer,0,Premier Liga,2020,2020/2021
 Ural Yekaterinburg,Artem Yusupov,23,Centre-Forward,Orenburg,Loan,out,Summer,0,Premier Liga,2020,2020/2021
 Ural Yekaterinburg,Shamsiddin Shanbiev,23,Left-Back,Without Club,-,out,Summer,0,Premier Liga,2020,2020/2021
+Ural Yekaterinburg,Varazdat Haroyan,28,Centre-Back,Without Club,-,out,Summer,0,Premier Liga,2020,2020/2021
 FC Sochi,Danil Prutsev,20,Central Midfield,KS Samara,£810Th.,in,Summer,0.81,Premier Liga,2020,2020/2021
 FC Sochi,Timofey Margasov,28,Right-Back,Loko Moscow,Free transfer,in,Summer,0,Premier Liga,2020,2020/2021
 FC Sochi,Joãozinho,31,Left Winger,Dynamo Moscow,Free transfer,in,Summer,0,Premier Liga,2020,2020/2021
@@ -252,6 +260,7 @@ Akhmat Grozny,Mikhail Gashchenkov,28,Central Midfield,Nizhny Novgorod,Free trans
 Akhmat Grozny,Evgeniy Gorodov,34,Goalkeeper,Krasnodar,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
 Akhmat Grozny,Magomed Musalov,26,Right-Back,Pyunik Yerevan,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
 Akhmat Grozny,Konrad Michalak,22,Right Winger,C. Rizespor,Loan,out,Summer,0,Premier Liga,2020,2020/2021
+Akhmat Grozny,Felipe Vizeu,23,Centre-Forward,Udinese Calcio,"End of loanAug 31, 2020",out,Summer,0,Premier Liga,2020,2020/2021
 Akhmat Grozny,Roland Gigolaev,30,Left Midfield,Without Club,-,out,Summer,0,Premier Liga,2020,2020/2021
 Akhmat Grozny,Denis Glushakov,33,Central Midfield,Without Club,-,out,Summer,0,Premier Liga,2020,2020/2021
 Akhmat Grozny,Magomed Mitrishev,27,Right Winger,Chaika Pes.,Loan,out,Summer,0,Premier Liga,2020,2020/2021
@@ -291,44 +300,44 @@ PFK Tambov,Igor Yurganov,26,Centre-Back,Sochi,"End of loanJul 31, 2020",out,Summ
 PFK Tambov,Miguel Cardoso,25,Right Winger,Dynamo Moscow,"End of loanJun 1, 2020",out,Summer,0,Premier Liga,2020,2020/2021
 PFK Tambov,Aleksandr Filin,24,Centre-Back,Khimki,"End of loanJul 31, 2020",out,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Josip Condric,27,Goalkeeper,NK Istra,£110Th.,in,Summer,0.11,Premier Liga,2020,2020/2021
-Rotor Volgograd,Aleksandr Dovbnya,33,Goalkeeper,Orenburg,Free transfer,in,Summer,0,Premier Liga,2020,2020/2021
+Rotor Volgograd,Valeriy Pochivalin,28,Left-Back,Irtysh,Free transfer,in,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Patricio Matricardi,26,Centre-Back,Asteras Tripoli,Free transfer,in,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Armen Manucharyan,25,Right-Back,Pyunik Yerevan,Free transfer,in,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Jano Ananidze,27,Attacking Midfield,Anorthosis,Free transfer,in,Summer,0,Premier Liga,2020,2020/2021
+Rotor Volgograd,Aleksandr Dovbnya,33,Goalkeeper,Orenburg,Free transfer,in,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Oleg Kozhemyakin,25,Centre-Back,Shinnik,Free transfer,in,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Beka Mikeltadze,22,Centre-Forward,Rubin Kazan,Free transfer,in,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Nikolay Kipiani,23,Left Winger,Rubin Kazan,Free transfer,in,Summer,0,Premier Liga,2020,2020/2021
-Rotor Volgograd,Valeriy Pochivalin,28,Left-Back,Irtysh,Free transfer,in,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Nikita Repin,21,Goalkeeper,Rotor 2,-,in,Summer,0,Premier Liga,2020,2020/2021
-Rotor Volgograd,Danil Stepanov,20,Left-Back,Rubin Kazan,Loan,in,Summer,0,Premier Liga,2020,2020/2021
-Rotor Volgograd,Ilya Zhigulev,24,Central Midfield,Krasnodar,Loan,in,Summer,0,Premier Liga,2020,2020/2021
-Rotor Volgograd,Cédric Gogoua,26,Centre-Back,CSKA Moscow,Loan,in,Summer,0,Premier Liga,2020,2020/2021
-Rotor Volgograd,Aleksandr Saplinov,23,Second Striker,Rostov,Loan,in,Summer,0,Premier Liga,2020,2020/2021
-Rotor Volgograd,Zurab Davitashvili,19,Attacking Midfield,Rubin Kazan,Loan,in,Summer,0,Premier Liga,2020,2020/2021
-Rotor Volgograd,Solomon Kvirkvelia,28,Centre-Back,Loko Moscow,Loan,in,Summer,0,Premier Liga,2020,2020/2021
-Rotor Volgograd,Nikita Muromskiy,21,Left-Back,Rotor 2,-,in,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Kirill Kolesnichenko,20,Left Winger,Kairat Almaty,Loan,in,Summer,0,Premier Liga,2020,2020/2021
+Rotor Volgograd,Nikita Muromskiy,21,Left-Back,Rotor 2,-,in,Summer,0,Premier Liga,2020,2020/2021
+Rotor Volgograd,Solomon Kvirkvelia,28,Centre-Back,Loko Moscow,Loan,in,Summer,0,Premier Liga,2020,2020/2021
+Rotor Volgograd,Zurab Davitashvili,19,Attacking Midfield,Rubin Kazan,Loan,in,Summer,0,Premier Liga,2020,2020/2021
+Rotor Volgograd,Aleksandr Saplinov,23,Second Striker,Rostov,Loan,in,Summer,0,Premier Liga,2020,2020/2021
+Rotor Volgograd,Cédric Gogoua,26,Centre-Back,CSKA Moscow,Loan,in,Summer,0,Premier Liga,2020,2020/2021
+Rotor Volgograd,Ilya Zhigulev,24,Central Midfield,Krasnodar,Loan,in,Summer,0,Premier Liga,2020,2020/2021
+Rotor Volgograd,Danil Stepanov,20,Left-Back,Rubin Kazan,Loan,in,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Flamarion Junior,24,Second Striker,Dinamo Batumi,Loan,in,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Eduard Bulia,29,Centre-Forward,SKA Khabarovsk,"End of loanJun 30, 2020",in,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Aleksey Evseev,26,Central Midfield,Fakel Voronezh,"End of loanJun 30, 2020",in,Summer,0,Premier Liga,2020,2020/2021
-Rotor Volgograd,Albert Sharipov,27,Central Midfield,Nizhny Novgorod,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
+Rotor Volgograd,Ilya Ionov,34,Centre-Back,Stavropol,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
+Rotor Volgograd,Anton Piskunov,31,Right-Back,Chaika Pes.,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Valeriy Pochivalin,28,Left-Back,Fakel Voronezh,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Mukhammad Sultonov,27,Right Winger,Nizhny Novgorod,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Aleksey Evseev,26,Central Midfield,Ural,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Denis Tkachuk,31,Left Midfield,Orenburg,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Daniil Poluboyarinov,23,Central Midfield,Volgar,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
-Rotor Volgograd,Ilya Ionov,34,Centre-Back,Stavropol,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
+Rotor Volgograd,Albert Sharipov,27,Central Midfield,Nizhny Novgorod,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Eduard Bulia,29,Centre-Forward,SKA Khabarovsk,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Anzor Sanaia,31,Centre-Forward,Enisey,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
-Rotor Volgograd,Artem Samsonov,26,Defensive Midfield,Shinnik,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
-Rotor Volgograd,Artem Popov,27,Right Winger,Nizhny Novgorod,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
-Rotor Volgograd,Daniil Avdyushkin,26,Goalkeeper,Irtysh Omsk,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
-Rotor Volgograd,Azim Fatullaev,34,Defensive Midfield,Kuban,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Vitali Denisov,33,Left-Back,Tom Tomsk,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
+Rotor Volgograd,Azim Fatullaev,34,Defensive Midfield,Kuban,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
+Rotor Volgograd,Daniil Avdyushkin,26,Goalkeeper,Irtysh Omsk,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
+Rotor Volgograd,Artem Popov,27,Right Winger,Nizhny Novgorod,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
+Rotor Volgograd,Artem Samsonov,26,Defensive Midfield,Shinnik,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Yuri Nesterenko,29,Goalkeeper,Without Club,-,out,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Igor Udalyi,35,Centre-Back,Without Club,-,out,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Jano Ananidze,27,Attacking Midfield,Without Club,-,out,Summer,0,Premier Liga,2020,2020/2021
-Rotor Volgograd,Anton Piskunov,31,Right-Back,Without Club,-,out,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Artem Galadzhan,22,Centre-Forward,Loko-Kazanka M.,"End of loanJun 30, 2020",out,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Aleksandr Dovbnya,24,Centre-Back,Arsenal Tula,"End of loanJun 1, 2020",out,Summer,0,Premier Liga,2020,2020/2021
 Rotor Volgograd,Gennadi Kiselev,21,Central Midfield,KS Samara,"End of loanJun 1, 2020",out,Summer,0,Premier Liga,2020,2020/2021
@@ -350,6 +359,7 @@ FK Khimki,Dmitri Barkov,28,Centre-Forward,SKA Khabarovsk,Free transfer,out,Summe
 FK Khimki,Aleksandr Smirnov,24,Left-Back,Rostov,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
 FK Khimki,Egor Proshkin,21,Centre-Back,Torpedo Moscow,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
 FK Khimki,Nikita Malyarov,30,Central Midfield,Shinnik,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
+FK Khimki,Nikolai Signevich,28,Centre-Forward,BATE Borisov,Free transfer,out,Summer,0,Premier Liga,2020,2020/2021
 FK Khimki,Idris Umaev,21,Centre-Forward,Akhmat Grozny,"End of loanJun 30, 2020",out,Summer,0,Premier Liga,2020,2020/2021
 CSKA Moscow,Takuma Nishimura,24,Second Striker,Vegalta Sendai,"End of loanJan 2, 2021",in,Winter,0,Premier Liga,2020,2020/2021
 CSKA Moscow,Lassana N'Diaye,20,Centre-Forward,AFC Eskilstuna,"End of loanDec 31, 2020",in,Winter,0,Premier Liga,2020,2020/2021
@@ -358,7 +368,6 @@ Spartak Moscow,Pedro Rocha,26,Left Winger,Flamengo,"End of loanDec 31, 2020",in,
 Rubin Kazan,Kamil Zakirov,22,Central Midfield,FK Minsk,"End of loanJan 1, 2021",in,Winter,0,Premier Liga,2020,2020/2021
 Ural Yekaterinburg,Dominik Dinga,22,Centre-Back,Dinamo Minsk,"End of loanDec 31, 2020",in,Winter,0,Premier Liga,2020,2020/2021
 Akhmat Grozny,Ravanelli,23,Attacking Midfield,Athletico-PR,"End of loanFeb 1, 2021",in,Winter,0,Premier Liga,2020,2020/2021
-Akhmat Grozny,Felipe Vizeu,23,Centre-Forward,Udinese Calcio,"End of loanDec 31, 2020",out,Winter,0,Premier Liga,2020,2020/2021
 PFK Tambov,Sergey Arkhipov,24,Centre-Forward,Gorodeya,"End of loanDec 31, 2020",in,Winter,0,Premier Liga,2020,2020/2021
 PFK Tambov,Andrey Chasovskikh,29,Centre-Forward,Aktobe,"End of loanDec 31, 2020",in,Winter,0,Premier Liga,2020,2020/2021
 PFK Tambov,Oleg Chernyshov,34,Right Winger,Aktobe,"End of loanDec 31, 2020",in,Winter,0,Premier Liga,2020,2020/2021
