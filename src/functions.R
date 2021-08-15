@@ -3,13 +3,15 @@ extract_transfers <- function(page, window) {
   
   # isolate leagues club names
   clubs <- page %>% 
-    html_nodes(".table-header") %>%
-    html_text() 
+    html_elements(".table-header") %>%
+    html_text2() 
   clubs <- clubs[4:length(clubs)-1]
   
   # get leagues transfers
-  transfers <- html_table(page, ".responsive-table", 
-                          header = TRUE, fill = TRUE, trim = TRUE)
+  transfers <- html_table(
+    page, ".responsive-table", 
+    header = TRUE, fill = TRUE, trim = TRUE
+    )
   
   # return elements with expected transfer table form
   cond <- sapply(transfers, function(x) length(x) == 9)
@@ -17,11 +19,9 @@ extract_transfers <- function(page, window) {
   
   # get player names (which get botched in the table above)
   player_names <- page %>% 
-    html_nodes(".responsive-table") %>% 
-    html_nodes("[class='spielprofil_tooltip']") %>% 
-    html_attr("title") %>% 
-    .[c(TRUE, FALSE)]
-  
+    html_elements(".responsive-table .di.nowrap .hide-for-small a") %>%
+    html_attr("title")
+
   clubs_tidy <- rep(clubs, each = 2)
   
   # create tidy transfers data frame

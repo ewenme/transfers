@@ -1,0 +1,368 @@
+club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
+Atlético de Madrid,Rodrigo de Paul,27,Central Midfield,Udinese Calcio,£31.50m,in,Summer,31.5,Primera Division,2021,2021/2022
+Atlético de Madrid,Marcos Paulo,20,Left Winger,Fluminense,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Atlético de Madrid,Axel Werner,25,Goalkeeper,San Luis,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Atlético de Madrid,Nicolás Ibáñez,26,Centre-Forward,San Luis,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Atlético de Madrid,Francisco Montero,22,Centre-Back,Besiktas,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Atlético de Madrid,Santiago Arias,29,Right-Back,Bay. Leverkusen,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Atlético de Madrid,Nehuén Pérez,21,Centre-Back,Granada CF,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Atlético de Madrid,Manu Sánchez,20,Left-Back,CA Osasuna,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Atlético de Madrid,Ivan Saponjic,24,Centre-Forward,Cádiz CF,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Atlético de Madrid,Nicolás Ibáñez,26,Centre-Forward,CF Pachuca,£2.70m,out,Summer,2.7,Primera Division,2021,2021/2022
+Atlético de Madrid,Vitolo,31,Left Winger,Getafe,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Atlético de Madrid,Axel Werner,25,Goalkeeper,Without Club,-,out,Summer,0,Primera Division,2021,2021/2022
+Atlético de Madrid,Lucas Torreira,25,Defensive Midfield,Arsenal,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Atlético de Madrid,Moussa Dembélé,25,Centre-Forward,Olympique Lyon,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+FC Barcelona,Emerson Royal,22,Right-Back,Real Betis,£8.10m,in,Summer,8.1,Primera Division,2021,2021/2022
+FC Barcelona,Memphis Depay,27,Centre-Forward,Olympique Lyon,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+FC Barcelona,Sergio Agüero,33,Centre-Forward,Man City,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+FC Barcelona,Eric García,20,Centre-Back,Man City,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+FC Barcelona,Rey Manaj,24,Centre-Forward,Barcelona B,-,in,Summer,0,Primera Division,2021,2021/2022
+FC Barcelona,Iñaki Peña,22,Goalkeeper,Barcelona B,-,in,Summer,0,Primera Division,2021,2021/2022
+FC Barcelona,Álex Collado,22,Right Winger,Barcelona B,-,in,Summer,0,Primera Division,2021,2021/2022
+FC Barcelona,Jean-Clair Todibo,21,Centre-Back,OGC Nice,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+FC Barcelona,Carles Aleñá,23,Central Midfield,Getafe,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+FC Barcelona,Juan Miranda,21,Left-Back,Real Betis,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+FC Barcelona,Monchu,21,Central Midfield,Girona,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+FC Barcelona,Junior Firpo,24,Left-Back,Leeds,£13.50m,out,Summer,13.5,Primera Division,2021,2021/2022
+FC Barcelona,Jean-Clair Todibo,21,Centre-Back,OGC Nice,£7.65m,out,Summer,7.65,Primera Division,2021,2021/2022
+FC Barcelona,Carles Aleñá,23,Central Midfield,Getafe,£4.50m,out,Summer,4.5,Primera Division,2021,2021/2022
+FC Barcelona,Lionel Messi,34,Right Winger,Paris SG,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+FC Barcelona,Juan Miranda,21,Left-Back,Real Betis,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+FC Barcelona,Matheus Fernandes,23,Defensive Midfield,Palmeiras,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+FC Barcelona,Monchu,21,Central Midfield,Granada CF,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+FC Barcelona,Francisco Trincão,21,Right Winger,Wolves,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Real Madrid,David Alaba,29,Centre-Back,FC Bayern,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Real Madrid,Jesús Vallejo,24,Centre-Back,Granada CF,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Real Madrid,Brahim Díaz,22,Attacking Midfield,AC Milan,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Real Madrid,Dani Ceballos,25,Central Midfield,Arsenal,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Real Madrid,Gareth Bale,32,Right Winger,Spurs,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Real Madrid,Takefusa Kubo,20,Right Winger,Getafe,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Real Madrid,Luka Jovic,23,Centre-Forward,E. Frankfurt,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Real Madrid,Martin Ødegaard,22,Attacking Midfield,Arsenal,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Real Madrid,Raphaël Varane,28,Centre-Back,Man Utd,£36.00m,out,Summer,36,Primera Division,2021,2021/2022
+Real Madrid,Brahim Díaz,22,Attacking Midfield,AC Milan,Loan fee:£2.70m,out,Summer,2.7,Primera Division,2021,2021/2022
+Real Madrid,Sergio Ramos,35,Centre-Back,Paris SG,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Real Madrid,Takefusa Kubo,20,Right Winger,RCD Mallorca,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Sevilla FC,Gonzalo Montiel,24,Right-Back,River Plate,£9.90m,in,Summer,9.9,Primera Division,2021,2021/2022
+Sevilla FC,Erik Lamela,29,Right Winger,Spurs,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Sevilla FC,Marko Dmitrovic,29,Goalkeeper,SD Eibar,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Sevilla FC,Guilherme Arana,24,Left-Back,Atlético-MG,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Sevilla FC,Oussama Idrissi,25,Left Winger,Ajax,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Sevilla FC,Ibrahim Amadou,28,Defensive Midfield,SCO Angers,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Sevilla FC,Bryan Gil,20,Left Winger,SD Eibar,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Sevilla FC,Alejandro Pozo,22,Right-Back,SD Eibar,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Sevilla FC,Juan Soriano,23,Goalkeeper,Málaga CF,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Sevilla FC,José Alonso Lara,21,Left Winger,Dep. La Coruña,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Sevilla FC,Juan Berrocal,22,Centre-Back,CD Mirandés,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Sevilla FC,Rony Lopes,25,Right Winger,OGC Nice,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Sevilla FC,Bryan Gil,20,Left Winger,Spurs,£22.50m,out,Summer,22.5,Primera Division,2021,2021/2022
+Sevilla FC,Guilherme Arana,24,Left-Back,Atlético-MG,£2.25m,out,Summer,2.25,Primera Division,2021,2021/2022
+Sevilla FC,Sergi Gómez,29,Centre-Back,Espanyol,£900Th.,out,Summer,0.9,Primera Division,2021,2021/2022
+Sevilla FC,José Alonso Lara,21,Left Winger,Betis B,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Sevilla FC,Tomas Vaclik,32,Goalkeeper,Olympiacos,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Sevilla FC,Franco Vázquez,32,Attacking Midfield,Parma,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Sevilla FC,Juan Soriano,23,Goalkeeper,CD Tenerife,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Sevilla FC,Juan Berrocal,22,Centre-Back,Sporting Gijón,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Sevilla FC,Sergio Escudero,31,Left-Back,Without Club,-,out,Summer,0,Primera Division,2021,2021/2022
+Sevilla FC,Aleix Vidal,31,Right-Back,Without Club,-,out,Summer,0,Primera Division,2021,2021/2022
+Real Sociedad,Diego Rico,28,Left-Back,Bournemouth,£450Th.,in,Summer,0.45,Primera Division,2021,2021/2022
+Real Sociedad,Mathew Ryan,29,Goalkeeper,Brighton,?,in,Summer,NA,Primera Division,2021,2021/2022
+Real Sociedad,Kévin Rodrigues,27,Left-Back,SD Eibar,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Real Sociedad,Willian José,29,Centre-Forward,Wolves,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Real Sociedad,Martín Merquelanz,26,Left Winger,Rayo Vallecano,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Real Sociedad,Kévin Rodrigues,27,Left-Back,Rayo Vallecano,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Real Sociedad,Miguel Ángel Moyá,37,Goalkeeper,Without Club,-,out,Summer,0,Primera Division,2021,2021/2022
+Real Sociedad,Luca Sangalli,26,Attacking Midfield,Real Sociedad B,-,out,Summer,0,Primera Division,2021,2021/2022
+Real Sociedad,Roberto López,21,Attacking Midfield,Real Sociedad B,-,out,Summer,0,Primera Division,2021,2021/2022
+Villarreal CF,Juan Foyth,23,Centre-Back,Spurs,£13.50m,in,Summer,13.5,Primera Division,2021,2021/2022
+Villarreal CF,Boulaye Dia,24,Centre-Forward,Stade Reims,£10.80m,in,Summer,10.8,Primera Division,2021,2021/2022
+Villarreal CF,Manu Morlanes,22,Central Midfield,UD Almería,£3.60m,in,Summer,3.6,Primera Division,2021,2021/2022
+Villarreal CF,Aïssa Mandi,29,Centre-Back,Real Betis,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Villarreal CF,Soufiane Chakla,27,Centre-Back,Getafe,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Villarreal CF,Javi Ontiveros,23,Left Winger,SD Huesca,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Villarreal CF,Jorge Cuenca,21,Centre-Back,UD Almería,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Villarreal CF,Mario González,25,Centre-Forward,Tondela,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Villarreal CF,Manu Morlanes,22,Central Midfield,UD Almería,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Villarreal CF,Enric Franquesa,24,Left-Back,Girona,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Villarreal CF,Miguelón,25,Right-Back,Espanyol,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Villarreal CF,Xavi Quintillà,24,Left-Back,Norwich,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Villarreal CF,Iván Martín,22,Attacking Midfield,CD Mirandés,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Villarreal CF,Manu Morlanes,22,Central Midfield,UD Almería,£2.70m,out,Summer,2.7,Primera Division,2021,2021/2022
+Villarreal CF,Ramiro Funes Mori,30,Centre-Back,Al-Nassr,£2.25m,out,Summer,2.25,Primera Division,2021,2021/2022
+Villarreal CF,Mario González,25,Centre-Forward,Braga,£1.35m,out,Summer,1.35,Primera Division,2021,2021/2022
+Villarreal CF,Enric Franquesa,24,Left-Back,Levante,£675Th.,out,Summer,0.675,Primera Division,2021,2021/2022
+Villarreal CF,Miguelón,25,Right-Back,Espanyol,£450Th.,out,Summer,0.45,Primera Division,2021,2021/2022
+Villarreal CF,Andrei Ratiu,23,Right-Back,SD Huesca,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Villarreal CF,Carlos Bacca,34,Centre-Forward,Granada CF,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Villarreal CF,Jaume Costa,33,Left-Back,RCD Mallorca,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Villarreal CF,Xavi Quintillà,24,Left-Back,CD Leganés,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Villarreal CF,Iván Martín,22,Attacking Midfield,Alavés,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Villarreal CF,Juan Foyth,23,Centre-Back,Spurs,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Real Betis Balompié,Juan Miranda,21,Left-Back,Barcelona,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Real Betis Balompié,Youssouf Sabaly,28,Right-Back,G. Bordeaux,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Real Betis Balompié,Rui Silva,27,Goalkeeper,Granada CF,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Real Betis Balompié,Rober González,20,Right Winger,UD Las Palmas,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Real Betis Balompié,Edgar González,24,Defensive Midfield,Real Oviedo,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Real Betis Balompié,Emerson Royal,22,Right-Back,Barcelona,£8.10m,out,Summer,8.1,Primera Division,2021,2021/2022
+Real Betis Balompié,Aïssa Mandi,29,Centre-Back,Villarreal,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Real Betis Balompié,Dani Martín,23,Goalkeeper,Málaga CF,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Real Betis Balompié,Juan Miranda,21,Left-Back,Barcelona,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Athletic Bilbao,Álex Petxa,24,Right-Back,Real Sociedad B,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Athletic Bilbao,Imanol García de Albéniz,21,Left-Back,Bilbao Athletic,-,in,Summer,0,Primera Division,2021,2021/2022
+Athletic Bilbao,Nico Williams,19,Right Winger,Bilbao Athletic,-,in,Summer,0,Primera Division,2021,2021/2022
+Athletic Bilbao,Dani Vivian,22,Centre-Back,CD Mirandés,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Athletic Bilbao,Kenan Kodro,27,Centre-Forward,Real Valladolid,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Athletic Bilbao,Iñigo Córdoba,24,Left Winger,Alavés,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Athletic Bilbao,Iñigo Vicente,23,Left Winger,CD Mirandés,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Athletic Bilbao,Imanol García de Albéniz,21,Left-Back,CD Mirandés,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Athletic Bilbao,Iago Herrerín,33,Goalkeeper,Without Club,-,out,Summer,0,Primera Division,2021,2021/2022
+Athletic Bilbao,Ibai Gómez,31,Right Winger,Without Club,-,out,Summer,0,Primera Division,2021,2021/2022
+Granada CF,Carlos Bacca,34,Centre-Forward,Villarreal,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Granada CF,Monchu,21,Central Midfield,Barcelona,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Granada CF,Luis Abram,25,Centre-Back,Vélez Sarsfield,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Granada CF,Antoñín,21,Centre-Forward,Rayo Vallecano,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Granada CF,Ramon Azeez,28,Central Midfield,FC Cartagena,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Granada CF,Roberto Soldado,36,Centre-Forward,Levante,£450Th.,out,Summer,0.45,Primera Division,2021,2021/2022
+Granada CF,Rui Silva,27,Goalkeeper,Real Betis,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Granada CF,Fede Vico,27,Attacking Midfield,Without Club,-,out,Summer,0,Primera Division,2021,2021/2022
+Granada CF,Jesús Vallejo,24,Centre-Back,Real Madrid,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Granada CF,Yangel Herrera,23,Central Midfield,Man City,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Granada CF,Kenedy,25,Left Midfield,Chelsea,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Granada CF,Nehuén Pérez,21,Centre-Back,Atlético Madrid,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Granada CF,Domingos Quina,21,Central Midfield,Watford,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Celta de Vigo,Javi Galán,26,Left-Back,SD Huesca,£3.60m,in,Summer,3.6,Primera Division,2021,2021/2022
+Celta de Vigo,Franco Cervi,27,Left Winger,Benfica,£3.60m,in,Summer,3.6,Primera Division,2021,2021/2022
+Celta de Vigo,Matías Dituro,34,Goalkeeper,CDUC,loan transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Celta de Vigo,Jose Fontán,21,Centre-Back,Celta Vigo B,-,in,Summer,0,Primera Division,2021,2021/2022
+Celta de Vigo,Sergio Carreira,20,Right-Back,Celta Vigo B,-,in,Summer,0,Primera Division,2021,2021/2022
+Celta de Vigo,Jozabed Sánchez,30,Central Midfield,Málaga CF,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Celta de Vigo,Gabriel Fernández,27,Centre-Forward,Real Zaragoza,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Celta de Vigo,Álvaro Vadillo,26,Left Winger,Espanyol,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Celta de Vigo,Okay Yokuslu,27,Defensive Midfield,West Brom,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Celta de Vigo,Juan Hernández,26,Right Winger,CE Sabadell,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Celta de Vigo,Álvaro Vadillo,26,Left Winger,Espanyol,£1.62m,out,Summer,1.62,Primera Division,2021,2021/2022
+Celta de Vigo,Jozabed Sánchez,30,Central Midfield,Málaga CF,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Celta de Vigo,David Juncà,27,Left-Back,Girona,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Celta de Vigo,David Costas,26,Centre-Back,Real Oviedo,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Celta de Vigo,Juan Hernández,26,Right Winger,Alcorcón,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Celta de Vigo,Iván Villar,24,Goalkeeper,CD Leganés,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Celta de Vigo,Gabriel Fernández,27,Centre-Forward,FC Juárez,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Celta de Vigo,Sergio Carreira,20,Right-Back,CD Mirandés,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Celta de Vigo,Sergio Álvarez,35,Goalkeeper,Retired,-,out,Summer,0,Primera Division,2021,2021/2022
+Celta de Vigo,Facundo Ferreyra,30,Centre-Forward,Without Club,-,out,Summer,0,Primera Division,2021,2021/2022
+Celta de Vigo,Aarón Martín,24,Left-Back,1.FSV Mainz 05,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Celta de Vigo,Jorge Sáenz,24,Centre-Back,Valencia,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Celta de Vigo,Jeison Murillo,29,Centre-Back,Sampdoria,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Cádiz CF,Santiago Arzamendia,23,Left-Back,Cerro Porteño,£1.89m,in,Summer,1.89,Primera Division,2021,2021/2022
+Cádiz CF,Tomás Alarcón,22,Defensive Midfield,O'Higgins,£1.80m,in,Summer,1.8,Primera Division,2021,2021/2022
+Cádiz CF,Jeremías Ledesma,28,Goalkeeper,CA Rosario,£1.62m,in,Summer,1.62,Primera Division,2021,2021/2022
+Cádiz CF,Álvaro Jiménez,26,Right Winger,Albacete,£630Th.,in,Summer,0.63,Primera Division,2021,2021/2022
+Cádiz CF,Martín Calderón,22,Central Midfield,RM Castilla,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Cádiz CF,Varazdat Haroyan,28,Centre-Back,FC Astana,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Cádiz CF,Milutin Osmajic,22,Centre-Forward,Sutjeska Niksic,?,in,Summer,NA,Primera Division,2021,2021/2022
+Cádiz CF,Víctor Chust,21,Centre-Back,RM Castilla,loan transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Cádiz CF,Álvaro Giménez,30,Centre-Forward,RCD Mallorca,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Cádiz CF,Nano Mesa,26,Centre-Forward,UD Logroñés,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Cádiz CF,Jean-Pierre Rhyner,25,Centre-Back,FC Emmen,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Cádiz CF,Sergio González,24,Defensive Midfield,CD Tenerife,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Cádiz CF,Gaspar Panadero,23,Left Winger,Ponferradina,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Cádiz CF,Dani Sotres,28,Goalkeeper,R. Majadahonda,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Cádiz CF,José Matos,26,Left-Back,Málaga CF,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Cádiz CF,Caye Quintana,27,Centre-Forward,Málaga CF,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Cádiz CF,David Mayoral,24,Right Winger,FC Hermannstadt,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Cádiz CF,Pedro Alcalá,32,Centre-Back,FC Cartagena,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Cádiz CF,Gaspar Panadero,23,Left Winger,Qarabag FK,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Cádiz CF,José Matos,26,Left-Back,Burgos CF,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Cádiz CF,Sergio González,24,Defensive Midfield,CD Tenerife,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Cádiz CF,Caye Quintana,27,Centre-Forward,Slask Wroclaw,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Cádiz CF,Jean-Pierre Rhyner,25,Centre-Back,Volos NPS,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Cádiz CF,Dani Sotres,28,Goalkeeper,CyD Leonesa,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Cádiz CF,Augusto Fernández,35,Central Midfield,Retired,-,out,Summer,0,Primera Division,2021,2021/2022
+Cádiz CF,Rubén Sobrino,29,Centre-Forward,Valencia,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Cádiz CF,Ivan Saponjic,24,Centre-Forward,Atlético Madrid,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Cádiz CF,Jairo Izquierdo,27,attack,Girona,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Cádiz CF,Jeremías Ledesma,28,Goalkeeper,CA Rosario,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Cádiz CF,David Mayoral,24,Right Winger,CD Lugo,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+RCD Espanyol Barcelona,Landry Dimata,23,Centre-Forward,RSC Anderlecht,£1.98m,in,Summer,1.98,Primera Division,2021,2021/2022
+RCD Espanyol Barcelona,Álvaro Vadillo,26,Left Winger,Celta de Vigo,£1.62m,in,Summer,1.62,Primera Division,2021,2021/2022
+RCD Espanyol Barcelona,Sergi Gómez,29,Centre-Back,Sevilla FC,£900Th.,in,Summer,0.9,Primera Division,2021,2021/2022
+RCD Espanyol Barcelona,Miguelón,25,Right-Back,Villarreal,£450Th.,in,Summer,0.45,Primera Division,2021,2021/2022
+RCD Espanyol Barcelona,Juan Camilo Becerra,23,Centre-Forward,RCD Espanyol B,-,in,Summer,0,Primera Division,2021,2021/2022
+RCD Espanyol Barcelona,Víctor Gómez,21,Right-Back,CD Mirandés,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+RCD Espanyol Barcelona,Juan Camilo Becerra,23,Centre-Forward,Ponferradina,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+RCD Espanyol Barcelona,Miguelón,25,Right-Back,Villarreal,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+RCD Espanyol Barcelona,Álvaro Vadillo,26,Left Winger,Celta de Vigo,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+RCD Espanyol Barcelona,Landry Dimata,23,Centre-Forward,RSC Anderlecht,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+CA Osasuna,Ante Budimir,30,Centre-Forward,RCD Mallorca,£7.20m,in,Summer,7.2,Primera Division,2021,2021/2022
+CA Osasuna,Jonás Ramalho,28,Centre-Back,Girona,£630Th.,in,Summer,0.63,Primera Division,2021,2021/2022
+CA Osasuna,Cote,31,Left-Back,SD Eibar,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+CA Osasuna,Kike García,31,Centre-Forward,SD Eibar,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+CA Osasuna,Jesús Areso,22,Right-Back,Bilbao Athletic,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+CA Osasuna,Kike Saverio,22,Left Winger,CA Osasuna Prom,-,in,Summer,0,Primera Division,2021,2021/2022
+CA Osasuna,Javi Martínez,21,Attacking Midfield,CA Osasuna Prom,-,in,Summer,0,Primera Division,2021,2021/2022
+CA Osasuna,Brandon Thomas,26,Centre-Forward,CD Leganés,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+CA Osasuna,Marc Cardona,26,Centre-Forward,RCD Mallorca,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+CA Osasuna,Barbero,22,Centre-Forward,Alcorcón,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+CA Osasuna,Rober Ibáñez,28,Right Winger,CD Leganés,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+CA Osasuna,Jaume Grau,24,Central Midfield,Tondela,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+CA Osasuna,Brandon Thomas,26,Centre-Forward,Málaga CF,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+CA Osasuna,Rubén Martínez,37,Goalkeeper,AEK Larnaca,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+CA Osasuna,Marc Cardona,26,Centre-Forward,Go Ahead Eagles,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+CA Osasuna,Kike Saverio,22,Left Winger,Ponferradina,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+CA Osasuna,Enric Gallego,34,Centre-Forward,Without Club,-,out,Summer,0,Primera Division,2021,2021/2022
+CA Osasuna,Facundo Roncaglia,34,Right-Back,Without Club,-,out,Summer,0,Primera Division,2021,2021/2022
+CA Osasuna,Adrián López,33,Centre-Forward,Without Club,-,out,Summer,0,Primera Division,2021,2021/2022
+CA Osasuna,Jonás Ramalho,28,Centre-Back,Girona,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+CA Osasuna,Manu Sánchez,20,Left-Back,Atlético Madrid,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+CA Osasuna,Ante Budimir,30,Centre-Forward,RCD Mallorca,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+CA Osasuna,Jony,30,Left Winger,Lazio,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+CA Osasuna,Jonathan Calleri,27,Centre-Forward,Maldonado,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Levante UD,Enric Franquesa,24,Left-Back,Villarreal,£675Th.,in,Summer,0.675,Primera Division,2021,2021/2022
+Levante UD,Roberto Soldado,36,Centre-Forward,Granada CF,£450Th.,in,Summer,0.45,Primera Division,2021,2021/2022
+Levante UD,Roger Brugué,24,Right Winger,Gimnàstic,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Levante UD,Pepelu,23,Defensive Midfield,Vit. Guimarães,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Levante UD,Pablo Martínez,23,Central Midfield,CD Mirandés,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Levante UD,Arturo Molina,25,Attacking Midfield,CD Castellón,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Levante UD,Hernâni,29,Right Winger,Al-Wahda,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Levante UD,Koke Vegas,25,Goalkeeper,RCD Mallorca,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Levante UD,Toño García,31,Left-Back,SD Eibar,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Levante UD,Cheick Doukouré,28,Defensive Midfield,CD Leganés,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Levante UD,Roger Brugué,24,Right Winger,CD Mirandés,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Levante UD,Rubén Rochina,30,Right Winger,Without Club,-,out,Summer,0,Primera Division,2021,2021/2022
+Levante UD,Arturo Molina,25,Attacking Midfield,Without Club,-,out,Summer,0,Primera Division,2021,2021/2022
+Valencia CF,Giorgi Mamardashvili,20,Goalkeeper,Dinamo Tbilisi,Loan fee:£180Th.,in,Summer,0.18,Primera Division,2021,2021/2022
+Valencia CF,Omar Alderete,24,Centre-Back,Hertha BSC,loan transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Valencia CF,Jorge Sáenz,24,Centre-Back,Celta de Vigo,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Valencia CF,Javi Jiménez,24,Centre-Back,Albacete,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Valencia CF,Rubén Sobrino,29,Centre-Forward,Cádiz CF,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Valencia CF,Javi Jiménez,24,Centre-Back,Albacete,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Valencia CF,Kévin Gameiro,34,Centre-Forward,R. Strasbourg,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Valencia CF,Jorge Sáenz,24,Centre-Back,Marítimo,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Valencia CF,Eliaquim Mangala,30,Centre-Back,Without Club,-,out,Summer,0,Primera Division,2021,2021/2022
+Valencia CF,Patrick Cutrone,23,Centre-Forward,Wolves,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Valencia CF,Ferro,24,Centre-Back,Benfica,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Valencia CF,Christian Oliva,25,Defensive Midfield,Cagliari Calcio,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Getafe CF,Carles Aleñá,23,Central Midfield,Barcelona,£4.50m,in,Summer,4.5,Primera Division,2021,2021/2022
+Getafe CF,Stefan Mitrovic,31,Centre-Back,R. Strasbourg,£900Th.,in,Summer,0.9,Primera Division,2021,2021/2022
+Getafe CF,Sandro Ramírez,26,Centre-Forward,SD Huesca,Loan fee:£900Th.,in,Summer,0.9,Primera Division,2021,2021/2022
+Getafe CF,Diego Conde,22,Goalkeeper,Atl. Madrid B,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Getafe CF,Darío Poveda,24,Centre-Forward,Atl. Madrid B,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Getafe CF,Vitolo,31,Left Winger,Atlético Madrid,loan transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Getafe CF,José Macías,21,Centre-Forward,Chivas,loan transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Getafe CF,Josete Miranda,23,Left Winger,Getafe CF B,-,in,Summer,0,Primera Division,2021,2021/2022
+Getafe CF,Miguel Rubio,23,Centre-Back,Getafe CF B,-,in,Summer,0,Primera Division,2021,2021/2022
+Getafe CF,Juan Iglesias,23,Right-Back,Getafe CF B,-,in,Summer,0,Primera Division,2021,2021/2022
+Getafe CF,Jack Harper,25,Centre-Forward,Villarreal CF B,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Getafe CF,Amath Ndiaye,25,Left Winger,RCD Mallorca,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Getafe CF,Ignasi Miquel,28,Centre-Back,CD Leganés,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Getafe CF,Hugo Duro,21,Centre-Forward,RM Castilla,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Getafe CF,Xabi Etxeita,33,Centre-Back,SD Eibar,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Getafe CF,Francisco Portillo,31,Right Winger,UD Almería,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Getafe CF,Ángel Rodríguez,34,Centre-Forward,RCD Mallorca,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Getafe CF,Amath Ndiaye,25,Left Winger,RCD Mallorca,£3.60m,out,Summer,3.6,Primera Division,2021,2021/2022
+Getafe CF,Jack Harper,25,Centre-Forward,Racing,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Getafe CF,Soufiane Chakla,27,Centre-Back,Villarreal,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Getafe CF,Takefusa Kubo,20,Right Winger,Real Madrid,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Getafe CF,Carles Aleñá,23,Central Midfield,Barcelona,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Getafe CF,Darío Poveda,24,Centre-Forward,Atl. Madrid B,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Getafe CF,Cucho Hernández,22,Centre-Forward,Watford,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Deportivo Alavés,Taichi Hara,22,Centre-Forward,NK Istra,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Deportivo Alavés,Toni Moya,23,Central Midfield,Atl. Madrid B,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Deportivo Alavés,Florian Lejeune,30,Centre-Back,Newcastle,?,in,Summer,NA,Primera Division,2021,2021/2022
+Deportivo Alavés,Facundo Pellistri,19,Right Winger,Man Utd,loan transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Deportivo Alavés,Iván Martín,22,Attacking Midfield,Villarreal,loan transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Deportivo Alavés,Manu García,23,Attacking Midfield,Sporting Gijón,loan transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Deportivo Alavés,Mamadou Loum,24,Defensive Midfield,FC Porto,loan transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Deportivo Alavés,Ramón Miérez,24,Centre-Forward,NK Osijek,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Deportivo Alavés,Carlos Isaac,23,Right-Back,Albacete,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Deportivo Alavés,José Luis Rodríguez,23,Left Winger,CD Lugo,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Deportivo Alavés,Olivier Verdon,25,Centre-Back,Ludogorets,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Deportivo Alavés,Javi Muñoz,26,Central Midfield,CD Mirandés,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Deportivo Alavés,Saúl García,26,Left-Back,Sporting Gijón,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Deportivo Alavés,Rafa Navarro,27,Right-Back,NK Istra,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Deportivo Alavés,Fabrice Ondoa,25,Goalkeeper,NK Istra,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Deportivo Alavés,Rafa Páez,27,Centre-Back,NK Istra,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Deportivo Alavés,Ramón Miérez,24,Centre-Forward,NK Osijek,£2.25m,out,Summer,2.25,Primera Division,2021,2021/2022
+Deportivo Alavés,Olivier Verdon,25,Centre-Back,Ludogorets,£900Th.,out,Summer,0.9,Primera Division,2021,2021/2022
+Deportivo Alavés,Manu García,35,Defensive Midfield,Aris Limassol,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Deportivo Alavés,Rafa Navarro,27,Right-Back,NK Istra,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Deportivo Alavés,Javi Muñoz,26,Central Midfield,SD Eibar,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Deportivo Alavés,Rafa Páez,27,Centre-Back,Mar Menor FC,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Deportivo Alavés,Borja Sainz,20,Left Winger,Real Zaragoza,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Deportivo Alavés,José Luis Rodríguez,23,Left Winger,Sporting Gijón,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Deportivo Alavés,Burgui,27,Left Winger,Without Club,-,out,Summer,0,Primera Division,2021,2021/2022
+Deportivo Alavés,Rodrigo Ely,27,Centre-Back,Without Club,-,out,Summer,0,Primera Division,2021,2021/2022
+Deportivo Alavés,Jota Peleteiro,30,Right Winger,Without Club,-,out,Summer,0,Primera Division,2021,2021/2022
+Deportivo Alavés,Rodrigo Battaglia,30,Central Midfield,Sporting CP,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Deportivo Alavés,Florian Lejeune,30,Centre-Back,Newcastle,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Deportivo Alavés,Facundo Pellistri,19,Right Winger,Man Utd,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Deportivo Alavés,Iñigo Córdoba,24,Left Winger,Athletic,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Elche CF,Iván Marcone,31,Defensive Midfield,Boca Juniors,£3.60m,in,Summer,3.6,Primera Division,2021,2021/2022
+Elche CF,Lucas Boyé,25,Centre-Forward,Torino,£1.80m,in,Summer,1.8,Primera Division,2021,2021/2022
+Elche CF,Johan Mojica,28,Left-Back,Girona,£1.08m,in,Summer,1.08,Primera Division,2021,2021/2022
+Elche CF,Enzo Roco,28,Centre-Back,Karagümrük,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Elche CF,Pedro Bigas,31,Centre-Back,SD Eibar,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Elche CF,Kiko Casilla,34,Goalkeeper,Leeds,loan transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Elche CF,Ramón Folch,31,Central Midfield,CD Tenerife,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Elche CF,Manu Justo,25,Second Striker,Celta Vigo B,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Elche CF,Omenuke Mfulu,27,Defensive Midfield,UD Las Palmas,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Elche CF,Miguel Cifuentes,30,Right-Back,UD Ibiza,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Elche CF,Ramón Folch,31,Central Midfield,CE Sabadell,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Elche CF,Dani Calvo,27,Centre-Back,Real Oviedo,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Elche CF,Manu Justo,25,Second Striker,Racing,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Elche CF,Víctor Rodríguez,32,Left Winger,Without Club,-,out,Summer,0,Primera Division,2021,2021/2022
+Elche CF,Nino,41,Centre-Forward,Retired,-,out,Summer,0,Primera Division,2021,2021/2022
+Elche CF,Paulo Gazzaniga,29,Goalkeeper,Spurs,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Elche CF,Johan Mojica,28,Left-Back,Girona,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Elche CF,Iván Marcone,31,Defensive Midfield,Boca Juniors,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Elche CF,Lucas Boyé,25,Centre-Forward,Torino,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+RCD Mallorca,Dominik Greif,24,Goalkeeper,Slo. Bratislava,£2.25m,in,Summer,2.25,Primera Division,2021,2021/2022
+RCD Mallorca,Pablo Maffeo,24,Right-Back,VfB Stuttgart,Loan fee:£450Th.,in,Summer,0.45,Primera Division,2021,2021/2022
+RCD Mallorca,Jaume Costa,33,Left-Back,Villarreal,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+RCD Mallorca,Ángel Rodríguez,34,Centre-Forward,Getafe,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+RCD Mallorca,Amath Ndiaye,25,Left Winger,Getafe,£3.60m,in,Summer,3.6,Primera Division,2021,2021/2022
+RCD Mallorca,Rodrigo Battaglia,30,Central Midfield,Sporting CP,loan transfer,in,Summer,NA,Primera Division,2021,2021/2022
+RCD Mallorca,Takefusa Kubo,20,Right Winger,Real Madrid,loan transfer,in,Summer,NA,Primera Division,2021,2021/2022
+RCD Mallorca,Leo Román,21,Goalkeeper,RCD Mallorca B,-,in,Summer,0,Primera Division,2021,2021/2022
+RCD Mallorca,Alex Alegría,28,Centre-Forward,Real Zaragoza,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+RCD Mallorca,Stoichkov,27,Attacking Midfield,CE Sabadell,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+RCD Mallorca,Ante Budimir,30,Centre-Forward,CA Osasuna,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+RCD Mallorca,Igor Zlatanovic,23,Centre-Forward,CD Castellón,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+RCD Mallorca,Pablo Valcarce,28,Right Winger,Ponferradina,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+RCD Mallorca,Josep Señé,29,Attacking Midfield,CD Castellón,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+RCD Mallorca,Ante Budimir,30,Centre-Forward,CA Osasuna,£7.20m,out,Summer,7.2,Primera Division,2021,2021/2022
+RCD Mallorca,Josep Señé,29,Attacking Midfield,CD Lugo,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+RCD Mallorca,Pablo Valcarce,28,Right Winger,Burgos CF,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+RCD Mallorca,Fran Gámez,30,Right-Back,Real Zaragoza,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+RCD Mallorca,Enzo Lombardo,24,attack,SD Huesca,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+RCD Mallorca,Miquel Parera,25,Goalkeeper,Racing,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+RCD Mallorca,Igor Zlatanovic,23,Centre-Forward,Maccabi Netanya,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+RCD Mallorca,Stoichkov,27,Attacking Midfield,SD Eibar,?,out,Summer,NA,Primera Division,2021,2021/2022
+RCD Mallorca,Braian Cufré,24,Left-Back,Málaga CF,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+RCD Mallorca,Álex López,27,Centre-Forward,Without Club,-,out,Summer,0,Primera Division,2021,2021/2022
+RCD Mallorca,Koke Vegas,25,Goalkeeper,Levante,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+RCD Mallorca,Álvaro Giménez,30,Centre-Forward,Cádiz CF,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+RCD Mallorca,Amath Ndiaye,25,Left Winger,Getafe,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+RCD Mallorca,Marc Cardona,26,Centre-Forward,CA Osasuna,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+RCD Mallorca,Murilo de Souza,26,Right Winger,Braga,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Rayo Vallecano,Fran García,22,Left-Back,RM Castilla,£1.80m,in,Summer,1.8,Primera Division,2021,2021/2022
+Rayo Vallecano,Randy Nteka,23,Attacking Midfield,CF Fuenlabrada,£1.17m,in,Summer,1.17,Primera Division,2021,2021/2022
+Rayo Vallecano,Pathé Ciss,27,Central Midfield,CF Fuenlabrada,£900Th.,in,Summer,0.9,Primera Division,2021,2021/2022
+Rayo Vallecano,Iván Balliu,29,Right-Back,UD Almería,free transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Rayo Vallecano,Martín Merquelanz,26,Left Winger,Real Sociedad,loan transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Rayo Vallecano,Kévin Rodrigues,27,Left-Back,Real Sociedad,loan transfer,in,Summer,NA,Primera Division,2021,2021/2022
+Rayo Vallecano,Sergio Moreno,22,Centre-Forward,CD Mirandés,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Rayo Vallecano,Adri Carrasco,24,Left Winger,Las Rozas CF,"End of loanJun 30, 2021",in,Summer,0,Primera Division,2021,2021/2022
+Rayo Vallecano,Miguel Ángel Guerrero,31,Centre-Forward,UD Ibiza,free transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Rayo Vallecano,Luis Advíncula,31,Right-Back,Boca Juniors,£1.98m,out,Summer,1.98,Primera Division,2021,2021/2022
+Rayo Vallecano,Joni Montiel,22,Attacking Midfield,Real Oviedo,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Rayo Vallecano,Alberto García,36,Goalkeeper,Retired,-,out,Summer,0,Primera Division,2021,2021/2022
+Rayo Vallecano,Leonardo Ulloa,35,Centre-Forward,Without Club,-,out,Summer,0,Primera Division,2021,2021/2022
+Rayo Vallecano,Emiliano Velázquez,27,Centre-Back,Without Club,-,out,Summer,0,Primera Division,2021,2021/2022
+Rayo Vallecano,Martín Pascual,22,Centre-Back,Villarreal CF B,loan transfer,out,Summer,NA,Primera Division,2021,2021/2022
+Rayo Vallecano,Fran García,22,Left-Back,RM Castilla,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Rayo Vallecano,Iván Martos,24,Left-Back,UD Almería,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Rayo Vallecano,Antoñín,21,Centre-Forward,Granada CF,"End of loanJun 30, 2021",out,Summer,0,Primera Division,2021,2021/2022
+Villarreal CF,Santiago Cáseres,24,Defensive Midfield,Vélez Sarsfield,"End of loanDec 31, 2021",in,Winter,0,Primera Division,2021,2021/2022
+Rayo Vallecano,Lass Bangoura,29,Right Winger,CS Emelec,"End of loanDec 31, 2021",in,Winter,0,Primera Division,2021,2021/2022

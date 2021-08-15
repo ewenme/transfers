@@ -9,7 +9,7 @@ source("src/functions.R")
 league_meta <- read_csv("config/league-meta.csv")
 
 # seasons to scrape
-seasons <- 2020
+seasons <- 2021
 
 # scrape ---------------------------------------------------
 
