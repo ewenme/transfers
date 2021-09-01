@@ -1,7 +1,7 @@
 transfers
 ================
 
-Data on European football clubs' player transfers, through 1992/93 to 2020/21 seasons (as found on [Transfermarkt](https://www.transfermarkt.co.uk/)).
+Data on European football clubs' player transfers, through 1992/93 to 2021/22 seasons (as found on [Transfermarkt](https://www.transfermarkt.co.uk/)).
 
 Data
 ----
