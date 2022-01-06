@@ -1,86 +1,87 @@
 club_name,player_name,age,position,club_involved_name,fee,transfer_movement,transfer_period,fee_cleaned,league_name,year,season
 Barnsley FC,Devante Cole,26,Centre-Forward,Motherwell FC,free transfer,in,Summer,NA,Championship,2021,2021/2022
-Barnsley FC,Aaron Leya Iseka,23,Centre-Forward,Toulouse,?,in,Summer,NA,Championship,2021,2021/2022
-Barnsley FC,Josh Benson,21,Central Midfield,Burnley,?,in,Summer,NA,Championship,2021,2021/2022
+Barnsley FC,Daniel Jinadu,19,Goalkeeper,West Ham U23,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Barnsley FC,Obbi Oulare,25,Centre-Forward,Standard Liège,?,in,Summer,NA,Championship,2021,2021/2022
+Barnsley FC,Josh Benson,21,Central Midfield,Burnley,?,in,Summer,NA,Championship,2021,2021/2022
+Barnsley FC,Aaron Leya Iseka,23,Centre-Forward,Toulouse,?,in,Summer,NA,Championship,2021,2021/2022
 Barnsley FC,Claudio Gomes,21,Defensive Midfield,Man City U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
-Barnsley FC,Jasper Moon,20,Centre-Back,Barnsley U23,-,in,Summer,0,Championship,2021,2021/2022
+Barnsley FC,Rémy Vita,20,Left-Back,FC Bayern II,loan transfer,in,Summer,NA,Championship,2021,2021/2022
+Barnsley FC,William Hondermarck,20,Central Midfield,Without Club,-,in,Summer,0,Championship,2021,2021/2022
+Barnsley FC,Luke Thomas,23,Right Winger,Bristol Rovers,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Barnsley FC,Jack Aitchison,22,Centre-Forward,Forest Green,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Barnsley FC,Herbie Kane,23,Central Midfield,Oxford United,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Barnsley FC,Patrick Schmidt,22,Centre-Forward,SV Ried,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
 Barnsley FC,George Miller,23,Centre-Forward,Walsall,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Barnsley FC,Marcel Ritzmaier,28,Central Midfield,Rapid Vienna,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
-Barnsley FC,Herbie Kane,22,Central Midfield,Oxford United,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Barnsley FC,Luke Thomas,22,Right Winger,Bristol Rovers,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Barnsley FC,Jack Aitchison,21,Centre-Forward,Forest Green,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Barnsley FC,Patrick Schmidt,23,Centre-Forward,SV Ried,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
 Barnsley FC,Isaac Christie-Davies,23,Attacking Midfield,Dunajska Streda,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
+Barnsley FC,Marcel Ritzmaier,28,Central Midfield,Rapid Vienna,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
 Barnsley FC,Conor Chaplin,24,Centre-Forward,Ipswich,£788Th.,out,Summer,0.788,Championship,2021,2021/2022
-Barnsley FC,Corey Addai,23,Goalkeeper,Esbjerg fB,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Barnsley FC,Elliot Simoes,21,Attacking Midfield,AS Nancy,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Barnsley FC,Alex Mowatt,26,Central Midfield,West Brom,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Barnsley FC,Michael Sollbauer,31,Centre-Back,Dynamo Dresden,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Barnsley FC,Marcel Ritzmaier,28,Central Midfield,SV Sandhausen,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Barnsley FC,Elliot Simoes,21,Attacking Midfield,AS Nancy,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Barnsley FC,Corey Addai,23,Goalkeeper,Esbjerg fB,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Barnsley FC,Alex Mowatt,26,Central Midfield,West Brom,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Barnsley FC,Jack Aitchison,21,Centre-Forward,Forest Green,loan transfer,out,Summer,NA,Championship,2021,2021/2022
-Barnsley FC,Michael Sollbauer,31,Centre-Back,Dynamo Dresden,?,out,Summer,NA,Championship,2021,2021/2022
+Barnsley FC,Patrick Schmidt,22,Centre-Forward,Esbjerg fB,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Barnsley FC,Herbie Kane,22,Central Midfield,Oxford United,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Barnsley FC,Luke Thomas,22,Right Winger,Bristol Rovers,loan transfer,out,Summer,NA,Championship,2021,2021/2022
-Barnsley FC,Patrick Schmidt,23,Centre-Forward,Esbjerg fB,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Barnsley FC,Isaac Christie-Davies,23,Attacking Midfield,Barnsley U23,-,out,Summer,0,Championship,2021,2021/2022
 Barnsley FC,George Miller,23,Centre-Forward,Walsall,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Barnsley FC,Claudio Gomes,21,Defensive Midfield,Man City U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Birmingham City,Chuks Aneke,28,Second Striker,Charlton,free transfer,in,Summer,NA,Championship,2021,2021/2022
+Birmingham City,Jordan Graham,26,Right Winger,Gillingham FC,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Birmingham City,Ryan Woods,27,Defensive Midfield,Stoke City,free transfer,in,Summer,NA,Championship,2021,2021/2022
-Birmingham City,Jordan Graham,26,Left Winger,Gillingham FC,free transfer,in,Summer,NA,Championship,2021,2021/2022
+Birmingham City,Chuks Aneke,27,Second Striker,Charlton,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Birmingham City,Troy Deeney,33,Centre-Forward,Watford,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Birmingham City,Dion Sanderson,21,Centre-Back,Wolves U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
-Birmingham City,Matija Sarkic,24,Goalkeeper,Wolves,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Birmingham City,Tahith Chong,21,Right Winger,Man Utd,loan transfer,in,Summer,NA,Championship,2021,2021/2022
+Birmingham City,Matija Sarkic,24,Goalkeeper,Wolves,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Birmingham City,Juan Familia-Castillo,21,Left-Back,Chelsea U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
-Birmingham City,Sam Cosgrove,24,Centre-Forward,Shrewsbury,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Birmingham City,Odin Bailey,21,Attacking Midfield,Livingston FC,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Birmingham City,Jonathan Leko,23,Right Winger,Charlton,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Birmingham City,Fran Villalba,23,Attacking Midfield,UD Almería,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
-Birmingham City,Zach Jeacock,20,Goalkeeper,Salford,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Birmingham City,Sam Cosgrove,25,Centre-Forward,Shrewsbury,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Birmingham City,Odin Bailey,22,Attacking Midfield,Livingston FC,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Birmingham City,Zach Jeacock,21,Goalkeeper,Salford,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Birmingham City,Agus Medina,26,Central Midfield,UE Cornellà,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
-Birmingham City,Iván Guzmán,30,Right-Back,UE Cornellà,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
-Birmingham City,Jonathan Leko,22,Right Winger,Charlton,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Birmingham City,Agus Medina,26,Central Midfield,Ponferradina,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Birmingham City,Iván Guzmán,30,Right-Back,AD Ceuta,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Birmingham City,Mikel San José,32,Defensive Midfield,SD Amorebieta,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Birmingham City,Jon Toral,26,Attacking Midfield,OFI Crete,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Birmingham City,Josh Dacres-Cogley,25,Right-Back,Tranmere Rovers,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Birmingham City,Iván Guzmán,30,Right Winger,UE Cornellà,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
+Birmingham City,Iván Guzmán,30,Right Winger,AD Ceuta,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Birmingham City,Alen Halilovic,25,Attacking Midfield,Reading,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Birmingham City,Josh Dacres-Cogley,25,Right-Back,Tranmere Rovers,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Birmingham City,Jon Toral,26,Attacking Midfield,OFI Crete FC,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Birmingham City,Agus Medina,26,Central Midfield,Ponferradina,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Birmingham City,Mikel San José,32,Defensive Midfield,SD Amorebieta,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Birmingham City,Andrés Prieto,27,Goalkeeper,Dinamo Tbilisi,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Birmingham City,Steve Seddon,23,Left-Back,Oxford United,?,out,Summer,NA,Championship,2021,2021/2022
 Birmingham City,Charlie Lakin,22,Central Midfield,Burton Albion,?,out,Summer,NA,Championship,2021,2021/2022
-Birmingham City,Sam Cosgrove,24,Centre-Forward,Shrewsbury,loan transfer,out,Summer,NA,Championship,2021,2021/2022
+Birmingham City,Steve Seddon,23,Left-Back,Oxford United,?,out,Summer,NA,Championship,2021,2021/2022
 Birmingham City,Zach Jeacock,20,Goalkeeper,Salford,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Birmingham City,Fran Villalba,23,Attacking Midfield,Sporting Gijón,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Birmingham City,Odin Bailey,21,Attacking Midfield,Livingston FC,loan transfer,out,Summer,NA,Championship,2021,2021/2022
+Birmingham City,Sam Cosgrove,24,Centre-Forward,Shrewsbury,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Birmingham City,Jonathan Leko,22,Right Winger,Charlton,loan transfer,out,Summer,NA,Championship,2021,2021/2022
-Birmingham City,Dan Crowley,24,Attacking Midfield,Without Club,-,out,Summer,0,Championship,2021,2021/2022
+Birmingham City,Dan Crowley,23,Attacking Midfield,Without Club,-,out,Summer,0,Championship,2021,2021/2022
+Birmingham City,Teden Mengi,20,Centre-Back,Man Utd U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
 Birmingham City,Matija Sarkic,24,Goalkeeper,Wolves,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Birmingham City,Dion Sanderson,21,Centre-Back,Wolves U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Birmingham City,Tahith Chong,21,Right Winger,Man Utd,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Birmingham City,Juan Familia-Castillo,21,Left-Back,Chelsea U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Birmingham City,Juan Familia-Castillo,22,Left-Back,Chelsea U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
 Blackburn Rovers,Tayo Edun,23,Left-Back,Lincoln City,£522Th.,in,Summer,0.522,Championship,2021,2021/2022
-Blackburn Rovers,Reda Khadra,20,Left Winger,Brighton U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
-Blackburn Rovers,Jan Paul van Hecke,21,Centre-Back,Brighton,loan transfer,in,Summer,NA,Championship,2021,2021/2022
-Blackburn Rovers,Ian Poveda,21,Right Winger,Leeds,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Blackburn Rovers,Leighton Clarkson,19,Defensive Midfield,Liverpool U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
+Blackburn Rovers,Ian Poveda,21,Right Winger,Leeds,loan transfer,in,Summer,NA,Championship,2021,2021/2022
+Blackburn Rovers,Jan Paul van Hecke,21,Centre-Back,Brighton,loan transfer,in,Summer,NA,Championship,2021,2021/2022
+Blackburn Rovers,Reda Khadra,20,Central Midfield,Brighton U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Blackburn Rovers,Hayden Carter,21,Centre-Back,Blackburn U23,-,in,Summer,0,Championship,2021,2021/2022
 Blackburn Rovers,Daniel Butterworth,21,Centre-Forward,Blackburn U23,-,in,Summer,0,Championship,2021,2021/2022
+Blackburn Rovers,Tyler Magloire,22,Centre-Back,Blackburn U23,-,in,Summer,0,Championship,2021,2021/2022
 Blackburn Rovers,Adam Armstrong,24,Centre-Forward,Southampton,£15.93m,out,Summer,15.93,Championship,2021,2021/2022
+Blackburn Rovers,Brad Lyons,24,Central Midfield,Kilmarnock FC,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Blackburn Rovers,Charlie Mulgrew,35,Centre-Back,Dundee United,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Blackburn Rovers,Amari'i Bell,27,Left-Back,Luton,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Blackburn Rovers,Elliott Bennett,32,Right Midfield,Shrewsbury,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Blackburn Rovers,Brad Lyons,24,Central Midfield,Kilmarnock FC,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Blackburn Rovers,Lewis Holtby,30,Central Midfield,Holstein Kiel,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Blackburn Rovers,Corry Evans,31,Central Midfield,Sunderland,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Blackburn Rovers,Corry Evans,30,Central Midfield,Sunderland,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Blackburn Rovers,Harry Chapman,23,Right Winger,Burton Albion,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Blackburn Rovers,Stewart Downing,37,Left Midfield,Retired,-,out,Summer,0,Championship,2021,2021/2022
-Blackburn Rovers,Leighton Clarkson,19,Defensive Midfield,Liverpool U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Blackburn Rovers,Ian Poveda,21,Right Winger,Leeds,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Blackburn Rovers,Ian Poveda,22,Right Winger,Leeds,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
 Blackburn Rovers,Jan Paul van Hecke,21,Centre-Back,Brighton,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Blackburn Rovers,Reda Khadra,20,Left Winger,Brighton U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Blackburn Rovers,Reda Khadra,20,Central Midfield,Brighton U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
 Blackpool FC,Jordan Lawrence-Gabriel,22,Right-Back,Nottm Forest,£788Th.,in,Summer,0.788,Championship,2021,2021/2022
-Blackpool FC,Richard Keogh,35,Centre-Back,Huddersfield,free transfer,in,Summer,NA,Championship,2021,2021/2022
+Blackpool FC,Richard Keogh,34,Centre-Back,Huddersfield,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Blackpool FC,Callum Connolly,23,Defensive Midfield,Everton U23,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Blackpool FC,Shayne Lavery,22,Centre-Forward,Linfield,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Blackpool FC,Reece James,27,Left-Back,Doncaster,free transfer,in,Summer,NA,Championship,2021,2021/2022
@@ -92,31 +93,31 @@ Blackpool FC,Tyreece John-Jules,20,Centre-Forward,Arsenal U23,loan transfer,in,S
 Blackpool FC,Owen Dale,22,Right Winger,Crewe Alexandra,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Blackpool FC,Dujon Sterling,21,Right-Back,Chelsea U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Blackpool FC,Ryan Wintle,24,Defensive Midfield,Cardiff,loan transfer,in,Summer,NA,Championship,2021,2021/2022
-Blackpool FC,Jordan Thorniley,24,Centre-Back,Oxford United,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Blackpool FC,Ethan Robson,24,Central Midfield,MK Dons,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Blackpool FC,Jordan Thorniley,25,Centre-Back,Oxford United,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Blackpool FC,Ethan Robson,25,Central Midfield,MK Dons,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Blackpool FC,Adi Yussuf,29,Centre-Forward,Chesterfield FC,"End of loanJun 6, 2021",in,Summer,0,Championship,2021,2021/2022
 Blackpool FC,Liam Feeney,34,Right Winger,Tranmere Rovers,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Blackpool FC,Nathan Shaw,20,Left Midfield,Fylde,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Blackpool FC,Adi Yussuf,29,Centre-Forward,Yeovil Town,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Blackpool FC,Ollie Turton,28,Right-Back,Huddersfield,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Blackpool FC,Sullay Kaikai,26,Left Winger,Wycombe,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Blackpool FC,Sullay Kaikai,25,Left Winger,Wycombe,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Blackpool FC,Alex Fojticek,21,Goalkeeper,Bardejov,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Blackpool FC,Cameron Antwi,20,Central Midfield,Telford Utd,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Blackpool FC,Ben Garrity,24,Central Midfield,Port Vale,?,out,Summer,NA,Championship,2021,2021/2022
 Blackpool FC,Jordan Thorniley,24,Centre-Back,Oxford United,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Blackpool FC,Ethan Robson,24,Central Midfield,MK Dons,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Blackpool FC,Jack Sims,22,Goalkeeper,Without Club,-,out,Summer,0,Championship,2021,2021/2022
-Blackpool FC,Tyreece John-Jules,20,Centre-Forward,Arsenal U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Blackpool FC,Ryan Wintle,24,Defensive Midfield,Cardiff,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Blackpool FC,Dujon Sterling,21,Right-Back,Chelsea U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-AFC Bournemouth,Örjan Nyland,30,Goalkeeper,Norwich,free transfer,in,Summer,NA,Championship,2021,2021/2022
-AFC Bournemouth,Emiliano Marcondes,26,Attacking Midfield,Brentford,free transfer,in,Summer,NA,Championship,2021,2021/2022
+Blackpool FC,Tyreece John-Jules,21,Centre-Forward,Arsenal U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Blackpool FC,Dujon Sterling,22,Right-Back,Chelsea U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+AFC Bournemouth,Ryan Christie,26,Attacking Midfield,Celtic,£2.61m,in,Summer,2.61,Championship,2021,2021/2022
+AFC Bournemouth,Jamal Lowe,27,Right Winger,Swansea,£1.53m,in,Summer,1.53,Championship,2021,2021/2022
 AFC Bournemouth,Gary Cahill,35,Centre-Back,Crystal Palace,free transfer,in,Summer,NA,Championship,2021,2021/2022
-AFC Bournemouth,Jamal Lowe,27,Right Winger,Swansea,?,in,Summer,NA,Championship,2021,2021/2022
-AFC Bournemouth,Ryan Christie,26,Attacking Midfield,Celtic,?,in,Summer,NA,Championship,2021,2021/2022
+AFC Bournemouth,Emiliano Marcondes,26,Attacking Midfield,Brentford,free transfer,in,Summer,NA,Championship,2021,2021/2022
+AFC Bournemouth,Örjan Nyland,30,Goalkeeper,Norwich,free transfer,in,Summer,NA,Championship,2021,2021/2022
 AFC Bournemouth,Leif Davis,21,Left-Back,Leeds,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 AFC Bournemouth,Morgan Rogers,19,Left Winger,Man City U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 AFC Bournemouth,Zeno Ibsen Rossi,20,Centre-Back,Bournemouth U21,-,in,Summer,0,Championship,2021,2021/2022
-AFC Bournemouth,Christian Saydee,19,Centre-Forward,Bournemouth U21,-,in,Summer,0,Championship,2021,2021/2022
+AFC Bournemouth,Robbie Brady,29,Left Midfield,Without Club,-,in,Summer,0,Championship,2021,2021/2022
 AFC Bournemouth,Arnaut Danjuma,24,Left Winger,Villarreal,£21.15m,out,Summer,21.15,Championship,2021,2021/2022
 AFC Bournemouth,Sam Surridge,23,Centre-Forward,Stoke City,£2.61m,out,Summer,2.61,Championship,2021,2021/2022
 AFC Bournemouth,Diego Rico,28,Left-Back,Real Sociedad,£450Th.,out,Summer,0.45,Championship,2021,2021/2022
@@ -124,20 +125,21 @@ AFC Bournemouth,Nnamdi Ofoborh,21,Central Midfield,Rangers,free transfer,out,Sum
 AFC Bournemouth,Asmir Begovic,34,Goalkeeper,Everton,free transfer,out,Summer,NA,Championship,2021,2021/2022
 AFC Bournemouth,Kyle Taylor,22,Central Midfield,Exeter City,?,out,Summer,NA,Championship,2021,2021/2022
 AFC Bournemouth,Jack Wilshere,29,Central Midfield,Without Club,-,out,Summer,0,Championship,2021,2021/2022
-AFC Bournemouth,Leif Davis,21,Left-Back,Leeds,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-AFC Bournemouth,Rodrigo Riquelme,21,Right Winger,Atl. Madrid B,"End of loanJun 30, 2021",out,Summer,0,Championship,2021,2021/2022
 AFC Bournemouth,Morgan Rogers,19,Left Winger,Man City U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Bristol City,Matty James,30,Central Midfield,Leicester,free transfer,in,Summer,NA,Championship,2021,2021/2022
+AFC Bournemouth,Rodrigo Riquelme,21,Right Winger,Atl. Madrid B,"End of loanJun 30, 2021",out,Summer,0,Championship,2021,2021/2022
+AFC Bournemouth,Leif Davis,22,Left-Back,Leeds,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+AFC Bournemouth,Ethan Laird,20,Right-Back,Man Utd U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Bristol City,Rob Atkinson,22,Centre-Back,Oxford United,£1.44m,in,Summer,1.44,Championship,2021,2021/2022
+Bristol City,Matty James,29,Central Midfield,Leicester,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Bristol City,Andy King,32,Central Midfield,OH Leuven,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Bristol City,George Tanner,21,Right-Back,Carlisle United,?,in,Summer,NA,Championship,2021,2021/2022
-Bristol City,Rob Atkinson,23,Centre-Back,Oxford United,?,in,Summer,NA,Championship,2021,2021/2022
-Bristol City,Alex Scott,18,Attacking Midfield,Bristol U18,-,in,Summer,0,Championship,2021,2021/2022
-Bristol City,Taylor Moore,24,Centre-Back,Heart of Midl.,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Bristol City,Alex Scott,17,Attacking Midfield,Bristol U18,-,in,Summer,0,Championship,2021,2021/2022
+Bristol City,Taylor Moore,25,Centre-Back,Heart of Midl.,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Bristol City,Marley Watkins,30,Right Winger,Cardiff,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Bristol City,Famara Diédhiou,28,Centre-Forward,Alanyaspor,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Bristol City,Jack Hunt,30,Right-Back,Sheff Wed,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Bristol City,Henri Lansbury,30,Central Midfield,Luton,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Bristol City,Jamie Paterson,29,Attacking Midfield,Swansea,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Bristol City,Jamie Paterson,29,Second Striker,Swansea,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Bristol City,Tommy Rowe,32,Left Midfield,Doncaster,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Bristol City,Liam Walsh,23,Central Midfield,Swansea,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Bristol City,Hakeeb Adelakun,25,Right Winger,Lincoln City,free transfer,out,Summer,NA,Championship,2021,2021/2022
@@ -151,61 +153,62 @@ Cardiff City,James Collins,30,Centre-Forward,Luton,free transfer,in,Summer,NA,Ch
 Cardiff City,Ryan Wintle,24,Defensive Midfield,Crewe Alexandra,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Cardiff City,Mark McGuinness,20,Centre-Back,Arsenal U23,?,in,Summer,NA,Championship,2021,2021/2022
 Cardiff City,Ryan Giles,21,Left Midfield,Wolves U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
-Cardiff City,Rubin Colwill,19,Attacking Midfield,Cardiff U23,-,in,Summer,0,Championship,2021,2021/2022
-Cardiff City,Gavin Whyte,25,Right Winger,Oxford United,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Cardiff City,Max Watters,22,Centre-Forward,MK Dons,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Cardiff City,Kieron Evans,19,Attacking Midfield,Cardiff U23,-,in,Summer,0,Championship,2021,2021/2022
+Cardiff City,Sam Bowen,20,Central Midfield,Cardiff U23,-,in,Summer,0,Championship,2021,2021/2022
+Cardiff City,Gavin Whyte,26,Right Winger,Oxford United,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Cardiff City,Robert Glatzel,27,Centre-Forward,1.FSV Mainz 05,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
-Cardiff City,Ryan Wintle,24,Defensive Midfield,Blackpool,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Cardiff City,Josh Murphy,26,Left Winger,Preston,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Cardiff City,Josh Murphy,27,Left Winger,Preston,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Cardiff City,Robert Glatzel,27,Centre-Forward,Hamburger SV,£900Th.,out,Summer,0.9,Championship,2021,2021/2022
-Cardiff City,Joe Day,31,Goalkeeper,Newport County,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Cardiff City,Joe Day,30,Goalkeeper,Newport County,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Cardiff City,Jonathan Williams,27,Attacking Midfield,Swindon Town,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Cardiff City,Sol Bamba,36,Centre-Back,Middlesbrough,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Cardiff City,Joe Bennett,31,Left-Back,Wigan,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Cardiff City,Marley Watkins,30,Right Winger,Aberdeen FC,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Cardiff City,Junior Hoilett,31,Left Winger,Reading,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Cardiff City,Max Watters,22,Centre-Forward,MK Dons,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Cardiff City,Josh Murphy,26,Left Winger,Preston,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Cardiff City,Ryan Wintle,24,Defensive Midfield,Blackpool,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Cardiff City,Gavin Whyte,25,Right Winger,Oxford United,loan transfer,out,Summer,NA,Championship,2021,2021/2022
-Cardiff City,Ryan Giles,21,Left Midfield,Wolves U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Cardiff City,Max Watters,22,Centre-Forward,MK Dons,loan transfer,out,Summer,NA,Championship,2021,2021/2022
+Cardiff City,Lee Tomlin,32,Second Striker,Without Club,-,out,Summer,0,Championship,2021,2021/2022
 Coventry City,Viktor Gyökeres,23,Centre-Forward,Brighton,£1.08m,in,Summer,1.08,Championship,2021,2021/2022
 Coventry City,Danny Cashman,20,Centre-Forward,Brighton U23,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Coventry City,Bright Enobakhare,23,Centre-Forward,SC East Bengal,free transfer,in,Summer,NA,Championship,2021,2021/2022
-Coventry City,Simon Moore,31,Goalkeeper,Sheff Utd,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Coventry City,Martyn Waghorn,31,Centre-Forward,Derby,free transfer,in,Summer,NA,Championship,2021,2021/2022
-Coventry City,Todd Kane,27,Right-Back,QPR,?,in,Summer,NA,Championship,2021,2021/2022
+Coventry City,Simon Moore,31,Goalkeeper,Sheff Utd,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Coventry City,Ben Sheaf,23,Defensive Midfield,Arsenal U23,?,in,Summer,NA,Championship,2021,2021/2022
+Coventry City,Todd Kane,27,Right-Back,QPR,?,in,Summer,NA,Championship,2021,2021/2022
 Coventry City,Ian Maatsen,19,Left-Back,Chelsea U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Coventry City,Jake Clarke-Salter,23,Centre-Back,Chelsea,loan transfer,in,Summer,NA,Championship,2021,2021/2022
-Coventry City,Danny Cashman,20,Centre-Forward,Rochdale,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Coventry City,Will Bapaga,18,Right Winger,Grimsby Town,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Coventry City,Amadou Bakayoko,25,Centre-Forward,Bolton,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Coventry City,Morgan Williams,22,Centre-Back,Yeovil Town,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Coventry City,Will Bapaga,19,Right Winger,Grimsby Town,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Coventry City,Danny Cashman,21,Centre-Forward,Rochdale,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Coventry City,Gervane Kastaneer,25,Left Winger,PEC Zwolle,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Coventry City,Morgan Williams,21,Centre-Back,Yeovil Town,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Coventry City,Amadou Bakayoko,25,Centre-Forward,Bolton,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Coventry City,Marko Marosi,27,Goalkeeper,Shrewsbury,?,out,Summer,NA,Championship,2021,2021/2022
 Coventry City,Danny Cashman,20,Centre-Forward,Rochdale,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Coventry City,Will Bapaga,18,Right Winger,Grimsby Town,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Coventry City,Jordon Thompson,22,Centre-Back,Without Club,-,out,Summer,0,Championship,2021,2021/2022
 Coventry City,Brandon Mason,23,Left-Back,Without Club,-,out,Summer,0,Championship,2021,2021/2022
 Coventry City,Maxime Biamou,30,Centre-Forward,Without Club,-,out,Summer,0,Championship,2021,2021/2022
-Coventry City,Ian Maatsen,19,Left-Back,Chelsea U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Coventry City,Jake Clarke-Salter,23,Centre-Back,Chelsea,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Coventry City,Jake Clarke-Salter,24,Centre-Back,Chelsea,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Coventry City,Ian Maatsen,20,Left-Back,Chelsea U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
 Derby County,Sam Baldock,32,Centre-Forward,Reading,free transfer,in,Summer,NA,Championship,2021,2021/2022
-Derby County,Richard Stearman,34,Centre-Back,Huddersfield,free transfer,in,Summer,NA,Championship,2021,2021/2022
+Derby County,Richard Stearman,33,Centre-Back,Huddersfield,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Derby County,Ryan Allsop,29,Goalkeeper,Wycombe,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Derby County,Phil Jagielka,39,Centre-Back,Sheff Utd,free transfer,in,Summer,NA,Championship,2021,2021/2022
+Derby County,Dylan Williams,17,Left-Back,Derby U18,-,in,Summer,0,Championship,2021,2021/2022
 Derby County,Isaac Hutchinson,21,Attacking Midfield,Derby U23,-,in,Summer,0,Championship,2021,2021/2022
 Derby County,Louie Watson,20,Attacking Midfield,Derby U23,-,in,Summer,0,Championship,2021,2021/2022
-Derby County,Festy Ebosele,19,Right-Back,Derby U23,-,in,Summer,0,Championship,2021,2021/2022
+Derby County,Festy Ebosele,18,Right-Back,Derby U23,-,in,Summer,0,Championship,2021,2021/2022
 Derby County,Jack Stretton,19,Centre-Forward,Derby U23,-,in,Summer,0,Championship,2021,2021/2022
 Derby County,Ravel Morrison,28,Attacking Midfield,Without Club,-,in,Summer,0,Championship,2021,2021/2022
-Derby County,Henrich Ravas,24,Goalkeeper,Hartlepool,"End of loanJun 21, 2021",in,Summer,0,Championship,2021,2021/2022
+Derby County,Henrich Ravas,23,Goalkeeper,Hartlepool,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
 Derby County,Scott Malone,30,Left-Back,Millwall,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Derby County,Jonathan Mitchell,26,Goalkeeper,Hartlepool,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Derby County,Scott Carson,35,Goalkeeper,Man City,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Derby County,George Sykes-Kenworthy,21,Goalkeeper,Boston Utd,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Derby County,Jack Marriott,26,Centre-Forward,Peterborough,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Derby County,Henrich Ravas,24,Goalkeeper,FK Senica,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Derby County,Henrich Ravas,23,Goalkeeper,FK Senica,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Derby County,Martyn Waghorn,31,Centre-Forward,Coventry,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Derby County,Andre Wisdom,28,Right-Back,Without Club,-,out,Summer,0,Championship,2021,2021/2022
 Derby County,Jordon Ibe,25,Right Winger,Without Club,-,out,Summer,0,Championship,2021,2021/2022
@@ -213,62 +216,63 @@ Derby County,Emmanuel Idem,22,Goalkeeper,Without Club,-,out,Summer,0,Championshi
 Derby County,Florian Jozefzoon,30,Right Winger,Without Club,-,out,Summer,0,Championship,2021,2021/2022
 Fulham FC,Harry Wilson,24,Right Winger,Liverpool,£12.60m,in,Summer,12.6,Championship,2021,2021/2022
 Fulham FC,Rodrigo Muniz,20,Centre-Forward,Flamengo,£7.20m,in,Summer,7.2,Championship,2021,2021/2022
-Fulham FC,Nathaniel Chalobah,26,Defensive Midfield,Watford,£3.15m,in,Summer,3.15,Championship,2021,2021/2022
+Fulham FC,Nathaniel Chalobah,26,Defensive Midfield,Watford,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Fulham FC,Paulo Gazzaniga,29,Goalkeeper,Spurs,free transfer,in,Summer,NA,Championship,2021,2021/2022
-Fulham FC,Domingos Quina,21,Central Midfield,Watford,loan transfer,in,Summer,NA,Championship,2021,2021/2022
-Fulham FC,Fábio Carvalho,19,Attacking Midfield,Fulham U23,-,in,Summer,0,Championship,2021,2021/2022
-Fulham FC,Tyrese Francois,21,Central Midfield,Fulham U23,-,in,Summer,0,Championship,2021,2021/2022
 Fulham FC,Jay Stansfield,18,Centre-Forward,Fulham U23,-,in,Summer,0,Championship,2021,2021/2022
-Fulham FC,Aboubakar Kamara,26,Centre-Forward,Dijon,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
-Fulham FC,Jean Michaël Seri,30,Central Midfield,G. Bordeaux,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
+Fulham FC,Tyrese Francois,20,Central Midfield,Fulham U23,-,in,Summer,0,Championship,2021,2021/2022
+Fulham FC,Fábio Carvalho,18,Attacking Midfield,Fulham U23,-,in,Summer,0,Championship,2021,2021/2022
+Fulham FC,Domingos Quina,21,Central Midfield,Watford,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Fulham FC,Maxime Le Marchand,31,Centre-Back,Royal Antwerp,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
+Fulham FC,Aboubakar Kamara,26,Centre-Forward,Dijon,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
+Fulham FC,Jean Michaël Seri,29,Central Midfield,G. Bordeaux,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
 Fulham FC,Aboubakar Kamara,26,Centre-Forward,Aris Saloniki,£3.15m,out,Summer,3.15,Championship,2021,2021/2022
 Fulham FC,Stefan Johansen,30,Central Midfield,QPR,£630Th.,out,Summer,0.63,Championship,2021,2021/2022
 Fulham FC,André Zambo Anguissa,25,Defensive Midfield,SSC Napoli,Loan fee:£540Th.,out,Summer,0.54,Championship,2021,2021/2022
-Fulham FC,Marcus Bettinelli,29,Goalkeeper,Chelsea,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Fulham FC,Maxime Le Marchand,31,Centre-Back,R. Strasbourg,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Fulham FC,Marcus Bettinelli,29,Goalkeeper,Chelsea,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Fulham FC,Kevin McDonald,32,Defensive Midfield,Without Club,-,out,Summer,0,Championship,2021,2021/2022
-Fulham FC,Ola Aina,24,Right-Back,Torino,"End of loanJun 30, 2021",out,Summer,0,Championship,2021,2021/2022
-Fulham FC,Domingos Quina,21,Central Midfield,Watford,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Fulham FC,Ademola Lookman,23,Left Winger,RB Leipzig,"End of loanJun 30, 2021",out,Summer,0,Championship,2021,2021/2022
-Fulham FC,Joachim Andersen,25,Centre-Back,Olympique Lyon,"End of loanJun 30, 2021",out,Summer,0,Championship,2021,2021/2022
-Fulham FC,Alphonse Areola,28,Goalkeeper,Paris SG,"End of loanJun 30, 2021",out,Summer,0,Championship,2021,2021/2022
 Fulham FC,Josh Maja,22,Centre-Forward,G. Bordeaux,"End of loanJun 30, 2021",out,Summer,0,Championship,2021,2021/2022
+Fulham FC,Joachim Andersen,25,Centre-Back,Olympique Lyon,"End of loanJun 30, 2021",out,Summer,0,Championship,2021,2021/2022
+Fulham FC,Ademola Lookman,23,Left Winger,RB Leipzig,"End of loanJun 30, 2021",out,Summer,0,Championship,2021,2021/2022
+Fulham FC,Domingos Quina,22,Central Midfield,Watford,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Fulham FC,Ola Aina,24,Right-Back,Torino,"End of loanJun 30, 2021",out,Summer,0,Championship,2021,2021/2022
+Fulham FC,Alphonse Areola,28,Goalkeeper,Paris SG,"End of loanJun 30, 2021",out,Summer,0,Championship,2021,2021/2022
 Huddersfield Town,Lee Nicholls,28,Goalkeeper,MK Dons,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Huddersfield Town,Josh Ruffels,27,Left-Back,Oxford United,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Huddersfield Town,Ollie Turton,28,Right-Back,Blackpool,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Huddersfield Town,Jordan Rhodes,31,Centre-Forward,Sheff Wed,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Huddersfield Town,Tom Lees,30,Centre-Back,Sheff Wed,free transfer,in,Summer,NA,Championship,2021,2021/2022
-Huddersfield Town,Matty Pearson,28,Centre-Back,Luton,free transfer,in,Summer,NA,Championship,2021,2021/2022
+Huddersfield Town,Matty Pearson,27,Centre-Back,Luton,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Huddersfield Town,Mipo Odubeko,18,Centre-Forward,West Ham U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Huddersfield Town,Levi Colwill,18,Centre-Back,Chelsea U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Huddersfield Town,Danel Sinani,24,Attacking Midfield,Norwich,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Huddersfield Town,Kieran Phillips,21,Centre-Forward,Huddersfield B,-,in,Summer,0,Championship,2021,2021/2022
-Huddersfield Town,Kieran Phillips,21,Centre-Forward,Walsall,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Huddersfield Town,Rarmani Edmonds-Green,22,Centre-Back,Rotherham,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Huddersfield Town,Nicholas Bilokapic,18,Goalkeeper,Huddersf. U19,-,in,Summer,0,Championship,2021,2021/2022
+Huddersfield Town,Kieran Phillips,22,Centre-Forward,Walsall,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Huddersfield Town,Rarmani Edmonds-Green,23,Centre-Back,Rotherham,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Huddersfield Town,Romoney Crichlow,22,Centre-Back,Swindon Town,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Huddersfield Town,Richard Keogh,35,Centre-Back,Blackpool,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Huddersfield Town,Juninho Bacuna,24,Central Midfield,Rangers,£2.07m,out,Summer,2.07,Championship,2021,2021/2022
+Huddersfield Town,Richard Keogh,34,Centre-Back,Blackpool,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Huddersfield Town,Demeaco Duhaney,22,Right-Back,Stoke City,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Huddersfield Town,Alex Pritchard,28,Attacking Midfield,Sunderland,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Huddersfield Town,Jaden Brown,22,Left-Back,Sheff Wed,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Huddersfield Town,Jayson Leutwiler,32,Goalkeeper,Oldham Athletic,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Huddersfield Town,Richard Stearman,34,Centre-Back,Derby,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Huddersfield Town,Richard Stearman,33,Centre-Back,Derby,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Huddersfield Town,Isaac Mbenza,25,Right Winger,Qatar SC,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Huddersfield Town,Christopher Schindler,31,Centre-Back,1.FC Nuremberg,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Huddersfield Town,Matty Daly,20,Attacking Midfield,Hartlepool,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Huddersfield Town,Romoney Crichlow,22,Centre-Back,Swindon Town,loan transfer,out,Summer,NA,Championship,2021,2021/2022
-Huddersfield Town,Juninho Bacuna,24,Central Midfield,Rangers,?,out,Summer,NA,Championship,2021,2021/2022
 Huddersfield Town,Rarmani Edmonds-Green,22,Centre-Back,Rotherham,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Huddersfield Town,Oumar Niasse,31,Centre-Forward,Without Club,-,out,Summer,0,Championship,2021,2021/2022
 Huddersfield Town,Tommy Elphick,33,Centre-Back,Retired,-,out,Summer,0,Championship,2021,2021/2022
 Huddersfield Town,Yaya Sanogo,28,Centre-Forward,Without Club,-,out,Summer,0,Championship,2021,2021/2022
 Huddersfield Town,Kieran Phillips,21,Centre-Forward,Walsall,loan transfer,out,Summer,NA,Championship,2021,2021/2022
-Huddersfield Town,Danel Sinani,24,Attacking Midfield,Norwich,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Huddersfield Town,Levi Colwill,18,Centre-Back,Chelsea U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Huddersfield Town,Danel Sinani,25,Attacking Midfield,Norwich,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Huddersfield Town,Levi Colwill,19,Centre-Back,Chelsea U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
 Huddersfield Town,Carel Eiting,23,Defensive Midfield,Ajax,"End of loanJun 30, 2021",out,Summer,0,Championship,2021,2021/2022
-Huddersfield Town,Mipo Odubeko,18,Centre-Forward,West Ham U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
 Hull City,Andy Cannon,25,Central Midfield,Portsmouth,free transfer,in,Summer,NA,Championship,2021,2021/2022
-Hull City,George Moncur,28,Central Midfield,Luton,free transfer,in,Summer,NA,Championship,2021,2021/2022
-Hull City,Randell Williams,24,Right Midfield,Exeter City,free transfer,in,Summer,NA,Championship,2021,2021/2022
+Hull City,George Moncur,27,Central Midfield,Luton,free transfer,in,Summer,NA,Championship,2021,2021/2022
+Hull City,Randell Williams,24,Right Winger,Exeter City,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Hull City,Tyler Smith,22,Centre-Forward,Sheff Utd U23,?,in,Summer,NA,Championship,2021,2021/2022
 Hull City,Ryan Longman,20,Right Winger,Brighton U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Hull City,Di'Shon Bernard,20,Centre-Back,Man Utd U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
@@ -276,7 +280,7 @@ Hull City,Matt Smith,21,Defensive Midfield,Man City U23,loan transfer,in,Summer,
 Hull City,Tom Huddlestone,34,Defensive Midfield,Without Club,-,in,Summer,0,Championship,2021,2021/2022
 Hull City,Nathan Baxter,22,Goalkeeper,Chelsea U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Hull City,Jordan Flores,25,Central Midfield,Northampton,"End of loanAug 5, 2021",in,Summer,0,Championship,2021,2021/2022
-Hull City,Festus Arthur,21,Centre-Back,Barrow,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Hull City,Festus Arthur,22,Centre-Back,Barrow,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Hull City,James Scott,21,Centre-Forward,Hibernian FC,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Hull City,Martin Samuelsen,24,Left Winger,Aalborg BK,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
 Hull City,Max Clark,25,Left-Back,Fleetwood,free transfer,out,Summer,NA,Championship,2021,2021/2022
@@ -285,58 +289,55 @@ Hull City,Reece Burke,24,Centre-Back,Luton,free transfer,out,Summer,NA,Champions
 Hull City,Jordan Flores,25,Central Midfield,Northampton,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Hull City,Jordan Flores,25,Central Midfield,Northampton,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Hull City,Festus Arthur,21,Centre-Back,Barrow,loan transfer,out,Summer,NA,Championship,2021,2021/2022
-Hull City,Thomas Mayer,26,Right Winger,SKU Amstetten,?,out,Summer,NA,Championship,2021,2021/2022
+Hull City,Thomas Mayer,25,Right Winger,SKU Amstetten,?,out,Summer,NA,Championship,2021,2021/2022
 Hull City,Martin Samuelsen,24,Left Winger,Haugesund,?,out,Summer,NA,Championship,2021,2021/2022
 Hull City,Jordy de Wijs,26,Centre-Back,QPR,?,out,Summer,NA,Championship,2021,2021/2022
-Hull City,James Scott,21,Centre-Forward,Hibernian FC,loan transfer,out,Summer,NA,Championship,2021,2021/2022
-Hull City,Nathan Baxter,22,Goalkeeper,Chelsea U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Hull City,Ryan Longman,20,Right Winger,Brighton U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Hull City,Di'Shon Bernard,20,Centre-Back,Man Utd U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Hull City,Matt Smith,21,Defensive Midfield,Man City U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Hull City,James Scott,20,Centre-Forward,Hibernian FC,loan transfer,out,Summer,NA,Championship,2021,2021/2022
+Hull City,Nathan Baxter,23,Goalkeeper,Chelsea U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Hull City,Ryan Longman,21,Right Winger,Brighton U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Hull City,Di'Shon Bernard,21,Centre-Back,Man Utd U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Hull City,Matt Smith,22,Defensive Midfield,Man City U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
 Luton Town,Amari'i Bell,27,Left-Back,Blackburn,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Luton Town,Reece Burke,24,Centre-Back,Hull City,free transfer,in,Summer,NA,Championship,2021,2021/2022
-Luton Town,Cameron Jerome,35,Centre-Forward,MK Dons,free transfer,in,Summer,NA,Championship,2021,2021/2022
+Luton Town,Cameron Jerome,34,Centre-Forward,MK Dons,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Luton Town,Henri Lansbury,30,Central Midfield,Bristol City,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Luton Town,Carlos Mendes,22,Right Winger,Morecambe FC,?,in,Summer,NA,Championship,2021,2021/2022
-Luton Town,Admiral Muskwe,23,Centre-Forward,Leicester U23,?,in,Summer,NA,Championship,2021,2021/2022
-Luton Town,Fred Onyedinma,24,Right Midfield,Wycombe,?,in,Summer,NA,Championship,2021,2021/2022
-Luton Town,Allan Campbell,23,Defensive Midfield,Motherwell FC,?,in,Summer,NA,Championship,2021,2021/2022
-Luton Town,Corey Panter,20,Centre-Back,Dundee FC,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Luton Town,Jake Peck,21,Central Midfield,Concord Rangers,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Luton Town,Elliot Lee,26,Centre-Forward,Charlton,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Luton Town,Admiral Muskwe,22,Centre-Forward,Leicester U23,?,in,Summer,NA,Championship,2021,2021/2022
+Luton Town,Fred Onyedinma,24,Attacking Midfield,Wycombe,?,in,Summer,NA,Championship,2021,2021/2022
+Luton Town,Allan Campbell,22,Central Midfield,Motherwell FC,?,in,Summer,NA,Championship,2021,2021/2022
+Luton Town,Elliot Thorpe,20,Central Midfield,Without Club,-,in,Summer,0,Championship,2021,2021/2022
+Luton Town,Elliot Lee,27,Centre-Forward,Charlton,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Luton Town,Peter Kioso,22,Right-Back,MK Dons,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Luton Town,Dion Pereira,23,Left Winger,Bradford,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Luton Town,James Collins,30,Centre-Forward,Cardiff,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Luton Town,Matty Pearson,28,Centre-Back,Huddersfield,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Luton Town,Matty Pearson,27,Centre-Back,Huddersfield,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Luton Town,Kazenga LuaLua,30,Left Winger,Genclerbirligi,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Luton Town,George Moncur,28,Central Midfield,Hull City,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Luton Town,George Moncur,27,Central Midfield,Hull City,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Luton Town,Brendan Galloway,25,Left-Back,Plymouth,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Luton Town,Tiernan Parker,20,Goalkeeper,Haringey,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Luton Town,Jack Chambers,21,Central Midfield,Hednesford,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Luton Town,Ryan Tunnicliffe,28,Central Midfield,Portsmouth,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Luton Town,Jake Peck,21,Central Midfield,Concord Rangers,loan transfer,out,Summer,NA,Championship,2021,2021/2022
+Luton Town,Dion Pereira,22,Left Winger,Yeovil Town,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Luton Town,Joe Morrell,24,Central Midfield,Portsmouth,?,out,Summer,NA,Championship,2021,2021/2022
-Luton Town,Corey Panter,20,Centre-Back,Dundee FC,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Luton Town,Elliot Lee,26,Centre-Forward,Charlton,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Luton Town,Peter Kioso,22,Right-Back,MK Dons,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Luton Town,Martin Cranie,34,Centre-Back,Without Club,-,out,Summer,0,Championship,2021,2021/2022
 Middlesbrough FC,Martín Payero,22,Central Midfield,CA Banfield,£6.08m,in,Summer,6.08,Championship,2021,2021/2022
+Middlesbrough FC,Matt Crooks,27,Central Midfield,Rotherham,£1.17m,in,Summer,1.17,Championship,2021,2021/2022
 Middlesbrough FC,Uche Ikpeazu,26,Centre-Forward,Wycombe,£783Th.,in,Summer,0.783,Championship,2021,2021/2022
-Middlesbrough FC,Luke Daniels,33,Goalkeeper,Brentford,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Middlesbrough FC,Sammy Ameobi,29,Left Winger,Nottm Forest,free transfer,in,Summer,NA,Championship,2021,2021/2022
+Middlesbrough FC,Toyosi Olusanya,23,Left Winger,Billericay,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Middlesbrough FC,Sol Bamba,36,Centre-Back,Cardiff,free transfer,in,Summer,NA,Championship,2021,2021/2022
+Middlesbrough FC,Luke Daniels,33,Goalkeeper,Brentford,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Middlesbrough FC,Lee Peltier,34,Right-Back,West Brom,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Middlesbrough FC,Joe Lumley,26,Goalkeeper,QPR,free transfer,in,Summer,NA,Championship,2021,2021/2022
-Middlesbrough FC,Toyosi Olusanya,23,Right Winger,Billericay,free transfer,in,Summer,NA,Championship,2021,2021/2022
-Middlesbrough FC,Matt Crooks,27,Central Midfield,Rotherham,?,in,Summer,NA,Championship,2021,2021/2022
-Middlesbrough FC,Onel Hernández,28,Right Winger,Norwich,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Middlesbrough FC,Andraz Sporar,27,Centre-Forward,Sporting CP,loan transfer,in,Summer,NA,Championship,2021,2021/2022
+Middlesbrough FC,Onel Hernández,28,Right Winger,Norwich,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Middlesbrough FC,James Léa Siliki,25,Central Midfield,Stade Rennais,loan transfer,in,Summer,NA,Championship,2021,2021/2022
+Middlesbrough FC,Josh Coburn,18,Centre-Forward,Boro U18,-,in,Summer,0,Championship,2021,2021/2022
 Middlesbrough FC,Isaiah Jones,22,Right Winger,Boro U23,-,in,Summer,0,Championship,2021,2021/2022
-Middlesbrough FC,Nathan Wood,19,Centre-Back,Hibernian FC,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Middlesbrough FC,Stephen Walker,20,Second Striker,Tranmere Rovers,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Middlesbrough FC,Stephen Walker,21,Second Striker,Tranmere Rovers,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Middlesbrough FC,Hayden Coulson,23,Left-Back,Ipswich,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Middlesbrough FC,Dejan Stojanovic,28,Goalkeeper,FC St. Pauli,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
 Middlesbrough FC,Lewis Wing,26,Central Midfield,Sheff Wed,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Middlesbrough FC,Dejan Stojanovic,27,Goalkeeper,FC St. Pauli,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
 Middlesbrough FC,Djed Spence,21,Right-Back,Nottm Forest,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Middlesbrough FC,Marvin Johnson,30,Left Midfield,Sheff Wed,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Middlesbrough FC,Ashley Fletcher,25,Centre-Forward,Watford,free transfer,out,Summer,NA,Championship,2021,2021/2022
@@ -345,118 +346,127 @@ Middlesbrough FC,Jordan Archer,28,Goalkeeper,QPR,free transfer,out,Summer,NA,Cha
 Middlesbrough FC,Chuba Akpom,25,Centre-Forward,PAOK Salonika,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Middlesbrough FC,Samy Morsy,29,Central Midfield,Ipswich,?,out,Summer,NA,Championship,2021,2021/2022
 Middlesbrough FC,George Saville,28,Central Midfield,Millwall,?,out,Summer,NA,Championship,2021,2021/2022
-Middlesbrough FC,Lewis Wing,26,Central Midfield,Sheff Wed,loan transfer,out,Summer,NA,Championship,2021,2021/2022
-Middlesbrough FC,Nathan Wood,19,Centre-Back,Hibernian FC,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Middlesbrough FC,Stephen Walker,20,Second Striker,Tranmere Rovers,loan transfer,out,Summer,NA,Championship,2021,2021/2022
+Middlesbrough FC,Nathan Wood,19,Centre-Back,Hibernian FC,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Middlesbrough FC,Hayden Coulson,23,Left-Back,Ipswich,loan transfer,out,Summer,NA,Championship,2021,2021/2022
+Middlesbrough FC,Lewis Wing,26,Central Midfield,Sheff Wed,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Middlesbrough FC,Djed Spence,21,Right-Back,Nottm Forest,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Middlesbrough FC,Nathaniel Mendez-Laing,29,Right Winger,Without Club,-,out,Summer,0,Championship,2021,2021/2022
-Middlesbrough FC,Onel Hernández,28,Right Winger,Norwich,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Middlesbrough FC,Onel Hernández,29,Right Winger,Norwich,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Middlesbrough FC,Aaron Connolly,22,Centre-Forward,Brighton,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
 Millwall FC,Scott Malone,30,Left-Back,Derby,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Millwall FC,George Long,27,Goalkeeper,Hull City,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Millwall FC,George Saville,28,Central Midfield,Middlesbrough,?,in,Summer,NA,Championship,2021,2021/2022
 Millwall FC,Daniel Ballard,21,Centre-Back,Arsenal U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Millwall FC,Benik Afobe,28,Centre-Forward,Stoke City,loan transfer,in,Summer,NA,Championship,2021,2021/2022
-Millwall FC,Sheyi Ojo,24,Right Winger,Liverpool,loan transfer,in,Summer,NA,Championship,2021,2021/2022
-Millwall FC,Mahlon Romeo,25,Right-Back,Portsmouth,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Millwall FC,Sheyi Ojo,24,Left Winger,Liverpool,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Millwall FC,Shaun Williams,34,Defensive Midfield,Portsmouth,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Millwall FC,Shane Ferguson,30,Left Midfield,Rotherham,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Millwall FC,James Brown,23,Right-Back,St. Johnstone,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Millwall FC,Mahlon Romeo,25,Right-Back,Portsmouth,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Millwall FC,Frank Fielding,33,Goalkeeper,Without Club,-,out,Summer,0,Championship,2021,2021/2022
-Millwall FC,Daniel Ballard,21,Centre-Back,Arsenal U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Millwall FC,Benik Afobe,28,Centre-Forward,Stoke City,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Millwall FC,Sheyi Ojo,24,Right Winger,Liverpool,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Millwall FC,Daniel Ballard,22,Centre-Back,Arsenal U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Millwall FC,Benik Afobe,29,Centre-Forward,Stoke City,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Millwall FC,Sheyi Ojo,24,Left Winger,Liverpool,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Nottingham Forest,Braian Ojeda,21,Central Midfield,Olimpia,£2.07m,in,Summer,2.07,Championship,2021,2021/2022
 Nottingham Forest,Ethan Horvath,26,Goalkeeper,Club Brugge,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Nottingham Forest,Xande Silva,24,Right Winger,West Ham,?,in,Summer,NA,Championship,2021,2021/2022
 Nottingham Forest,Mohamed Dräger,25,Right-Back,Olympiacos,?,in,Summer,NA,Championship,2021,2021/2022
-Nottingham Forest,Braian Ojeda,21,Central Midfield,Olimpia,?,in,Summer,NA,Championship,2021,2021/2022
-Nottingham Forest,Max Lowe,24,Left-Back,Sheff Utd,loan transfer,in,Summer,NA,Championship,2021,2021/2022
-Nottingham Forest,Jordi Osei-Tutu,22,Right-Back,Arsenal U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Nottingham Forest,James Garner,20,Defensive Midfield,Man Utd U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
+Nottingham Forest,Jordi Osei-Tutu,22,Right-Back,Arsenal U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Nottingham Forest,Philip Zinckernagel,26,Right Winger,Watford,loan transfer,in,Summer,NA,Championship,2021,2021/2022
+Nottingham Forest,Max Lowe,24,Left-Back,Sheff Utd,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Nottingham Forest,Djed Spence,21,Right-Back,Middlesbrough,loan transfer,in,Summer,NA,Championship,2021,2021/2022
+Nottingham Forest,Rodrigo Ely,27,Centre-Back,Without Club,-,in,Summer,0,Championship,2021,2021/2022
 Nottingham Forest,Jordan Lawrence-Gabriel,22,Right-Back,Nottingham U23,-,in,Summer,0,Championship,2021,2021/2022
-Nottingham Forest,Harry Arter,31,Central Midfield,Charlton,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Nottingham Forest,Nikolas Ioannou,25,Left-Back,Aris Saloniki,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
 Nottingham Forest,Nuno Da Costa,30,Centre-Forward,Mouscron,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
 Nottingham Forest,João Carvalho,24,Attacking Midfield,UD Almería,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
 Nottingham Forest,Jordan Lawrence-Gabriel,22,Right-Back,Blackpool,£788Th.,out,Summer,0.788,Championship,2021,2021/2022
 Nottingham Forest,Fouad Bachirou,31,Defensive Midfield,Omonia Nikosia,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Nottingham Forest,Sammy Ameobi,29,Left Winger,Middlesbrough,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Nottingham Forest,Yuri Ribeiro,24,Left-Back,Legia Warszawa,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Nottingham Forest,Sammy Ameobi,29,Left Winger,Middlesbrough,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Nottingham Forest,Tyler Blackett,27,Left-Back,Cincinnati,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Nottingham Forest,Nikolas Ioannou,25,Left-Back,Como,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Nottingham Forest,Harry Arter,31,Central Midfield,Charlton,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Nottingham Forest,Nuno Da Costa,30,Centre-Forward,SM Caen,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Nottingham Forest,Abdoulaye Diallo,29,Goalkeeper,Without Club,-,out,Summer,0,Championship,2021,2021/2022
 Nottingham Forest,Samba Sow,32,Defensive Midfield,Without Club,-,out,Summer,0,Championship,2021,2021/2022
-Nottingham Forest,Michael Hefele,31,Centre-Back,Retired,-,out,Summer,0,Championship,2021,2021/2022
+Nottingham Forest,Michael Hefele,30,Centre-Back,Retired,-,out,Summer,0,Championship,2021,2021/2022
 Nottingham Forest,Michael Dawson,37,Centre-Back,Retired,-,out,Summer,0,Championship,2021,2021/2022
 Nottingham Forest,Glenn Murray,37,Centre-Forward,Retired,-,out,Summer,0,Championship,2021,2021/2022
-Nottingham Forest,Jordi Osei-Tutu,22,Right-Back,Arsenal U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Nottingham Forest,Philip Zinckernagel,26,Right Winger,Watford,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Nottingham Forest,James Garner,20,Defensive Midfield,Man Utd U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Nottingham Forest,Max Lowe,24,Left-Back,Sheff Utd,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Nottingham Forest,Filip Krovinovic,26,Attacking Midfield,Benfica,"End of loanJun 30, 2021",out,Summer,0,Championship,2021,2021/2022
+Nottingham Forest,James Garner,21,Defensive Midfield,Man Utd U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Nottingham Forest,Philip Zinckernagel,27,Right Winger,Watford,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Nottingham Forest,Max Lowe,25,Left-Back,Sheff Utd,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Nottingham Forest,Filip Krovinovic,25,Attacking Midfield,Benfica,"End of loanJun 30, 2021",out,Summer,0,Championship,2021,2021/2022
 Nottingham Forest,Djed Spence,21,Right-Back,Middlesbrough,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Nottingham Forest,Keinan Davis,24,Centre-Forward,Aston Villa,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Peterborough United,Oliver Norburn,28,Central Midfield,Shrewsbury,£3.69m,in,Summer,3.69,Championship,2021,2021/2022
+Peterborough United,Joel Randall,21,Right Winger,Exeter City,£1.05m,in,Summer,1.05,Championship,2021,2021/2022
 Peterborough United,Kobe Jae Chong,20,Central Midfield,Sutton C.,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Peterborough United,David Cornell,30,Goalkeeper,Ipswich,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Peterborough United,Jack Marriott,26,Centre-Forward,Derby,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Peterborough United,Emmanuel Fernandez,19,Centre-Back,Ramsgate,?,in,Summer,NA,Championship,2021,2021/2022
-Peterborough United,Oliver Norburn,28,Central Midfield,Shrewsbury,?,in,Summer,NA,Championship,2021,2021/2022
-Peterborough United,Joel Randall,21,Left Midfield,Exeter City,?,in,Summer,NA,Championship,2021,2021/2022
-Peterborough United,Kwame Poku,20,Attacking Midfield,Colchester Utd.,?,in,Summer,NA,Championship,2021,2021/2022
+Peterborough United,Kwame Poku,19,Attacking Midfield,Colchester Utd.,?,in,Summer,NA,Championship,2021,2021/2022
 Peterborough United,Joe Tomlinson,21,Left-Back,Eastleigh,?,in,Summer,NA,Championship,2021,2021/2022
-Peterborough United,Josh Knight,23,Centre-Back,Leicester U23,?,in,Summer,NA,Championship,2021,2021/2022
 Peterborough United,Jorge Grant,26,Central Midfield,Lincoln City,?,in,Summer,NA,Championship,2021,2021/2022
+Peterborough United,Josh Knight,23,Centre-Back,Leicester U23,?,in,Summer,NA,Championship,2021,2021/2022
+Peterborough United,Hameed Ishola,NA,attack,Peterb. U18,-,in,Summer,0,Championship,2021,2021/2022
 Peterborough United,Conor Coventry,21,Defensive Midfield,West Ham,loan transfer,in,Summer,NA,Championship,2021,2021/2022
-Peterborough United,Ryan Broom,24,Right Midfield,Plymouth,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Peterborough United,Serhat Tasdemir,21,Right Midfield,Barnet,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Peterborough United,Christy Pym,27,Goalkeeper,Stevenage,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Peterborough United,Hameed Ishola,NA,attack,Bedford Town,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Peterborough United,Ryan Broom,25,Right Midfield,Plymouth,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Peterborough United,Serhat Tasdemir,21,Attacking Midfield,Barnet,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Peterborough United,Bradley Rolt,18,Centre-Forward,Bohemians,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
+Peterborough United,Mo Eisa,27,Centre-Forward,MK Dons,£1.35m,out,Summer,1.35,Championship,2021,2021/2022
 Peterborough United,Bradley Rolt,18,Centre-Forward,Brackley,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Peterborough United,Louis Reed,24,Central Midfield,Swindon Town,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Peterborough United,Frazer Blake-Tracy,25,Left-Back,Burton Albion,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Peterborough United,Sam Cartwright,21,Centre-Back,St. Ives Town,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Peterborough United,Archie Jones,20,Central Midfield,Bishop's St.,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Peterborough United,Hameed Ishola,NA,attack,Bedford Town,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Peterborough United,Ethan Hamilton,22,Central Midfield,Accrington,?,out,Summer,NA,Championship,2021,2021/2022
-Peterborough United,Mo Eisa,27,Centre-Forward,MK Dons,?,out,Summer,NA,Championship,2021,2021/2022
 Peterborough United,Flynn Clarke,18,Attacking Midfield,Norwich,?,out,Summer,NA,Championship,2021,2021/2022
+Peterborough United,Serhat Tasdemir,21,Attacking Midfield,Barnet,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Peterborough United,Ryan Broom,24,Right Midfield,Plymouth,loan transfer,out,Summer,NA,Championship,2021,2021/2022
-Peterborough United,Serhat Tasdemir,21,Right Midfield,Barnet,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Peterborough United,Mark Tyler,44,Goalkeeper,Retired,-,out,Summer,0,Championship,2021,2021/2022
 Peterborough United,Niall Mason,24,Right-Back,Without Club,-,out,Summer,0,Championship,2021,2021/2022
-Peterborough United,Conor Coventry,21,Defensive Midfield,West Ham,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Peterborough United,Bali Mumba,20,Right-Back,Norwich,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Peterborough United,Conor Coventry,22,Defensive Midfield,West Ham,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
 Preston North End,Ali McCann,21,Central Midfield,St. Johnstone,£1.26m,in,Summer,1.26,Championship,2021,2021/2022
-Preston North End,Matthew Olosunde,23,Right-Back,Rotherham,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Preston North End,Jamie Thomas,24,Centre-Forward,Bamber Bridge,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Preston North End,Izzy Brown,24,Second Striker,Chelsea,free transfer,in,Summer,NA,Championship,2021,2021/2022
+Preston North End,Matthew Olosunde,23,Right-Back,Rotherham,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Preston North End,Liam Lindsay,25,Centre-Back,Stoke City,?,in,Summer,NA,Championship,2021,2021/2022
 Preston North End,Daniel Iversen,24,Goalkeeper,Leicester U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Preston North End,Josh Murphy,26,Left Winger,Cardiff,loan transfer,in,Summer,NA,Championship,2021,2021/2022
-Preston North End,Lewis Leigh,17,midfield,Preston U18,-,in,Summer,0,Championship,2021,2021/2022
+Preston North End,Connor Wickham,28,Centre-Forward,Without Club,-,in,Summer,0,Championship,2021,2021/2022
 Preston North End,Jacob Holland-Wilkinson,18,Centre-Forward,Preston U18,-,in,Summer,0,Championship,2021,2021/2022
-Preston North End,Tom Bayliss,22,Central Midfield,Wigan,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Preston North End,Connor Ripley,28,Goalkeeper,Salford,"End of loanOct 20, 2021",in,Summer,0,Championship,2021,2021/2022
+Preston North End,Tom Bayliss,23,Central Midfield,Wigan,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Preston North End,Jacob Holland-Wilkinson,18,Centre-Forward,Fylde,"End of loanSep 18, 2021",in,Summer,0,Championship,2021,2021/2022
-Preston North End,Jack Baxter,20,Defensive Midfield,Cork City,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
 Preston North End,Graham Burke,27,Second Striker,Shamrock Rovers,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
 Preston North End,Adam O'Reilly,20,Central Midfield,Waterford FC,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
-Preston North End,Josh Ginnelly,24,Left Winger,Heart of Midl.,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Preston North End,Billy Bodin,29,Left Winger,Oxford United,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Preston North End,Jack Baxter,20,Central Midfield,Cork City,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
 Preston North End,Graham Burke,27,Second Striker,Shamrock Rovers,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Preston North End,Louis Moult,29,Centre-Forward,Burton Albion,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Preston North End,Billy Bodin,29,Left Winger,Oxford United,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Preston North End,Josh Ginnelly,24,Left Winger,Heart of Midl.,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Preston North End,Ethan Walker,19,Left Winger,Fylde,loan transfer,out,Summer,NA,Championship,2021,2021/2022
+Preston North End,Connor Ripley,28,Goalkeeper,Salford,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Preston North End,Jacob Holland-Wilkinson,18,Centre-Forward,Fylde,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Preston North End,Jayden Stockley,27,Centre-Forward,Charlton,?,out,Summer,NA,Championship,2021,2021/2022
+Preston North End,Jack Baxter,20,Central Midfield,Radcliffe,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Preston North End,Tom Bayliss,22,Central Midfield,Wigan,loan transfer,out,Summer,NA,Championship,2021,2021/2022
-Preston North End,Paul Gallagher,36,Central Midfield,Retired,-,out,Summer,0,Championship,2021,2021/2022
 Preston North End,David Nugent,36,Centre-Forward,Without Club,-,out,Summer,0,Championship,2021,2021/2022
-Preston North End,Sepp van den Berg,19,Centre-Back,Liverpool,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Preston North End,Josh Murphy,26,Left Winger,Cardiff,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Preston North End,Paul Gallagher,36,Central Midfield,Retired,-,out,Summer,0,Championship,2021,2021/2022
 Preston North End,Daniel Iversen,24,Goalkeeper,Leicester U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Preston North End,Josh Murphy,27,Left Winger,Cardiff,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Preston North End,Sepp van den Berg,20,Centre-Back,Liverpool,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
 Queens Park Rangers,Andre Dozzell,22,Central Midfield,Ipswich,£1.04m,in,Summer,1.04,Championship,2021,2021/2022
 Queens Park Rangers,Stefan Johansen,30,Central Midfield,Fulham,£630Th.,in,Summer,0.63,Championship,2021,2021/2022
 Queens Park Rangers,Jordan Archer,28,Goalkeeper,Middlesbrough,free transfer,in,Summer,NA,Championship,2021,2021/2022
-Queens Park Rangers,Charlie Austin,32,Centre-Forward,West Brom,free transfer,in,Summer,NA,Championship,2021,2021/2022
+Queens Park Rangers,Charlie Austin,31,Centre-Forward,West Brom,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Queens Park Rangers,Moses Odubajo,28,Right-Back,Sheff Wed,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Queens Park Rangers,Sam Field,23,Central Midfield,West Brom,?,in,Summer,NA,Championship,2021,2021/2022
 Queens Park Rangers,Jordy de Wijs,26,Centre-Back,Hull City,?,in,Summer,NA,Championship,2021,2021/2022
@@ -465,150 +475,203 @@ Queens Park Rangers,Andre Gray,30,Centre-Forward,Watford,loan transfer,in,Summer
 Queens Park Rangers,Sam McCallum,20,Left-Back,Norwich,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Queens Park Rangers,Olamide Shodipo,24,Left Winger,Sheff Wed,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Queens Park Rangers,Faysal Bettache,21,Central Midfield,Oldham Athletic,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Queens Park Rangers,Macauley Bonne,25,Centre-Forward,Ipswich,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Queens Park Rangers,Charlie Kelman,19,Centre-Forward,Gillingham FC,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Queens Park Rangers,Macauley Bonne,26,Centre-Forward,Ipswich,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Queens Park Rangers,Joe Lumley,26,Goalkeeper,Middlesbrough,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Queens Park Rangers,Tom Carroll,29,Central Midfield,Ipswich,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Queens Park Rangers,Paul Smyth,23,Right Winger,Leyton Orient,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Queens Park Rangers,Todd Kane,27,Right-Back,Coventry,?,out,Summer,NA,Championship,2021,2021/2022
 Queens Park Rangers,Liam Kelly,25,Goalkeeper,Motherwell FC,?,out,Summer,NA,Championship,2021,2021/2022
-Queens Park Rangers,Charlie Kelman,19,Centre-Forward,Gillingham FC,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Queens Park Rangers,Conor Masterson,22,Centre-Back,Cambridge Utd.,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Queens Park Rangers,Faysal Bettache,21,Central Midfield,Oldham Athletic,loan transfer,out,Summer,NA,Championship,2021,2021/2022
-Queens Park Rangers,Niko Hämäläinen,24,Left-Back,LA Galaxy,loan transfer,out,Summer,NA,Championship,2021,2021/2022
+Queens Park Rangers,Niko Hämäläinen,24,Left-Back,Los Angeles,loan transfer,out,Summer,NA,Championship,2021,2021/2022
+Queens Park Rangers,Charlie Kelman,19,Centre-Forward,Gillingham FC,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Queens Park Rangers,Olamide Shodipo,24,Left Winger,Sheff Wed,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Queens Park Rangers,Macauley Bonne,25,Centre-Forward,Ipswich,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Queens Park Rangers,Aramide Oteh,22,Centre-Forward,Without Club,-,out,Summer,0,Championship,2021,2021/2022
-Queens Park Rangers,Sam McCallum,20,Left-Back,Norwich,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Queens Park Rangers,Sam McCallum,21,Left-Back,Norwich,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
 Queens Park Rangers,Andre Gray,30,Centre-Forward,Watford,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Reading FC,Scott Dann,34,Centre-Back,Crystal Palace,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Reading FC,Junior Hoilett,31,Left Winger,Cardiff,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Reading FC,Alen Halilovic,25,Attacking Midfield,Birmingham,free transfer,in,Summer,NA,Championship,2021,2021/2022
-Reading FC,Scott Dann,34,Centre-Back,Crystal Palace,free transfer,in,Summer,NA,Championship,2021,2021/2022
-Reading FC,Abdul-Rahman Baba,27,Left-Back,Chelsea,loan transfer,in,Summer,NA,Championship,2021,2021/2022
-Reading FC,Danny Drinkwater,31,Central Midfield,Chelsea,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Reading FC,Tom Dele-Bashiru,21,Central Midfield,Watford,loan transfer,in,Summer,NA,Championship,2021,2021/2022
-Reading FC,Marc McNulty,28,Centre-Forward,Dundee United,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Reading FC,Danny Drinkwater,31,Central Midfield,Chelsea,loan transfer,in,Summer,NA,Championship,2021,2021/2022
+Reading FC,Abdul-Rahman Baba,27,Left-Back,Chelsea,loan transfer,in,Summer,NA,Championship,2021,2021/2022
+Reading FC,Femi Azeez,20,Right Winger,Reading U23,-,in,Summer,0,Championship,2021,2021/2022
+Reading FC,Ethan Bristow,19,Left-Back,Reading U23,-,in,Summer,0,Championship,2021,2021/2022
+Reading FC,Jahmari Clarke,17,Centre-Forward,Reading U18,-,in,Summer,0,Championship,2021,2021/2022
+Reading FC,Marc McNulty,29,Centre-Forward,Dundee United,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Reading FC,Michael Olise,19,Attacking Midfield,Crystal Palace,£8.37m,out,Summer,8.37,Championship,2021,2021/2022
-Reading FC,Omar Richards,23,Left-Back,FC Bayern,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Reading FC,Sam Smith,23,Centre-Forward,Cambridge Utd.,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Reading FC,Sam Walker,29,Goalkeeper,Kilmarnock FC,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Reading FC,Sam Baldock,32,Centre-Forward,Derby,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Reading FC,Sone Aluko,32,Second Striker,Ipswich,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Reading FC,Sam Baldock,32,Centre-Forward,Derby,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Reading FC,Sam Walker,29,Goalkeeper,Kilmarnock FC,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Reading FC,Sam Smith,23,Centre-Forward,Cambridge Utd.,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Reading FC,Omar Richards,23,Left-Back,FC Bayern,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Reading FC,Marc McNulty,28,Centre-Forward,Dundee United,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Reading FC,Abdul-Rahman Baba,27,Left-Back,Chelsea,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Reading FC,Tom Dele-Bashiru,21,Central Midfield,Watford,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Reading FC,Alfa Semedo,24,Defensive Midfield,Benfica,"End of loanJun 30, 2021",out,Summer,0,Championship,2021,2021/2022
+Reading FC,Danny Drinkwater,32,Central Midfield,Chelsea,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Reading FC,Tom Dele-Bashiru,22,Central Midfield,Watford,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
 Reading FC,Tomás Esteves,19,Right-Back,FC Porto,"End of loanJun 30, 2021",out,Summer,0,Championship,2021,2021/2022
-Reading FC,Danny Drinkwater,31,Central Midfield,Chelsea,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Sheffield United,Robin Olsen,31,Goalkeeper,AS Roma,loan transfer,in,Summer,NA,Championship,2021,2021/2022
-Sheffield United,Morgan Gibbs-White,21,Central Midfield,Wolves,loan transfer,in,Summer,NA,Championship,2021,2021/2022
-Sheffield United,Conor Hourihane,30,Central Midfield,Aston Villa,loan transfer,in,Summer,NA,Championship,2021,2021/2022
+Reading FC,Alfa Semedo,23,Defensive Midfield,Benfica,"End of loanJun 30, 2021",out,Summer,0,Championship,2021,2021/2022
 Sheffield United,Ben Davies,26,Centre-Back,Liverpool,loan transfer,in,Summer,NA,Championship,2021,2021/2022
-Sheffield United,Regan Slater,21,Defensive Midfield,Sheff Utd U23,-,in,Summer,0,Championship,2021,2021/2022
-Sheffield United,Daniel Jebbison,18,Centre-Forward,Sheff Utd U18,-,in,Summer,0,Championship,2021,2021/2022
-Sheffield United,Max Lowe,24,Left-Back,Nottm Forest,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Sheffield United,Robin Olsen,31,Goalkeeper,AS Roma,loan transfer,in,Summer,NA,Championship,2021,2021/2022
+Sheffield United,Conor Hourihane,30,Central Midfield,Aston Villa,loan transfer,in,Summer,NA,Championship,2021,2021/2022
+Sheffield United,Morgan Gibbs-White,21,Central Midfield,Wolves,loan transfer,in,Summer,NA,Championship,2021,2021/2022
+Sheffield United,Daniel Jebbison,17,Centre-Forward,Sheff Utd U18,-,in,Summer,0,Championship,2021,2021/2022
+Sheffield United,Iliman Ndiaye,21,Attacking Midfield,Sheff Utd U23,-,in,Summer,0,Championship,2021,2021/2022
+Sheffield United,Adlène Guédioura,35,Central Midfield,Without Club,-,in,Summer,0,Championship,2021,2021/2022
+Sheffield United,Max Lowe,25,Left-Back,Nottm Forest,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Sheffield United,Daniel Jebbison,18,Centre-Forward,Burton Albion,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Sheffield United,Jake Eastwood,24,Goalkeeper,Portsmouth,"End of loanSep 14, 2021",in,Summer,0,Championship,2021,2021/2022
 Sheffield United,Michael Verrips,24,Goalkeeper,FC Emmen,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
 Sheffield United,Aaron Ramsdale,23,Goalkeeper,Arsenal,£25.20m,out,Summer,25.2,Championship,2021,2021/2022
 Sheffield United,Phil Jagielka,39,Centre-Back,Derby,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Sheffield United,Simon Moore,31,Goalkeeper,Coventry,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Sheffield United,John Lundstram,27,Central Midfield,Rangers,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Sheffield United,Daniel Jebbison,18,Centre-Forward,Burton Albion,loan transfer,out,Summer,NA,Championship,2021,2021/2022
+Sheffield United,Jake Eastwood,24,Goalkeeper,Portsmouth,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Sheffield United,Max Lowe,24,Left-Back,Nottm Forest,loan transfer,out,Summer,NA,Championship,2021,2021/2022
+Sheffield United,Daniel Jebbison,18,Centre-Forward,Burton Albion,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Sheffield United,Kean Bryan,24,Centre-Back,Without Club,-,out,Summer,0,Championship,2021,2021/2022
 Sheffield United,Jack Rodwell,30,Defensive Midfield,Without Club,-,out,Summer,0,Championship,2021,2021/2022
+Sheffield United,Conor Hourihane,31,Central Midfield,Aston Villa,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Sheffield United,Morgan Gibbs-White,22,Central Midfield,Wolves,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
 Sheffield United,Ben Davies,26,Centre-Back,Liverpool,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Sheffield United,Conor Hourihane,30,Central Midfield,Aston Villa,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Sheffield United,Morgan Gibbs-White,21,Central Midfield,Wolves,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
 Stoke City,Sam Surridge,23,Centre-Forward,Bournemouth,£2.61m,in,Summer,2.61,Championship,2021,2021/2022
 Stoke City,Ben Wilmot,21,Centre-Back,Watford,£1.58m,in,Summer,1.58,Championship,2021,2021/2022
 Stoke City,Demeaco Duhaney,22,Right-Back,Huddersfield,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Stoke City,Jack Bonham,27,Goalkeeper,Gillingham FC,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Stoke City,Mario Vrancic,32,Central Midfield,Norwich,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Stoke City,Leo Östigard,21,Centre-Back,Brighton,loan transfer,in,Summer,NA,Championship,2021,2021/2022
-Stoke City,Romaine Sawyers,29,Central Midfield,West Brom,loan transfer,in,Summer,NA,Championship,2021,2021/2022
+Stoke City,Romaine Sawyers,29,Attacking Midfield,West Brom,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Stoke City,Abdallah Sima,20,Right Winger,Brighton,loan transfer,in,Summer,NA,Championship,2021,2021/2022
-Stoke City,Benik Afobe,28,Centre-Forward,Millwall,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Stoke City,Badou Ndiaye,30,Central Midfield,Al-Ain,"End of loanJul 21, 2021",in,Summer,0,Championship,2021,2021/2022
-Stoke City,Blondy Nna Noukeu,19,Goalkeeper,Crawley Town,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Stoke City,Peter Etebo,25,Central Midfield,Watford,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Stoke City,Peter Etebo,25,Central Midfield,Galatasaray,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
+Stoke City,Badou Ndiaye,30,Central Midfield,Al-Ain,"End of loanJul 21, 2021",in,Summer,0,Championship,2021,2021/2022
+Stoke City,Peter Etebo,26,Central Midfield,Watford,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Stoke City,Benik Afobe,29,Centre-Forward,Millwall,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Stoke City,Moritz Bauer,29,Right-Back,Ufa,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
 Stoke City,Kevin Wimmer,28,Centre-Back,Karlsruher SC,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
 Stoke City,Bruno Martins Indi,29,Centre-Back,AZ Alkmaar,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
 Stoke City,Benik Afobe,28,Centre-Forward,Trabzonspor,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
 Stoke City,Nathan Collins,20,Centre-Back,Burnley,£12.60m,out,Summer,12.6,Championship,2021,2021/2022
+Stoke City,Badou Ndiaye,30,Central Midfield,Aris Saloniki,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Stoke City,Kevin Wimmer,28,Centre-Back,Rapid Vienna,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Stoke City,John Mikel Obi,34,Defensive Midfield,Kuwait SC,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Stoke City,Jordan Cousins,27,Central Midfield,Wigan,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Stoke City,Ryan Woods,27,Defensive Midfield,Birmingham,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Stoke City,Moritz Bauer,29,Right-Back,Ufa,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Stoke City,Lasse Sörensen,21,Central Midfield,Lincoln City,?,out,Summer,NA,Championship,2021,2021/2022
-Stoke City,Badou Ndiaye,30,Central Midfield,Aris Saloniki,?,out,Summer,NA,Championship,2021,2021/2022
 Stoke City,Sam Vokes,31,Centre-Forward,Wycombe,?,out,Summer,NA,Championship,2021,2021/2022
-Stoke City,Lee Gregory,33,Centre-Forward,Sheff Wed,?,out,Summer,NA,Championship,2021,2021/2022
 Stoke City,Bruno Martins Indi,29,Centre-Back,AZ Alkmaar,?,out,Summer,NA,Championship,2021,2021/2022
+Stoke City,Lee Gregory,32,Centre-Forward,Sheff Wed,?,out,Summer,NA,Championship,2021,2021/2022
 Stoke City,Liam Lindsay,25,Centre-Back,Preston,?,out,Summer,NA,Championship,2021,2021/2022
 Stoke City,James McClean,32,Left Midfield,Wigan,?,out,Summer,NA,Championship,2021,2021/2022
 Stoke City,Benik Afobe,28,Centre-Forward,Millwall,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Stoke City,Peter Etebo,25,Central Midfield,Watford,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Stoke City,Blondy Nna Noukeu,19,Goalkeeper,Crawley Town,loan transfer,out,Summer,NA,Championship,2021,2021/2022
-Stoke City,Leo Östigard,21,Centre-Back,Brighton,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
 Stoke City,Abdallah Sima,20,Right Winger,Brighton,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
 Stoke City,Rabbi Matondo,20,Right Winger,FC Schalke 04,"End of loanJun 30, 2021",out,Summer,0,Championship,2021,2021/2022
-Swansea City,Joël Piroe,22,Centre-Forward,PSV Eindhoven,£1.05m,in,Summer,1.05,Championship,2021,2021/2022
-Swansea City,Liam Walsh,23,Central Midfield,Bristol City,free transfer,in,Summer,NA,Championship,2021,2021/2022
-Swansea City,Jamie Paterson,29,Attacking Midfield,Bristol City,free transfer,in,Summer,NA,Championship,2021,2021/2022
+Swansea City,Michael Obafemi,21,Centre-Forward,Southampton,£1.80m,in,Summer,1.8,Championship,2021,2021/2022
+Swansea City,Flynn Downes,22,Central Midfield,Ipswich,£1.53m,in,Summer,1.53,Championship,2021,2021/2022
+Swansea City,Joël Piroe,21,Centre-Forward,PSV Eindhoven,£1.05m,in,Summer,1.05,Championship,2021,2021/2022
+Swansea City,Kyle Joseph,19,Centre-Forward,Wigan,£522Th.,in,Summer,0.522,Championship,2021,2021/2022
 Swansea City,Olivier Ntcham,25,Central Midfield,Celtic,free transfer,in,Summer,NA,Championship,2021,2021/2022
-Swansea City,Michael Obafemi,21,Centre-Forward,Southampton,?,in,Summer,NA,Championship,2021,2021/2022
-Swansea City,Flynn Downes,22,Central Midfield,Ipswich,?,in,Summer,NA,Championship,2021,2021/2022
-Swansea City,Kyle Joseph,19,Centre-Forward,Wigan,?,in,Summer,NA,Championship,2021,2021/2022
+Swansea City,Liam Walsh,23,Central Midfield,Bristol City,free transfer,in,Summer,NA,Championship,2021,2021/2022
+Swansea City,Jamie Paterson,29,Second Striker,Bristol City,free transfer,in,Summer,NA,Championship,2021,2021/2022
 Swansea City,Rhys Williams,20,Centre-Back,Liverpool,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Swansea City,Ethan Laird,20,Right-Back,Man Utd U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 Swansea City,Jordon Garrick,23,Right Winger,Plymouth,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
-Swansea City,Kyle Joseph,19,Centre-Forward,Cheltenham,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
+Swansea City,Kyle Joseph,20,Centre-Forward,Cheltenham,"End of loanJan 5, 2022",in,Summer,0,Championship,2021,2021/2022
+Swansea City,Morgan Whittaker,21,Right Winger,Lincoln City,"End of loanMay 31, 2022",in,Summer,0,Championship,2021,2021/2022
 Swansea City,Connor Roberts,25,Right-Back,Burnley,£2.61m,out,Summer,2.61,Championship,2021,2021/2022
+Swansea City,Jamal Lowe,27,Right Winger,Bournemouth,£1.53m,out,Summer,1.53,Championship,2021,2021/2022
+Swansea City,George Byers,25,Central Midfield,Sheff Wed,free transfer,out,Summer,NA,Championship,2021,2021/2022
+Swansea City,Declan John,26,Left-Back,Bolton,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Swansea City,André Ayew,31,Left Winger,Al-Sadd SC,free transfer,out,Summer,NA,Championship,2021,2021/2022
 Swansea City,Kieron Freeman,29,Right-Back,Portsmouth,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Swansea City,Declan John,26,Left-Back,Bolton,free transfer,out,Summer,NA,Championship,2021,2021/2022
-Swansea City,Jamal Lowe,27,Right Winger,Bournemouth,?,out,Summer,NA,Championship,2021,2021/2022
-Swansea City,George Byers,25,Central Midfield,Sheff Wed,?,out,Summer,NA,Championship,2021,2021/2022
 Swansea City,Josh Gould,24,Goalkeeper,Ebbsfleet,loan transfer,out,Summer,NA,Championship,2021,2021/2022
-Swansea City,Jordon Garrick,23,Right Winger,Plymouth,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Swansea City,Kyle Joseph,19,Centre-Forward,Cheltenham,loan transfer,out,Summer,NA,Championship,2021,2021/2022
-Swansea City,Wayne Routledge,36,attack,Without Club,-,out,Summer,0,Championship,2021,2021/2022
+Swansea City,Jordon Garrick,23,Right Winger,Plymouth,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 Swansea City,Barrie McKay,26,Left Winger,Without Club,-,out,Summer,0,Championship,2021,2021/2022
-Swansea City,Ethan Laird,20,Right-Back,Man Utd U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-Swansea City,Rhys Williams,20,Centre-Back,Liverpool,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Swansea City,Wayne Routledge,36,Left Winger,Retired,-,out,Summer,0,Championship,2021,2021/2022
+Swansea City,Rhys Williams,21,Centre-Back,Liverpool,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
 West Bromwich Albion,Alex Mowatt,26,Central Midfield,Barnsley FC,free transfer,in,Summer,NA,Championship,2021,2021/2022
 West Bromwich Albion,Adam Reach,28,Left Midfield,Sheff Wed,free transfer,in,Summer,NA,Championship,2021,2021/2022
-West Bromwich Albion,Jayson Molumby,22,Central Midfield,Brighton U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 West Bromwich Albion,Matt Clarke,24,Centre-Back,Brighton,loan transfer,in,Summer,NA,Championship,2021,2021/2022
+West Bromwich Albion,Jayson Molumby,22,Central Midfield,Brighton U23,loan transfer,in,Summer,NA,Championship,2021,2021/2022
 West Bromwich Albion,Jordan Hugill,29,Centre-Forward,Norwich,loan transfer,in,Summer,NA,Championship,2021,2021/2022
+West Bromwich Albion,Kean Bryan,24,Centre-Back,Without Club,-,in,Summer,0,Championship,2021,2021/2022
 West Bromwich Albion,Cédric Kipré,24,Centre-Back,RSC Charleroi,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
 West Bromwich Albion,Ahmed Hegazy,30,Centre-Back,Ittihad,"End of loanJun 30, 2021",in,Summer,0,Championship,2021,2021/2022
-West Bromwich Albion,Matheus Pereira,25,Right Winger,Hilal,£16.20m,out,Summer,16.2,Championship,2021,2021/2022
+West Bromwich Albion,Matheus Pereira,25,Attacking Midfield,Hilal,£16.20m,out,Summer,16.2,Championship,2021,2021/2022
+West Bromwich Albion,Ahmed Hegazy,30,Centre-Back,Ittihad,£2.25m,out,Summer,2.25,Championship,2021,2021/2022
 West Bromwich Albion,Rekeem Harper,21,Central Midfield,Ipswich,£522Th.,out,Summer,0.522,Championship,2021,2021/2022
-West Bromwich Albion,Ahmed Hegazy,30,Centre-Back,Ittihad,£450Th.,out,Summer,0.45,Championship,2021,2021/2022
-West Bromwich Albion,Kyle Edwards,23,Left Midfield,Ipswich,free transfer,out,Summer,NA,Championship,2021,2021/2022
+West Bromwich Albion,Charlie Austin,31,Centre-Forward,QPR,free transfer,out,Summer,NA,Championship,2021,2021/2022
 West Bromwich Albion,Lee Peltier,34,Right-Back,Middlesbrough,free transfer,out,Summer,NA,Championship,2021,2021/2022
-West Bromwich Albion,Charlie Austin,32,Centre-Forward,QPR,free transfer,out,Summer,NA,Championship,2021,2021/2022
+West Bromwich Albion,Kyle Edwards,23,Left Midfield,Ipswich,free transfer,out,Summer,NA,Championship,2021,2021/2022
 West Bromwich Albion,Andy Lonergan,37,Goalkeeper,Everton,free transfer,out,Summer,NA,Championship,2021,2021/2022
+West Bromwich Albion,Kieran Gibbs,31,Left-Back,Miami,free transfer,out,Summer,NA,Championship,2021,2021/2022
 West Bromwich Albion,Kamil Grosicki,33,Left Winger,Pogon Szczecin,free transfer,out,Summer,NA,Championship,2021,2021/2022
-West Bromwich Albion,Kieran Gibbs,31,Left-Back,Inter Miami CF,free transfer,out,Summer,NA,Championship,2021,2021/2022
 West Bromwich Albion,Sam Field,23,Central Midfield,QPR,?,out,Summer,NA,Championship,2021,2021/2022
-West Bromwich Albion,Romaine Sawyers,29,Central Midfield,Stoke City,loan transfer,out,Summer,NA,Championship,2021,2021/2022
-West Bromwich Albion,Branislav Ivanovic,37,Centre-Back,Without Club,-,out,Summer,0,Championship,2021,2021/2022
+West Bromwich Albion,Romaine Sawyers,29,Attacking Midfield,Stoke City,loan transfer,out,Summer,NA,Championship,2021,2021/2022
 West Bromwich Albion,Hal Robson-Kanu,32,Centre-Forward,Without Club,-,out,Summer,0,Championship,2021,2021/2022
-West Bromwich Albion,Jayson Molumby,22,Central Midfield,Brighton U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-West Bromwich Albion,Jordan Hugill,29,Centre-Forward,Norwich,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
-West Bromwich Albion,Mbaye Diagne,29,Centre-Forward,Galatasaray,"End of loanJun 30, 2021",out,Summer,0,Championship,2021,2021/2022
-West Bromwich Albion,Matt Clarke,24,Centre-Back,Brighton,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+West Bromwich Albion,Branislav Ivanovic,37,Centre-Back,Without Club,-,out,Summer,0,Championship,2021,2021/2022
 West Bromwich Albion,Okay Yokuslu,27,Defensive Midfield,Celta de Vigo,"End of loanJun 30, 2021",out,Summer,0,Championship,2021,2021/2022
-Birmingham City,Riley McGree,22,Central Midfield,Charlotte FC,"End of loanDec 31, 2021",out,Winter,0,Championship,2021,2021/2022
-Blackburn Rovers,Harry Chapman,23,Right Winger,Burton Albion,"End of loanJan 2, 2022",in,Winter,0,Championship,2021,2021/2022
-Blackpool FC,Owen Dale,22,Right Winger,Crewe Alexandra,"End of loanJan 1, 2022",out,Winter,0,Championship,2021,2021/2022
-Queens Park Rangers,Niko Hämäläinen,24,Left-Back,LA Galaxy,"End of loanDec 31, 2021",in,Winter,0,Championship,2021,2021/2022
-Queens Park Rangers,Conor Masterson,22,Centre-Back,Cambridge Utd.,"End of loanJan 3, 2022",in,Winter,0,Championship,2021,2021/2022
-Stoke City,Tom Edwards,22,Right-Back,Red Bulls,"End of loanDec 31, 2021",in,Winter,0,Championship,2021,2021/2022
+West Bromwich Albion,Matt Clarke,25,Centre-Back,Brighton,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+West Bromwich Albion,Mbaye Diagne,29,Centre-Forward,Galatasaray,"End of loanJun 30, 2021",out,Summer,0,Championship,2021,2021/2022
+West Bromwich Albion,Jordan Hugill,29,Centre-Forward,Norwich,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+West Bromwich Albion,Jayson Molumby,22,Central Midfield,Brighton U23,"End of loanMay 31, 2022",out,Summer,0,Championship,2021,2021/2022
+Barnsley FC,Ben Williams,22,Left-Back,Cheltenham,?,out,Winter,NA,Championship,2021,2021/2022
+Barnsley FC,Dominik Frieser,28,Right Winger,Without Club,-,out,Winter,0,Championship,2021,2021/2022
+Birmingham City,Teden Mengi,19,Centre-Back,Man Utd U23,loan transfer,in,Winter,NA,Championship,2021,2021/2022
+Birmingham City,Connal Trueman,25,Goalkeeper,Oxford United,"End of loanNov 30, 2021",in,Winter,0,Championship,2021,2021/2022
+Birmingham City,Connal Trueman,25,Goalkeeper,Oxford United,loan transfer,out,Winter,NA,Championship,2021,2021/2022
+Birmingham City,Adam Clayton,32,Central Midfield,Without Club,-,out,Winter,0,Championship,2021,2021/2022
+Birmingham City,Riley McGree,23,Central Midfield,Charlotte,"End of loanDec 31, 2021",out,Winter,0,Championship,2021,2021/2022
+Birmingham City,Tahith Chong,21,Right Winger,Man Utd,"End of loanNov 3, 2021",out,Winter,0,Championship,2021,2021/2022
+Birmingham City,Dion Sanderson,22,Centre-Back,Wolves U23,"End of loanJan 4, 2022",out,Winter,0,Championship,2021,2021/2022
+Blackburn Rovers,Harry Chapman,24,Right Winger,Burton Albion,"End of loanJan 2, 2022",in,Winter,0,Championship,2021,2021/2022
+Blackburn Rovers,Leighton Clarkson,20,Defensive Midfield,Liverpool U23,"End of loanJan 2, 2022",out,Winter,0,Championship,2021,2021/2022
+Blackpool FC,Cameron Antwi,20,Central Midfield,Telford Utd,"End of loanDec 29, 2021",in,Winter,0,Championship,2021,2021/2022
+Blackpool FC,Ryan Wintle,24,Defensive Midfield,Cardiff,"End of loanJan 3, 2022",out,Winter,0,Championship,2021,2021/2022
+Blackpool FC,Owen Dale,23,Right Winger,Crewe Alexandra,"End of loanJan 1, 2022",out,Winter,0,Championship,2021,2021/2022
+AFC Bournemouth,James Hill,19,Centre-Back,Fleetwood,£1.08m,in,Winter,1.08,Championship,2021,2021/2022
+AFC Bournemouth,Ethan Laird,20,Right-Back,Man Utd U23,loan transfer,in,Winter,NA,Championship,2021,2021/2022
+AFC Bournemouth,Will Dennis,21,Goalkeeper,Wealdstone,"End of loanJan 6, 2022",in,Winter,0,Championship,2021,2021/2022
+AFC Bournemouth,Steve Cook,30,Centre-Back,Nottm Forest,free transfer,out,Winter,NA,Championship,2021,2021/2022
+AFC Bournemouth,Will Dennis,21,Goalkeeper,Wealdstone,loan transfer,out,Winter,NA,Championship,2021,2021/2022
+Cardiff City,Max Watters,22,Centre-Forward,MK Dons,"End of loanDec 31, 2021",in,Winter,0,Championship,2021,2021/2022
+Cardiff City,Ryan Wintle,24,Defensive Midfield,Blackpool,"End of loanJan 3, 2022",in,Winter,0,Championship,2021,2021/2022
+Cardiff City,Ryan Giles,21,Left Midfield,Wolves U23,"End of loanJan 3, 2022",out,Winter,0,Championship,2021,2021/2022
+Coventry City,Bright Enobakhare,23,Centre-Forward,Without Club,-,out,Winter,0,Championship,2021,2021/2022
+Huddersfield Town,Mipo Odubeko,19,Centre-Forward,West Ham U23,"End of loanJan 4, 2022",out,Winter,0,Championship,2021,2021/2022
+Luton Town,Dion Pereira,22,Left Winger,Yeovil Town,"End of loanNov 5, 2021",in,Winter,0,Championship,2021,2021/2022
+Luton Town,Dion Pereira,22,Left Winger,Bradford,loan transfer,out,Winter,NA,Championship,2021,2021/2022
+Middlesbrough FC,Aaron Connolly,21,Centre-Forward,Brighton,loan transfer,in,Winter,NA,Championship,2021,2021/2022
+Middlesbrough FC,Neil Taylor,32,Left-Back,Without Club,-,in,Winter,0,Championship,2021,2021/2022
+Middlesbrough FC,Nathan Wood,19,Centre-Back,Hibernian FC,"End of loanNov 25, 2021",in,Winter,0,Championship,2021,2021/2022
+Middlesbrough FC,Dejan Stojanovic,28,Goalkeeper,FC Ingolstadt,loan transfer,out,Winter,NA,Championship,2021,2021/2022
+Nottingham Forest,Steve Cook,30,Centre-Back,Bournemouth,free transfer,in,Winter,NA,Championship,2021,2021/2022
+Nottingham Forest,Keinan Davis,23,Centre-Forward,Aston Villa,loan transfer,in,Winter,NA,Championship,2021,2021/2022
+Nottingham Forest,Harry Arter,32,Central Midfield,Charlton,"End of loanJan 4, 2022",in,Winter,0,Championship,2021,2021/2022
+Nottingham Forest,Jordi Osei-Tutu,23,Right-Back,Arsenal U23,"End of loanJan 6, 2022",out,Winter,0,Championship,2021,2021/2022
+Peterborough United,Bali Mumba,20,Right-Back,Norwich,loan transfer,in,Winter,NA,Championship,2021,2021/2022
+Peterborough United,Kai Corbett,19,Right Winger,Without Club,-,in,Winter,0,Championship,2021,2021/2022
+Peterborough United,Emmanuel Fernandez,20,Centre-Back,Spalding United,"End of loanDec 12, 2021",in,Winter,0,Championship,2021,2021/2022
+Peterborough United,Dániel Gyollai,24,Goalkeeper,Maidenhead Utd.,"End of loanJan 17, 2022",in,Winter,0,Championship,2021,2021/2022
+Peterborough United,Dániel Gyollai,24,Goalkeeper,Maidenhead Utd.,loan transfer,out,Winter,NA,Championship,2021,2021/2022
+Peterborough United,Christy Pym,26,Goalkeeper,Stevenage,loan transfer,out,Winter,NA,Championship,2021,2021/2022
+Preston North End,Jack Baxter,21,Central Midfield,Radcliffe,"End of loanNov 13, 2021",in,Winter,0,Championship,2021,2021/2022
+Preston North End,Ethan Walker,19,Left Winger,Fylde,"End of loanJan 1, 2022",in,Winter,0,Championship,2021,2021/2022
+Queens Park Rangers,Niko Hämäläinen,24,Left-Back,Los Angeles,"End of loanDec 31, 2021",in,Winter,0,Championship,2021,2021/2022
+Queens Park Rangers,Conor Masterson,23,Centre-Back,Cambridge Utd.,"End of loanJan 3, 2022",in,Winter,0,Championship,2021,2021/2022
+Queens Park Rangers,Charlie Kelman,20,Centre-Forward,Gillingham FC,"End of loanNov 3, 2021",in,Winter,0,Championship,2021,2021/2022
+Queens Park Rangers,Dillon Barnes,25,Goalkeeper,Yeovil Town,"End of loanJan 26, 2022",in,Winter,0,Championship,2021,2021/2022
+Queens Park Rangers,Dillon Barnes,25,Goalkeeper,Yeovil Town,loan transfer,out,Winter,NA,Championship,2021,2021/2022
+Reading FC,Andy Carroll,32,Centre-Forward,Without Club,-,in,Winter,0,Championship,2021,2021/2022
+Stoke City,Frank Fielding,33,Goalkeeper,Without Club,-,in,Winter,0,Championship,2021,2021/2022
+Stoke City,Tom Edwards,22,Right-Back,New York,"End of loanDec 31, 2021",in,Winter,0,Championship,2021,2021/2022
+Stoke City,Blondy Nna Noukeu,20,Goalkeeper,Crawley Town,"End of loanJan 1, 2022",in,Winter,0,Championship,2021,2021/2022
+Stoke City,Leo Östigard,22,Centre-Back,Brighton,"End of loanJan 4, 2022",out,Winter,0,Championship,2021,2021/2022
 Swansea City,Josh Gould,24,Goalkeeper,Ebbsfleet,"End of loanJan 1, 2022",in,Winter,0,Championship,2021,2021/2022
+Swansea City,Morgan Whittaker,20,Right Winger,Lincoln City,loan transfer,out,Winter,NA,Championship,2021,2021/2022
+Swansea City,Ethan Laird,20,Right-Back,Man Utd U23,"End of loanJan 6, 2022",out,Winter,0,Championship,2021,2021/2022
+West Bromwich Albion,Daryl Dike,21,Centre-Forward,Orlando,£7.77m,in,Winter,7.77,Championship,2021,2021/2022

@@ -5,7 +5,7 @@ extract_transfers <- function(page, window) {
   clubs <- page %>% 
     html_elements(".table-header") %>%
     html_text2() 
-  clubs <- clubs[4:length(clubs)-1]
+  # clubs <- clubs[4:length(clubs)-1]
   
   # get leagues transfers
   transfers <- html_table(
@@ -72,8 +72,10 @@ extract_transfers <- function(page, window) {
     # remove whitespace from chr vars
     mutate_if(is.character, str_trim) %>% 
     # remove clubs w/ no moves
-    dplyr::filter(!club_name %in% c("No departures", "No arrivals", "No new arrivals"),
-           !player_name %in% c("No departures", "No arrivals", "No new arrivals"))
+    dplyr::filter(
+      !club_name %in% c("No departures", "No arrivals", "No new arrivals"),
+      !player_name %in% c("No departures", "No arrivals", "No new arrivals")
+      )
   
   # remove duplicate player name thing
   if (nrow(transfers_tidy) == 0) return(NULL)
