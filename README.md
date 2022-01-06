@@ -38,13 +38,6 @@ Code
 
 All source code found in `/src`.
 
-Usage
------
-
-<img src="./figures/chelsea-transfers-web.png" width="471" />
-
-<img src="./figures/premier-league-transfer-spend-2018-web.png" width="471" />
-
 Sources
 -------
 
