@@ -91,10 +91,10 @@ extract_transfers <- function(page, window) {
 scrape_season_transfers <- function(league_id, league_name, season_id) {
   
   summer_transfers_url <- glue(
-    "https://www.transfermarkt.co.uk/{league_name}/transfers/wettbewerb/{league_id}/plus/?saison_id={season_id}&s_w=s"
+    "https://www.transfermarkt.com/{league_name}/transfers/wettbewerb/{league_id}/plus/?saison_id={season_id}&s_w=s"
     )
   winter_transfers_url <- glue(
-    "https://www.transfermarkt.co.uk/{league_name}/transfers/wettbewerb/{league_id}/plus/?saison_id={season_id}&s_w=w"
+    "https://www.transfermarkt.com/{league_name}/transfers/wettbewerb/{league_id}/plus/?saison_id={season_id}&s_w=w"
   )
   
   # read page
@@ -146,7 +146,7 @@ season_clubs <- function(league_name, league_id, season_id) {
   # scrape ------------------------------------------------------------------
   
   # set transfers url
-  league_url <- glue('https://www.transfermarkt.co.uk/{league_name}/startseite/wettbewerb/{league_id}/plus/?saison_id={season_id}')
+  league_url <- glue('https://www.transfermarkt.com/{league_name}/startseite/wettbewerb/{league_id}/plus/?saison_id={season_id}')
   
   # read page
   league_html <- read_html(league_url)
