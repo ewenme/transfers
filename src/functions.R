@@ -138,17 +138,3 @@ scrape_season_transfers <- function(league_id, league_name, season_id) {
   return(transfers_tidy)
   
 }
-
-# export data function
-export_data <- function(data, filename) {
-  
-  data <- split(data, data$year)
-  
-  invisible(
-    lapply(names(data), 
-           function(x) {
-             write_csv(data[[x]], path = glue("data/{x}/{filename}.csv"))
-           } 
-    )
-  )
-}
