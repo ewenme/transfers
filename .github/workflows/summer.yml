@@ -1,0 +1,43 @@
+# run every 1st September
+name: summer update
+
+on:
+  schedule:
+    - cron:  '0 12 1 9 *'
+
+jobs: 
+  autoscrape:
+    # The type of runner that the job will run on
+    runs-on: macos-latest
+
+    # Load repo and install R
+    steps:
+    - uses: actions/checkout@master
+    - uses: r-lib/actions/setup-r@master
+
+    # Set-up R
+    - name: Install packages
+      run: |
+        R -e 'install.packages("rvest")'
+        R -e 'install.packages("dplyr")'
+        R -e 'install.packages("readr")'
+        R -e 'install.packages("purrr")'
+        R -e 'install.packages("janitor")'
+        R -e 'install.packages("stringr")'
+        R -e 'install.packages("glue")'
+        
+# Run R script
+    - name: get summer transfers for latest season
+      run: Rscript R/scrape-summer.R
+      
+ # Add new files in data folder, commit along with other modified files, push
+    - name: Commit files
+      run: |
+        git config --local user.name actions-user
+        git config --local user.email "actions@github.com"
+        git add data/*
+        git commit -am "summer update $(date)"
+        git push origin main
+      env:
+        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+        username: github-actions
