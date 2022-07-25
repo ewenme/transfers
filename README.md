@@ -40,7 +40,7 @@ Common variables:
 
 R:
 
-- `R/scraper.R`: retrieves transfers and exports to CSVs in `data/`
+- `R/scrape-history.R`: retrieves transfer history by league and exports to CSVs in `data/`
 - `R/functions.R`: local R functions used elsewhere
 
 ## Source
