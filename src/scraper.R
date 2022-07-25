@@ -1,5 +1,14 @@
 # load packages / local functions
-source("src/packages.R")
+library(rvest)
+library(dplyr)
+library(purrr)
+library(janitor)
+library(tidyr)
+library(forcats)
+library(readr)
+library(stringr)
+library(glue)
+
 source("src/functions.R")
 
 # seasons to scrape
