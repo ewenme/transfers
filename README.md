@@ -40,6 +40,8 @@ Common variables:
 
 R:
 
+- `R/scrape-summer.R`: retrieves latest summer window's data and appends new observations to CSVs in `data/`
+- `R/scrape-winter.R`: retrieves latest winter window's data and appends new observations to CSVs in `data/`
 - `R/scrape-history.R`: retrieves transfer history by league and exports to CSVs in `data/`
 - `R/functions.R`: local R functions used elsewhere
 
