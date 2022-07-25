@@ -3,8 +3,6 @@ library(rvest)
 library(dplyr)
 library(purrr)
 library(janitor)
-library(tidyr)
-library(forcats)
 library(readr)
 library(stringr)
 library(glue)
@@ -20,7 +18,7 @@ league_meta <- read_csv("config/league-meta.csv")
 # get data
 transfers <- map2(
   league_meta$league_name, league_meta$league_id,
-  ~ map_dfr(seasons, scrape_season_transfers, 
+  ~ map_dfr(seasons, get_transfers_history, 
             league_name = .x, league_id = .y)
   )
 
