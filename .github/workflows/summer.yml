@@ -3,7 +3,7 @@ name: summer update
 
 on:
   schedule:
-    - cron:  '0 12 1 9 *'
+    - cron:  '0 12 2 9 *'
 
 jobs: 
   autoscrape:
