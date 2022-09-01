@@ -28,7 +28,7 @@ jobs:
         
 # Run R script
     - name: get winter transfers for latest season
-      run: Rscript R/scrape-winter.R
+      run: Rscript src/scrape-winter.R
       
  # Add new files in data folder, commit along with other modified files, push
     - name: Commit files
