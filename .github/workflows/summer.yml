@@ -3,7 +3,7 @@ name: summer update
 
 on:
   schedule:
-    - cron:  '0 12 2 9 *'
+    - cron:  '0 12 9 9 *'
 
 jobs: 
   autoscrape:
@@ -25,6 +25,7 @@ jobs:
         R -e 'install.packages("janitor")'
         R -e 'install.packages("stringr")'
         R -e 'install.packages("glue")'
+        R -e 'install.packages("fs")'
         
 # Run R script
     - name: get summer transfers for latest season
