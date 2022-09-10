@@ -1,9 +1,7 @@
 # run every 1st September
 name: summer update
 
-on:
-  schedule:
-    - cron:  '0 12 9 9 *'
+on: push
 
 jobs: 
   autoscrape:
@@ -38,7 +36,7 @@ jobs:
         git config --local user.email "actions@github.com"
         git add data/*
         git commit -am "summer update $(date)"
-        git push origin main
+        git push origin master
       env:
         REPO_KEY: ${{secrets.GITHUB_TOKEN}}
         username: github-actions
