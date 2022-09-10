@@ -1,6 +1,6 @@
 # transfers
 
-Data on European football clubs' player transfers, through 1992/93 to 2021/22 seasons (as found on [Transfermarkt](https://www.transfermarkt.co.uk/)).
+Data on European football clubs' player transfers, as found on [Transfermarkt](https://www.transfermarkt.com/), since the 1992/93 season.
 
 **IMPORTANT**: As of July 2022, transfer fees are now in EUR (taken from the .com Transfermarkt site), not GBP (taken from the .co.uk Transfermarkt site) due to a distortion of older fees being converted with a recent exchange rate.
 
@@ -47,4 +47,4 @@ R:
 
 ## Source
 
-All squad data was scraped from [Transfermarkt](https://www.transfermarkt.co.uk/), in accordance with their [terms of use](https://www.transfermarkt.co.uk/intern/anb).
+All squad data was scraped from [Transfermarkt](https://www.transfermarkt.com/), in accordance with their [terms of use](https://www.transfermarkt.co.uk/intern/anb).

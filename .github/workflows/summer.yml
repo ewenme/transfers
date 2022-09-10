@@ -1,7 +1,9 @@
-# run every 9th September
+# run every 1st September
 name: summer update
 
-on: push
+on:
+  schedule:
+    - cron:  '0 12 9 9 *'
 
 jobs: 
   autoscrape:
