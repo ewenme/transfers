@@ -1,5 +1,8 @@
 # transfers
 
+[![summer update](https://github.com/ewenme/transfers/actions/workflows/summer.yml/badge.svg)](https://github.com/ewenme/transfers/actions/workflows/summer.yml)
+[![winter update](https://github.com/ewenme/transfers/actions/workflows/winter.yml/badge.svg)](https://github.com/ewenme/transfers/actions/workflows/winter.yml)
+
 Data on European football clubs' player transfers, as found on [Transfermarkt](https://www.transfermarkt.com/), since the 1992/93 season.
 
 **IMPORTANT**: As of July 2022, transfer fees are now in EUR (taken from the .com Transfermarkt site), not GBP (taken from the .co.uk Transfermarkt site) due to a distortion of older fees being converted with a recent exchange rate.
