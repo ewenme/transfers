@@ -1,4 +1,4 @@
-# run every 1st September
+# run every 9th September
 name: summer update
 
 on: push
