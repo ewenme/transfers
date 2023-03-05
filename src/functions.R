@@ -21,12 +21,13 @@ extract_transfers <- function(league_id, league_name, season_id, window) {
   transfers_url <- construct_url(
     league_id, league_name, season_id, window = window
   )
+  print(transfers_url)
   page <- read_html(transfers_url)
   
   # isolate leagues club names
   clubs <- page %>% 
-    html_elements(".table-header") %>%
-    html_text2() 
+    html_elements(".content-box-headline--logo") %>%
+    html_text2()
 
   # get leagues transfers
   transfers <- page %>% 
