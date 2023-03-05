@@ -9,7 +9,7 @@ construct_url <- function(
   )
   
   transfers_url <- glue(
-    "https://www.transfermarkt.co.uk/{league_name}/transfers/wettbewerb/{league_id}/plus/?saison_id={season_id}&s_w={window_format}"
+    "https://www.transfermarkt.com/{league_name}/transfers/wettbewerb/{league_id}/plus/?saison_id={season_id}&s_w={window_format}"
   )
   
   return(transfers_url)
@@ -156,7 +156,8 @@ get_transfers_history <- function(league_id, league_name, season_id, country) {
   
   transfers_tidy <- tidy_transfers(transfers, league_name, season_id, country)
   
-  Sys.sleep(1.5)
+  print("Sleeping...")
+  Sys.sleep(5)
   return(transfers_tidy)
   
 }
