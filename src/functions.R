@@ -9,7 +9,7 @@ construct_url <- function(
   )
   
   transfers_url <- glue(
-    "https://www.transfermarkt.com/{league_name}/transfers/wettbewerb/{league_id}/plus/?saison_id={season_id}&s_w={window_format}"
+    "https://www.transfermarkt.co.uk/{league_name}/transfers/wettbewerb/{league_id}/plus/?saison_id={season_id}&s_w={window_format}"
   )
   
   return(transfers_url)
@@ -21,8 +21,8 @@ extract_transfers <- function(league_id, league_name, season_id, window) {
   transfers_url <- construct_url(
     league_id, league_name, season_id, window = window
   )
-  print(transfers_url)
-  page <- read_html(transfers_url)
+  cat("Scraping", transfers_url, "\n")
+  page <-  GET(transfers_url, config = httr::config(connecttimeout = 120)) %>% read_html
   
   # isolate leagues club names
   clubs <- page %>% 

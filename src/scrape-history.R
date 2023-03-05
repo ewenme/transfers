@@ -7,13 +7,16 @@ library(readr)
 library(stringr)
 library(glue)
 
+# enable increased scrape timeout
+library(httr)
+
 source("src/functions.R")
 
 # seasons to scrape
-seasons <- 1992:2021
+seasons <- 1992:2022
 
 # get league metadata
-league_meta <- read_csv("config/league-meta.csv")
+league_meta <- read_csv("config/league-meta-expanded.csv")
 
 # get data
 transfers <- map2(
