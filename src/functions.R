@@ -4,8 +4,8 @@ construct_url <- function(
     ) {
   
   window_format <- case_when(
-    window == "summer" ~ "s",
-    window == "winter" ~ "w"
+    window == "Summer" ~ "s",
+    window == "Winter" ~ "w"
   )
   
   transfers_url <- glue(
@@ -143,11 +143,11 @@ get_transfers_history <- function(league_id, league_name, season_id, country) {
   
   # get transfers data
   summer_transfers <- extract_transfers(
-    league_id, league_name, season_id, window = "summer"
+    league_id, league_name, season_id, window = "Summer"
     )
   
   winter_transfers <- extract_transfers(
-    league_id, league_name, season_id, window = "winter"
+    league_id, league_name, season_id, window = "Winter"
     )
   
   transfers <- bind_rows(summer_transfers, winter_transfers)
@@ -166,7 +166,7 @@ get_transfers_summer <- function(league_id, league_name, season_id, country) {
   
   # get transfers data
   summer_transfers <- extract_transfers(
-    league_id, league_name, season_id, window = "summer"
+    league_id, league_name, season_id, window = "Summer"
   )
 
   if (nrow(summer_transfers) == 0) return(data.frame())
@@ -180,7 +180,7 @@ get_transfers_winter <- function(league_id, league_name, season_id, country) {
   
   # get transfers data
   winter_transfers <- extract_transfers(
-    league_id, league_name, season_id, window = "winter"
+    league_id, league_name, season_id, window = "Winter"
   )
   
   if (nrow(winter_transfers) == 0 || is.null(winter_transfers)) return(data.frame())
