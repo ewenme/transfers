@@ -40,30 +40,24 @@ Common variables:
 | `season` | season of transfer (interpolated from `year`) | text |
 | `country` | country of league | text |
 
-### Adding new leagues
+### Config
 
-New leagues can be exported by adding rows to the `config/league-meta-expanded.csv` file. Required columns are `league_name`, `league_id` and `country`. To get `league_name` and `league_id`, extract these from the transfermarkt URL for any leagues' transfer history: 
+- `config/league-meta.csv` - leagues to scrape
+
+New leagues can be exported by adding rows to the `config/league-meta.csv` file. Required columns are `league_name`, `league_id` and `country`. To get `league_name` and `league_id`, extract these from the transfermarkt URL for any leagues' transfer history: 
 
 > www.transfermarkt.com/{LEAGUE_NAME}/transfers/wettbewerb/{LEAGUE_ID}/
 
-For instance, the Belgian Juliper Pro League is provided as an additional example in `config/league-meta-expanded.csv`. Its url is as follows:
-
-> https://www.transfermarkt.com/jupiler-pro-league/startseite/wettbewerb/BE1
-
-**NOTE** - When scraping new leagues, it is recommended to remove all the leagues that data has already been downloaded from (i.e., only include new leagues). This cuts on processing time and stress on servers.  
+When scraping new leagues, it is recommended to remove all the leagues that data has already been downloaded from (i.e. only include new leagues). This cuts on processing time and stress on servers.  
 
 ### Code
 
-Config:
-- `config/league-meta.csv` - Legacy list of leagues to scrape.
-- `config/league-meta-expanded.csv` - Leagues to scrape with addition (Juliper Pro League). More additions can be included.
-
 R:
 
-- `R/scrape-summer.R`: retrieves latest summer window's data and appends new observations to CSVs in `data/`
-- `R/scrape-winter.R`: retrieves latest winter window's data and appends new observations to CSVs in `data/`
-- `R/scrape-history.R`: retrieves transfer history by league and exports to CSVs in `data/`
-- `R/functions.R`: local R functions used elsewhere
+- `src/scrape-summer.R`: retrieves latest summer window's data and appends new observations to CSVs in `data/`
+- `scr/scrape-winter.R`: retrieves latest winter window's data and appends new observations to CSVs in `data/`
+- `src/scrape-history.R`: retrieves transfer history by league and exports to CSVs in `data/`
+- `src/functions.R`: local R functions used elsewhere
 
 ## Source
 
