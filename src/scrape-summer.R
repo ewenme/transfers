@@ -14,7 +14,7 @@ source("src/functions.R")
 season <- as.numeric(format(Sys.Date(), "%Y"))
 
 # get league metadata
-league_meta <- read_csv("config/league-meta-expanded.csv")
+league_meta <- read_csv("config/league-meta.csv")
 
 # get data
 transfers <- pmap(
