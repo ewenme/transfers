@@ -6,20 +6,21 @@ library(janitor)
 library(readr)
 library(stringr)
 library(glue)
+library(httr)
 
 source("src/functions.R")
 
 # seasons to scrape
-seasons <- 1992:2021
+seasons <- 1992:2022
 
 # get league metadata
-league_meta <- read_csv("config/league-meta.csv")
+league_meta <- read_csv("config/league-meta-expanded.csv")
 
 # get data
-transfers <- map2(
-  league_meta$league_name, league_meta$league_id,
+transfers <- pmap(
+  list(league_meta$league_name, league_meta$league_id, league_meta$country),
   ~ map_dfr(seasons, get_transfers_history, 
-            league_name = .x, league_id = .y)
+            league_name = ..1, league_id = ..2, country=..3)
   )
 
 # export data

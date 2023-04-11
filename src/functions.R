@@ -4,8 +4,8 @@ construct_url <- function(
     ) {
   
   window_format <- case_when(
-    window == "summer" ~ "s",
-    window == "winter" ~ "w"
+    window == "Summer" ~ "s",
+    window == "Winter" ~ "w"
   )
   
   transfers_url <- glue(
@@ -21,12 +21,13 @@ extract_transfers <- function(league_id, league_name, season_id, window) {
   transfers_url <- construct_url(
     league_id, league_name, season_id, window = window
   )
-  page <- read_html(transfers_url)
+  cat("Scraping", transfers_url, "\n")
+  page <-  GET(transfers_url, config = httr::config(connecttimeout = 120)) %>% read_html
   
   # isolate leagues club names
   clubs <- page %>% 
-    html_elements(".table-header") %>%
-    html_text2() 
+    html_elements(".content-box-headline--logo") %>%
+    html_text2()
 
   # get leagues transfers
   transfers <- page %>% 
@@ -35,7 +36,7 @@ extract_transfers <- function(league_id, league_name, season_id, window) {
       header = TRUE, fill = TRUE, trim = TRUE
     )
   
-  if (length(transfers) == 0) return(NULL)
+  if (length(transfers) == 0) return(data.frame())
   
   # get player names (which get botched in the table above)
   player_names <- page %>% 
@@ -101,7 +102,7 @@ extract_transfers <- function(league_id, league_name, season_id, window) {
       )
   
   # remove duplicate player name thing
-  if (nrow(transfers_tidy) == 0) return(NULL)
+  if (nrow(transfers_tidy) == 0) return(data.frame())
     
   transfers_tidy$player_name <- player_names
   transfers_tidy$transfer_period <- window
@@ -111,7 +112,7 @@ extract_transfers <- function(league_id, league_name, season_id, window) {
 }
 
 # tidy up transfer data
-tidy_transfers <- function(x, league_name, season_id) {
+tidy_transfers <- function(x, league_name, season_id, country) {
   
   transfers_tidy <- x %>% 
     mutate(
@@ -130,59 +131,61 @@ tidy_transfers <- function(x, league_name, season_id) {
         str_to_title(league_name), pattern = "-", replacement = " "
       ),
       year = season_id,
-      season = paste0(year, "/", year + 1)
+      season = paste0(year, "/", year + 1),
+      country = country
     )
   
   return(transfers_tidy)
 }
 
 # scrape a league seasons transfers
-get_transfers_history <- function(league_id, league_name, season_id) {
+get_transfers_history <- function(league_id, league_name, season_id, country) {
   
   # get transfers data
   summer_transfers <- extract_transfers(
-    league_id, league_name, season_id, window = "summer"
+    league_id, league_name, season_id, window = "Summer"
     )
   
   winter_transfers <- extract_transfers(
-    league_id, league_name, season_id, window = "winter"
+    league_id, league_name, season_id, window = "Winter"
     )
   
   transfers <- bind_rows(summer_transfers, winter_transfers)
   
-  if (nrow(transfers) == 0) return(NULL)
+  if (nrow(transfers) == 0) return(data.frame())
   
-  transfers_tidy <- tidy_transfers(transfers, league_name, season_id)
+  transfers_tidy <- tidy_transfers(transfers, league_name, season_id, country)
   
-  Sys.sleep(1.5)
+  print("Sleeping...")
+  Sys.sleep(5)
   return(transfers_tidy)
   
 }
 
-get_transfers_summer <- function(league_id, league_name, season_id) {
+get_transfers_summer <- function(league_id, league_name, season_id, country) {
   
   # get transfers data
   summer_transfers <- extract_transfers(
-    league_id, league_name, season_id, window = "summer"
+    league_id, league_name, season_id, window = "Summer"
   )
 
-  if (nrow(summer_transfers) == 0) return(NULL)
+  if (nrow(summer_transfers) == 0) return(data.frame())
   
-  transfers_tidy <- tidy_transfers(summer_transfers, league_name, season_id)
+  transfers_tidy <- tidy_transfers(summer_transfers, league_name, season_id, country)
   
   return(transfers_tidy)
 }
 
-get_transfers_winter <- function(league_id, league_name, season_id) {
+get_transfers_winter <- function(league_id, league_name, season_id, country) {
   
   # get transfers data
   winter_transfers <- extract_transfers(
-    league_id, league_name, season_id, window = "winter"
+    league_id, league_name, season_id, window = "Winter"
   )
   
-  if (nrow(winter_transfers) == 0) return(NULL)
+  if (nrow(winter_transfers) == 0 || is.null(winter_transfers)) return(data.frame())
   
-  transfers_tidy <- tidy_transfers(winter_transfers, league_name, season_id)
+  transfers_tidy <- tidy_transfers(winter_transfers, league_name, season_id, country)
   
   return(transfers_tidy)
 }

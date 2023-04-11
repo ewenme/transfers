@@ -6,6 +6,7 @@ library(janitor)
 library(readr)
 library(stringr)
 library(glue)
+library(httr)
 
 source("src/functions.R")
 
@@ -16,10 +17,10 @@ season <- as.numeric(format(Sys.Date(), "%Y"))
 league_meta <- read_csv("config/league-meta.csv")
 
 # get data
-transfers <- map2(
-  league_meta$league_id, league_meta$league_name,
+transfers <- pmap(
+  list(league_meta$league_id, league_meta$league_name, league_meta$country),
   ~ get_transfers_summer(
-    league_id = .x, league_name = .y, season_id = season
+    league_id = ..1, league_name = ..2, season_id = season, country=..3
   )
 )
 
